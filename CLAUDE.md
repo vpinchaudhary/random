@@ -78,33 +78,115 @@ BANNED patterns (instant revision trigger):
 - **plot-thread-tracker**: Tracks setup/payoff elements (Chekhov's gun enforcement)
 - **beta-reader**: Simulates reader experience, flags confusion points, scores chapters
 
-### Writing Workflow
-1. User provides a concept
-2. `research-agent` researches relevant source material and verifies facts
-3. `story-planner` creates a 40+ chapter outline with tension curve
-4. `world-builder` establishes the setting and rules
-5. `character-tracker` creates character profiles with chaos markers
-6. `plot-thread-tracker` registers all planted story elements from outline
-7. For each chapter:
-   a. `chapter-writer` drafts the chapter (~5000 words)
-   b. `chaos-engine` injects human imperfections and breaks AI patterns
-   c. `consistency-checker` validates against existing material + entity state
-   d. `editor-agent` reviews for quality (target: 7/10 minimum, retry up to 2x if below)
-   e. `beta-reader` simulates reader experience and scores
-   f. `character-tracker` updates character states and knowledge graph
-   g. `plot-thread-tracker` marks resolved setups, flags overdue payoffs
-   h. Timeline and entity state updated
-8. **Chapters 1-3 MUST be written sequentially** to lock voice and tone
-9. Chapters 4+ may be batched if outline is stable
-10. Final pass: `consistency-checker` runs full-manuscript audit
+### Full 17-Phase Pipeline Flow
 
-## Commands
-- `/write-story <concept>` - Start a new story from concept
-- `/write-chapter <story> <chapter-number>` - Write a specific chapter
-- `/check-consistency <story>` - Run consistency checks on a story
-- `/story-status <story>` - Show progress of a story
-- `/chaos-pass <story> <chapter-number>` - Run chaos engine on a chapter
-- `/beta-read <story> <chapter-number>` - Simulate beta reader feedback
+```
+CONCEPT
+  │
+  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 1: RESEARCH                           │
+│  /fanfic-researcher → research.md           │
+│  /reader-persona → reader-personas.md       │
+└─────────────────┬───────────────────────────┘
+                  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 2: FOUNDATION                         │
+│  /narrative-foundation → outline.md,        │
+│    characters.md, tension-curve.md          │
+│  /voice-fingerprint → voice-dna.md          │
+│                                             │
+│  >>>>>> CHECKPOINT 1: User approves <<<<<<  │
+│                                             │
+│  /entity-tracker BUILD → entity-state.yaml  │
+│  /continuity-guardian outline               │
+└─────────────────┬───────────────────────────┘
+                  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 3: WRITING (per chapter, 40+)         │
+│  Chapters 1-3: SEQUENTIAL (lock voice)      │
+│  Chapters 4+: can proceed faster            │
+│                                             │
+│  /prose-craft → chapter-XX.md               │
+│    ↓                                        │
+│  /dialogue-polish → refined dialogue        │
+│    ↓                                        │
+│  /hook-craft → scored openings/endings      │
+│    ↓                                        │
+│  /chaos-pass → human imperfection injected  │
+│    ↓                                        │
+│  /entity-tracker UPDATE                     │
+│    ↓                                        │
+│  /mechanical-preprocess → cleaned prose     │
+└─────────────────┬───────────────────────────┘
+                  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 4: EVALUATION (per chapter)           │
+│  /beta-read → 7-dimension score             │
+│    ↓                                        │
+│  /quality-gate → evaluate→fix→re-evaluate   │
+│    (loops max 3x until score ≥ 7/10)        │
+│                                             │
+│  >> CHECKPOINT 2: Every 10 chapters <<      │
+└─────────────────┬───────────────────────────┘
+                  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 5: REVISION (full manuscript)         │
+│  /fanfic-editor → surgical fixes            │
+│  /entity-tracker UPDATE → final state       │
+│  /continuity-guardian manuscript             │
+│  /check-consistency → full audit            │
+└─────────────────┬───────────────────────────┘
+                  ▼
+┌─────────────────────────────────────────────┐
+│ PHASE 6: DELIVERY                           │
+│  /story-status → final report               │
+│                                             │
+│  >>>>>> CHECKPOINT 3: Story complete <<<<<<  │
+└─────────────────────────────────────────────┘
+```
+
+### Key Rules
+- **Chapters 1-3 MUST be sequential** to lock voice and tone
+- **Minimum 7/10** quality score per chapter (quality gate enforces this)
+- **Entity state updated after EVERY chapter** — never batch
+- **Plot threads tracked continuously** — Chekhov's guns MUST fire
+- **3 human checkpoints**: foundation approval, mid-progress review, final delivery
+
+## Commands (21 Skills)
+
+### Orchestration
+- `/fanfic-auto <concept>` - **One command, full story.** Autonomous 17-phase pipeline with 3 checkpoints
+- `/write-story <concept>` - Manual mode: phase-by-phase with user control
+- `/manuscript-manager <story> <action>` - Project state engine (init/status/update)
+- `/story-status <story>` - Quick progress dashboard
+
+### Research & Foundation (Phases 1-2)
+- `/fanfic-researcher <concept>` - Source material research, canon facts, anti-hallucination
+- `/reader-persona <story>` - Create 3-5 target reader profiles with psychology
+- `/narrative-foundation <story>` - Characters, theme-as-question, outline, tension curve, chaos markers
+- `/voice-fingerprint <story>` - Per-character voice DNA and dialogue contrast matrix
+- `/entity-tracker <story> <BUILD|UPDATE>` - Persistent entity state in YAML
+
+### Writing (Phase 3)
+- `/prose-craft <story> <chapter>` - Write chapter with structural type awareness (8 types)
+- `/write-chapter <story> <chapter>` - Simple chapter writing (uses prose-craft internally)
+- `/dialogue-polish <story> <chapter>` - Cover-the-name test, subtext injection, naturalism
+- `/hook-craft <story> <chapter>` - Score/improve openings and endings, binge test
+- `/chaos-pass <story> <chapter>` - Break AI patterns, inject human imperfection
+- `/mechanical-preprocess <story> <chapter>` - Automated cleanup (dashes, adverbs, repetition, banned words)
+
+### Evaluation (Phase 4)
+- `/beta-read <story> <chapter>` - Multi-profile reader simulation, 7-dimension scoring
+- `/quality-gate <story> <chapter>` - Auto-loop: evaluate → fix → re-evaluate (max 3x, min 7/10)
+
+### Revision (Phase 5)
+- `/fanfic-editor <story> <chapter>` - Surgical revision with 13 issue handlers
+- `/check-consistency <story>` - Full manuscript consistency audit
+- `/continuity-guardian <story> <scope>` - Fast entity-state-based continuity check
+
+### Series Management
+- `/series-architect <series> <action>` - Multi-fic universe bible, macro arcs, thread inheritance
 
 ## Style Notes
 - Use markdown for all story files
