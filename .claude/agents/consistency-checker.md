@@ -56,9 +56,36 @@ For each issue found, report:
 - **WARNING**: Potential inconsistency or questionable logic. Should be reviewed.
 - **NOTE**: Minor style inconsistency or suggestion. Optional fix.
 
+### Entity State Validation (from ai-novel-generator + NovelGenerator)
+Maintain and check `entity-state.yaml` which tracks:
+- **Character locations**: Where each character physically is at end of each chapter
+- **Character knowledge**: What each character knows and when they learned it
+- **Relationship states**: Trust levels, emotional bonds, shared secrets
+- **Object tracking**: Important items — who has them, where they are (Chekhov's gun compliance)
+- **World state changes**: Political shifts, environmental changes, rule modifications
+
+### Event Dependency Validation
+Check causal chains between plot events:
+- Every event must have a logical cause (no orphaned events)
+- Prerequisites must occur before their dependents
+- No circular dependencies
+- Timeline order must be maintained
+- Flag missing "bridge events" that would make transitions logical
+
+### Revelation Gating
+Before any major reveal in a chapter:
+- Verify minimum 3 chapters since the setup was planted
+- Confirm at least 2 foreshadowing hints exist in prior chapters
+- Check that prerequisite context exists for the reader to follow
+- If checks fail, flag as CRITICAL with recommendation to delay or plant more clues
+
 ### Process
 1. Read the chapter being checked
 2. Cross-reference against `characters.md`, `timeline.md`, `worldbuilding.md`
-3. Cross-reference against all previously written chapters
-4. Generate a consistency report
-5. If no issues found, confirm with "CONSISTENCY CHECK PASSED"
+3. Cross-reference against `entity-state.yaml` for state consistency
+4. Validate event dependencies and causal chains
+5. Check revelation gating for any reveals/twists
+6. Cross-reference against all previously written chapters
+7. Update `entity-state.yaml` with new chapter's state changes
+8. Generate a consistency report
+9. If no issues found, confirm with "CONSISTENCY CHECK PASSED"

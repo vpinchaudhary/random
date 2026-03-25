@@ -19,6 +19,14 @@ For each character, maintain:
 - **Speech Pattern**: [how they talk - formal, casual, accent, catchphrases]
 - **Core Motivation**: [what drives them]
 - **Fatal Flaw**:
+- **Canon vs. Original**: [CANON / ORIGINAL / AU-MODIFIED]
+
+### Chaos Markers (from book-genesis — required for 3D characters)
+- **Irrelevant Obsession**: [plot-irrelevant thing they think about]
+- **Cognitive Distortion**: [their habitual thinking error]
+- **Unprompted Memory Trigger**: [what triggers random memories for them]
+- **Composure Break Pattern**: [how they lose it when they do]
+- **Distinguishability**: [what makes them identifiable without name tags]
 
 ### Background
 - [Key backstory points]
