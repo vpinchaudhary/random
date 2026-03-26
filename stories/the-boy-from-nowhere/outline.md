@@ -424,3 +424,66 @@ Vipin is in the system, but the system doesn't fully accept him. The paperwork i
 A breather in tension intensity after the build, but the political undercurrent keeps it from being purely celebratory. The paperwork threat is new, institutional stakes.
 
 ---
+
+### Chapter 7: Built Different
+
+**Timeline**: 2005-2006 (ages 15-16)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+When your body outgrows your world faster than your life can keep up — what do you do with the gap between what you are and where you are?
+
+#### Scene Breakdown
+
+**Scene 1: The Numbers Don't Lie (2005)** (~1,200 words)
+- Mumbai U-15 tournament. Vipin is the leading run-scorer by a margin that's almost embarrassing. 487 runs in six matches, average 81, strike rate 94. The next highest scorer on his team has 189.
+- But the stats tell only part of it. It's the way he scores. Bowlers who've been effective all tournament look ordinary against him. His eye picks up the ball so early that he's making decisions when other batsmen are still reading the length. Coaches from opposing districts start setting specific fields for him — six men on the boundary, bowl wide, don't let him free his arms. He scores just as fast.
+- His bowling has become genuinely threatening. 130 kph consistently now, at 15. The U-15 batsmen don't see it — they flinch, they back away, they nick it. He takes 22 wickets across the tournament. He's the leading wicket-taker AND run-scorer. This isn't supposed to happen.
+- Post-tournament: MCA selectors hold a meeting specifically about him. "Fast-track him" is the consensus. But the dissenter — the rival academy coach from Chapter 6 — pushes back. "His documentation is still irregular. We can't send a boy with no verifiable school record to state-level representation. It reflects badly on Mumbai."
+- Rao, who hears about this through his network, goes cold. The political threat is real.
+- **Grounding physical detail**: The MCA tournament scorebook — a physical ledger, handwritten. Vipin's scores filling line after line. The scorer, an old man who's been recording Mumbai cricket for thirty years, tells Rao quietly: "I've been doing this since Tendulkar's U-15 days. Your boy's numbers are better."
+
+**Scene 2: The Body (2006, age 16)** (~1,200 words)
+- Vipin at 16 looks like a grown man. The Jaat genetics plus two years of regular meals, Rao's training regimen, and his freakish recovery have produced something. Shoulders like a fast bowler, hands like a batsman, legs like a fielder. Broad chest. Six foot and still growing. The cricketer's tan — face, arms, and neck dark from outdoor sessions, the rest pale.
+- He walks into the U-17 dressing room and the other boys go quiet. Not intimidation — scale. He's physically a different category.
+- His appetite is massive and entirely vegetarian. Other players' parents bring chicken biryani to tournaments; Vipin has paneer, dal, curd, soy chunks. The nutritionist attached to the Mumbai age-group setup is baffled by his numbers — his protein intake on paper shouldn't support his muscle mass. But his body processes food differently, the same way it processes fatigue differently. The nutritionist writes a note in his file. Nobody follows up.
+- The vegetarianism becomes a team thing. Some boys mock it gently; Vipin fires back harder. "You eat chicken and can't run two. I eat paneer and I can run twenty. Maybe the chicken is the problem." The joke lands. The mocking stops. Respect forms in its place.
+- Ravi Deshmukh — now firmly his closest friend in the setup — is the one who gives Vipin the nickname "Chaudhary" (said with weight, like a title, not just a surname). "Bhai nahi, Chaudhary hai yeh." It sticks in the team. Nobody calls him Vipin anymore.
+- **Strange personal detail (anti-AI)**: Vipin develops a habit of reading the nutritional information on food packaging. Every packet. Not because he's health-conscious — because the numbers are there and he reads numbers the way other people breathe. He can tell you the exact calorie count of a Parle-G biscuit packet. This impresses nobody but he volunteers it anyway.
+
+**Scene 3: The Pushback (2006)** (~1,000 words)
+- U-17 selection. Vipin is automatic — his U-15 record demands it. But the political machinery is grinding. The rival coach has allies. A complaint is filed with MCA: "Irregularities in Player Registration No. [Vipin's memorized number]. No verifiable school cricket record. No birth certificate on file. Guardian status unverified."
+- A formal inquiry. Not a tribunal — a committee review. Three MCA officials in a room. Rao and Vipin on one side. The complaint dossier on the other.
+- Vipin sits in that room and the humor is gone. This isn't a bowler he can hit or a bully he can stare down. This is paperwork. This is the system that he's always existed outside of, reaching in to claim him or reject him.
+- Rao fights. Produces the statutory declaration, the school enrollment (the kid attends sometimes, enough to maintain the fiction), the club registration. Argues precedent — other players have been registered with incomplete documentation. Points to Vipin's performance record.
+- The committee is sympathetic but cautious. They rule: Vipin can play, but a formal guardian must be established, and a birth certificate — even a late-registered one — must be submitted within six months.
+- This sets off a different kind of quest: Rao trying to get Vipin a birth certificate that should have existed from day one. It means official channels, government offices, applications that ask questions Vipin can't answer (father's name, mother's name, place of birth — "unknown, unknown, Mumbai probably").
+- **Imperfect moment (anti-AI)**: During the inquiry, one official asks Vipin directly: "Where are your parents, son?" And Vipin — the kid who always has the joke, always has the deflection — sits there in silence for four full seconds. The room is unbearable. Then he says, "If you find them, tell them I'm playing cricket," and it's funny and devastating in equal measure. The official looks at his papers.
+
+**Scene 4: The Answer on the Pitch (2006)** (~1,500 words)
+- The U-17 tournament. With the inquiry resolved (for now), Vipin plays — and plays with something extra. Anger. Not at the bowlers, at the men in that room. At the question that always comes: where are you from? Who are your people?
+- He channels it into cricket violence. First match: 84 off 52 balls, including five sixes. Three of the sixes are off the same bowler, an academy kid whose father is one of the complaining coaches. It's not targeted — except it absolutely is.
+- His bowling is faster. 133 kph. He's sixteen. The opposition's opener ducks into a bouncer and retires hurt. Vipin doesn't apologize — doesn't celebrate either. Just walks back to his mark. Rao watches from the boundary and sees something that both thrills and worries him: the anger is productive, but it's not sustainable.
+- Second match: Vipin makes 12 and gets out playing a terrible shot — slashing at a wide half-volley. He throws his bat in the dressing room. Not at anyone, but violently enough that the room goes silent. Ravi is the one who walks over: "Chaudhary, bat se problem kya hai? Usne kya kiya tere ko?" (What's the bat's problem? What did it do to you?) Vipin stares at him. Then laughs. The tension breaks.
+- By the end of the tournament: 398 runs, 18 wickets. Tournament MVP. The selectors who questioned his documentation now want him for the state U-17 team. The hypocrisy isn't lost on Vipin. He files it away with everything else.
+- **Unresolved micro-element (anti-AI)**: After the final match, an unfamiliar man in the stands — not a selector, not a coach, not a parent. Well-dressed. Watching Vipin specifically. He leaves before the presentations. Vipin spots him, notes him, and forgets about it. (This could be connected to the pendant mystery, or it could be nothing. The ambiguity is deliberate.)
+
+#### Chapter 7 Emotional Arc
+Dominance → Vulnerability (the inquiry) → Anger → Channeled aggression → Complicated triumph
+
+#### Hook/Cliffhanger
+The birth certificate clock is ticking. Vipin needs to become real on paper. And somewhere in the bureaucratic machinery of Mumbai, a late-registration application asks questions about a boy left on temple steps in 1990 — questions that might stir answers nobody expected.
+
+#### Thread Developments
+- **Documentation as Time Bomb**: The six-month deadline creates urgency. The birth certificate quest could surface information about his origins.
+- **The Pendant Mystery**: The unfamiliar man in the stands — ambiguous, could be nothing, could be everything.
+- **Anger as Fuel**: Vipin discovers he plays best angry. This is dangerous and effective. Rao sees both sides.
+- **Ravi Deshmukh**: Cemented as the friend. The one who can break Vipin's silences.
+- **Chaudhary (the name as title)**: His surname becomes his identifier in cricket circles. Identity forming through sport.
+- **Vegetarian Identity**: Settled as character texture, not plot point. It's just who he is.
+
+#### Tension Level: 0.55
+Elevated. The inquiry is real institutional danger. The anger on the pitch raises behavioral stakes. The unfamiliar man adds mystery tension.
+
+---
