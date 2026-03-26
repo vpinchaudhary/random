@@ -1868,3 +1868,65 @@ Vipin is under anesthesia and the pendant is around Shraddha's neck. The body th
 Act 2B climax. The injury is the structural break. The pendant transfer is the emotional peak. High tension resolving into surgical vulnerability.
 
 ---
+
+### Chapter 29: The Hollow Season
+
+**Timeline**: 2015 (age 25)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What fills the space when the thing that defined you is taken away — and is the emptiness the truth you've been avoiding?
+
+#### Scene Breakdown
+
+**Scene 1: Post-Surgery (early 2015)** (~1,200 words)
+- Vipin wakes from surgery. The shoulder is rebuilt — titanium anchors, reattached tendon, a sling, painkillers. Shraddha is there. The pendant is still around her neck. He sees it and the first thing he says, groggy: "Suits you." She laughs and cries simultaneously.
+- Recovery begins. The physio's program: four weeks of immobilization, then gentle range-of-motion exercises, then strength work, then — months away — bowling again. The timeline feels geological. Each day is a week.
+- Vipin's body, which has always healed fast, does heal fast — the physios are again surprised by his recovery speed. But "fast" for a rotator cuff repair is still slow for someone used to operating at the speed of instinct. He can't bat. Can't bowl. Can't throw. He can walk, do lower-body gym work, and stare at walls.
+- The walls stare back.
+- Without cricket, Vipin's days are shapeless. He's never not had cricket — since age 10, the game structured everything. Wake up, train, play, sleep, repeat. Now: wake up, physio, ice, nothing, nothing, nothing, sleep.
+- The humor thins. Not gone — Vipin without humor is Vipin dead — but the edges are harder, the laughs shorter. He makes jokes about the sling ("fashion statement"), about the physio ("he enjoys hurting me, I respect that"), about the painkillers ("best sleep I've had since the storage room"). But the jokes are armored differently now — not hiding vulnerability but hiding emptiness.
+
+**Scene 2: Watching the World Move (March–May 2015)** (~1,200 words)
+- IPL Season 8 happens without him. MI retains his contract but he's not in the squad. He watches from his flat. His replacement bats well, bowls adequately. The team functions.
+- This is the cruelest part: the game continues. Nobody stops because Vipin Chaudhary is injured. The machine produces new talent — younger, hungrier, uninjured. A 19-year-old fast bowler debuts for a rival franchise and bowls 145 kph. The commentators call him "the next big thing." Vipin watches and feels something corrode.
+- He goes to Shivaji Park. Can't play — just watches. Rao's sessions with new kids, the same drills, the same patience. The park doesn't know he's injured. The cricket doesn't care. It's the same lesson the game has always taught: you're replaceable. Everyone is replaceable.
+- Ravi visits. Brings food and bad jokes. Vipin is grateful but can't show it fully — the gratitude gets tangled with the envy (Ravi is playing, Vipin isn't) and the result is a friendship strained by circumstance.
+- **Imperfect moment (anti-AI)**: Vipin skips physio appointments. Three in a row. Not consciously rebellious — he just doesn't go. The physio calls MI management. MI calls Rao. Rao calls Vipin and says nothing for twenty seconds. Then: "You're not punishing your shoulder. You're punishing yourself." Vipin goes to the next appointment.
+- **Grounding physical detail**: The physio room. A clinical space — white walls, resistance bands in different colors hung on hooks, a bench that smells of sanitizer. The sound of his own breathing during exercises is louder than it's ever been. In cricket, there's always noise. In physio, it's just you and the pain.
+
+**Scene 3: The Identity Crisis (mid-2015)** (~1,000 words)
+- Without cricket, Vipin confronts the question he's been running from since Chapter 1: who is he without the game?
+- His identity, stacked: orphan (rejected), street kid (survived), cricketer (proved). Remove the cricketer and what's left? The orphan and the street kid. The two identities he's spent his entire career trying to transcend.
+- He starts withdrawing. From Shraddha — not dramatically, not a fight. Just... less. Fewer texts. Shorter calls. Cancelled plans. She's filming, busy, gracious about it. But she feels the retreat. She recognizes it — it's the same pulling-back from Chapter 24, but deeper. This isn't about fame dynamics. This is existential.
+- He stops going to the Kapoor house for dinners. Stops seeing Ravi socially. Stops visiting Rao at Shivaji Park. The social world contracts to the flat, the physio room, and the gym.
+- The counting habit intensifies. He counts everything — tiles, cars from the window, heartbeats during physio exercises. The counting, which started as a childhood habit, has become a coping mechanism for a man who has nothing else to organize.
+- **Strange personal detail (anti-AI)**: Vipin starts cooking. For the first time in his life. Vegetarian food — dal, rice, sabzi. He follows YouTube tutorials with the same focus he brought to cricket. The results are mediocre — the dal is too thin, the rice is sticky. But the process is the point: chopping, measuring, counting ingredients. Structure where there is none.
+
+**Scene 4: The Drawer (late 2015)** (~1,500 words)
+- Shraddha returns the pendant. Not because she's done with it — because she senses he needs it back. "I've been keeping it safe. But it's yours." He takes it. The chain goes around his neck. The gold against his chest. Something clicks back into place — not fully, but the absence of it was another absence on top of all the others.
+- He opens the drawer. The museum. Every artifact from every chapter: newspaper clipping, "I want them to say my name," match balls, boarding pass, ATM receipt, unsigned letter, anonymous photograph, MI practice ball, India cap photo, Bhai's tennis ball, Anjali's card.
+- He spreads them on the bed. Looks at the collection. The entire story of his life in objects. And for the first time, he sees the pattern: every object is proof of something. Proof he existed. Proof he mattered. Proof someone noticed.
+- The realization hits quietly: he's been collecting evidence of his own life because some part of him still doesn't believe it. The boy who was left on temple stairs is still checking that he's real.
+- He cries. Not the performative tears of a movie — the ugly, ragged crying of a man who hasn't cried since the pandit died. Alone, in his flat, the pendant back on his chest, the objects of his life spread around him like a map of everything he's survived.
+- Shraddha isn't there. Rao isn't there. Nobody sees this. Some things happen alone because they have to.
+- **Unresolved micro-element (anti-AI)**: After the crying stops, Vipin picks up the anonymous photograph. The young couple. He turns it over. Nothing. But he notices something he's never noticed before: the edge of the photo has been trimmed. With scissors. Someone cut this from a larger photograph. There was more to the image. Someone chose what to send and what to keep.
+
+#### Chapter 29 Emotional Arc
+Recovery frustration → Emptiness → Withdrawal → Identity crisis → The crying → Fragile clarity
+
+#### Hook/Cliffhanger
+Vipin has broken, privately, in his flat. The crying isn't weakness — it's the first real emotional honesty of his life. The drawer is spread out. The photograph has a trimmed edge. And the rehabilitation continues — the shoulder is healing, but the man inside the shoulder is the one who needs the real repair.
+
+#### Thread Developments
+- **Identity Without Cricket**: The central crisis of Act 3. Who is Vipin without the game?
+- **The Withdrawal**: He's pushing everyone away. The fatal flaw (can't ask for help) at its most destructive.
+- **The Crying**: The emotional break. 29 chapters of suppression released. Necessary, private, cathartic but incomplete.
+- **The Trimmed Photograph**: New clue in the pendant mystery. Someone curated what he received.
+- **Pendant Returned**: The trust symbol from Ch 28, now returned. The cycle of giving and reclaiming.
+
+#### Tension Level: 0.75
+High internal tension. Low external action. The darkness is internal — isolation, identity loss, emotional collapse. The crying scene is the chapter's climax.
+
+---
