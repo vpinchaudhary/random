@@ -1805,3 +1805,66 @@ The relationship is intact but surveillance has replaced ease. The lie Vipin car
 High and building. Multiple threat vectors — media, Bhai, lies, relationship strain. Act 2B climax approaching.
 
 ---
+
+### Chapter 28: The Body Fails
+
+**Timeline**: Late 2014 – early 2015 (age 24-25)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+Who are you when the one thing that's never failed you — your body — breaks?
+
+#### Scene Breakdown
+
+**Scene 1: The Warning Signs (late 2014)** (~1,000 words)
+- Vipin's body has been extraordinary his entire life — the recovery, the stamina, the reflexes that sit at the bleeding edge of human possibility. He's treated it as a constant, the way you treat gravity. It's always there. It doesn't negotiate.
+- But the signs are there. A stiffness in his right shoulder that doesn't clear with rest. A twinge in his bowling arm during follow-through that he's been ignoring for months. The physio at MI flags it: "Your shoulder is showing wear. You need to manage your workload." Vipin nods. Doesn't manage his workload. Bowls the same.
+- Rao notices too. "You're dropping your arm in the delivery stride. That's new." Vipin deflects: "Trying something different." They both know it's a lie. The arm is dropping because raising it fully hurts.
+- He doesn't tell Shraddha. Doesn't tell Ravi. The body has always been private — the enhanced attributes are something he doesn't discuss because discussing them makes them feel fragile. If he names the pain, it becomes real.
+- **Grounding physical detail**: The specific pain. Not a sharp stab — a deep, grinding ache in the rotator cuff. The kind that wakes you at 3 AM when you roll onto it. The kind that makes reaching for a top shelf feel like lifting a car. He ices it obsessively. The ice pack becomes a nightly companion, pressed against the shoulder in the dark of his bedroom.
+
+**Scene 2: The Snap (early 2015)** (~1,800 words)
+- An India ODI. A match that matters — series decider. Vipin is bowling the death overs. India defending a modest total. The opposition needs 30 off 18 balls. Two set batsmen.
+- He runs in. First ball: 139 kph, good length, defended. Second ball: he tries a bouncer. The arm goes up, the shoulder SCREAMS, and the ball comes out at 128 kph — 15 kph slower than his normal bouncer. The batsman, expecting the usual pace, is early on the pull and gets a top edge. Lucky wicket. But Vipin knows. The arm is done.
+- He bowls four more balls. Each one slower than the last. The variation he's learned masks some of it — slower balls, cutters — but the express pace is gone. A ball that should be 142 comes out at 131. The batsman hits it for four. The commentators mention "reduced pace."
+- Over finished: 1-11. Respectable on paper. The death of something on the inside.
+- After the match (India wins, barely), the team physio examines him. MRI ordered. The results: a significant rotator cuff tear. Not career-ending — but season-ending. Surgery required. Rehabilitation: six to nine months.
+- The doctor delivers this in a hospital room that smells of antiseptic and processed air. Vipin listens. The doctor uses words like "partial thickness," "surgical repair," "graduated return to bowling." Vipin hears: "The body that never failed you has failed you."
+- He doesn't react. The face is empty. The silence that precedes his worst moments. The doctor finishes. Vipin thanks him (politely, distantly) and sits alone in the hospital room.
+- He counts the ceiling tiles. Twelve. He counts the holes in each tile. Too many. He loses count. For the first time, the counting doesn't work.
+- **Imperfect moment (anti-AI)**: Vipin punches the hospital bed's side rail. Once. Not hard enough to break anything but hard enough to hurt his left hand. A stupid, impotent gesture that changes nothing. He looks at his knuckles — the same knuckles that held the bat, that caught the ball, that gripped the pendant — and feels like a child who's broken his own toy.
+
+**Scene 3: The Telling (same week)** (~1,000 words)
+- Telling Rao: "Uncle, the shoulder is torn. Surgery. Six months minimum." Rao is quiet for ten seconds. Then: "Surgery is not retirement. Six months is not forever." It's what Vipin needs to hear. Rao doesn't ask how or why — he's a coach, he's seen injuries, he knows that asking "why didn't you tell me sooner" is useless now.
+- Telling Shraddha: harder. She sees his face when he tells her and her composure break triggers — eyes filling, blinking fast, looking up. But she catches herself. "What do you need?" Not "I'm sorry" or "It'll be okay." What do you need. The most useful question anyone asks.
+- "I need to be angry for a while."
+- "Okay. Be angry. I'll be here when you're done."
+- Telling Ravi: by phone. Ravi's silence is the longest Vipin has heard from him. Then: "Chaudhary. Tu wapas aayega. Tere jaise log ruk nahi sakte." (You'll come back. People like you don't stop.) It's not comfort — it's certainty, and from Ravi, it's worth more than comfort.
+- Telling the media: MI's press office releases a statement. "Vipin Chaudhary to undergo shoulder surgery. Expected to miss 6-9 months." The cricket world reacts. Condolences, analysis, speculation about his career trajectory. The word "if" starts appearing: "If he returns to full pace."
+
+**Scene 4: The Night Before Surgery (early 2015)** (~1,200 words)
+- Hospital room. Night before the operation. Shraddha is there — she came after her shoot, still in partial makeup, sat down and hasn't left.
+- They're quiet. The TV is on, muted — a cricket match he'd normally be playing in. He watches his replacement bowl: slower, less accurate, but there. The cricket continues without him. The game doesn't miss anyone for long.
+- Shraddha falls asleep in the chair. He watches her sleep and the catastrophizing runs: what if the surgery fails? What if the pace doesn't come back? What if he's a batsman only — still good, but not what he was? What if the thing that made him special — the bowling, the all-rounder completeness — is gone?
+- Who is Vipin Chaudhary without the pace? A batsman. A good one. But the boy who was "built different" was built for everything — bat, ball, field. The wholeness of his cricket was a mirror of his need for wholeness in life. If the cricket breaks in half, what happens to the man?
+- He reaches for the pendant. Holds it. The gold is warm from his skin. "Vipin Chaudhary." The name is still there. The pendant doesn't know about rotator cuffs.
+- He closes his eyes. Doesn't count. Doesn't pray. Just holds the pendant and waits for morning.
+- **Unresolved micro-element (anti-AI)**: Before surgery, Vipin takes off the pendant and gives it to Shraddha. "Keep this." She holds it and the weight surprises her — it's heavier than it looks. "You've never taken this off." "I know." The pendant in her hands. The most trust he's shown anyone. She puts the chain around her own neck, under her shirt, against her chest. He nods. Closes his eyes. They wheel him in.
+
+#### Chapter 28 Emotional Arc
+Denial → Failure → Diagnosis → Controlled anger → Vulnerability → Entrustment (the pendant)
+
+#### Hook/Cliffhanger
+Vipin is under anesthesia and the pendant is around Shraddha's neck. The body that defined him is on an operating table. Act 2B ends with the most powerful man in the story at his most powerless. Act 3 — the crisis — begins with recovery, doubt, and the question that has been building for 28 chapters: who is Vipin Chaudhary when he's not extraordinary?
+
+#### Thread Developments
+- **The Body's Limit**: The enhanced attributes have a cost. The body isn't superhuman — it's at the edge, and edges break.
+- **The Pendant Transfer**: The most significant relationship gesture in the story. Shraddha holds the only thing from his parents.
+- **"If he returns to full pace"**: The uncertainty that will define Act 3.
+- **Act 2B Complete**: Career peak, relationship tested, Bhai's shadow, and now injury. Everything at maximum altitude before the fall.
+
+#### Tension Level: 0.75
+Act 2B climax. The injury is the structural break. The pendant transfer is the emotional peak. High tension resolving into surgical vulnerability.
+
+---
