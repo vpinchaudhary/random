@@ -1742,3 +1742,66 @@ Bhai is gone — for now. The lie is partially resolved. Cricket is thriving. Th
 Post-crisis breather. The Bhai confrontation is tense but resolves. Cricket provides relief. The Anjali interview adds edge but not crisis. A chapter of consequences and recalibration.
 
 ---
+
+### Chapter 27: The Orphan and the Princess
+
+**Timeline**: 2014 (age 24)
+**POV**: Third-person limited, alternating Vipin/Shraddha
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when the story the world tells about you is louder than the story you live?
+
+#### Scene Breakdown
+
+**Scene 1: Peak Season (early 2014)** (~1,000 words)
+- Vipin's career is at its zenith. India regular in all three formats. IPL Season 7 — MI's core player, massive auction price retention. He's on the Forbes India Celebrity 100 list alongside Shraddha. Two people from different worlds, now on the same list, column by column.
+- On the field: he's reached the phase where talent meets experience. His batting is mature — he can anchor AND accelerate. His bowling is a weapon — 142 kph with variation. He's mentioned in "next India captain" discussions (premature but real).
+- Commercially: endorsement portfolio is significant. His face is on billboards. The orphan-made-good story, despite his hatred of it, has made him a marketer's dream.
+
+**Scene 2: The Magazine Cover (mid-2014)** (~1,500 words)
+- A major magazine (think Filmfare/GQ) does a joint cover: Vipin and Shraddha. "India's Power Couple." The shoot is at a Mumbai studio. Matching wardrobes, directed poses, the whole machinery.
+- VIPIN POV: He hates every second. The photographer instructs him to "look at her like you adore her." He looks at her like he always does — with the slightly bewildered amusement of a man who can't believe she chose him — and the photographer says "Perfect, hold that." The real expression, commodified.
+- SHRADDHA POV: She's comfortable in studios — this is her world. But she watches Vipin perform "comfortable" the way she watches him at Bollywood parties, and the dissonance between who he is and who they're asking him to be makes her chest tight.
+- The interview for the feature. The journalist asks about their "love story." They trade the prepared answers — how they met (the charity dinner, the Ravi introduction), what they love about each other (she says his humor; he says her honesty). It's true and also performance. The real versions are too private for print.
+- Then: "Vipin, your journey from orphanhood to here — does it make the relationship more meaningful?" The question. Again. Always.
+- He gives the professional answer. Then, in the car after, he's quiet for twenty minutes. Shraddha doesn't fill the silence. She's learned when to hold the space.
+- "They'll never stop." His voice is flat. "Every interview, every feature, every mention — it always comes back to the orphan. I scored a century last week and the headline was 'Orphan cricketer scores ton.' Not 'Chaudhary scores ton.' The orphan part is always first."
+- She says: "I'm 'Shakti Kapoor's daughter' in every headline. Not 'Shraddha Kapoor, actress.' The prefix never goes away."
+- "That's different. Your prefix is a family. Mine is the absence of one."
+- She doesn't argue. He's right. It IS different. The symmetry she tried to draw doesn't hold. She nods. "You're right. It's different. I'm sorry."
+- The honesty of the exchange — her not insisting on the comparison, him not weaponizing the difference — is the relationship at its most functional.
+
+**Scene 3: Bhai's Echo (mid-2014)** (~1,000 words)
+- A tabloid runs a story: "IPL Star's Secret Past — Street Connections and Underworld Links." The article is vague, unattributed, barely factual — but it hints at Bhai. Someone talked. Maybe Bhai. Maybe someone in Bhai's circle. The retaliation for the anti-corruption report, delivered through media.
+- Vipin reads it and the silence comes. The face empties. The stone from Chapter 25 — the smaller one, the lie about the first interview — feels suddenly enormous.
+- MI management goes into crisis mode. Legal letters. Denials. PR strategy. Vipin sits in a meeting room while people in suits discuss his "narrative management" and he thinks: this is what Bhai wanted. Not to destroy me. To remind me that destruction is always available.
+- Shraddha sees the article. Calls immediately. "Is this true?" Not accusatory — genuinely asking.
+- "Parts of it. I grew up on the streets. People on the streets are connected to things. That doesn't make me connected to those things." It's true but incomplete. He doesn't tell her about Bhai's approach in Ch 25. The lie expands.
+- **Imperfect moment (anti-AI)**: Rao calls. "Did you see the article?" "Yes." "Is there anything else you haven't told me?" The question cuts. Because there IS something — the smaller lie, the first interview omission. Vipin says: "No, uncle. There's nothing." The second lie. To Rao this time. The stone becomes a boulder.
+
+**Scene 4: The Relationship Under Siege (late 2014)** (~1,500 words)
+- The tabloid story triggers a media cycle. Paparazzi stake out Vipin's flat, MI training, Shraddha's sets. Every appearance together is photographed, analyzed, captioned. "Trouble in paradise?" when they're not photographed. "Still going strong" when they are. The relationship exists in a permanent state of public autopsy.
+- Shakti calls Shraddha. He's seen the tabloid piece. The paternal alarm system — already wary of Vipin's lack of traceable background — fires. "Beta, this boy's past is complicated. Maybe more complicated than he's told you."
+- Shraddha defends Vipin. Firmly. But Shakti's words lodge: "more complicated than he's told you." Because she knows there are things he hasn't told her. The drawer has secrets she's seen and secrets she hasn't. She knows Vipin withholds — it's his nature, his armor, his survival mechanism. But the gap between understanding why he withholds and accepting what he withholds is the gap the relationship lives in.
+- Vipin senses her recalibration. He's a reader of people — he learned from Bhai, from the streets, from reading bowlers' run-ups. He sees her watching him differently. More carefully. The trust is still there but it's accompanied now by vigilance.
+- They don't fight. The Chapter 23 fight was about narrative. This is about truth, and truth fights are quieter and more dangerous.
+- **Unresolved micro-element (anti-AI)**: Vipin, unable to sleep, goes through his phone contacts. Finds Bhai's old number. Considers calling — not to reconcile, not to threaten. Just to ask: "Was it you? The article?" He doesn't call. Deletes the number instead. Then realizes deleting doesn't erase — Bhai will always exist in his history, the way the temple exists, the way the pendant exists. Some things aren't deletable.
+
+#### Chapter 27 Emotional Arc
+Career peak → Media commodification → Bhai's retaliation → The lie expands → Trust vigilance → Siege mentality
+
+#### Hook/Cliffhanger
+The relationship is intact but surveillance has replaced ease. The lie Vipin carries is getting heavier. Bhai's shadow has reached into the daylight. Shakti's doubt is planted in Shraddha's mind. Everything is at peak altitude — career, fame, love — and the reader feels the gravitational pull of what comes next. Act 3 approaches. Something has to give.
+
+#### Thread Developments
+- **Bhai's Retaliation**: The street doesn't forget. The tabloid piece is the first shot in a war Vipin thought was over.
+- **The Expanding Lie**: Now Vipin has lied to anti-corruption (partially corrected), to Shraddha (about Bhai), and to Rao (about everything). The lie is a structural threat.
+- **Shakti's Doubt**: Reactivated. "More complicated than he's told you." The father's intuition.
+- **Media Siege**: The relationship as public property. The autopsy metaphor.
+- **"The orphan is always first"**: Vipin names his core frustration explicitly. The narrative cage.
+
+#### Tension Level: 0.70
+High and building. Multiple threat vectors — media, Bhai, lies, relationship strain. Act 2B climax approaching.
+
+---
