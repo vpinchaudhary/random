@@ -762,3 +762,69 @@ Vipin is inside the machine. He can bowl fast enough and bat well enough to belo
 Post-climax reset. Lower tension than Ch 10 but rich with internal stakes. Culture shock is tension — just a quieter kind.
 
 ---
+
+### Chapter 12: First Blood
+
+**Timeline**: April 2008 (age 18 — birthday has passed)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+Can the boy who's been extraordinary in small rooms survive when the room holds fifty thousand people?
+
+#### Scene Breakdown
+
+**Scene 1: The Selection (pre-match day)** (~1,000 words)
+- Mumbai Indians' early IPL matches. Vipin has been part of the training squad but hasn't been picked for the playing XI. He's watched two matches from the dugout — the substitute's limbo. Close enough to feel the roar, far enough to be invisible.
+- The third match. A senior fast bowler has a hamstring twinge. Not serious, but enough that the coaching staff decides to rest him. The team management looks at the bench. The bowling coach — the one who put down his coffee at Vipin's net session — says four words to the head coach: "Give the kid one."
+- Vipin is told the night before. He's in the playing XI. He'll bat at 7 and bowl two overs minimum, maybe four. His debut. His first professional cricket match. On live television. In front of a Wankhede crowd.
+- He calls Rao. Rao doesn't say "congratulations" or "I'm proud." He says: "Leather ball still comes out of the bowler's hand. Same as it always has." Vipin hangs up and feels steadier than he's felt in weeks.
+- He doesn't call anyone else. Considers calling Bhai — the impulse is there, Bhai was the first person to bet on him in a cricket match — but doesn't. The debt and the distance are too complicated.
+- He doesn't sleep, but this time the not-sleeping is different from the auction night. This time his body is electric. He's ready.
+- **Grounding physical detail**: His MI kit laid out on the hotel bed. Mumbai Indians jersey — blue, gold trim, his name on the back. CHAUDHARY. 47. (The number means nothing — it was assigned. But he counts: 4+7=11. Eleven players in a cricket team. He decides this is significant. It isn't.)
+
+**Scene 2: The Walk Out (match day)** (~1,500 words)
+- DY Patil Stadium, Navi Mumbai (or Wankhede — depends on the fixture schedule; keep period-accurate). The crowd is unlike anything Vipin has experienced. IPL crowds are different from Test crowds — louder, younger, Bollywood music between overs, cheerleaders, giant screens, sponsor logos on every surface. It's cricket filtered through entertainment.
+- The warmup. Vipin warms up alongside Sachin, Harbhajan, Malinga. His hands are steady. His body is ready. His mind is trying to process the noise.
+- MI wins the toss. They bat first. Vipin at 7 means he waits. The innings builds — MI's top order fires, the run rate climbs. Vipin sits padded up on the bench, watching, squeezing the rubber ball (it's in his trouser pocket under the pads).
+- He doesn't go in. MI posts a big total — 180+ — and the top order handles it. Vipin isn't needed with the bat. The not-batting is its own tension. He's contributed nothing yet.
+- The innings break. MI takes the field. Vipin walks out onto the ground in an IPL match for the first time. The grass under his spikes. The floodlights above. The noise — a physical thing, a wall of sound that presses against his chest.
+- He fields at third man initially. A ball comes to him — a gentle single, nothing dramatic. He picks it up, throws it in. Clean. Flat. Hard. The keeper nods. Vipin's first touch in professional cricket is a routine throw, and it's perfect.
+
+**Scene 3: The Over (bowling)** (~1,800 words)
+- The 12th over. The opposition is chasing, 95/2, the required rate climbing. The captain tosses Vipin the ball. "Two overs. Bowl your lengths."
+- He walks to the top of his mark. The run-up is longer than any ground he's bowled on before. The crowd is 35,000 faces and none of them are watching him yet — they're watching the batsman, the scoreboard, their phones.
+- He runs in. First ball. He aims for a good length, outside off. The ball comes out at 138 kph. The batsman — an experienced international — plays and misses. The ball swings away late. The keeper takes it cleanly. Dot ball.
+- Second ball. Same spot. 140 kph. The batsman pushes at it, gets an outside edge. The ball flies to the slip cordon. Dropped. A senior fielder at second slip shells a regulation catch. Vipin doesn't react. Doesn't show frustration. Walks back to his mark. Rao's voice in his head: "Control what you control."
+- Third ball. The batsman has survived and is emboldened. He steps out to drive. Vipin sees it early — the shuffle, the weight transfer — and does something he wasn't told to do. He bowls a bouncer. 143 kph. The fastest ball of the match. The batsman is late on the pull, the ball thuds into his glove, pops up — and Vipin is already running, diving forward, catching his own bowling off a leading edge that's barely a meter off the ground.
+- Caught and bowled. His first IPL wicket. The crowd roars. The MI players swarm him. Harbhajan picks him up — literally lifts him off the ground, and Vipin is not a small man. The celebration is mayhem and he's in the center of it, grinning, the armor fully down for five seconds.
+- He finishes the over with a yorker (dot ball) and a full toss that gets hit for four (the adrenaline wobble). 1-12 off the over. Not earth-shattering. But the wicket was spectacular and the pace was real.
+- His second over: tighter. 0-8. Dot, single, dot, dot, two, dot. He beats the bat three times. The bowling coach makes more notes.
+- Final figures: 2-0-20-1. Respectable. The wicket is the headline.
+- **Strange personal detail (anti-AI)**: Between his two overs, sitting on the boundary, Vipin notices a specific advertisement board — a mobile phone brand. He reads the entire ad copy, including the terms and conditions in fine print at the bottom. The fielder next to him asks what he's looking at. "Did you know there's a 30-day return policy?" The fielder stares. Vipin grins.
+
+**Scene 4: After the Match (evening)** (~500 words)
+- MI wins. Comfortable. Vipin's contribution is modest but noticed. In the post-match huddle, the captain mentions him: "Young Chaudhary — good first outing." That's it. But it's enough.
+- In the dressing room, Sachin walks past, pats him on the shoulder. Doesn't speak. The pat says enough.
+- Vipin sits in the dressing room after everyone has gone to the team dinner. Holds the match ball — the one from his wicket, which the keeper saved for him. His first match ball. He puts it in his kit bag. Later, it'll go in the drawer.
+- He eats dinner with the team. Laughs at the right moments. Tells a joke about his dropped catch: "Slip's hands are older than my career. Forgiven." The fielder who dropped it laughs, relieved. Vipin has defused it. Social navigation: expert level. The humor earns him more goodwill than the wicket.
+- **Unresolved micro-element (anti-AI)**: Walking back to his hotel room, Vipin passes a TV in the corridor showing highlights. His wicket plays — the bouncer, the catch. He watches himself on television for the first time. The person on screen looks like him but also doesn't. That person is a Mumbai Indians cricketer. The person in the corridor is a kid from a storage room. He watches the replay twice, then goes to his room and sleeps under the covers for the first time.
+
+#### Chapter 12 Emotional Arc
+Anticipation → Controlled readiness → Electric debut → Release → Quiet pride → Integration beginning (sleeping under covers)
+
+#### Hook/Cliffhanger
+The debut is done. It was good, not great. But 143 kph and that catch — the highlight reel is already circulating. Tomorrow, the cricket internet will discover Vipin Chaudhary. The media machine that will define and haunt him is about to spin up.
+
+#### Thread Developments
+- **The Debut**: Modest but memorable. The caught-and-bowled becomes his signature moment.
+- **Sleeping Under Covers**: Finally. A tiny physical shift that signals the beginning of belonging.
+- **The Collection Grows**: Match ball joins the drawer.
+- **Social Navigation**: Vipin's humor is now doing double duty — personal armor AND team currency.
+- **143 kph**: The pace is real. At 18, he's one of the quickest bowlers in the tournament. This will draw attention.
+- **Media Machine**: Planted for next chapter. The orphan narrative is about to begin.
+
+#### Tension Level: 0.55
+Match-day intensity. The debut creates real performance stakes. Resolves well but opens the media thread.
+
+---
