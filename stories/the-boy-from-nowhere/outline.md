@@ -961,3 +961,68 @@ The IPL season is over. Vipin has money, fame, and a career. But the groundskeep
 Breather chapter after the intensity of 12-13. Lower on-field tension, but Bhai's return and the sponsor alienation create undercurrents.
 
 ---
+
+### Chapter 15: 26/11
+
+**Timeline**: July–November 2008 (age 18)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does home mean when it's on fire — and what does a man owe the city that made him?
+
+#### Scene Breakdown
+
+**Scene 1: The Off-Season Grind (July–October 2008)** (~1,000 words)
+- Between IPL seasons: Vipin returns to domestic cricket. Ranji Trophy. The long-format game — whites, red ball, five-day matches. A different discipline from T20's fireworks.
+- He makes Mumbai's Ranji squad properly now — not fringe, but in the team. The age-group kid is a first-class cricketer. He bats at 6, bowls first change.
+- His Ranji form is good but not spectacular. The longer format exposes what T20 hides: his patience is still thin. He gets starts — 30s, 40s — but struggles to convert to big scores. The bowling is consistently hostile. But Ranji cricket rewards consistency, not explosions, and Vipin is still learning that.
+- Rao works with him through the off-season. The relationship has shifted: Vipin is no longer a student in the pure sense. He's a professional cricketer with an IPL contract. But he still trains at Shivaji Park, still listens to Rao's technical corrections, still argues about the grip (now as a running joke, not a real conflict).
+- India call-up rumors circulate. "Too young," say the establishment voices. "Not enough Ranji runs." But the IPL has changed how talent is spotted. Selectors who used to watch Ranji now watch T20 highlight reels. Vipin is on their radar.
+- **Strange personal detail (anti-AI)**: Vipin develops a habit of watching cooking shows on TV in his new flat (he's moved out of the storage room, rented a small one-bedroom in Dadar). He doesn't cook — he eats at restaurants or orders in. But the shows calm him. The precision, the process, the counting of ingredients. He watches MasterChef Australia and critiques the vegetarian options.
+
+**Scene 2: The Night (November 26, 2008)** (~1,800 words)
+- November 26, 2008. Vipin is in Mumbai. At his flat. Watching TV. The phone rings — Ravi. "Turn on the news."
+- The news. Gunshots at CST railway station. Explosions at the Taj Mahal Hotel. Armed men in the streets of South Mumbai. The ticker at the bottom of the screen scrolling attacks as they happen. Leopold Cafe. Nariman House. The Oberoi hotel.
+- Mumbai is under siege.
+- Vipin watches the coverage through the night. The camera footage is shaky, terrifying — gunfire you can hear through the TV speakers, ambulances, police crouching behind barricades. Reporters with fear in their voices. The Taj is on fire. The skyline he's looked at from hotel rooms, from the MI bus, from Shivaji Park — it's burning.
+- He thinks about the streets. His streets. CST station — he's slept near there. The lanes around the Taj — he's walked through them as a kid, carrying bags, running messages. The geography of the attacks maps onto the geography of his childhood.
+- He calls Rao. Rao is safe. Calls the groundskeeper — the old man doesn't pick up. (He's fine — just sleeps through phone calls. Vipin doesn't know this and spends two hours in panic.)
+- Bhai crosses his mind. Bhai's territory is far from the attack zones, but the streets are the streets. He doesn't call. But he thinks about it.
+- The attacks last three days. Vipin doesn't leave his flat. He watches every minute of coverage. He doesn't eat much. The humor is gone — not suppressed, just absent. There's nothing funny about this.
+- **Grounding physical detail**: The glow of the TV in the dark flat. Vipin doesn't turn on the lights. The attacks play in blue-white flicker across his face. At one point, the camera shows CST station — a wide shot, bodies on the platform, blood on the tiles. Vipin's hand goes to the pendant. He grips it so hard the chain digs into his neck.
+
+**Scene 3: The Aftermath (late November–December 2008)** (~1,200 words)
+- The attacks end on November 29. 166 people dead. The Taj is scarred. Mumbai is in shock.
+- Cricket stops. Not officially — there's no league on — but the cricket world pauses. The IPL's next season, already complicated by Indian general elections, is now shadowed by security concerns. Pakistani players, who played in Season 1, will be excluded from Season 2. The Indian cricket calendar is disrupted.
+- Vipin goes to Shivaji Park. The park is quiet — a rare thing. People are subdued. The flags are at half-mast. He walks the boundary of the cricket ground and the city feels fragile in a way it never has.
+- He finds Rao at the nets. Rao is there because Rao is always there. They don't talk about the attacks directly. They talk about cricket. But the cricket talk is different — quieter, less about competition and more about the thing itself. The bat, the ball, the crease. The fundamentals. As if by talking about the simplest parts of the game, they can hold onto something solid while everything else shifts.
+- Ravi calls. He was in Bangalore during the attacks, safe but shaken. They talk about the future — IPL Season 2 might be held abroad (it will be — South Africa, due to election security concerns plus the shadow of 26/11). The domestic season continues but the mood is different.
+- **Imperfect moment (anti-AI)**: A well-meaning MI teammate texts the player group chat: "Prayers for Mumbai. We'll come back stronger." Generic. Corporate. Vipin reads it and types a response that's sharp enough to hurt: "Don't pray. Show up." He deletes it before sending. Types "Thanks, bhai" instead. The rage at the performance of grief — from people who've never slept on a Mumbai street — stays inside.
+
+**Scene 4: What He Doesn't Say (December 2008)** (~1,000 words)
+- A reporter contacts Vipin for a piece: "Mumbai's cricketers react to 26/11." They want a quote. Something about resilience. Something about the spirit of Mumbai.
+- Vipin gives a bland quote: "Mumbai is strong. We'll get through this." It's published and forgotten.
+- What he doesn't say: that Mumbai didn't teach him resilience. That Mumbai ate him alive and he survived despite it. That the "spirit of Mumbai" is a phrase used by people who've never needed it. That the real spirit of Mumbai is a kid sleeping under a construction site overhang and getting up the next morning and going back to work. That spirit doesn't come from tragedy — it comes from the absence of any other choice.
+- He doesn't say this because saying it would mean talking about himself, and talking about himself means the orphan narrative, and the orphan narrative is a cage he refuses to enter again.
+- Instead, he goes to his flat, sits in the dark, and watches Mumbai rebuild through his window. The city does what it always does: it continues. Traffic resumes. Trains run. Cricket practice starts again. The noise comes back.
+- The noise always comes back.
+- **Unresolved micro-element (anti-AI)**: Vipin makes an anonymous donation to a 26/11 victims fund. The amount is significant — a large portion of his IPL earnings. He tells no one. Not Rao. Not Ravi. Not MI management. The donation is processed through a bank transfer with no name attached. He does this because it's what the pandit would have done: help without announcement. It's the most temple-kid thing he's done since leaving the temple.
+
+#### Chapter 15 Emotional Arc
+Routine → Shock → Grief → Rage (controlled) → Solitary reckoning → Quiet continuation
+
+#### Hook/Cliffhanger
+The city survives. Vipin survives. But 26/11 has changed the texture of everything — the IPL will be displaced, the season will feel different, the city Vipin fought to rise from has been wounded. And in the rebuilding, Vipin faces the off-season with a question: India selection is coming. The world is about to get bigger. Is he ready for it to get bigger when the ground under him just shook?
+
+#### Thread Developments
+- **Mumbai as Character**: The city that made Vipin is wounded. His relationship with Mumbai deepens from "place I survived" to "place I belong to."
+- **The Anonymous Donation**: The pandit's values in action. Vipin's moral core, inherited from the temple, expressed through cricket money.
+- **IPL Season 2 Displacement**: Setup for South Africa arc (Ch 16). The league goes abroad.
+- **India Selection**: The drumbeat continues. The next step.
+- **Vipin's Silence**: His refusal to perform grief or resilience. The "spirit of Mumbai" critique — internal, never spoken — defines his relationship with public narrative.
+
+#### Tension Level: 0.50
+Real-world tension, not narrative tension. The attacks create a different kind of stakes. The chapter is heavy but necessary. A breather from cricket-specific tension, not from emotional weight.
+
+---
