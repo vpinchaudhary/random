@@ -232,3 +232,70 @@ Vipin standing at the edge of Shivaji Park, watching organized cricket for the f
 Rising. Frustration and the ceiling create internal tension. The fork with Bhai adds stakes.
 
 ---
+
+### Chapter 4: The Man at the Boundary
+
+**Timeline**: 2003 (age 13)
+**POV**: Third-person limited, Vipin — but with extended passages observed through Coach Rao's perspective via Vipin noticing Rao watching him
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it look like when someone sees you — really sees what you are — for the first time?
+
+#### Scene Breakdown
+
+**Scene 1: Shivaji Park, Morning (early 2003)** (~1,200 words)
+- Vipin has been coming to Shivaji Park for months. Not to play — to watch. He sits at the edge, cross-legged, studying the organized cricket sessions the way he once studied Sachin on chai-stall TVs.
+- He watches the coached kids. Notes what they do that he doesn't — the backlift, the footwork drills, the way they leave balls outside off stump. He also notes what they lack — urgency, instinct, hunger. These kids have batting pads. He has need.
+- One morning, a scratch match between two coaching groups needs a fielder. A kid is late. Someone waves Vipin over — "Oi, you. Want to field?" Not an invitation. A convenience.
+- Vipin fields. He's electric. A ball goes through the gap at cover — he's already there, moving before the shot is played. Returns the ball flat, hard, to the keeper's gloves. The coach on the near side pauses mid-sentence.
+- They let him bat last. Number 11. The match is already won. Nobody cares. The bowler is a 15-year-old from a proper academy — quick for his age, proper action, real leather ball.
+- Vipin taps the crease three times. Faces up. The first ball is short. He pulls it — not a coached pull, a street pull, all hands and instinct — and it races to the boundary. The second ball is fuller. He drives it straight back past the bowler so fast the kid flinches.
+- He faces eight balls. Hits six of them to or over the boundary. The two he misses are balls he should have left — he doesn't know how to leave yet. He swings at everything because that's all the gully taught him.
+- A man in white watches from the boundary rope. Thin. Limping slightly. Reading glasses on his forehead. A cup of chai in his hand that he's forgotten to drink.
+
+**Scene 2: The Conversation (same day)** (~1,500 words)
+- Coach Prakash Rao approaches Vipin after the match. Not immediately — he waits, watches Vipin collect the bat (borrowed, returns it), watches him walk toward the park exit alone. No parent collecting him. No kit bag. Just a kid in a too-big shirt with a scar on his eyebrow.
+- "Who coaches you?" Rao asks. First words. Measured. Marathi-accented Hindi.
+- "Nobody." Vipin's answer is not humble. It's a fact.
+- Rao asks to see his hands. Vipin holds them out — calloused wrong. Not the calluses of coached batsmen (palm and fingers). Street-cricket calluses, rough and scattered. Rao turns them over, says nothing. But his face changes.
+- They talk. Rao asks questions like a doctor — clinical, specific. How long has he been playing? Where? Who with? Vipin answers with increasing suspicion. Nobody asks this many questions without wanting something.
+- Rao offers nothing yet. Just says: "Come tomorrow. Same time. I'll be here." And walks away.
+- Vipin doesn't trust it. He goes back to his overhang and counts tiles on the ceiling of the nearby building. Forty-seven. He plays the conversation back. Counts the man's words. Decides the man is either going to help him or use him, and either way, he'll be there tomorrow because he has nothing to lose.
+- **Grounding physical detail**: Rao's chai — specifically, the way the milk has formed a skin on top because he held it too long without drinking. Vipin notices this. It tells him the man was distracted by what he saw. This is how Vipin reads people.
+
+**Scene 3: The Test (next day and the week following)** (~1,300 words)
+- Vipin returns. Rao is there. This time with a proper bat, a box of leather balls, and a local club bowler he's called in as a favor.
+- Rao tests Vipin systematically. Not a tryout — an assessment. He tests reaction time (throws balls at him from fifteen feet — Vipin catches everything). Tests hand-eye (asks him to hit specific targets — Vipin misses the target but hits the ball every time). Tests stamina (runs him — Vipin runs until Rao tells him to stop, and when he stops, he's barely winded). Tests temperament (bowls short at him, gets the club bowler to bounce him — Vipin doesn't flinch, doesn't back away, gets hit on the arm once and grins).
+- The numbers don't make sense to Rao. The reaction time is professional-grade. The stamina is absurd for a malnourished 13-year-old. The instinct is something Rao hasn't seen in thirty years of coaching.
+- "How old are you?" Rao asks.
+- "Thirteen."
+- "Where are your parents?"
+- Silence. Then: "Don't have any." No self-pity. The humor walls go up. "Just me, uncle. Factory defect. No warranty."
+- Rao doesn't push. He understands more from the joke than he would from the answer.
+- **Imperfect moment (anti-AI)**: Rao's coaching instinct makes him correct Vipin's grip immediately. Vipin resists — physically pulls his hand away. "My grip works." It does. But it's also limiting him, and he can't see that yet. The stubbornness that makes him great also makes him unteachable in this first moment.
+
+**Scene 4: The Offer (end of the week)** (~1,000 words)
+- Rao makes his pitch. Not a grand speech — Rao doesn't do grand speeches. Practical. He runs a coaching setup at Shivaji Park. He can get Vipin into the under-age cricket pipeline. District trials are in three months. But Vipin needs daily training, proper nutrition, and a place that isn't a construction site.
+- The catch: Rao can offer coaching and access, but he can't adopt him. He lives in a one-room flat with his wife. He can arrange meals through the cricket club — lunch and dinner, six days a week. Sleeping... Rao hesitates. He knows a groundskeeper at Shivaji Park who has a storage room.
+- Vipin's internal calculation: This man is offering something. Something real. The catastrophizing kicks in — how long before this ends? How long before this man gets bored, or disappointed, or just stops showing up? But the cricket part — the cricket part pulls harder than the fear pushes.
+- "I'll come." Two words. No thank you, because Vipin doesn't know how to be grateful without feeling vulnerable.
+- The chapter's last beat: Vipin going to Bhai to tell him. Not asking permission — informing. Bhai looks at him, lights a cigarette, exhales. "Cricket, haan?" A long pause. "Go. But remember who was here when nobody else was." It's both a blessing and a claim. Vipin hears both.
+- **Unresolved micro-element (anti-AI)**: On the walk from Bhai's territory to Shivaji Park — his new commute — Vipin passes a school. The kids are in uniform, coming out, parents at the gate. He doesn't slow down. Doesn't stare. But his hand goes to the pendant. He walks faster.
+
+#### Chapter 4 Emotional Arc
+Observation → Surprise (being seen) → Suspicion → Testing → Guarded hope
+
+#### Hook/Cliffhanger
+Bhai's parting words hang in the air — "remember who was here." The reader feels the hook in them, the future claim. And Vipin walks toward Shivaji Park, toward the first person who has looked at him and seen not a street kid, not a funny kid, not a useful kid — but a cricketer.
+
+#### Thread Developments
+- **Coach Rao**: Full introduction. The mentor-student dynamic begins, complicated by Rao's projection of his own failed career.
+- **Bhai's Claim**: "Remember who was here" — Chekhov's gun loaded. Will fire when fame arrives.
+- **The Grip Resistance**: Vipin's stubbornness vs. coaching. Setup for the tension between natural talent and learned discipline.
+- **The System**: Vipin is about to enter organized cricket. The street kid meets infrastructure.
+
+#### Tension Level: 0.45
+Building. Hope is tension too — Vipin is risking trust. Rao is risking reputation on an unknown. Bhai's parting words add a shadow.
+
+---
