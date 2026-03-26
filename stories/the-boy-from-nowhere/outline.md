@@ -1416,3 +1416,69 @@ The door is open but not wide. Shakti's conditional approval — "Don't make me 
 High. Meeting the father is a crisis point. The public exposure adds external pressure. The chapter resolves partially but the conditional acceptance keeps tension alive.
 
 ---
+
+### Chapter 22: The Blue Jersey
+
+**Timeline**: Late 2011 – early 2012 (age 21-22)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it feel like to finally belong to the thing you've wanted most — and discover it's not enough?
+
+#### Scene Breakdown
+
+**Scene 1: India Selection (late 2011)** (~1,200 words)
+- Post-World Cup 2011, Indian cricket is rebuilding. The selectors look younger, faster, hungrier. Vipin's IPL Season 4 numbers are emphatic: 400+ runs, 17 wickets. His Ranji form has caught up — two centuries in the season, including one against Karnataka where he batted for six hours. Rao's patience training, finally bearing fruit.
+- The India squad for a bilateral ODI series is announced. Vipin Chaudhary is in the fifteen. Not the standby list. The squad.
+- He finds out from a text — Ravi, who heard from a contact, thirty minutes before the official announcement. "CHAUDHARY. BLUE JERSEY. CHECK THE NEWS." All caps. Ravi's excitement is the thing Vipin can't produce for himself.
+- He calls Rao. Rao's voice cracks — the first time Vipin has heard emotion in that measured Marathi tone. "You earned it." Three words. Rao hangs up before either of them has to navigate what comes after.
+- He texts Shraddha: "India." One word. She calls back in nine seconds. She's crying before she speaks. "I knew it. I KNEW it." He listens to her cry and feels something he's never felt: someone celebrating FOR him. Not because of him. For him.
+- The India camp. A new dressing room. New faces — senior players he's played against in the IPL, now teammates. The India coach is businesslike: "You're here on merit. Perform and you stay."
+- **Grounding physical detail**: The India jersey. Not the number, not the logo — the weight. It's lighter than the MI jersey. Thinner fabric. But when he puts it on and looks in the mirror, it weighs more than anything he's ever worn.
+
+**Scene 2: The Debut (International ODI)** (~1,500 words)
+- Vipin's ODI debut. Not at Wankhede (that would be too perfect). A ground in a different Indian city — maybe Mohali or Bangalore. A formidable opposition.
+- He bats at 7 in his debut. India is in a decent position. He walks out to scattered applause — nobody in the crowd knows him beyond the IPL. He's a debutant. One of dozens who come and go.
+- He scores 41 off 33 balls. Clean hitting, good running between wickets, one six over long-off that brings the crowd to its feet. Not a fairytale fifty — but a real contribution. He's bowled in the death overs, tight: 1-42 off 8 overs. The wicket is a good batsman, caught at third man off a slower ball — Malinga's lesson, executed in India colors.
+- Post-match, the captain shakes his hand. "You'll play the next one." Not a compliment — a statement of intent. Vipin is in.
+- Over the series: three ODIs, scores of 41, 17, and 63*. Bowling figures consistent — economy under 6. By the end of the series, he's not a debutant. He's a squad member. The trajectory Rao mapped — Shivaji Park to India — is complete.
+- But: the satisfaction is stranger than he expected. He thought the India cap would fill the void. It doesn't. It's another thing — another beautiful, earned thing — that sits alongside the void without touching it. The pendant is still there. The parents are still unknown. The drawer is still full of artifacts.
+- **Imperfect moment (anti-AI)**: After his debut, the team goes for a group dinner. The senior players tell debut stories — theirs, other legends'. Everyone has a "first call home" story. Someone asks Vipin: "Who did you call first?" He says "My coach" without hesitation. But the question he heard was the one they didn't ask: who was there to be proud of you? And the answer — Rao, Shraddha, Ravi — is real but incomplete. The empty space where parents should be is louder in success than it is in struggle.
+
+**Scene 3: Shraddha Rising (early 2012)** (~800 words)
+- Shraddha's career is accelerating. Post-Teen Patti, she's getting better roles. Not yet the Aashiqui 2 breakthrough, but the trajectory is clear — she's talented, she works hard, and the industry is starting to see her as more than Shakti Kapoor's daughter.
+- Their relationship navigates dual schedules: he's touring, she's filming. They text constantly. Voice notes at odd hours. She sends him photos from set — behind the scenes, unflattering, honest. He sends her cricket scorecards with his numbers circled and "this is what confidence looks like" written underneath.
+- The dynamic is settling into something real. Not the early electricity of new attraction — something sturdier. They fight about small things (he's bad at responding to texts when he's in the nets; she cancels plans when work calls and apologizes too much). The fights are healthy — evidence of a relationship with enough weight to generate friction.
+- **Strange personal detail (anti-AI)**: Vipin discovers Shraddha sings in the shower — properly sings, not just humming. Trained voice, Kolhapure family musical genetics. He hears it through the phone during a call when she forgets to mute. He records ten seconds of it without telling her. It becomes his alarm tone. She never finds out.
+
+**Scene 4: The Crack in the Armor (early 2012)** (~1,500 words)
+- A quiet night. Vipin's flat. Shraddha is there — the first time she's been to his place. It's small, functional, impersonal. She notices: no photos on the walls. No decorations. It looks like a hotel room. "You live here?" Not judging — observing. "It looks temporary." He shrugs: "Everything's temporary."
+- She finds the drawer. Not snooping — the drawer is slightly open, and she sees the MI practice ball, reaches for it curiously. He tenses. She sees him tense and opens the drawer fully.
+- The collection: newspaper clipping. "I want them to say my name." Match ball. Boarding pass. ATM receipt. The unsigned letter. The anonymous photograph. And at the bottom, tucked in cloth — the pendant, removed for the night.
+- She picks up the photograph. The young couple. "Who are they?"
+- The longest silence of the story.
+- "I don't know." He's standing in the doorway of his own bedroom, and his voice is the voice of the seven-year-old who walked out of the temple. "Someone sent it. I don't know who they are. I don't know if they're — mine."
+- Shraddha puts the photograph down carefully. She doesn't cry. She doesn't comfort. She looks at him and says: "Do you want to find out?"
+- And Vipin, for the first time in his life, says: "I don't know."
+- Not "no." Not a joke. Not a deflection. "I don't know." The most honest three words he's spoken.
+- She walks to him. Stands close. Doesn't touch him — waits for him to close the distance. He does. His forehead against hers. His eyes closed. The pendant is in the drawer and for the first time it's not against his chest, and someone else is holding the space where it usually rests.
+- **Unresolved micro-element (anti-AI)**: Later, after she's gone, Vipin puts the pendant back on. Lies in bed. Picks up his phone and types "how to find birth parents India" into the search bar. Stares at the results. Closes the browser. Opens it again. Closes it. Puts the phone face-down and goes to sleep. The search history remains.
+
+#### Chapter 22 Emotional Arc
+Achievement (India cap) → Hollow victory → Dual-career navigation → The drawer discovery → Raw vulnerability → Tentative opening
+
+#### Hook/Cliffhanger
+The search query. Vipin has typed the question he's never asked aloud. Whether he follows through — whether the pendant mystery gets pursued or buried again — is the thread that will carry through Act 3. And the drawer, seen by Shraddha, means the most private museum of his life now has a witness.
+
+#### Thread Developments
+- **India Cap**: Achieved. But it doesn't fill the void. The theme-question deepens: belonging through achievement isn't enough.
+- **The Drawer Discovery**: Shraddha sees everything. The relationship crosses a threshold — she now has access to his interior.
+- **"Do you want to find out?"**: The pendant mystery is activated. Someone has asked the question directly.
+- **The Search Query**: Planted. This will fire in Act 3.
+- **Shraddha's Career**: Building independently. She's not defined by the relationship.
+
+#### Tension Level: 0.55
+Moderate overall. The India debut is triumphant but hollow. The drawer scene is the emotional peak — intimate, not dramatic. The search query is quiet dynamite.
+
+---
