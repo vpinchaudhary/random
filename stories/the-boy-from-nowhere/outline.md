@@ -1930,3 +1930,64 @@ Vipin has broken, privately, in his flat. The crying isn't weakness — it's the
 High internal tension. Low external action. The darkness is internal — isolation, identity loss, emotional collapse. The crying scene is the chapter's climax.
 
 ---
+
+### Chapter 30: The Search
+
+**Timeline**: Late 2015 – early 2016 (age 25-26)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+Is it braver to search for the truth about where you came from, or to accept that the answer might be worse than the question?
+
+#### Scene Breakdown
+
+**Scene 1: The Decision (late 2015)** (~1,000 words)
+- The crying in Chapter 29 cracked something open. Not healed — opened. Vipin makes a decision he's been circling for years: he'll look for his parents.
+- Not through media. Not through Anjali. Privately. He hires a private investigator — a retired police officer recommended through MI's legal contacts. The brief: a male infant left on the steps of [specific temple], Mumbai, in 1990. Gold pendant engraved "Vipin Chaudhary." Money left with the child. Find who left him.
+- The PI is methodical, unimpressed by celebrity. "I find people. Celebrities, construction workers — same process." Vipin likes this man immediately.
+- He tells Shraddha. This time, he tells her first — before Rao, before Ravi. "I'm looking for them." She holds his hand. "I know. I've been waiting for you to be ready."
+- He tells Rao. Rao is quiet, then: "Whatever you find, you're still you." The simplest, most important thing anyone says.
+
+**Scene 2: The Comeback (early 2016)** (~1,500 words)
+- The shoulder is healed. Eight months of rehabilitation. The physios clear him for full activity. He walks into the MI nets for pre-season and picks up a cricket ball for the first time in nine months.
+- He bowls. First ball: 126 kph. Slow. Painfully slow by his standards. The arm works. The action is sound. But the pace — the thing that made him special, the 140+ kph thunder — is gone.
+- He bowls fifty more balls. The fastest: 133 kph. Still fast by most standards. Not fast by Vipin Chaudhary standards.
+- The bowling coach is honest: "The pace may come back. It may not. Your shoulder is rebuilt but the explosiveness — that's neural, muscular, something we can't engineer. You're still quick. You're not as quick."
+- Vipin absorbs this. The temporal perception is intact — he still sees the ball early as a batsman. The batting power is undiminished. The fielding is still electric. But the bowling — the bowling that made him an all-rounder, that made him India's dual threat — is diminished. Not destroyed. Reduced.
+- He faces a choice: fight for every kph back (risking re-injury) or accept the new ceiling and adapt. Rao's counsel: adapt. Bowl slower, smarter. Use cutters, slower balls, changes of pace. Become a different bowler. "You were a fast bowler. Become a quick bowler. There's a difference."
+- **Imperfect moment (anti-AI)**: In the nets, Vipin's competitive fury drives him to bowl a bouncer at full effort. 137 kph — the fastest he's bowled since surgery. His shoulder screams. He hides the wince but the physio sees it. "Again?" Vipin: "No. I'm done." Walking away from the challenge. For a man who's never backed down from a ball, the walking away is its own kind of courage.
+
+**Scene 3: The PI's First Report (early 2016)** (~1,000 words)
+- The investigator reports. Progress, but incomplete. The temple records from 1990 are patchy — the old pujari (the pandit) is dead, the new pujari remembers nothing useful. The municipal birth records show nothing helpful. Police records from 1990 for abandoned children in that area: three cases, none matching exactly.
+- But: one lead. A woman named Sunita Devi filed a missing-person report in 1991 — a man, her husband, who disappeared from their village in Haryana. The surname: Chaudhary. The village: a Jaat community. The husband's name: Rajveer Chaudhary. The report was filed, investigated briefly, and abandoned. The man was never found.
+- The PI's theory: if Rajveer Chaudhary came to Mumbai, if he had a partner, if a child was born — the pendant, the name, the Jaat surname all align. But it's circumstantial. Sunita Devi may still be alive. She'd be in her fifties or sixties now. In Haryana.
+- Vipin holds this information like a lit match. A name. Rajveer Chaudhary. Possibly his father. A woman. Sunita Devi. Possibly his grandmother or aunt. A village in Haryana. Possibly where he comes from.
+- He doesn't act on it immediately. The information sits alongside the rehabilitation, the comeback, the everything. It's too much and not enough simultaneously.
+
+**Scene 4: Return to Competition (early 2016)** (~1,500 words)
+- IPL Season 9. Vipin returns. The announcement is a story in itself: "Chaudhary Returns After Injury." The narrative machine fires up — comeback kid, the orphan who won't stop, the body that rebuilds.
+- First match back: he bats well (44 off 30 balls, the batting undiminished). He bowls two overs — 0-19, no wickets, pace 130-134 kph. Serviceable. Not devastating. The commentators are kind: "Good to see him back." But the subtext is clear: the express pace isn't there.
+- He fields magnificently — a diving catch that would have been his highlight in any other year. The body, aside from the shoulder's reduced bowling capacity, is still extraordinary. The reflexes, the temporal perception, the stamina — all intact. The injury narrowed him, it didn't break him.
+- Post-match, alone in the dressing room, he sits with the match ball. Doesn't put it in the drawer. There's nothing to prove anymore. The drawer is a museum of a man who needed evidence of his own existence. Maybe it's time to stop collecting.
+- He texts Shraddha: "I played. It was different. I was different. But I played."
+- She texts back: "Different isn't less."
+- **Unresolved micro-element (anti-AI)**: The PI sends a follow-up email. Sunita Devi is alive. She lives in a village outside Hisar, Haryana. She's 62 years old. The PI has not made contact — waiting for Vipin's instruction. The email sits in Vipin's inbox, unread, for three days. Then read. Then re-read fourteen times.
+
+#### Chapter 30 Emotional Arc
+Decision (the search) → Diminished comeback → The lead (Rajveer, Sunita) → Adjusted return → Tentative acceptance
+
+#### Hook/Cliffhanger
+A woman named Sunita Devi in Haryana may know who Vipin Chaudhary is. The investigation has produced a lead that could answer the question the pendant has been asking for 26 years. And the cricket comeback, though diminished, is underway. Two parallel recoveries — the body and the origin story — racing toward answers.
+
+#### Thread Developments
+- **Pendant Mystery Active**: Rajveer Chaudhary and Sunita Devi. First real names. First real lead.
+- **The New Vipin**: A batsman who bowls, not an all-rounder who bats. The identity adjustment.
+- **"Different isn't less"**: Shraddha's line. Thematic resonance — being changed doesn't mean being diminished.
+- **The Drawer Closes**: Vipin doesn't add the match ball. A shift away from needing proof.
+- **Rao's Advice**: "Become a different bowler." The mentor adapting to the new reality.
+
+#### Tension Level: 0.70
+Dual tension: comeback anxiety (will the body hold?) and investigation tension (what will the PI find?). Both threads pulling simultaneously.
+
+---
