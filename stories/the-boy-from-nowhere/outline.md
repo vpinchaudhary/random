@@ -1544,3 +1544,63 @@ The relationship survives the first real fight, but the underlying issue — the
 Rising. The fight is the chapter's peak. The class issues add structural tension that won't resolve with an apology.
 
 ---
+
+### Chapter 24: Aashiqui
+
+**Timeline**: 2013 (age 23)
+**POV**: Third-person limited, Shraddha — full Shraddha chapter
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when the person who's always been seen through someone else's name finally gets seen for herself — and it changes everything?
+
+#### Scene Breakdown
+
+**Scene 1: Before the Storm (early 2013)** (~1,000 words)
+- SHRADDHA POV throughout. The film Aashiqui 2 is about to release. Shraddha has poured everything into this role — a singer who's discovered, whose talent transforms her life. The irony isn't lost on her: she's playing a version of what Vipin lived.
+- The anxiety is real. Previous films underperformed. The industry whispers: "Shakti Kapoor's daughter, limited range." She's heard it. She mind-reads it onto every producer's face, every casting director's smile.
+- Vipin is on tour — India playing somewhere abroad. They talk at odd hours. He doesn't understand film anxiety — his world is quantifiable (runs, wickets, averages). Hers is subjective (reviews, box office, "word of mouth"). But he tries. "If the film is honest, it'll work. If it doesn't, you make the next one." It's simplistic but it steadies her. His certainty — about her, not about the industry — is an anchor.
+- She watches him on TV between takes. An ODI. He scores 55 and takes two wickets. She texts: "Watching you bat is like watching someone argue with physics. Physics loses." He replies with a laughing emoji and "Physics never stood a chance."
+
+**Scene 2: The Release (April 2013)** (~1,500 words)
+- Aashiqui 2 releases. Opening weekend: solid. Second weekend: it explodes. The music goes viral — "Tum Hi Ho" becomes the song of the year. Shraddha's performance is praised universally. Not as "Shakti Kapoor's daughter" — as Shraddha Kapoor, actress.
+- The transformation is instant and total. She's recognized on the street. Papped constantly. Magazine covers. Forbes India Celebrity 100 discussions. She went to sleep as a working actress and woke up as a star.
+- Her phone doesn't stop ringing. Offers pour in. A-list directors want meetings. Brands want endorsements. The machinery of fame — the same machinery that consumed Vipin's narrative — now activates around her.
+- She navigates it differently than he did. Her people-pleasing makes her say yes too often. Her mother intervenes: "You don't have to be grateful for every offer. You've earned this." Shraddha hears the words but the mind-reading distortion runs: they only want me because of the film. Not because of me.
+- The parallel to Vipin is explicit in her own mind: he was reduced to "the orphan cricketer." She's been "Shakti's daughter." Now she's "the Aashiqui 2 girl." The label changes but the cage doesn't. She understands him better through her own fame than she ever understood him before.
+- **Grounding physical detail (Shraddha POV)**: The first morning she's recognized in a coffee shop. A girl, maybe sixteen, approaches with a phone. "Ma'am, selfie?" Shraddha smiles — her public smile, perfected from watching her father — and poses. The girl leaves beaming. Shraddha sits back down and her coffee is cold. She wraps both hands around the cup. Her hands are shaking. She doesn't know why.
+
+**Scene 3: The Shift (mid-2013)** (~1,500 words)
+- The relationship's power dynamics shift. Not dramatically — not a rupture. But the geometry changes. Before: he was the famous one. The cricketer. The name. She was known but not a star. Now: she's bigger, in a different way. Bollywood fame is broader than cricket fame in India's social ecosystem. She's on billboards he drives past.
+- Vipin handles it with characteristic externality: jokes. "Mere se zyada famous ho gayi. Ab toh mujhe bhi tera autograph lena padega." (You've become more famous than me. Now I'll need your autograph too.) She laughs. But she watches him when he's not watching her, and she sees the micro-adjustments — the way he positions himself slightly behind her at events now instead of beside. The way he deflects attention toward her when they're in public. It's generous. It's also a retreat.
+- A conversation, late night. She names it: "You're pulling back." He denies it. She pushes. "You stood next to me six months ago. Now you stand behind me. I notice, Vipin."
+- First-naming him. Not Chaudhary. Vipin. The name on the pendant. It lands.
+- He's honest, eventually: "Your world is your world. I don't want to be the cricketer boyfriend in your photos. I'm not a plus-one."
+- "You're not a plus-one. You're the person I call at midnight. There's a difference."
+- They don't fully resolve it. But she's named it, and naming it prevents it from becoming a silent cancer. The people-pleaser confronted. The armor-wearer seen. Both scared. Both staying.
+- **Imperfect moment (anti-AI)**: Shraddha, at a film event, is asked about Vipin by a journalist. She gives a warm, measured response. Later, she watches the clip online and realizes she said "my boyfriend" on camera for the first time. She didn't plan to. It slipped out. She texts Vipin: "I accidentally confirmed us to a camera." His reply: "Accidentally? Kapoor, nothing you do is accidental." He's right and she knows it.
+
+**Scene 4: Shakti Warms (late 2013)** (~1,000 words)
+- Shakti Kapoor has been watching. The conditional approval from Ch 21 has been tested by time. Vipin hasn't made him regret it. The boy shows up. The boy respects his daughter. The boy doesn't show up in tabloids for the wrong reasons.
+- A small moment: Kapoor family dinner. Vipin is there — comfortable enough now to joke with Shakti, though still careful. Shakti tells a story from his own early career — the hunger, the auditions, the father who sold clothes. He tells it to the table but he looks at Vipin.
+- After dinner, Shakti hands Vipin a box of mithai. "Take these. Shivangi made too much." It's not mithai. It's permission. Vipin takes the box and says "Thank you, uncle" and the "uncle" is warmer than it's ever been.
+- Shraddha watches from the doorway. Her eyes fill. She blinks. Looks up. Breathes.
+- **Unresolved micro-element (anti-AI)**: In the car home, Vipin eats one of the mithais. It's pedha — the same kind the pandit used to get as temple prasad. The taste hits him mid-chew and he stops the car. Pulls over. Sits there for thirty seconds. Shraddha doesn't ask. She puts her hand on his knee. He finishes the pedha, starts the car, and drives home. He doesn't explain. She doesn't need him to.
+
+#### Chapter 24 Emotional Arc
+Anxiety (the release) → Triumph (Aashiqui 2) → Power shift → Naming the problem → Shakti's warming → Sensory memory (the pedha)
+
+#### Hook/Cliffhanger
+Shraddha is a star. Vipin is pulling back. Shakti is warming. The relationship is stronger for having survived the shift, but the structural issue — two worlds, two kinds of fame, the constant public gaze — hasn't vanished. And Vipin's cricket career is about to face its own shift: the IPL spot-fixing scandal of 2013 is about to rock the league he built his name in.
+
+#### Thread Developments
+- **Power Shift**: Named and navigated. Not resolved — these things don't resolve. They're managed.
+- **Shraddha's POV**: A full chapter establishes her as an equal narrator. Her mind-reading, her people-pleasing, her spine.
+- **Shakti's Arc**: Moving from suspicion through conditional acceptance toward genuine warmth. The mithai moment.
+- **The Pedha**: Pandit connection through taste. The temple is never fully gone.
+- **IPL Scandal**: Planted for Chapter 25.
+
+#### Tension Level: 0.50
+Moderate. The power shift creates relational tension, but the chapter's tone is more emotional than dramatic. A breather before the scandal arc.
+
+---
