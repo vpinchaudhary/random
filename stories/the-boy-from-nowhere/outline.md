@@ -1087,3 +1087,66 @@ The photograph. Who are the people in it? Who sent it? Is it his parents? A hoax
 Moderate cricket tension (season performance), low personal tension (the anonymity is liberating), but the photograph at the end spikes mystery tension sharply.
 
 ---
+
+### Chapter 17: The Girl in the Third Row
+
+**Timeline**: 2010 (age 20)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when someone sees the person behind the armor — and the person behind the armor doesn't know he's visible?
+
+#### Scene Breakdown
+
+**Scene 1: The India Cap (early 2010)** (~1,000 words)
+- Vipin receives his India call-up. Not for a Test match — for a T20 International. India vs. a touring side. It's the blue jersey. It's everything.
+- The moment is handled quickly — not a full chapter event, because the IPL auction was Act 1's climax and this isn't the story's emotional center. It's a milestone, not a turning point.
+- He debuts. Performs solidly — 28 off 19 balls, 1-31 in 3 overs. Not a fairytale debut, but competent. He's now an India international. The pendant, touched in the dressing room before he walks out, is invisible under the blue jersey.
+- Rao watches on TV at Shivaji Park. The groundskeeper sits next to him. Neither speaks during Vipin's spell. When his wicket falls, the groundskeeper knocks once on the arm of his chair. Rao looks at him. The old man shrugs. They continue watching.
+- **Grounding physical detail**: The India cap. Vipin holds it in the dressing room. It weighs almost nothing. It weighs everything. He puts it on and looks in the mirror and for one second doesn't make a joke. Then: "Not bad for a guy with no birth certificate." He says it to himself. The mirror doesn't laugh.
+
+**Scene 2: The Party (mid-2010)** (~1,800 words)
+- IPL Season 3 (back in India). MI hosts a sponsor event — a post-match celebration at a Mumbai five-star. Players, management, sponsors, Bollywood figures. The IPL is where cricket meets glamour, and these parties are where the two worlds physically collide.
+- Vipin attends because he has to. He's in a suit — the first he's owned, bought with endorsement money, slightly too tight in the shoulders because Jaat frames don't fit off-the-rack. He's uncomfortable in the suit the way he's comfortable in pads: the suit is a costume, the pads are real.
+- The room: chandeliers, waiters with trays, music he doesn't recognize, conversations about things he has no opinion on. Film producers, actors, models, sponsors. Vipin orbits the edges, makes people laugh when they approach him, deflects when conversation turns personal.
+- Shraddha Kapoor is there. Twenty-three years old. Her debut film (Teen Patti, 2010) has released — she's not yet famous, but she's Shakti Kapoor's daughter, which means she's known in these rooms. She's with a group of Bollywood people, dressed simply (jeans, a nice top, minimal jewelry), laughing at something someone said.
+- Vipin notices her because she's the only person in the room who looks as uncomfortable as he feels. Not awkward — she navigates the social space expertly. But there's a watchfulness behind the ease. She's performing "comfortable" the way he performs "confident." He recognizes the armor because he wears the same kind.
+- They don't meet at the party. Not yet. He sees her; she doesn't see him. He watches her for maybe thirty seconds — the way she tilts her head when she listens, the way she laughs (loudly, openly, then catches herself and quiets down, then laughs again because she can't help it). He watches and then someone taps his shoulder and the moment breaks.
+- **Strange personal detail (anti-AI)**: At the party, Vipin finds the kitchen entrance and talks to the waitstaff. Not performatively — he's more comfortable here. He helps a waiter pick up a dropped tray because his reflexes react before his brain decides whether this is appropriate for a cricketer in a suit. A filmmaker sees this and tells someone: "That cricketer is either very humble or very lost." Neither description is accurate.
+
+**Scene 3: The Introduction (weeks later)** (~1,500 words)
+- A different event. Smaller — a cricket-film crossover charity dinner. Fewer people, round tables, forced mingling. Vipin is seated at a table with a mix of cricketers and film people.
+- Shraddha is at the adjacent table. This time, she notices him. Specifically, she hears him — he's telling a story to his table (something about a mishap during training) and the punchline makes his table and hers crack up simultaneously. She looks over. Catches his eye.
+- Ravi (at the same event for his franchise) makes the introduction. Ravi knows everyone; Ravi is the social bridge Vipin never had. "Shraddha, this is Vipin Chaudhary. Chaudhary, Shraddha Kapoor. Her dad is Shakti Kapoor. Don't make a Crime Master Gogo joke, she's heard them all."
+- Vipin, immediately: "I wasn't going to make a Gogo joke. I was going to make a Gogo reference. There's a difference." Shraddha laughs — surprised, genuine. Ravi groans. "I specifically said don't."
+- The conversation: fifteen minutes that neither of them plans. He's funny — she expected that, everyone's heard about the funny cricketer. But he's also quick. He listens. He asks her about her film, and when she deflects ("It wasn't great, it's fine"), he doesn't let the deflection slide: "I watched the trailer. You were the only person in it who looked like a real human. That's not nothing." It's specific. It's honest. It disarms her.
+- She's warm. He didn't expect that. Not Bollywood-warm (the professional warmth of networking), but genuinely warm — she asks about his cricket, but also about mundane things. Where he lives. What he eats. When he says vegetarian, she lights up: "Same! My mom's side — Kolhapure family. You have to try the batata vada at this place in Versova." The food conversation becomes its own thing.
+- They don't exchange numbers. The event ends, they go to separate cars, and that's it. But Vipin replays the conversation in the car ride home. Specifically: "You were the only person who looked like a real human." He said that. He meant it. He doesn't usually say things he means without wrapping them in a joke first.
+- **Imperfect moment (anti-AI)**: During the conversation, Shraddha mentions her father's career and Vipin almost says something about not having parents — the comparison is right there — and catches himself. The near-miss leaves a visible hitch in his expression. Shraddha notices. Doesn't push. Files it away.
+
+**Scene 4: The Second Conversation (days later)** (~700 words)
+- Ravi, the accidental matchmaker, gives Vipin Shraddha's number. "She asked for yours but I figured I'd give you hers so you have the power. You're welcome."
+- Vipin doesn't call. For three days, the number sits in his phone. The catastrophizing: she's Shakti Kapoor's daughter. She grew up in a bungalow. Her aunts are movie stars. Her great-aunt is Lata Mangeshkar. The distance between a gold pendant on temple stairs and a Juhu bungalow is not a distance you cross with a phone call.
+- She texts first. A link to a vegetarian restaurant with the message: "The batata vada place. You should go. The owner is rude but the food is genuine."
+- He texts back: "Rude and genuine sounds like my career."
+- She sends a laughing emoji. He sends one back. First emojis he's ever sent. He stares at the screen and feels ridiculous and doesn't care.
+- **Unresolved micro-element (anti-AI)**: After the text exchange, Vipin goes to the drawer. Takes out the photograph from Chapter 16. Looks at the young couple. Puts it back. He doesn't know why he looked at it now. Except that someone just asked for his phone number for the first time, and somewhere in the wiring of his brain, that connects to the question of who he came from.
+
+#### Chapter 17 Emotional Arc
+Achievement (India cap) → Social discomfort → Recognition (seeing her) → Connection (the conversation) → Vulnerability (the text) → Tentative hope
+
+#### Hook/Cliffhanger
+A text thread is open. A restaurant has been recommended. The armor has a crack in it — small, barely visible, but Shraddha found it because she recognized it. The slow burn has its first spark. And the reader turns the page because they know what Vipin doesn't: this woman is going to change everything.
+
+#### Thread Developments
+- **Shraddha Introduced**: Not as love interest — as a person. Her warmth, her awareness, her own armor (people-pleasing, mind-reading).
+- **Ravi as Bridge**: His social function deepens. He's the connective tissue between worlds.
+- **The Armor Crack**: Vipin said something honest without a joke. This is unprecedented.
+- **India Cap**: Milestone achieved, handled without sentiment. Cricket progression continues.
+- **Class Distance**: Planted from the first moment. The Juhu bungalow vs. the temple stairs. This will drive Act 2B.
+
+#### Tension Level: 0.45
+Low-moderate. The tension here is internal — the fear of connection, not the fear of failure. Romantic tension begins.
+
+---
