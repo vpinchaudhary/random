@@ -828,3 +828,70 @@ The debut is done. It was good, not great. But 143 kph and that catch — the hi
 Match-day intensity. The debut creates real performance stakes. Resolves well but opens the media thread.
 
 ---
+
+### Chapter 13: The Orphan Who Hits Sixes
+
+**Timeline**: April–May 2008 (age 18)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+Who gets to tell your story — you, or the people who find it useful?
+
+#### Scene Breakdown
+
+**Scene 1: The Breakout Match (mid-season 2008)** (~1,500 words)
+- Match 7 or 8 of MI's season. MI is chasing a moderate target — 165. The top order collapses. 48/4 in the powerplay. A crisis.
+- Vipin walks in at 6 (promoted from 7 due to the collapse). He's facing a bowling attack with two international seamers and a quality spinner. The required rate is manageable but the pressure is top-order pressure, not lower-order cameo territory.
+- He bats. And something happens that hasn't happened before: he bats *long*. Not a slog, not a cameo. A proper innings. Rao's coaching meets the street instinct. He defends the good balls (the leaving lesson finally internalized). He punishes the bad ones — and his punishment is violent. A six over long-on that lands in the upper tier. A four through covers off a 145 kph delivery that he plays like it's slow-medium.
+- He bats with Sachin's partner at the other end — an older Indian batsman. The partnership builds. 50 runs. 80 runs. Vipin passes 50 — his first IPL half-century. The crowd is chanting something he can't make out at first: "Chau-dha-ry, Chau-dha-ry." His name in fifty thousand mouths.
+- He finishes unbeaten: 78 not out off 48 balls. MI wins with two overs to spare. He hit six sixes. Six. A number the commentators repeat — "six sixes from the eighteen-year-old, what a player."
+- Man of the Match. His first. He's handed the award on the field — a golden trophy and a check. The camera is in his face. The interviewer asks: "Vipin, incredible innings. Tell us about your journey." And for the first time, the orphan narrative is requested on live television.
+- He deflects. A joke: "My journey today was from the hotel to the stadium, about twenty minutes, traffic was okay." The interviewer laughs, the crowd laughs, and he escapes without answering.
+- But the question is out there now.
+
+**Scene 2: The Story Breaks (next few days)** (~1,500 words)
+- Anjali Mehta. Sports journalist, mid-twenties, ambitious, writes for a major cricket outlet. She's been covering the IPL and she smells a story.
+- She digs. The MCA registration records are semi-public. The birth certificate's "Father: Unknown, Mother: Unknown" is in the system. Shivaji Park coaches talk. Former age-group teammates mention the storage room. Someone — maybe the rival coach who filed the complaint in Ch 7 — gives her the full background.
+- The article publishes: "The Boy From Nowhere: How an Orphan from Mumbai's Streets Became the IPL's Most Exciting Teenager." It's well-written. It's sympathetic. It's accurate. And Vipin hates every word of it.
+- The article goes viral — by 2008 standards, it's shared across cricket forums, picked up by TV channels, becomes a segment on news programs. "Inspiring story." "Rags to riches." "Slumdog cricketer." The framing Vipin has spent his entire life avoiding — the pity narrative, the poverty origin story — is suddenly the only thing anyone wants to talk about.
+- The MI media team is delighted. "Great story, great brand." They want to build his profile around it. The underdog angle. The sponsors love it.
+- Vipin reads the article in his hotel room. His face empties. The silence. Not angry at Anjali specifically — she did her job and didn't lie. Angry at the reduction. Eighteen years compressed into "orphan who hits sixes." As if the cricket is the surprise and the orphan is the story. He sees it backwards: the cricket is the story. The orphan part is just where he happened to start.
+- **Imperfect moment (anti-AI)**: Vipin is cold to a teammate who brings up the article positively. "Bhai, kya story hai teri" (What a story you have). Vipin's response is clipped: "Story nahi hai. Cricket hai." (It's not a story. It's cricket.) The teammate backs off, confused. Vipin knows he was rude and doesn't fix it. Sometimes the armor has spikes.
+
+**Scene 3: The Interview (days later)** (~1,200 words)
+- MI's media manager arranges an interview. Post-match presser after a win. Anjali Mehta is in the room. Other journalists too. The questions are about cricket — his bowling, his batting — but they keep circling back.
+- "Vipin, can you tell us about your childhood?" "Vipin, when did you know you had talent?" "Vipin, is it true you lived in a storage room?"
+- He handles it with humor. Every question gets a deflection. "My childhood was in Mumbai, same as most of you." "I knew I had talent when the other team stopped bowling to me — around age ten, so I'm a slow learner." "The storage room had great acoustics."
+- But one question lands differently. A journalist asks: "Do you ever think about your parents? Do you want to find them?"
+- The room quiets. Vipin's hand goes to his chest — where the pendant sits — and he catches himself. Pulls the hand back. The three-second silence is louder than any answer.
+- "Next question." Two words. No joke. The room moves on. But the moment is on camera. It becomes a GIF. It becomes the defining image of Vipin Chaudhary in 2008: the hand reaching for the pendant, stopping, the face that says everything by saying nothing.
+- **Grounding physical detail**: The press room. Fluorescent lights that buzz faintly. A table with a Mumbai Indians banner draped over it. Three microphones on stands. A water bottle with the condensation running down. Vipin watches the water drip while answering questions. Counts the drips. It keeps him present.
+
+**Scene 4: Rao's Warning (same evening)** (~800 words)
+- Vipin calls Rao. Rao has seen the article. Has seen the interviews.
+- "They'll want more," Rao says. "The story is bigger than the cricket now. You need to decide what you give them."
+- "I give them runs and wickets. That should be enough."
+- "It should be. It won't be."
+- This is Rao at his most honest: the world of professional sport is not a meritocracy of talent alone. It's a narrative economy. And Vipin's narrative — the orphan, the street kid, the underdog — is worth more to the media and the sponsors than his batting average.
+- Vipin doesn't want a narrative. He wants to be a cricketer. But the world doesn't offer that choice.
+- **Strange personal detail (anti-AI)**: After the call with Rao, Vipin googles himself. First time. He reads the comments on Anjali's article. Most are positive — "inspirational," "what a talent," "India's next star." One comment, buried in the thread, says: "This orphan thing is a nice story but let's see if he can handle pressure when the pitches get flat." Vipin reads it three times. He prefers this comment to all the praise. At least this one judges him on cricket.
+- **Unresolved micro-element (anti-AI)**: A letter arrives at the MI team hotel, addressed to "Vipin Chaudhary, Mumbai Indians." No return address. Inside: a religious pamphlet and a short note in Hindi: "We saw your story on the news. God has a plan for you." Unsigned. Vipin reads it, folds it, throws it in the bin. Then retrieves it. Puts it in the drawer with everything else. He doesn't believe the note is from his parents. But he can't throw it away.
+
+#### Chapter 13 Emotional Arc
+Triumph → Exposure → Anger (at narrative) → Deflection → Quiet dread (of losing control of his story)
+
+#### Hook/Cliffhanger
+The orphan narrative is loose. It's not going back in the box. Every performance now comes with a caption: "the boy from nowhere." Vipin can either fight it or shape it, but he can't ignore it. And Anjali Mehta isn't done — she wants the full story, not just the article. She wants the interview he won't give. The media and the man are on a collision course.
+
+#### Thread Developments
+- **Anjali Mehta**: Full introduction. Not a villain — a professional doing her job. The dynamic is set: she wants the real story, he wants to control it.
+- **The Orphan Narrative**: The media frame that will follow Vipin for the entire story. His inability to control it is a new kind of powerlessness.
+- **The Pendant Moment**: The hand reaching for the pendant on camera. This image will recur.
+- **MI Season**: Vipin is establishing himself. Performance-wise, he's arrived. But the off-field complexity is multiplying.
+- **The Unsigned Letter**: Pendant mystery thread — ambiguous, haunting.
+
+#### Tension Level: 0.60
+Rising. Performance tension is high (the breakout innings), but the real tension is the media narrative. Vipin is losing control of something and he doesn't know how to fight it.
+
+---
