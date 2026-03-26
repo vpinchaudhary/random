@@ -1604,3 +1604,74 @@ Shraddha is a star. Vipin is pulling back. Shakti is warming. The relationship i
 Moderate. The power shift creates relational tension, but the chapter's tone is more emotional than dramatic. A breather before the scandal arc.
 
 ---
+
+### Chapter 25: Clean Hands
+
+**Timeline**: May–August 2013 (age 23)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+When the system you've built your life inside reveals its rot — how do you stay clean without pretending you never knew it was dirty?
+
+#### Scene Breakdown
+
+**Scene 1: The Scandal Breaks (May 2013)** (~1,200 words)
+- The IPL spot-fixing scandal. Real history: in May 2013, Delhi Police arrested three Rajasthan Royals players for spot-fixing. The investigation spiraled — franchise owners implicated, BCCI officials questioned, the entire legitimacy of the IPL under threat.
+- Vipin learns about it like everyone: news alerts, team group chats exploding, MI management calling emergency meetings. The names arrested are known to him — not friends, but he's played against them. They shared dressing rooms. They shook hands at toss ceremonies.
+- The feeling: betrayal, but not surprise. Vipin grew up in Bhai's world. He knows what match-fixing looks like in gully cricket — money riding on games, results negotiated before the first ball. He always assumed the IPL was different. The money was too big, the stakes too high. He was wrong. The money being bigger just means the fixing is bigger.
+- MI is not directly implicated in fixing — but the shadow touches everyone. The BCCI launches investigations across all franchises. Players are questioned. Phone records checked. Financial histories scrutinized.
+- Vipin's phone records are clean. His finances are clean. His bank account shows IPL salary, endorsements, and an anonymous donation to a 26/11 fund. Nothing suspicious. But the scrutiny itself is invasive — men in suits asking where his money goes, who he talks to, whether anyone has ever approached him about "arrangements."
+- The irony: the boy who grew up with no documentation is now under investigation because of his documentation. The system he fought to enter is checking his papers again.
+
+**Scene 2: The Approach (June 2013)** (~1,500 words)
+- Not from a bookie. From Bhai.
+- Bhai contacts Vipin through an intermediary — a mutual acquaintance from the old streets. The message: "Bhai wants to talk. It's business. Important."
+- They meet. Bhai has evolved — no longer a gully fixer. He's a businessman now (the grey kind, still). He has connections to the betting world — not directly, but one or two handshakes away. The IPL scandal has disrupted the illegal betting market. New arrangements are needed. New faces. Faces that are clean.
+- Bhai's pitch: he doesn't ask Vipin to fix matches. He's smarter than that. He asks for information. Pitch conditions. Team selection rumors. Injury updates. Things Vipin knows naturally that are worth millions in the betting market. "You don't have to do anything wrong. Just tell me what you see."
+- The grey zone. It's not fixing. It's not illegal in the strictest sense (the law is murky). But it's wrong, and Vipin knows it instantly. The pandit's values, Rao's values, the integrity that was built into him at the temple and the nets — it fires.
+- "No."
+- Bhai leans back. The flat eyes. The cigarette. "Chaudhary, the world isn't divided into clean and dirty. It's all grey. You live in the grey. I just made it comfortable for you."
+- "That was a long time ago. I was a kid."
+- "You were a kid who ate because I fed you. Now you eat at five-star hotels and I'm nobody?"
+- The debt. Named again. Explicit this time. Bhai isn't threatening — he's hurt. Or performing hurt. With Bhai, the difference is unreadable.
+- Vipin stands. "I said no, Bhai. Don't ask again." Walks out. His hand is shaking. Not from fear — from the effort of severing something that's been attached to him since he was nine years old.
+- **Imperfect moment (anti-AI)**: In the car after, Vipin calls Rao to tell him about Bhai's approach. Rao's response is immediate: "Report it to the anti-corruption unit." Vipin doesn't. He tells Rao he will, but he doesn't. Because reporting Bhai means the police, the investigation, Bhai's name linked to his, the media narrative: "IPL Star's Criminal Past." The street kid protects his own, even when his own is the threat.
+
+**Scene 3: The Anti-Corruption Interview (July 2013)** (~800 words)
+- Routine. All IPL players are interviewed by the BCCI's anti-corruption unit. Vipin sits in a room with two officers. Questions about approaches, suspicious contacts, betting patterns.
+- He answers honestly about everything except Bhai. He tells them no one has approached him. A lie. A deliberate, eyes-open lie. The first time in the story Vipin chooses dishonesty, and it sits in his chest like a stone.
+- The officers clear him. Clean. His record is spotless. He walks out and the relief should feel good. It doesn't. The stone stays.
+- **Grounding physical detail**: The anti-corruption interview room. A conference table, water bottles, a recording device with a red light. The officers wear polo shirts, not suits. One of them has a cricket pen — a bat-shaped pen. Vipin fixates on it for the entire interview. Counts the times the man clicks it. Thirty-seven.
+
+**Scene 4: Rao's Judgment (August 2013)** (~1,500 words)
+- Rao knows Vipin didn't report Bhai. He doesn't know how he knows — but thirty years of coaching gives you a sense for when your student is carrying something.
+- A conversation at Shivaji Park. After training. Just the two of them.
+- "You didn't report it." Not a question.
+- Vipin's face empties. The silence.
+- "I couldn't, uncle. He fed me when nobody else did."
+- Rao walks away. His composure break pattern — mid-conversation, just turns and leaves. Comes back twelve minutes later. Vipin hasn't moved.
+- "The man you're protecting is the man who would destroy you. If he can't use you, he has no reason to protect your secret. And if the anti-corruption unit finds out you lied, your career is over. Not suspended. Over."
+- Vipin knows this. Has known it since the interview. The stone gets heavier.
+- "What do I do?"
+- "You go back. You tell them the truth. And you accept whatever comes from it."
+- The chapter doesn't show whether Vipin does this. That resolution comes later. The chapter ends with Vipin at his flat, staring at the wall, the stone in his chest, the rubber ball unsqueezed in his pocket, the pendant cold against his skin.
+- **Unresolved micro-element (anti-AI)**: Bhai sends Vipin a package. Inside: a tennis ball. Taped. The kind they played with in the gully. No note. The message is clear: remember where you came from. Remember who you owe. Vipin puts the tennis ball in the drawer. It sits next to the photograph of the unknown couple, the match ball, the boarding pass, the India cap photo. The drawer is becoming a museum of debts — some owed to the past, some owed to the future.
+
+#### Chapter 25 Emotional Arc
+Systemic shock → The approach → Refusal → The lie → Rao's judgment → Moral paralysis
+
+#### Hook/Cliffhanger
+Vipin lied to the anti-corruption unit. Bhai is still out there. Rao knows. The stone in his chest is the weight of the grey zone he told Bhai he'd left behind — but he hasn't, because the lie proves he's still in it. Whether he goes back and tells the truth will define whether the boy from the streets can fully become the man he's built.
+
+#### Thread Developments
+- **Bhai's Claim (Chekhov's gun firing)**: The debt is called in explicitly. Vipin refuses the action but can't refuse the guilt.
+- **The Lie**: The first dishonest act. This creates real jeopardy — if discovered, career-ending.
+- **Rao's Moral Authority**: The one person who holds Vipin accountable. Rao's walkaway is devastating.
+- **IPL Scandal**: Real history woven into personal story. The rot isn't external — it touches Vipin directly.
+- **The Tennis Ball**: Bhai's most powerful weapon isn't a threat — it's nostalgia.
+
+#### Tension Level: 0.70
+High. Institutional stakes (anti-corruption), personal stakes (Bhai), moral stakes (the lie). The highest tension in Act 2B so far.
+
+---
