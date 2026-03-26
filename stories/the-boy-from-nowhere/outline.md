@@ -1991,3 +1991,145 @@ A woman named Sunita Devi in Haryana may know who Vipin Chaudhary is. The invest
 Dual tension: comeback anxiety (will the body hold?) and investigation tension (what will the PI find?). Both threads pulling simultaneously.
 
 ---
+
+### Chapter 31: Haryana
+
+**Timeline**: Mid-2016 (age 26)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question
+What happens when the orphan meets the village — and the village tells a story the orphan didn't expect?
+
+#### Key Events
+- Vipin drives to Haryana alone. Doesn't tell Shraddha, Rao, or Ravi. This is private. The drive is six hours from Mumbai — he's never been to North India outside of cricket tours. The landscape changes: Mumbai's chaos gives way to highways, then Haryana's flat, agricultural expanse. Jaat country. His country, maybe.
+- He finds the village. Small, rural, Jaat dominated. The Chaudhary name is everywhere — it's the most common surname. His pendant means less here than he imagined. Every other house is Chaudhary.
+- He finds Sunita Devi's house. An old woman, weathered, direct. He doesn't announce himself as a cricketer. Just says: "I'm looking for information about Rajveer Chaudhary."
+- Her face changes. Rajveer was her son. Her only son. He left for Mumbai in 1989 — young, ambitious, wanted to make money in the city. He married a girl from a neighboring village before he left — a love marriage, which caused family friction. They went to Mumbai together. Sunita heard from them sporadically — letters, then nothing. In 1991, she filed the missing person report. It went nowhere.
+- She never heard from Rajveer again. Never met a grandchild. Never knew there was a pendant.
+- Vipin shows her the pendant. "Vipin Chaudhary." She holds it. Her hands shake. She says: "Rajveer's wife was named Kamla. She was beautiful. She was kind. If they named a son Vipin..." She can't finish.
+- Vipin sits in this woman's house — his grandmother, possibly — and the question that's defined his life ("who left me?") acquires texture. Not an answer. Texture. His father had a name. His mother had a name. They were people, not abstractions.
+- Sunita doesn't know why they left him at the temple. Doesn't know what happened to them. The trail goes cold in Mumbai in 1990.
+- He leaves. Sunita walks him to the road. She holds his face in both hands — the way grandmothers do — and looks at him. "You look like him. Rajveer. The jaw. The eyes." Vipin can't speak. He nods. She lets go.
+- **Thread**: The pendant mystery half-answered. Parents: Rajveer and Kamla Chaudhary. But what happened to them? Why did they leave him? Are they alive?
+- **Emotional Arc**: Dread → Contact → Revelation → Grief → Partial answers
+- **Tension Level**: 0.60 — emotional weight, not dramatic tension. A breather in plot intensity, peak in emotional depth.
+
+---
+
+### Chapter 32: The Fracture
+
+**Timeline**: Late 2016 (age 26)
+**POV**: Third-person limited, alternating Vipin/Shraddha
+**Word Target**: 5,000 words
+
+#### Central Question
+Can a relationship survive when one person is breaking apart and won't let the other person help?
+
+#### Key Events
+- Vipin returns from Haryana changed. Quieter. He's processing Rajveer and Kamla — their names, their faces (Sunita gave him an old photograph, a real one this time, identified). But he doesn't share this with Shraddha immediately. The fatal flaw: he processes alone. He can't ask for help.
+- Shraddha senses the shift. She pushes — gently at first, then less gently. "Where did you go? What happened?" He tells her eventually, but stripped of emotion — facts, not feelings. "I found my grandmother. My father's name was Rajveer. My mother's name was Kamla. I don't know what happened to them."
+- She's hurt — not by the information but by the exclusion. "You went to find your family and you didn't tell me. You didn't take me." The people-pleaser's spine: she wanted to be there. She was ready. He didn't let her.
+- The fight is the worst they've had. Not loud — devastatingly quiet. She names the pattern: "You let me in just enough to think I'm close, then you shut the door. Every time. The pendant, the drawer, Haryana — I'm always finding out after."
+- He can't argue because she's right. The fatal flaw, named by the person who loves him most. He doesn't defend. Doesn't deflect. Goes silent. The silence that frightens people who know him.
+- She leaves. Not permanently — she goes to her parents' house. A separation of days, not a breakup. But the distance is real and both of them feel the possibility of it becoming permanent.
+- Meanwhile: cricket form dips. He's distracted, the batting suffers, the bowling is already diminished. He scores 12, 8, 23 in consecutive matches. The media notices: "Chaudhary's form slump post-injury."
+- Rao intervenes. Not about the relationship (Rao doesn't do relationships) but about the cricket: "Your head isn't here. I can see it. Where is it?" Vipin tells Rao about Haryana. About Rajveer and Kamla. Rao listens — the first full emotional debrief Vipin has given anyone.
+- **Thread**: Relationship fractures. Cricket dips. The Haryana revelation needs processing he can't do alone.
+- **Emotional Arc**: Return → Exclusion → The fight → Separation → Cricket collapse → Rao's listening
+- **Tension Level**: 0.80 — relationship crisis + cricket crisis + identity crisis all converging.
+
+---
+
+### Chapter 33: Dark Night
+
+**Timeline**: Early 2017 (age 27)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question
+What's at the bottom — and is there something beneath the bottom?
+
+#### Key Events
+- The lowest point. Vipin is separated from Shraddha (not broken up — a limbo). His cricket is mediocre. The India selectors drop him from the squad — "rest period," the euphemism for being left out. The media: "Is Chaudhary Finished?"
+- He's alone in the flat. The cooking habit continues (it's better now — the dal is right, the rice is dry). But the cooking is the only structure. Everything else is formless.
+- The PI delivers a final report. Rajveer and Kamla Chaudhary: last known address in Mumbai, 1990. After that: nothing. No death certificates. No police reports. No hospital records. They disappeared. The PI's professional assessment: "In Mumbai in 1990, people from rural backgrounds disappear for many reasons. Debt. Crime. Illness. Some simply start over under different names. I can't find them. They may not want to be found. Or they may not be findable."
+- The implication: they might be dead. Or they might be alive and chose not to come back. Both possibilities are devastating in different ways.
+- Vipin sits with this. The pendant has an origin now — Rajveer and Kamla, a village in Haryana, a grandmother named Sunita. But the central mystery — WHY they left him — is as dark as ever.
+- He goes to the temple. His old temple — the one where the pandit raised him. It's still there. Different pujari, different cat. But the same stone steps, the same bell, the same smell. He sits in the back, like he did in Chapter 9 before the auction. Doesn't pray. Watches others pray.
+- Something breaks open — not like the crying in Ch 29 (that was release). This is acceptance. The dark kind. He might never know why they left him. He might spend his life with the question unanswered. And life continues regardless.
+- The chapter's climactic scene: Vipin calls Shraddha. Not to fix things. Not to apologize (though he does). To tell her the PI's findings. To tell her he doesn't know what happened to his parents and may never know. To tell her that he's scared — the word he's never used — and that he needs her.
+- "I need you." Three words. The fatal flaw, broken. The boy who couldn't ask for help, asking.
+- She doesn't say "I'll come over." She says: "I'm already in the car."
+- **Thread**: Rock bottom → acceptance → the fatal flaw breaks → reconnection
+- **Emotional Arc**: Isolation → Final report → Temple → Acceptance → "I need you"
+- **Tension Level**: 0.85 — the darkest chapter. Maximum internal intensity. But the ending cracks toward light.
+
+---
+
+### Chapter 34: Rebuilding
+
+**Timeline**: Mid-2017 (age 27)
+**POV**: Third-person limited, alternating Vipin/Shraddha
+**Word Target**: 5,000 words
+
+#### Central Question
+What does it look like to rebuild — not from the rubble of failure, but from the clarity of having broken apart?
+
+#### Key Events
+- Shraddha and Vipin together. Not the pre-fracture version — a different version. She stays at his flat. They cook together (she's terrible at it; he's patient). The domesticity is new and tentative, like walking on a healed bone.
+- He tells her everything. Not in one conversation — over days. Haryana. Sunita. The photograph. The PI's dead end. Bhai. The lie to anti-corruption. Everything he's withheld. The armor comes off piece by piece and what's underneath is a man, not a myth.
+- She tells him things too. Her own fears — the mind-reading distortion, the people-pleasing, the fear that she's loved for her last name not herself. They're not comparing wounds anymore (the Ch 19 mistake). They're building something from mutual exposure.
+- Cricket: Vipin goes back to Shivaji Park. To basics. Rao's domain. They strip his game back to fundamentals — like 2003 again, like the first sessions. The batting is rebuilt with patience (the thing he finally has). The bowling is remodeled: medium-fast, not fast, with movement, cutters, and craft replacing raw pace. He'll never bowl 142 again. He can bowl 132 with the intelligence of a man who's watched 10,000 deliveries.
+- A Ranji match. His first competitive cricket in months. He bats for six hours. Scores 167. The most patient innings of his career. Rao watches from the boundary and says nothing. But the reading glasses are on his forehead and his chai is cold again.
+- Shakti Kapoor, learning through Shraddha that Vipin searched for his parents, invites him to dinner. The meal is quiet, warm, different from the interrogation of Ch 21. Shakti says: "A man who looks for his family is a man who values family. I misjudged you." The approval that was conditional is becoming unconditional.
+- **Thread**: Rebuilt relationship, rebuilt cricket, Shakti's acceptance, the new Vipin (patient, open, adapted)
+- **Emotional Arc**: Tentative → Exposure → Vulnerability shared → Cricket rebuilt → Shakti's acceptance
+- **Tension Level**: 0.65 — still elevated (recovery is fragile) but trending positive. The first sustained upward movement since Ch 27.
+
+---
+
+### Chapter 35: The Grandmother
+
+**Timeline**: Late 2017 (age 27)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question
+Can you build a family from fragments — from a grandmother you just met, a coach who signed as your guardian, a friend who never left, and a woman who came when you called?
+
+#### Key Events
+- Vipin goes to Haryana again. This time, with Shraddha. They drive together.
+- Sunita Devi meets Shraddha. The old woman holds Shraddha's face in her hands the same way she held Vipin's. "You're beautiful. He married well." Vipin: "We're not married." Sunita: "Yet." Shraddha blushes. Vipin does too — the first time the reader has seen him blush.
+- Sunita tells more stories. Rajveer as a boy — stubborn, funny, big-framed. "He looked like you. Exactly like you." She shows old photographs. Vipin sees his own face in a man from the 1980s and the feeling is tectonic.
+- Kamla — Sunita has a photograph of her too. Small, sharp-featured, kind eyes. "She sang. Always singing. She had a voice." Vipin thinks of Shraddha singing in the shower. Thinks of the pandit humming during temple chores. Patterns connecting across generations.
+- Sunita gives Vipin something: a pair of Rajveer's old cricket gloves. His father played gully cricket too. Not gifted, not like Vipin — but loved the game. "He would have been proud of you beyond what words can hold." Vipin takes the gloves. They're worn, too small for his hands now. They go in the drawer.
+- The chapter's heart: Vipin, Shraddha, and Sunita having dinner in the village house. Three people from three different worlds — a Jaat grandmother in Haryana, a Bollywood actress from Juhu, and a cricketer from nowhere who's slowly becoming from somewhere. They eat together. Simple food. Vipin eats everything on his plate. Sunita notices and smiles.
+- **Thread**: Family expands. Sunita becomes a character. The pendant mystery reaches its resting point — parents gone, but grandmother found. Origin is partial but real.
+- **Emotional Arc**: Return → Sharing (with Shraddha) → Sunita's stories → Father's cricket connection → Family dinner → Belonging (imperfect, partial, real)
+- **Tension Level**: 0.50 — a breather. Warm chapter. Emotional depth without crisis. Necessary before the final act.
+
+---
+
+### Chapter 36: The Captain's Armband
+
+**Timeline**: 2018 (age 28)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question
+Can a man who rebuilt himself lead others — and what kind of leader is forged from everything Vipin has survived?
+
+#### Key Events
+- Cricket redemption. Vipin's adapted game — the patient batting, the crafty bowling — earns him recall to the India squad. The selectors see what Rao always saw: the talent was never the whole story. The mind, the adaptability, the refusal to quit — these are what make a cricketer valuable at 28.
+- MI makes Vipin captain. Not India captain (not yet) — IPL captain. The franchise that bought him at auction for $100K now trusts him to lead. The boy whose name was called in a hotel ballroom now calls the shots from mid-pitch.
+- The captaincy changes him subtly. He's always read people — from Bhai's streets to Rao's nets to hotel lobbies. Now he reads them as a leader: who's confident, who's faking, who needs a word, who needs silence. The humor becomes a tool of leadership — loosening dressing rooms before big matches, defusing ego clashes with a well-placed joke.
+- MI's season is strong. Vipin leads from the front — 450 runs, 12 wickets (at reduced pace but increased cunning). MI reaches the final.
+- The IPL final. Wankhede. The same stadium where he watched the World Cup with Shraddha. Now he walks out as captain, the crowd chanting "Chaudhary, Chaudhary." Full circle.
+- MI wins. Vipin lifts the trophy. The crowd is deafening. He searches the stands — finds Shraddha, Shakti, Shivangi, Rao, Ravi. The people he has. The family he built. He points to them with the bat and the gesture is private in the middle of public celebration.
+- Post-match, alone for a moment: he touches the pendant. "Rajveer. Kamla. Your son won something tonight." He says it aloud to nobody. Maybe to somebody.
+- **Thread**: Cricket arc peaks (differently than before — wisdom over power). Leadership as identity. Family assembled. Act 3 resolves — the crisis has been survived.
+- **Emotional Arc**: Rebuild → Captaincy → Leading → Victory → Gratitude → Speaking to the dead
+- **Tension Level**: 0.90 — climactic. The IPL final is the structural climax of Act 3. But the emotional climax is the pendant moment, quiet inside the roar.
+
+---
