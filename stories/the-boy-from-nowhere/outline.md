@@ -692,3 +692,73 @@ Act 1 ends. The boy from nowhere has a price, a team, and a future. But he's sti
 Act 1 climax. The highest tension yet. But it resolves into stillness, not explosion — which is more powerful and more true to Vipin's character.
 
 ---
+
+### Chapter 11: The Dressing Room
+
+**Timeline**: February–March 2008 (age 17, turning 18)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when the boy who's never belonged anywhere walks into a room full of gods and is told he's one of them?
+
+#### Scene Breakdown
+
+**Scene 1: The Hotel (February 2008)** (~1,200 words)
+- Mumbai Indians pre-season camp. A five-star hotel in Mumbai. Vipin arrives with a single bag — his SG bat, two changes of clothes, the pendant, the rubber ball. The hotel lobby has a chandelier. The floor is marble. A bellboy tries to take his bag and Vipin physically blocks him — instinct, street reflex, don't let anyone touch your things.
+- His room: bigger than the storage room, the temple quarters, and Bhai's corner combined. King bed. Air conditioning. A bathroom with towels folded into swans. Two kinds of soap. He picks up the hotel soap — white, expensive, odorless — and for a flash, the pink temple soap hits his memory. He puts the soap down.
+- He stands at the window. Mumbai spread out below — the same city, seen from a height he's never had. He can see Shivaji Park from here, or he imagines he can. The storage room is somewhere down there. Seven kilometers and a universe away.
+- He counts the threads in the bedsheet. Because he can't process the room, so he processes a number. Three hundred twenty-something — the thread count is ridiculous. He makes a mental joke about it and realizes there's nobody to tell it to.
+- **Grounding physical detail**: The hotel bathroom. White marble, chrome fixtures, a rain shower he doesn't know how to operate. He turns the wrong knob, gets blasted with cold water, and stands there laughing at himself alone in a bathroom that costs more per night than he earned in a year on the streets.
+
+**Scene 2: Meeting the Squad (same week)** (~1,500 words)
+- Team meeting room. The Mumbai Indians squad assembles. Vipin walks in and the room is a constellation of faces he's seen on TV, on newspapers, on posters outside cricket stadiums.
+- Sachin Tendulkar is across the room. Not a poster. Not a TV image. A man, shorter than Vipin expected, sitting quietly, drinking water. The most famous cricketer alive, and he's just... there. Vipin's body does something it's never done: it freezes. For two seconds, the street kid who's never been intimidated by anything is paralyzed by proximity to Sachin.
+- It breaks when Sachin looks up, catches his eye, and nods. Just a nod. An acknowledgment. The world resumes.
+- The other players: Harbhajan Singh (loud, magnetic, Punjabi energy that fills a room). Lasith Malinga (Sri Lankan, the slingy-armed fast bowler, quiet, watches everything). Shaun Pollock (South African veteran, measured, professional). And a dozen others — international stars and domestic players and other young picks like Vipin.
+- The coach introduces the squad. When Vipin's name is called, the description is brief: "Young Mumbai talent. All-rounder. Fast bowler. Seventeen." Some players glance at him. Most don't. He's the youngest in the room by years.
+- Ravi is there — different franchise, but they've talked. Vipin is alone in the MI squad. No ally. No buffer. Just the humor and the armor.
+- He introduces himself the only way he knows: a joke. During the ice-breaker session, when asked to share something about himself, Vipin says: "I'm from Mumbai, I bowl fast, and I'm vegetarian, so if you're sharing a room with me, your chicken is safe." The room laughs. Harbhajan laughs loudest. Malinga smiles — small, but real. Sachin doesn't laugh, but the corner of his mouth moves. That's enough.
+- **Imperfect moment (anti-AI)**: During the team dinner — a buffet spread that Vipin has never seen the equal of — he loads his plate with too much food. Not greed, not gluttony. Muscle memory. When food is available, you take as much as you can because you don't know when it'll be available again. He catches himself halfway through the second plate and stops. Sets the fork down. Looks at the plate. The other players eat casually, leave food uneaten, push plates away half-finished. He eats every grain on his plate and feels the distance between his life and theirs in the food he cannot waste.
+
+**Scene 3: First Net Session with the Squad (same week)** (~1,500 words)
+- The nets. Proper nets — not Shivaji Park, not age-group cricket. International-standard practice facility. Bowling machines set to 150 kph. Throwdown specialists. Video analysts with laptops.
+- Vipin bowls first. The run-up is longer than he's used to — the nets are regulation length. He runs in and bowls at a senior batsman. 134 kph. Good length. The batsman defends respectfully.
+- Second ball: 137 kph. Moving in. The batsman is beaten for pace.
+- Third ball: Vipin digs it in short. 140 kph. The ball kicks off the pitch and the batsman sways out of the way. The bowling coach — a former Indian fast bowler — puts down his coffee.
+- "How old is he?" the bowling coach asks Rao, who's been invited to observe.
+- "Seventeen. Eighteen in June."
+- The bowling coach watches three more balls. Says nothing. Makes notes.
+- Vipin bats. Faces the throwdown specialist — a machine of a man who delivers at 145+ kph consistently. The first few balls: Vipin is adjusting. The pace is genuine, the bounce is more than he's faced. He plays and misses. Nicks one. Blocks two.
+- Then the eye kicks in. The throwdown man sends one at 148 kph, full, outside off. Vipin drives it — a cover drive so clean, so precisely timed, that the net shakes. The throwdown man pauses. Sends another. Same result. Vipin is locked in now, the temporal perception doing what it does — the ball isn't slower, but he has more time. He hits eight consecutive balls to the same spot. The net has a dent.
+- Sachin, padding up at the adjacent net, stops. Watches. Three balls. Then goes back to his own preparation. Later, in the hotel corridor, he passes Vipin and says four words: "Good hands, young man." And keeps walking.
+- Vipin replays those four words for a week.
+- **Strange personal detail (anti-AI)**: Vipin notices that the practice balls are stamped with the Mumbai Indians logo — a custom cricket ball. He pockets one after the session. Not stealing (they have hundreds). He just wants one. He puts it in the drawer next to the batting gloves and the newspaper clipping and the piece of paper. His collection of proof.
+
+**Scene 4: The First Night in the New World (evening)** (~800 words)
+- Back in the hotel room. Alone. The room is still too big. The silence is different from the storage room silence — no groundskeeper coughing, no Shivaji Park sounds. Just air conditioning and the distant hum of the hotel.
+- He calls Rao. Doesn't say much — Rao asks how it went, Vipin says "Fine," and Rao hears everything in the "fine."
+- "Sachin said I have good hands."
+- Silence from Rao. Then: "He's right. You do." The emotion in Rao's voice is the most Vipin has ever heard from him. Neither acknowledges it.
+- Vipin hangs up. Sits on the king bed. Takes out the pendant. Holds it.
+- He doesn't count anything tonight. He replays Sachin's words. The cover drive. The net that shook. The lobby chandelier. The soap that wasn't pink.
+- He sleeps in the bed but on top of the covers, fully dressed. His body doesn't trust the comfort yet.
+- **Unresolved micro-element (anti-AI)**: The minibar in the hotel room. Vipin opens it, sees the tiny bottles and chocolate bars and imported juice, and closes it. Not because he doesn't want them — because there's a price list on the inside of the door and the prices are what he used to earn in a week. He drinks water from the tap. The minibar stays untouched for the entire pre-season camp. The housekeeping staff notes this as unusual.
+
+#### Chapter 11 Emotional Arc
+Overwhelm → Humor (coping) → Performance (proving) → Validation (Sachin) → Solitary processing
+
+#### Hook/Cliffhanger
+Vipin is inside the machine. He can bowl fast enough and bat well enough to belong on the field. But the hotel room, the team dinners, the casual wealth — he doesn't belong in those spaces yet. The question for Act 2 is set: can he survive the world that comes with the game?
+
+#### Thread Developments
+- **Culture Shock**: Not played for comedy — played for the gap between Vipin's origins and his new world.
+- **Sachin**: Four words. Planted as a mentor possibility — distant, earned, not given freely.
+- **The Food Scene**: The street kid's relationship with food in a world of abundance. Physical marker of class distance.
+- **The Collection**: The MI practice ball joins the drawer. Vipin hoards proof of his own journey.
+- **Sleeping on Top of Covers**: Physical metaphor. He's in the world but not yet of it.
+
+#### Tension Level: 0.45
+Post-climax reset. Lower tension than Ch 10 but rich with internal stakes. Culture shock is tension — just a quieter kind.
+
+---
