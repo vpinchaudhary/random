@@ -51,10 +51,10 @@
 - **Atmosphere**: Love expressed through volume, food, and unsolicited opinions.
 
 ## Rules of the World
-### Cricket Realism
-- **How It Works**: This is grounded realism. Vipin's abilities are at the extreme edge of human talent — think Sachin Tendulkar's eye, AB de Villiers' innovation, Jonty Rhodes' fielding. Enhanced but not supernatural.
-- **Limitations**: He can still get injured. He can still fail. Bad pitches, great bowlers, pressure — these are real. He's not unbeatable.
-- **Cost**: Physical toll of cricket (back, knees, shoulders). Emotional toll of being the one everyone watches.
+### Cricket Realism (with Enhanced Protagonist)
+- **How It Works**: Grounded realism with one exception — Vipin's physical and cognitive abilities sit at the absolute ceiling of human potential. Think Sachin's eye PLUS AB de Villiers' innovation PLUS Jonty Rhodes' fielding PLUS Dhoni's finishing instinct, all in one body. His reaction time, stamina, recovery speed, and temporal processing are measurably superior. Not supernatural — but the kind of anomaly that sports science can measure but not fully explain.
+- **Limitations**: He can still get injured (and injuries hit harder emotionally because his body "shouldn't" fail). He can still lose — great teams, pressure situations, mental blocks. Strategy can neutralize raw talent. Politics and selection bias don't care how gifted you are. His body is extraordinary but his mind is still human — doubt, fear, loneliness can break what talent can't.
+- **Cost**: Being this far ahead of everyone is isolating. Nobody fully understands what he experiences on the pitch. The gap between what he can do and what others can do creates a loneliness that mirrors his orphan isolation. Also: people want to own him, brand him, claim credit for him. His talent makes him a commodity.
 
 ### The Orphan Dynamic
 - **How It Works**: Being an orphan in India carries specific social weight. No caste identity to claim (or be burdened by). No family connections. No safety net. But also no expectations, no family pressure, no dynasty to maintain.
