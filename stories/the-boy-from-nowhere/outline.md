@@ -299,3 +299,64 @@ Bhai's parting words hang in the air — "remember who was here." The reader fee
 Building. Hope is tension too — Vipin is risking trust. Rao is risking reputation on an unknown. Bhai's parting words add a shadow.
 
 ---
+
+### Chapter 5: Leather and Willow
+
+**Timeline**: 2003-2004 (ages 13-14)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it cost to submit to a system when you've survived by trusting only yourself?
+
+#### Scene Breakdown
+
+**Scene 1: The Storage Room (2003)** (~1,000 words)
+- Vipin's new home: a groundskeeper's storage room at the edge of Shivaji Park. Eight feet by ten. Smells of linseed oil, old grass clippings, and damp concrete. A cot, a bulb, a padlock. The groundskeeper — a quiet Maharashtrian man in his sixties — doesn't ask questions. Rao arranged it; that's enough.
+- Vipin's first night: he counts the cracks in the ceiling (twenty-three). It's the best place he's slept since the temple. He has a door that locks. A ceiling that doesn't leak. A pillow — thin, lumpy, but a pillow. He lies there and doesn't know what to do with the safety. His body doesn't relax. It takes weeks.
+- The morning routine begins: up at 5:30, run two laps of the park, net practice at 6:30, breakfast (funded by the cricket club — idli, vada pav, chai) at 8:30. This is the first structure in his life since the pandit died. It chafes and comforts in equal measure.
+- **Grounding physical detail**: The smell of linseed oil on a cricket bat. Rao gives Vipin his first proper bat — not new, a hand-me-down from a club player, but balanced, real, English willow. Vipin holds it and the weight is different from everything he's known. Lighter than a taped street bat but somehow more serious. He sleeps with it next to the cot for the first three nights.
+
+**Scene 2: The Unlearning (2003-2004)** (~1,500 words)
+- Rao begins coaching. And it's brutal — not physically, but for Vipin's ego. Because Rao's first job is to break the habits that got Vipin this far.
+- The grip: wrong. Vipin's bottom hand dominates, which gives him power but limits his ability to play straight. Rao makes him bat for a week with only his top hand. Vipin hates every second. His shots look worse. He feels worse. He tells Rao this with a joke: "Uncle, I was better when I was bad."
+- The stance: too open. Exposes his stumps. Rao adjusts him daily. Vipin's body keeps drifting back to the street stance.
+- The leaving: this is the hardest lesson. In gully cricket, you hit everything. There's no concept of leaving a ball outside off stump. Rao sets up a drill — wide balls, one after another, and Vipin must let them pass. It goes against every instinct. He swings at the third one, the seventh one, the eleventh one. Rao just resets and bowls again. Patient. Infuriating.
+- The conflict: Vipin's natural game is explosive, unorthodox, instinct-driven. Rao's coaching philosophy is classical, disciplined, technique-first. They clash repeatedly. Not shouting — Rao doesn't shout. Cold silences. Vipin sulking. Rao walking away mid-session (his composure break pattern).
+- But: the moments when it clicks. When the new grip produces a cover drive that Vipin feels in his whole body — cleaner, truer, the ball racing off the bat with a sound he's never produced before. Those moments keep him coming back.
+- **Imperfect moment (anti-AI)**: Vipin quits. For one day. After a particularly frustrating session where Rao tells him his bowling action will need to be remodeled if he ever wants to play representative cricket, Vipin walks out. Doesn't come to the next morning session. Sits in his storage room and stares at the wall. Returns the following day without explanation. Rao says nothing. They resume.
+
+**Scene 3: The Transformation (2004, age 14)** (~1,300 words)
+- Six months of regular meals. The Jaat genetics ignite. This isn't a subtle change — Vipin's body transforms visibly. His frame fills out, shoulders widen, forearms thicken. The club players who saw him at thirteen and see him at fourteen do double-takes.
+- His power multiplies. Shots that used to reach the boundary now clear it. His bowling, with the remodeled action, gains genuine pace. Rao clocks him at 125 kph in the nets — absurd for a 14-year-old. The other coaches at Shivaji Park start watching.
+- But the body change also brings attention he doesn't want. Selectors from the Mumbai Cricket Association visit Shivaji Park. They see Vipin. They ask Rao about him. "Where's he from? Which school? Which club? Parents?"
+- The system needs paperwork. Birth certificates, school records, residential proof, guardian consent. Vipin has none of this. He has a pendant and a coach who believes in him. Rao begins the bureaucratic war — pulling strings, calling in favors, navigating a system that wasn't built for a kid who fell through every crack.
+- Vipin watches Rao fight for him and doesn't know how to process it. Nobody has fought for him before. The humor deflects — "Uncle, if they need a birth certificate, tell them I was born in the nets." But underneath, the catastrophizing spins: this will fall apart. This man will give up. This is temporary.
+- **Strange personal detail (anti-AI)**: Vipin starts keeping a rubber ball in his pocket at all times. Squeezes it constantly — while eating, while walking, while listening to Rao. It's not a training tool. It's a fidget. The ball gets replaced every few weeks when it loses its bounce. He does this for years. Teammates will eventually know him by the sound of a rubber ball being squeezed.
+
+**Scene 4: The First Bat (2004)** (~1,000 words)
+- Rao gives Vipin a gift: a new cricket bat. Not a hand-me-down — new. A proper SG bat, nothing expensive, but factory-fresh. Vipin's name nowhere on it, but it's his.
+- This scene is small and quiet. Rao doesn't make a speech. He just hands it over after a training session. "Your old one's done. Use this."
+- Vipin holds it. Picks up its weight. Takes guard. Plays an imaginary shot. Looks at Rao and for one second the humor drops and something raw is visible — gratitude so acute it looks like pain.
+- He makes a joke. Recovers. Rao pretends not to have seen.
+- That night, Vipin sits in his storage room with the new bat across his lap. He runs his fingers over the grain. Counts the grains. Seventeen visible on the face. He thinks about the pandit for the first time in months. The old man's dry hands. The temple's resident cat. Pink soap.
+- He touches the pendant. Then he picks up the bat and shadow-bats in the storage room until the groundskeeper bangs on the wall.
+- **Unresolved micro-element (anti-AI)**: The groundskeeper leaves a newspaper outside Vipin's door every morning. Vipin never asked for it. The groundskeeper never mentions it. Vipin reads every word — classifieds, obituaries, cricket scores, political news he doesn't understand. Years later he'll have an inexplicable knowledge of mid-2000s Mumbai municipal politics.
+
+#### Chapter 5 Emotional Arc
+Structure → Resistance → Frustration → Breakthroughs → Vulnerable gratitude
+
+#### Hook/Cliffhanger
+The bureaucratic problem — Vipin has no paperwork, no identity in the system's eyes. Rao is fighting to get him registered. The talent is undeniable but the system wants documentation before it wants genius. The clock is ticking toward district trials, and Vipin doesn't officially exist.
+
+#### Thread Developments
+- **Coach Rao's Projection**: First hints that Rao is coaching the player he never got to be. The intensity is personal.
+- **Paperwork Problem**: The system requires identity. Vipin has none. This bureaucratic thread adds real-world stakes.
+- **Body Transformation**: The Jaat genetics narrative established — regular food unlocks what the frame always promised.
+- **The Rubber Ball**: New character texture. Physical fidget that becomes signature.
+- **Gratitude Problem**: Vipin can't accept kindness without deflecting. Fatal flaw in action.
+
+#### Tension Level: 0.50
+Mid-range. The training conflict creates friction. The paperwork problem adds institutional stakes. But the underlying trajectory is upward.
+
+---
