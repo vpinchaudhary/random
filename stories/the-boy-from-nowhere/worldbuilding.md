@@ -13,10 +13,10 @@
 - **Significance**: Where Vipin grows up. The place that teaches him to be fast, funny, and self-reliant.
 - **Atmosphere**: Suffocating and liberating at once. Claustrophobic physically but socially wide open — everyone knows everyone, privacy is a luxury.
 
-#### Orphanage / Group Home
-- **Description**: Underfunded, overcrowded. Not cruel — just stretched thin. Caretakers who mean well but have too many kids and too little money. Thin mattresses, shared everything, food that fills you without nourishing you.
-- **Significance**: Vipin's earliest years. He leaves or ages out early, preferring the streets.
-- **Atmosphere**: Institutional sadness under a veneer of routine.
+#### The Temple
+- **Description**: A modest neighborhood temple in Mumbai. Not grand — stone steps worn smooth, a small inner sanctum, the smell of incense and marigolds and old ghee. A few rooms in the back where the pujari lived. Bells at dawn and dusk. The sound of chanting that became Vipin's lullaby.
+- **Significance**: Where Vipin was left as an infant. Where the old pandit raised him for his first 7-8 years. The closest thing to a home he's ever known. After the pandit died, the temple continued but Vipin had no place in it anymore.
+- **Atmosphere**: Sacred, simple, warm in memory. The smell of that specific temple incense is a sensory trigger for Vipin his entire life.
 
 #### Gully Cricket Grounds
 - **Description**: Any open space that can hold a game. Parking lots, building compounds, narrow lanes with a trash can for stumps. Tennis ball cricket on concrete. The ball bounces unpredictably, the bat is taped together, the rules are negotiated mid-game.
@@ -57,8 +57,9 @@
 - **Cost**: Being this far ahead of everyone is isolating. Nobody fully understands what he experiences on the pitch. The gap between what he can do and what others can do creates a loneliness that mirrors his orphan isolation. Also: people want to own him, brand him, claim credit for him. His talent makes him a commodity.
 
 ### The Orphan Dynamic
-- **How It Works**: Being an orphan in India carries specific social weight. No caste identity to claim (or be burdened by). No family connections. No safety net. But also no expectations, no family pressure, no dynasty to maintain.
-- **Limitations**: Doors that open with a phone call for others require Vipin to batter down. Every step takes twice the effort.
+- **How It Works**: Vipin knows he's Jaat — the pendant tells him that much. Chaudhary is a Jaat surname, and that carries weight in North India (land-owning, martial, proud, physically dominant community). But knowing your caste without knowing your family is a strange limbo. He has the identity but none of the infrastructure — no village to go back to, no uncles to call, no Jaat network to lean on. He's a Jaat with no Jaat connections. In Mumbai, where community networks open doors, he has the name but not the key.
+- **The Temple Origin**: Left on temple stairs with money and a gold pendant. This wasn't an abandonment of desperation (no money, no care) — someone LEFT resources. Someone named him. Someone chose a temple, not a gutter. This suggests parents who cared but couldn't keep him, which makes the mystery more painful than simple abandonment.
+- **Limitations**: Doors that open with a phone call for others require Vipin to batter down. Every step takes twice the effort. But the Jaat stubbornness means he batters harder than most.
 
 ### Class in Mumbai
 - **How It Works**: Mumbai has layers. The street kid, the middle-class club cricketer, the elite athlete, the Bollywood family — each layer has its own language, its own rules, its own gatekeepers.

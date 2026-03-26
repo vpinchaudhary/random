@@ -5,9 +5,9 @@
 ## Vipin Chaudhary — Protagonist
 
 ### Core Identity
-- **Full Name**: Vipin Chaudhary (surname given by the orphanage — generic, unmemorable, chosen from a register)
+- **Full Name**: Vipin Chaudhary (his real name — engraved on a pendant left with him. Chaudhary. Jaat blood. He doesn't know his parents but he knows his caste, and it's written into his bones.)
 - **Age**: Born 1990. Story spans ages 5-25+
-- **Physical Description**: Built like a fast-twitch machine — broad shoulders, athletic frame that fills out as he grows, the kind of body that makes you look twice even in street clothes. Fair-skinned naturally, but years of Mumbai sun and open grounds have given him a cricketer's tan — arms and face darker than the rest, skin that tells you this man lives outdoors. Sharp jawline, strong brow, dark eyes that lock onto things with an intensity that makes people either trust him or look away. A thin scar on his left eyebrow from a gully cricket injury at age 9. Moves like something coiled — every step has an athlete's economy, a predator's awareness of space. Hands are large, calloused from years of batting without gloves, veined forearms. He looks like someone who could hurt you but would rather make you laugh. There's a raw masculinity to him that isn't performed — it's just how he's built, how he carries himself, how his presence fills a room before he says a word.
+- **Physical Description**: Jaat blood doesn't lie. Even as a malnourished kid on the streets, his frame was big — wide shoulders, thick wrists, a jaw like it was carved for taking hits. The bones were always there, the structure always promised something. He just didn't have the fuel to fill it. As a boy he looked like a big frame with not enough meat on it — all potential, joints too visible, ribs showing when he ran shirtless in gully games. But the moment organized cricket gave him regular meals, proper food, protein — his body did what Jaat genetics were always going to do. He filled out fast and hard. By 16 he looked 20. By 18 he looked like he could walk through a wall. Broad chest, thick forearms, hands like shovels — the kind of build that makes bowlers think twice about bouncing him. Fair-skinned naturally, but years of Mumbai sun have burned a permanent cricketer's tan into his arms, neck, and face — the rest of him lighter, the contrast visible when he rolls up his sleeves. Sharp features, strong brow, dark eyes that lock onto things with an unsettling focus. A thin scar on his left eyebrow from a gully cricket injury at age 9. Moves with a big man's surprising quickness — not graceful exactly, but explosive, like a truck that corners like a sports car. There's a raw, unperformed masculinity to him that fills rooms before he opens his mouth. And then he opens his mouth and makes everyone laugh, and they forget for a moment that he could probably break them in half.
 - **Personality Traits**: Effortlessly, devastatingly funny — the kind that makes rooms stop, the kind that people retell badly at parties. Street-smart to the bone. Fiercely independent. Guarded beneath the humor but the guard is so charming you don't notice the wall. Competitive in a way that borders on frightening — not loud about it, just relentless. Loyal to the death once trust is earned. Uncomfortable with vulnerability but masks it so well most people never see it. Magnetic — people orbit him without understanding why.
 
 ### Enhanced Attributes (Natural, Not Supernatural)
@@ -17,6 +17,7 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - **Recovery**: Sleeps six hours and wakes up like he slept twelve. Minor injuries heal noticeably faster. Physios comment on it. He shrugs it off.
 - **Temporal Perception**: When a ball comes at him, time stretches. Not literally — but his processing speed is so fast that he has more time to decide than anyone else on the pitch. The ball doesn't slow down. His brain speeds up.
 - **Instinct**: His body knows things before his mind does. He's already moving to a catch position before the ball is hit. He plays shots he's never been taught, from positions that shouldn't work, and they work. Coaches try to explain it and can't.
+- **Playing Style**: He doesn't wait. He doesn't rotate strike and build an innings. He doesn't respect the bowler's spell. From ball one, he's coming at you. Front foot, full swing, the bat sounds different when he hits it — a crack that makes the crowd flinch. He's not reckless, he's aggressive with intent — every shot is a statement, every boundary is personal. The Jaat in him doesn't believe in patience at the crease. He believes in domination. He walks out to bat like he owns the ground and the bowler's just borrowing it. Coaches who try to make him "play sensibly" learn fast that his version of sensible is smashing the first ball for four and then doing it again. And it works — because his reaction time and hand-eye make shots that look insane from anyone else look inevitable from him.
 - **What It's NOT**: There's no system. No awakening. No voice in his head. No supernatural element. He was born this way — it's genetic lottery, extreme-end human potential. He doesn't know WHY he's different. He just knows he is.
 - **Speech Pattern**: Mumbai street Hindi — fast, slangy, peppered with Marathi fragments and English cricket terms. Uses humor as filler, deflects with jokes. Gets quieter (not louder) when truly angry. Code-switches to cleaner Hindi in formal cricket settings but never fully loses the street rhythm.
 - **Core Motivation**: To prove he is somebody. Not for revenge, not for glory — but because the world told him he was nobody and he needs to know it was wrong.
@@ -31,14 +32,22 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - **Distinguishability**: The humor. Even in narration, his internal voice cracks jokes. He thinks in punchlines. When the jokes stop, the reader knows something is seriously wrong.
 
 ### Background
-- Born in Mumbai, 1990. Parents unknown — left at an orphanage as an infant.
-- Orphanage was overcrowded, underfunded. Not abusive but not nurturing. Vipin was one of many.
-- Left/aged out of the orphanage system around age 8-9. Survived on the streets — odd jobs, charm, quick thinking.
-- Cricket entered his life around age 10 through gully games. His talent was immediately obvious.
-- Discovered at Shivaji Park by a local coach around age 13-14.
-- Progressed through Mumbai's age-group cricket: Under-15, Under-17, Under-19.
-- Made waves in local tournaments, caught attention of selectors.
-- IPL debut in 2008, Season 1, at age 18.
+- Born 1990. Parents unknown. Left as an infant on the stairs of a temple in Mumbai with some money and a gold pendant engraved with his name: "Vipin Chaudhary." That pendant is the only thing connecting him to whoever left him. He wears it always, tucked under his shirt, against his chest. He's never taken it off.
+- A temple pujari — an old pandit — took him in. Not out of obligation, out of kindness. The old man raised him in the temple quarters. Simple life. Rice, dal, the sound of bells and chanting. The pandit taught him discipline, basic reading, and gave him a sense of order in the world. Vipin's earliest memories are incense smoke and the pandit's dry, warm hands.
+- The pandit died when Vipin was around 7-8. Illness, age, the kind of quiet death that doesn't make the news. After that, Vipin was alone. No system caught him. No orphanage took him. He slipped through the cracks into Mumbai's streets.
+- Survived on the streets through odd jobs, charm, and a mouth quick enough to talk his way out of trouble. Malnourished but never broken — his Jaat frame was big even when it was underfed.
+- Cricket found him around age 10 through gully games. Tennis ball on concrete. His talent was absurd and immediate — the other kids knew it before any adult did.
+- Discovered at Shivaji Park by Coach Prakash Rao around age 13-14. The coach saw him hitting shots that made no sense from a kid with no coaching. Got him into the system.
+- Once he entered organized cricket, regular meals transformed his body. The Jaat genetics kicked in. He went from an underfed big-framed kid to a physical specimen in two years.
+- Progressed through Mumbai's age-group cricket: Under-15, Under-17, Under-19. Dominated at every level.
+- IPL debut in 2008, Season 1, at age 18. Mumbai Indians. Sachin Tendulkar's team.
+
+### The Pendant
+- Gold, simple, engraved: "Vipin Chaudhary"
+- The only proof someone once cared enough to name him and leave him somewhere safe
+- He touches it unconsciously when stressed — a habit he doesn't notice but others do
+- It represents the central question of his life: who left him, and why?
+- Whether this mystery gets answered is a major story thread
 
 ### Relationships
 - **Cricket** → His first love, his identity, the thing that gave him a name. Trust: 10/10
@@ -56,14 +65,15 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - **Chapters 39-42**: Resolution. Integration. He's not nobody anymore — but he needs to learn he was always somebody.
 
 ### Knowledge State (at story start)
-- **Knows**: How to survive, how to read people, how to make anyone laugh, how to bat
-- **Doesn't Know**: Who his parents were, why he was abandoned, how to let someone in, what home feels like
+- **Knows**: How to survive, how to read people, how to make anyone laugh, how to bat, that he's Jaat (from the pendant — the name Chaudhary tells him that much), that someone cared enough to leave him at a temple with money and a name
+- **Doesn't Know**: Who his parents were, why they left him, whether they're alive, how to let someone in, what family feels like (the pandit was the closest thing and he lost him too)
 
 ### Emotional State Tracker
 - Will be updated per chapter
 
 ### Inventory/Possessions
-- A battered cricket bat (his first real one, gifted by a coach)
+- **The pendant**: Gold, engraved "Vipin Chaudhary." Worn under his shirt always, against his skin. The only thing from his parents. Non-negotiable — he would fight God for it.
+- A battered cricket bat (his first real one, gifted by Coach Rao)
 - Nothing else of sentimental value — he travels light because he's always been ready to move
 
 ---
