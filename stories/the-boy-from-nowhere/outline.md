@@ -895,3 +895,69 @@ The orphan narrative is loose. It's not going back in the box. Every performance
 Rising. Performance tension is high (the breakout innings), but the real tension is the media narrative. Vipin is losing control of something and he doesn't know how to fight it.
 
 ---
+
+### Chapter 14: New Money
+
+**Timeline**: May–June 2008 (age 18)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does money mean to someone who's never had it — and what does it reveal about the people around him?
+
+#### Scene Breakdown
+
+**Scene 1: The Paycheck (May 2008)** (~1,200 words)
+- IPL Season 1 is winding down. MI doesn't make the final (Rajasthan Royals win the whole thing — the underdogs, Shane Warne's magic). Vipin's season stats: 8 matches, 234 runs at strike rate 148, 9 wickets at economy 7.2. A genuine breakout. Not Player of the Tournament, but firmly on the "ones to watch" list.
+- His IPL salary arrives. Not the $100K auction price — that's spread across years and taxes. But the first payment: a number in a bank account. A bank account that Rao helped him open three weeks ago, his first.
+- The number. In rupees. More than the pandit earned in a lifetime. More than Bhai's best month. More than the groundskeeper will earn in a decade. Vipin stares at the ATM receipt in a hotel lobby and the paper shakes in his hand. He's not trembling from joy. He's trembling from something he can't name — the weight of a number that shouldn't exist next to his life.
+- First purchase: he buys Rao a new cricket bat. A top-of-the-line SG, the kind Rao could never afford. He doesn't wrap it. Just hands it over at Shivaji Park. "For the nets." Rao holds the bat, looks at Vipin, and for one moment the reading glasses slip off his forehead and he doesn't fix them. He nods. "Good willow." That's all. Both of them walk away before the moment gets bigger than they can handle.
+- **Grounding physical detail**: The ATM receipt. Thermal paper, already starting to fade. He folds it and puts it in the drawer. The collection: a newspaper clipping, a piece of paper that says "I want them to say my name," a practice ball with MI logo, a match ball, an unsigned letter, and now an ATM receipt. The drawer is becoming a museum of his own life.
+
+**Scene 2: Bhai Returns (June 2008)** (~1,500 words)
+- The fame has reached the streets. Bhai knows. Of course he does. Bhai has always known everything that happens in his territory, and Vipin's face is now on cricket websites and in newspaper sports sections.
+- Bhai doesn't call. He appears. Outside the MI hotel, leaning against a railing, smoking. Same Bhai — older, heavier, the same flat eyes that read everything. Vipin comes out after a team event and stops.
+- "Chaudhary." Bhai uses the cricket name, not the street name. There's a message in that.
+- They walk. Through nearby streets — not Bhai's old territory, neutral ground. The conversation is careful. Bhai congratulates him. Asks about the IPL. Listens to Vipin's guarded answers. Then, gradually, the ask materializes.
+- It's not crude. Bhai is smarter than that. He doesn't ask for money directly. He floats an "opportunity" — a business, a club, something that needs investment and a famous name. Nothing illegal, technically. But Bhai's world is the grey zone, and everything he touches carries a shadow.
+- Vipin listens. The street kid in him respects Bhai — this is the man who fed him, gave him work, let him play cricket when he could have pulled him deeper into the street economy. The debt is real. But the cricketer in him — the man Rao built — sees the trap.
+- "I can't, Bhai." Quiet. No joke this time.
+- Bhai nods. Doesn't push. But: "Remember, Chaudhary. I knew you before anyone knew your name. Don't forget the people who were there before the money." The echo of his parting words from Chapter 4. The claim, reasserted.
+- Vipin walks back to the hotel. His chest is tight. He knows this isn't over. Bhai is patient. Bhai always waits.
+- **Imperfect moment (anti-AI)**: After Bhai leaves, Vipin is short with a hotel staff member who asks if he needs anything. Snaps. Immediately feels the ugliness of it — he sounded like someone who thinks hotel staff are beneath him. He apologizes, awkwardly, which is worse because Vipin doesn't apologize well. The staff member smiles politely. Vipin carries the moment for days.
+
+**Scene 3: The Sponsor Circuit (June 2008)** (~800 words)
+- Endorsement offers arrive through MI's management team. A sports drink. A mobile phone brand. A clothing brand that wants "the young face of Indian cricket." The money is eye-watering — more than his playing contract.
+- Vipin sits in meetings he doesn't understand. Terms like "brand alignment" and "exclusivity window" and "social media activation" (social media in 2008 is nascent but the brands are forward-thinking). He nods. Rao isn't here — this isn't Rao's world. MI's management guides him, but their interest is MI's brand, not Vipin's.
+- He signs two deals. The first ad shoot: Vipin in a studio, lights, makeup, directed to hold a sports drink and look "fierce but approachable." He holds the bottle and looks like he wants to throw it. The photographer spends an hour trying to get a natural smile. Vipin's natural smile comes from jokes, not instructions. The final photo is acceptable, not great. His eyes are flat.
+- **Strange personal detail (anti-AI)**: During the ad shoot, Vipin befriends the lighting assistant — a young guy his age from a working-class background. They talk about cricket between takes. The lighting assistant shows him a grip he saw on YouTube. Vipin tries it. It doesn't work, but he appreciates the attempt. He gets the guy's number. They never speak again. But Vipin remembers his name: Deepak. Remembers everyone from the "before" side of fame.
+
+**Scene 4: The Groundskeeper (June 2008)** (~1,500 words)
+- Vipin goes back to Shivaji Park. Not for training — just to visit. He hasn't been since the IPL started.
+- The storage room is empty. His cot is still there. The groundskeeper has kept it as it was — a small act of faith that Vipin would return, or maybe just inertia.
+- The groundskeeper is the same. Quiet. Doesn't treat Vipin differently. Doesn't mention the IPL, the fame, the money. Just nods and goes back to rolling the pitch.
+- Vipin sits on the cot. The linseed oil smell. The crack-count ceiling (twenty-three, same as always). The spot where the bat leaned against the wall.
+- He takes out his wallet — the first wallet he's ever owned — and puts money on the groundskeeper's table. Not a grand gesture. An envelope with cash. Enough to matter. The groundskeeper sees it, looks at Vipin, and shakes his head. Pushes it back.
+- "Tere paisa nahi chahiye. Tu kuch bana, woh kaafi hai." (I don't want your money. You becoming something — that's enough.)
+- Vipin pushes it back. "Please, uncle."
+- The groundskeeper takes it. Doesn't count it. Folds the envelope and puts it in his shirt pocket. Pats the pocket once. Goes back to the pitch.
+- Vipin sits in the storage room for an hour after. Doesn't count anything. Just sits. This room is the only place in the world where he was safe and nobody wanted anything from him. He wonders if he'll ever have a place like this again.
+- **Unresolved micro-element (anti-AI)**: On the wall of the storage room, behind where the cot headboard rests, someone has scratched letters into the concrete. Not Vipin — he never wrote on the walls. The letters are old, faded: "R.S. 1987." A previous occupant. Someone who slept here twenty years before Vipin. He traces the letters with his finger and wonders if R.S. made it out too.
+
+#### Chapter 14 Emotional Arc
+Bewilderment (money) → Generosity (Rao's bat) → Threat (Bhai) → Alienation (sponsor world) → Grounding (the groundskeeper)
+
+#### Hook/Cliffhanger
+The IPL season is over. Vipin has money, fame, and a career. But the groundskeeper's room is empty, Bhai is waiting, and the media wants more. The off-season stretches ahead — domestic cricket, India ambitions, and the first stirring of a question: now that he has everything, what's still missing?
+
+#### Thread Developments
+- **Bhai's Claim (Chekhov's gun)**: The second assertion. The debt is named. This will escalate.
+- **Money as Identity**: Vipin's relationship with money — generous but uncomfortable. The ATM receipt in the drawer.
+- **The Groundskeeper**: The purest relationship in the story. No agenda. Resolved as a mini-arc but the character persists.
+- **Sponsor World**: The machinery of fame introduced. Vipin doesn't fit it naturally.
+- **R.S. 1987**: A ghostly echo. Someone was here before. Someone left. The cycle.
+
+#### Tension Level: 0.40
+Breather chapter after the intensity of 12-13. Lower on-field tension, but Bhai's return and the sponsor alienation create undercurrents.
+
+---
