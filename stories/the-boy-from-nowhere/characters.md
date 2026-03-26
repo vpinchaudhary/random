@@ -42,6 +42,13 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - Progressed through Mumbai's age-group cricket: Under-15, Under-17, Under-19. Dominated at every level.
 - IPL debut in 2008, Season 1, at age 18. Mumbai Indians. Sachin Tendulkar's team.
 
+### Vegetarian (Strict)
+- Pure vegetarian. No eggs. No meat. No fish. Nothing that had a mother.
+- This comes directly from the pandit's upbringing — temple life, prasad, the belief that what you put in your body matters. The pandit didn't preach it as religion, he lived it as fact, and Vipin absorbed it the way kids absorb everything from the person who feeds them.
+- He never wavers on this, even when cricket nutritionists push protein supplements and chicken breast meal plans. He finds his own way — dal, paneer, soy, nuts, milk. His Jaat frame fills out on vegetarian fuel and people can't believe it.
+- It becomes a quiet identity marker. In IPL team dinners at five-star hotels, in sponsor events with fancy menus, he orders paneer and doesn't explain himself. It's not a statement. It's just who he is.
+- Occasionally a source of humor — teammates ribbing him about it, him firing back harder.
+
 ### The Pendant
 - Gold, simple, engraved: "Vipin Chaudhary"
 - The only proof someone once cared enough to name him and leave him somewhere safe
