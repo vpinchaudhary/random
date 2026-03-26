@@ -616,3 +616,79 @@ The auction broadcast begins. The auctioneer's voice fills the MCA room. Names w
 High. The entire chapter is coiled energy. Nothing happens in terms of action, but everything happens internally. The reader is as anxious as Vipin.
 
 ---
+
+### Chapter 10: Sold
+
+**Timeline**: January 24, 2008 (age 17)
+**POV**: Third-person limited, Vipin — watching the auction from the MCA office
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it mean when the world puts a price on something that was once priceless to no one?
+
+#### Scene Breakdown
+
+**Scene 1: The Big Names (Morning Session)** (~1,200 words)
+- The auction on the small TV. Vipin watches with Rao, a handful of MCA officials, and other cricket people crammed into the room.
+- The broadcast is electric. The auctioneer — professional, rhythmic, the paddle-raise system — calls names. MS Dhoni goes for $1.5 million to Chennai. The room gasps. Andrew Symonds: $1.35 million. Sanath Jayasuriya. Matthew Hayden. The numbers are obscene. Vipin does the math in his head — rupees, not dollars — and the numbers stop making sense.
+- He watches franchise owners raise paddles with casual billions. Mukesh Ambani for Mumbai Indians. Shah Rukh Khan for Kolkata. Preity Zinta for Kings XI. These are faces from magazine covers making decisions about cricketers' lives between sips of water.
+- Sachin Tendulkar isn't in the auction — he's the icon player, signed directly to Mumbai Indians. But his presence hangs over the MI table. Every player MI buys will share a dressing room with Sachin. Including, potentially, a kid from a storage room at Shivaji Park.
+- Between the big names: young Indian players go. Some for base price. Some for modest sums. Some get no bids — their names called, the room silent, the auctioneer moving on. "Unsold." The word is clinical and devastating.
+- Vipin watches a young bowler — talented, from a proper academy — go unsold. No bids. The boy's name said once, then forgotten. Vipin's hands go to the rubber ball. Squeezes. His jaw tightens.
+- **Grounding physical detail**: The MCA office TV has a slight color tint — everyone looks faintly green. The sound is tinny, half a second delayed from the video. The room smells of chai and sweat and too many men. Someone has brought samosas. Nobody eats.
+
+**Scene 2: The Wait (Afternoon)** (~1,200 words)
+- The auction breaks into sessions. Senior internationals first. Then capped Indians. Then uncapped Indians. Then the U-19 pool. Vipin's category is last.
+- The wait is excruciating. Hours of names that aren't his. Vipin's humor returns — a defense mechanism under pressure. He cracks jokes about the auction prices ("For 1.5 million I'd bat left-handed and bowl leg spin"), and the room laughs. But the jokes get shorter and sharper as the hours pass. Rao watches the humor thin and recognizes the pattern.
+- Ravi calls. He was picked up — catchment area signing by a franchise, modest contract. Ravi is ecstatic. "Chaudhary, tera number aayega" (Your turn will come). Vipin is happy for him. Genuinely. But the phone call tightens the knot because now even Ravi has a team and Vipin is still watching a green-tinted TV in a room that smells like cold samosas.
+- A senior MCA official — the one who was sympathetic during the registration inquiry — sits next to Vipin. Doesn't say anything meaningful. Just sits there. It's the most comforting thing anyone does all day, and it's almost nothing.
+- **Strange personal detail (anti-AI)**: Vipin counts the ceiling tiles in the MCA office. Thirty-two. He's counted them before — this is the same room where his registration was challenged. Thirty-two then, thirty-two now. Some things don't change. He finds this mildly reassuring.
+
+**Scene 3: The Name (Late Afternoon)** (~1,800 words)
+- The U-19 and uncapped Indian pool. The auctioneer's pace quickens — these are smaller fish. Base prices are $20K-$50K. Some go quickly. Some get modest bidding wars. Some go unsold.
+- The auctioneer calls: "Lot number [X]. Vipin Chaudhary. Right-hand batsman, right-arm fast bowler. Mumbai. Seventeen years old. Base price: thirty thousand dollars."
+- The room at MCA goes silent. Rao leans forward. Vipin doesn't move. Doesn't breathe.
+- On the TV: the franchise representatives look at their briefing sheets. Vipin's highlight reel plays on a side screen — the six from the U-19 match, the yorker, the catch. Six seconds of footage that compress three years of grinding into something a billionaire watches between sips of water.
+- A paddle goes up. Mumbai Indians. $30,000. The base price bid. Vipin exists in the auction.
+- Another paddle. Rajasthan Royals. $40,000. They've noticed him too.
+- Mumbai Indians: $50,000. The bidding is modest by the day's standards — pocket change compared to the Dhoni millions. But in the MCA room, it's deafening.
+- A third franchise enters — Delhi Daredevils. $60,000. The auctioneer's rhythm picks up. Three teams want him.
+- Mumbai Indians: $100,000. A jump bid. A statement. The MI representative — not Ambani himself, the cricket operations head — has clearly been briefed. They want this kid. He's a Mumbai talent, and MI is Mumbai's team.
+- Delhi drops out. Rajasthan considers, then drops. The auctioneer counts: "$100,000, going once... going twice..."
+- "Sold! To Mumbai Indians. $100,000."
+- The MCA room erupts. Rao grabs Vipin's arm — the physical contact startles both of them, because Rao doesn't touch. Vipin stares at the screen. His name is next to the Mumbai Indians logo. Below Sachin Tendulkar's. Below Harbhajan Singh's. Below Lasith Malinga's. His name. On a screen. In a room full of billionaires.
+- He doesn't cheer. Doesn't cry. Doesn't make a joke. For ten seconds, Vipin Chaudhary is completely, entirely still. The rubber ball in his pocket, unsqueezed. The pendant against his chest. The piece of paper in his other pocket: "I want them to say my name."
+- They said his name.
+- **Anti-AI compliance**: The emotion here is NOT maximum intensity. It's shock. Stillness. The reaction that's so big the body doesn't know what to do with it. The tears don't come. The jokes don't come. Just silence, and then a very long exhale.
+
+**Scene 4: After (Evening)** (~800 words)
+- The auction ends. Vipin and Rao drive back. Same Maruti. Same chai stain. Different universe.
+- Rao speaks first: "One hundred thousand dollars. You know what that is in rupees?" Vipin: "Forty lakh, approximately." He's already done the math. Of course he has.
+- Rao parks at Shivaji Park. They sit in the car. The park is dark, the pitch covers invisible.
+- "I don't know what to do now," Vipin says. It's the most honest thing he's said in the entire story. No joke. No deflection. "I don't know what happens next."
+- Rao: "You go to training camp. You meet your teammates. You play cricket. That's all it's ever been."
+- Vipin nods. Gets out of the car. Walks to his storage room. The groundskeeper has left a newspaper at the door — the evening edition. The front page: IPL AUCTION — DHONI GOES FOR RECORD PRICE. Somewhere inside, in a small-print list of all players sold, his name. Page 12. Three words: "Vipin Chaudhary — MI."
+- He cuts it out with a pair of scissors he borrows from the groundskeeper. Puts it inside the folded piece of paper from under his pillow. Puts both inside the drawer with the mismatched batting gloves.
+- He doesn't call anyone. Bhai doesn't know yet. There's no one to call at midnight when you've been bought by Mumbai Indians and you're seventeen and you live in a storage room and the only person who would understand is a dead pandit who talked to cats.
+- He touches the pendant. Lies on the cot. Closes his eyes.
+- Tomorrow, everything changes.
+- **Unresolved micro-element (anti-AI)**: Before he sleeps, he hears the groundskeeper through the wall. The old man is listening to the radio — a cricket roundup of the auction. The announcer mentions Vipin's name in passing: "...and Mumbai Indians picked up a promising young all-rounder from the U-19 circuit..." The groundskeeper turns the radio off. A pause. Then a single knock on Vipin's wall. Not a "be quiet" knock. A "congratulations" knock. Vipin knocks back once. Neither of them says a word. It's enough.
+
+#### Chapter 10 Emotional Arc
+Tension → Anxiety → Escalating dread → Release → Shock/stillness → Quiet, solitary reckoning
+
+#### Hook/Cliffhanger
+Act 1 ends. The boy from nowhere has a price, a team, and a future. But he's still in the storage room. Still alone. Still holding a pendant from parents he never knew. The gap between what just happened and where he sleeps tonight is the entire story. Act 2 opens with Mumbai Indians training camp and a world Vipin has never imagined.
+
+#### Thread Developments
+- **"I want them to say my name"**: The paper from Ch 9 pays off. The deepest payoff of Act 1.
+- **The Groundskeeper**: The single knock. Six chapters of silent kindness culminating in one gesture. Minor character, major moment.
+- **Rao**: "You play cricket. That's all it's ever been." The mentor at his most essential.
+- **Ravi**: Already on a team. The friendship will continue inside the IPL world.
+- **The Pendant**: Untouched during the auction itself — Vipin was too still. Touched after, alone. The pendant belongs to the private Vipin, not the public one.
+- **Act 1 Complete**: Vipin goes from temple stairs to IPL contract in 10 chapters / 50,000 words. Origin story finished. Now: the world.
+
+#### Tension Level: 0.75
+Act 1 climax. The highest tension yet. But it resolves into stillness, not explosion — which is more powerful and more true to Vipin's character.
+
+---
