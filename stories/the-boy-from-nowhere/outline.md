@@ -1280,3 +1280,71 @@ Wankhede. World Cup Final. India vs. Sri Lanka. Vipin and Shraddha in the stands
 Moderate. Romantic tension climbing steadily. Cricket disappointment simmering. The paparazzi moment introduces public-exposure stakes.
 
 ---
+
+### Chapter 20: Wankhede
+
+**Timeline**: April 2, 2011 (age 21)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+Can you celebrate someone else's triumph when it should have been yours — and does sharing it with the right person change what it feels like?
+
+#### Scene Breakdown
+
+**Scene 1: The Drive (afternoon)** (~800 words)
+- Vipin and Shraddha drive to Wankhede. His car (a modest Honda — he's not flashy with money). Mumbai is draped in tricolour. Traffic is impossible. They sit in the car, windows down, the city's nervous energy pouring in. Horns, chanting, flags waving from autorickshaws.
+- Shraddha is wearing an India jersey — too large, clearly borrowed or bought in a rush. She looks ridiculous. She looks perfect. He tells her the jersey is two sizes too big. She says, "It's called fashion, Chaudhary."
+- They talk about the match. She asks him to explain the tactical situation — India's strengths, Sri Lanka's threats. He explains in detail, then catches himself: "You didn't understand any of that." "Not a word. But you sound passionate and that's attractive." She says it lightly, almost casually, and the word "attractive" hangs in the car between them.
+- Neither addresses it. He changes lanes. She looks out the window. The word stays.
+
+**Scene 2: The Match (evening)** (~2,000 words)
+- Wankhede. 33,000 people. The noise is a living thing. Vipin and Shraddha are in a corporate box — MI connections, good seats, buffet nobody eats.
+- Sri Lanka bats first. Mahela Jayawardene plays one of the great World Cup innings — 103 off 88 balls. The crowd is nervous. Sri Lanka posts 274. A big target.
+- Vipin watches with a player's eye. He sees things the crowd doesn't: field placements, bowling angles, the shift in Jayawardene's weight that tells you he's targeting mid-wicket. He narrates some of this to Shraddha — low, into her ear because the crowd is deafening. She listens. Doesn't pretend to understand everything. But the specificity of his observation fascinates her.
+- India's chase. Sehwag out early. Sachin out for 18. The crowd goes silent — a dangerous silence, 33,000 people holding their breath. Vipin's hand grips the armrest. Shraddha, without thinking, puts her hand over his. He doesn't pull away. Neither of them looks at the other. They watch the match.
+- Gambhir and Dhoni rebuild. The innings turns. Dhoni walks out at 114/3 and begins the knock that will define his legacy. Vipin watches Dhoni bat and sees something he recognizes: a man playing like he has nothing to lose because the alternative is too terrible. The calm. The waiting. Then the explosions.
+- The final over. India needs four runs. Nuwan Kulasekara bowls to Dhoni. Full toss. Dhoni launches it over long-on. Six. India wins the World Cup. Wankhede erupts.
+- The eruption: Vipin stands. Shraddha stands. 33,000 people scream. Fireworks. The noise is so loud it becomes silence — a frequency so high it cancels itself. Vipin screams. He doesn't scream — he has never screamed in the story. But this: Dhoni's shot, the ball sailing into the Mumbai night, India winning the World Cup in Mumbai, in HIS city, in the stadium where HE plays — the scream comes from somewhere he didn't know existed.
+- Shraddha is crying. Laughing and crying. She turns to him and she's radiant — the tears, the smile, the too-big jersey — and he looks at her and the crowd disappears.
+- He doesn't kiss her. This isn't that moment. But the look is the equivalent. A look that says: I see you. I'm here. This moment is ours.
+- She holds his gaze. Three seconds. Then the crowd surges and they're pushed together and pulled apart and the moment dissolves into celebration.
+- **Anti-AI compliance**: The emotion is NOT described as "tears streaming" or "hearts pounding." It's physical: the scream that scrapes his throat, the hand grip that leaves marks, the ringing ears, the taste of Wankhede's humid air. Sensory, not sentimental.
+
+**Scene 3: The After (night)** (~800 words)
+- The drive home. Mumbai has exploded — people dancing in streets, firecrackers, car horns, every screen showing Dhoni's six on repeat. The traffic is worse than before because nobody wants to go home.
+- They sit in the car in gridlock. The energy has shifted — not down, but deeper. The adrenaline has become something warm and quiet.
+- She says: "You should have been out there."
+- He's quiet for a moment. Then: "Yeah." No joke. No deflection. The truth, plainly.
+- "Does it hurt?"
+- "Yeah. But—" He pauses. Looks at her. "Less than I thought it would."
+- She understands what he's not saying. She doesn't push him to say it. The "but" hangs between them, warm, unexplained, enough.
+- He drops her at her parents' house in Juhu. She gets out. Leans down to the car window. "Thank you for tonight, Chaudhary." First time she's used the cricket name. It sounds different in her voice — not a title, not a joke. Something private.
+- "Anytime, Kapoor." He drives away. The pendant is warm against his chest. In the rearview mirror, she's still standing at the gate.
+- **Grounding physical detail**: The steering wheel is damp from his grip during the match. The car smells like the stadium — sweat, humidity, fried food from the stalls outside. And faintly, something else — her perfume, left behind on the passenger seat headrest. He drives home with the window closed to keep it.
+
+**Scene 4: Midnight (alone)** (~400 words)
+- Vipin at his flat. He watches the post-match celebrations on TV. Sachin on the shoulders of teammates, crying. Dhoni with the trophy. The team in a huddle.
+- He should feel bitter. Part of him does. But the larger part feels something unexpected: fullness. The match. The city. The six. Her hand on his hand. The look.
+- He goes to the drawer. Takes out the piece of paper: "I want them to say my name." Reads it. Puts it back.
+- Takes out the photograph from Chapter 16 — the anonymous couple. Looks at it. For the first time, the photograph doesn't feel like a wound. It feels like a question he might, someday, be ready to answer.
+- He closes the drawer. Lies down. Doesn't count anything. Falls asleep to the sound of Mumbai celebrating outside his window.
+- **Unresolved micro-element (anti-AI)**: In the crowd at Wankhede, during the final over, a man three rows behind Vipin takes a photo. Not of the match — of Vipin. The flash is visible but Vipin doesn't notice. The photo will surface weeks later on a cricket fan blog: "MI's young gun Vipin Chaudhary watching the World Cup final with an unidentified woman." The unidentified woman won't be unidentified for long.
+
+#### Chapter 20 Emotional Arc
+Nervous energy → Shared intensity → The scream → The look → Tenderness → Solitary peace
+
+#### Hook/Cliffhanger
+The photograph of Vipin and Shraddha at Wankhede is floating on the internet. The "unidentified woman" is about to be identified. The private world they've built — the texts, the walks, the 1 AM calls — is about to become public property. And Shraddha's father, Shakti Kapoor, is about to hear his daughter's name linked to an orphan cricketer.
+
+#### Thread Developments
+- **The Look**: The romantic turning point. Not a kiss — a look. More earned, more powerful.
+- **"Less than I thought it would"**: Vipin admits her presence changed the pain. Massive for a man who can't ask for help.
+- **The Fan Blog Photo**: The timer starts on public exposure. Shakti Kapoor is about to enter.
+- **The Drawer**: Vipin's relationship with the photograph shifts. He's beginning to be ready for answers.
+- **World Cup**: Historical event woven into personal story. Dhoni's six is the backdrop, not the foreground.
+
+#### Tension Level: 0.60
+High emotional intensity but not dark tension. The match is electric. The romantic beat is seismic (quietly). The fan photo is a ticking bomb.
+
+---
