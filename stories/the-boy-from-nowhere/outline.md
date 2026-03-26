@@ -1348,3 +1348,71 @@ The photograph of Vipin and Shraddha at Wankhede is floating on the internet. Th
 High emotional intensity but not dark tension. The match is electric. The romantic beat is seismic (quietly). The fan photo is a ticking bomb.
 
 ---
+
+### Chapter 21: Crime Master Gogo's Daughter
+
+**Timeline**: May–July 2011 (age 21)
+**POV**: Third-person limited, alternating Vipin/Shraddha
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when the one person who could destroy this is also the one person whose approval matters most?
+
+#### Scene Breakdown
+
+**Scene 1: The Photo Goes Public (May 2011)** (~1,000 words)
+- The fan blog photo goes mainstream. Gossip sites identify Shraddha within a week. "Cricketer Vipin Chaudhary Spotted with Shakti Kapoor's Daughter at World Cup Final." Headlines multiply.
+- Shraddha's phone: calls from friends, manager, film contacts. "Are you dating a cricketer?" The question feels reductive — the whole relationship compressed into a tabloid line.
+- Vipin's phone: Ravi calls first ("Chaudhary, tu toh bada player nikla — cricket AND dating"), MI management second (cautious — relationships are brand issues), and Anjali Mehta third (sensing a follow-up story).
+- Neither Vipin nor Shraddha makes a public statement. But the silence is louder than a statement — in Indian celebrity culture, not denying IS confirming.
+- SHRADDHA POV: She calls her mother. Shivangi Kapoor listens, asks three careful questions ("How long?" "Is he kind?" "Does your father know?"), and tells Shraddha to tell Shakti before he reads it in a newspaper. "He'll survive it better from your mouth than from a headline."
+
+**Scene 2: Telling Shakti — SHRADDHA POV (June 2011)** (~1,500 words)
+- The Kapoor family home. Shraddha tells her father she's been spending time with Vipin Chaudhary.
+- Shakti Kapoor's reaction unfolds in stages. First: loud. "A CRICKETER? Which cricketer? What cricketer?" Shraddha explains. Shakti knows the name — he watches IPL, knows the orphan story from the media. His face cycles through theatrical shock, paternal panic, and genuine concern.
+- The interrogation: "What's his family? Where is he from? Who are his people?" Each question is a landmine Shraddha can't defuse because the answers are: no family, nowhere, no people.
+- Shakti's fatal flaw activates: he judges by pedigree. An orphan with no surname that opens doors, no family network, no background check possible — every alarm in Shakti's old-school brain fires. "Beta, I'm not saying he's a bad person. But you don't know where he comes from. Nobody does. Not even him."
+- Shraddha's composure break: her eyes fill. She blinks rapidly. Looks up. Breathes. "Papa, he's a good man. He's funny and kind and he works harder than anyone I've ever met. And I'm telling you as a courtesy, not asking permission."
+- The room goes quiet. Shivangi watches from the doorway. Shakti stares at his daughter. The power dynamic has shifted — this isn't a child asking. This is a woman informing.
+- Shakti doesn't forbid it. He's not that man. But he says: "Bring him here. I want to meet him." It's a demand dressed as an invitation. Shraddha knows the difference. She agrees.
+- **Imperfect moment (anti-AI)**: Shraddha, in her room after, cries. Not because of Shakti's reaction — she expected it. But because the phrase "you don't know where he comes from" is exactly the thing Vipin is afraid people think. And her own father said it. The guilt is sharp.
+
+**Scene 3: Vipin Prepares — VIPIN POV (same week)** (~800 words)
+- Shraddha tells Vipin about the conversation. Relays Shakti's demand to meet.
+- Vipin's reaction is calm on the surface. Internally: the catastrophizing redlines. Shakti Kapoor — 700 films, Bollywood legacy, Crime Master Gogo, a man who has spent his life judging people on screen and off. And Vipin will walk into his house with a pendant and no family tree.
+- He asks Rao for advice. Rao, who knows nothing about Bollywood or relationships, says: "Be yourself. But maybe don't make too many jokes." This is terrible advice and perfect advice simultaneously.
+- He buys a shirt. A proper one. Goes to a store Ravi recommends. Tries on four. Buys the one the shopkeeper says makes him look "respectable." Vipin looks at himself in the mirror and doesn't recognize the person trying to impress someone's father. The street kid would laugh at this person.
+- **Strange personal detail (anti-AI)**: The night before meeting Shakti, Vipin irons the shirt himself. He's never ironed a shirt. He watches a YouTube video on how to iron. Burns a small hole near the left cuff. Wears it anyway with the cuff button covering the burn. Nobody notices. He notices every second.
+
+**Scene 4: The Meeting (July 2011)** (~1,700 words)
+- The Kapoor house. Juhu. A bungalow with film memorabilia on the walls, family photos, a living room bigger than Vipin's entire flat. He walks in and the counting starts: eleven photos on the entrance wall. Eight pairs of shoes by the door. Three ceiling fans in the living room.
+- Shakti Kapoor enters the room the way he enters every room: like the room was waiting for him. He's shorter than Vipin but his presence is enormous — the actor's energy, the father's weight.
+- "So. You're the cricketer." First words. Not unfriendly. Not friendly.
+- "Yes, uncle." Vipin's voice is steady. The humor is reined in — Rao's advice.
+- They talk. Shakti asks about cricket (genuinely interested — he loves cricket). Vipin talks about the game with ease because this is the one territory he commands. Shakti asks about his plans, his career trajectory, his finances (bluntly — this is a Bollywood family, money is discussed openly). Vipin answers honestly. The numbers are good. IPL contract, endorsements, India cap. Shakti nods.
+- Then: "And your family?"
+- The room tightens. Shraddha, on the sofa, stops breathing.
+- Vipin doesn't deflect. Doesn't joke. "I don't have one, uncle. I was left at a temple as an infant. A pandit raised me until he died. After that, the streets. After that, cricket." Three sentences. The entire Act 1 compressed into thirty words.
+- Shakti is quiet for the first time in the scene. The actor's face does something it doesn't do on screen: it softens without performing softness. He's looking at Vipin and seeing — not the orphan narrative, not the media story — but a young man who just told the truth without flinching.
+- "You're vegetarian?" Shakti asks. A complete non-sequitur. Vipin blinks. "Yes." "Good. Shivangi's making paneer."
+- The meal happens. It's not resolution — Shakti hasn't approved. But the door is open. The food is extraordinary. Vipin eats everything. Shakti watches him eat and — despite himself — likes the boy's appetite.
+- Leaving, Shakti walks Vipin to the door. Privately, out of Shraddha's earshot: "I don't know your people. That worries me. But you looked my daughter in the eye when you spoke, and you didn't lie about where you come from. That counts for something." A pause. "Don't make me regret this."
+- **Unresolved micro-element (anti-AI)**: On a side table in the Kapoor living room, Vipin notices a framed photo of a young Shakti Kapoor with an older man. The older man is dressed simply — like Vipin imagines the pandit dressed. He doesn't ask about the photo. But Shakti, seeing his gaze, says quietly: "My father. He sold clothes in Connaught Place. I came from nothing too, you know. Just a different kind of nothing." It's the most human thing Shakti says in the chapter, and neither of them refers to it again.
+
+#### Chapter 21 Emotional Arc
+Public exposure → Shakti's challenge → Preparation anxiety → The confrontation → Uneasy truce → Glimpse of acceptance
+
+#### Hook/Cliffhanger
+The door is open but not wide. Shakti's conditional approval — "Don't make me regret this" — is both a blessing and a threat. Vipin has passed the first test, but the real test is time. And time, for a relationship between an orphan cricketer and a Bollywood daughter, is measured in headlines.
+
+#### Thread Developments
+- **Shakti Kapoor**: Full activation. Not a villain — a father. His pedigree obsession is real but not insurmountable. The Connaught Place line humanizes him.
+- **The Photo Fallout**: Public exposure forces the relationship into daylight. No more "not-dates."
+- **Shraddha's Spine**: "I'm telling you, not asking." She's not just a people-pleaser. When it counts, she stands.
+- **Vipin's Honesty**: He didn't joke, didn't deflect. Growth. But it cost him — the vulnerability in Shakti's house was enormous.
+- **"A different kind of nothing"**: Shakti's father. A mirror. The class distance is not as absolute as it appears.
+
+#### Tension Level: 0.65
+High. Meeting the father is a crisis point. The public exposure adds external pressure. The chapter resolves partially but the conditional acceptance keeps tension alive.
+
+---
