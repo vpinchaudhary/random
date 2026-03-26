@@ -551,3 +551,68 @@ The IPL auction is announced. January 2008. Vipin's name will be in a pool of pl
 Moderate but building. The chapter resolves old tensions (birth certificate) while planting new ones (IPL, senior cricket politics). The trajectory is upward — this is the launchpad chapter.
 
 ---
+
+### Chapter 9: The Price of a Name
+
+**Timeline**: Late 2007 – January 23, 2008 (age 17, turning 18)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it feel like to go from being worth nothing — not even a birth certificate — to being worth a number that strangers in suits will argue over?
+
+#### Scene Breakdown
+
+**Scene 1: The Registration (late 2007)** (~1,000 words)
+- The IPL player registration process. Vipin's name is submitted for the auction player pool. The form requires everything: full name, date of birth, playing record, base price recommendation, highlight footage.
+- Rao fills most of it. Vipin's highlight reel is compiled from U-19 matches and age-group tournaments — grainy footage, poor angles, but the talent screams through the pixels. A straight six that sails into the stands. A yorker that shatters stumps. A running catch that defies physics.
+- Base price: the minimum amount a team must bid. For uncapped Indian players — especially 17-year-olds — it's the lowest tier. $20,000-$50,000. Pocket change in the IPL economy. But to Vipin, who grew up counting seven-rupee meals, the number is from another planet.
+- The registration goes through. Vipin's name is now on a list. A list that includes Sachin Tendulkar, Shane Warne, MS Dhoni. His name next to theirs. On paper, at least, they are in the same pool.
+- He doesn't tell anyone outside cricket. Bhai doesn't know. The chai stall owners who remember him don't know. The groundskeeper who leaves newspapers at his door doesn't know. Vipin holds the information close, the way he holds the pendant — tight against his chest, in case it disappears.
+- **Grounding physical detail**: The registration form. A PDF, printed on A4, filled in by Rao's careful hand. Vipin's photograph stapled to the corner — a passport-size photo taken at a studio in Dadar. He's wearing a borrowed collared shirt. His jaw is set. He looks like he's daring the camera to blink first.
+
+**Scene 2: The Waiting Months (Dec 2007 – Jan 2008)** (~1,500 words)
+- The weeks between registration and auction are the longest of Vipin's life. He trains. He trains harder. He trains until Rao tells him to stop, and then he trains when Rao isn't watching.
+- The anxiety is new. On the streets, fear was immediate and actionable — a threat you could run from, fight, or outwit. This is different. This is waiting for other people to decide your worth while you can't do anything about it.
+- His catastrophizing goes into overdrive. What if nobody bids? What if his name comes up and the room is silent? What if the highlight reel looks amateur compared to the international players? What if the birth certificate's "Father: Unknown, Mother: Unknown" makes teams nervous?
+- He stops sleeping properly. Lies on the cot in the storage room, squeezing the rubber ball, counting the seconds between sounds. The groundskeeper's cough: forty-seven seconds apart. A car horn on the road: irregular, uncountable. This frustrates him more than it should.
+- Ravi calls. They talk about the auction. Ravi is in the player pool too — a solid Mumbai age-group player, not at Vipin's level, but talented enough for the lowest tier. Ravi is excited, nervy, chatty. Vipin is quiet. Ravi notices: "Tu theek hai, Chaudhary?" (You okay?) Vipin: "Haan. Bas waiting." The "bas" carries more weight than either of them acknowledges.
+- Rao sees the spiral. Takes Vipin to Shivaji Park at dawn — not to train. To sit. To watch the park come alive: the morning walkers, the dogs, the kids starting early cricket sessions on the outer pitches. Rao doesn't give advice. Just says: "The game doesn't know about auctions. The game just knows what you do with the ball." It's the most Rao thing Rao has ever said, and it works — for about six hours.
+- **Imperfect moment (anti-AI)**: Vipin goes to the temple. Not his old temple — a different one, nearby. He hasn't been to a temple in years. He doesn't pray. Doesn't light incense. Just sits in the back and watches other people pray. An old woman is chanting, and for a moment the cadence sounds like the pandit's voice, and his hands start shaking. He leaves without touching the pendant. He doesn't go back.
+
+**Scene 3: The Night Before (January 23, 2008)** (~1,500 words)
+- The auction is tomorrow. January 24, 2008. A hotel ballroom in Mumbai. Franchise owners, team management, BCCI officials, media — the biggest cricket event that isn't a cricket match.
+- Vipin is not in the room. The auction is for the owners and bidders. Players watch from elsewhere — hotels, homes, TV screens. Rao has arranged for them to watch at the MCA office on a small TV.
+- The night before. Vipin sits in his storage room. The bat across his lap. The pendant against his chest. The rubber ball in his hand. He counts things because counting is the only thing that's always worked.
+- He thinks about the pandit. About Bhai. About the gully game where the ball left the bowler's hand and time stretched. About the first time he wore whites. About the birth certificate with "Unknown" twice.
+- A mental inventory of everyone who's helped him get here: The pandit (dead). Bhai (complicated). Rao (the one constant). The groundskeeper (silent). Ravi (the friend). He counts them. Five people. In seventeen years, five people. It's not self-pity — it's math.
+- He picks up a pen and a piece of paper. He's never done this before. He writes down what he wants. Not a list — just a sentence. "I want them to say my name." He folds it, puts it under the pillow, and lies down.
+- He doesn't sleep. But for the first time, the counting stops. He's just waiting.
+- **Strange personal detail (anti-AI)**: At 2 AM, unable to sleep, Vipin steps outside the storage room. The Shivaji Park grounds are empty, moonlit, the pitch covers ghostly in the blue light. He walks to the center pitch. Stands at the crease — the specific spot where he first batted for Rao years ago. Taps three times with an imaginary bat. Plays an imaginary shot. Watches an imaginary ball sail into an imaginary crowd. Then walks back to bed. No one sees this. He never tells anyone.
+
+**Scene 4: Morning (January 24, 2008, 8 AM)** (~800 words)
+- Vipin wakes. Actually, he didn't sleep, but he opens his eyes. The piece of paper under his pillow. He reads it. Folds it again. Puts it in his pocket.
+- He does his morning routine: runs two laps of the park, even though today isn't a training day. Showers with the groundskeeper's hose (the storage room has no bathroom — he uses the park facilities). Puts on his cleanest clothes. Not cricket whites — a shirt and trousers. He looks at himself in the small mirror on the wall.
+- Rao picks him up. They drive to the MCA office in Rao's old Maruti. The car smells like the chai Rao spilled last week. Neither of them talks. The radio plays a Hindi film song — something from the nineties, something Vipin doesn't recognize but Rao hums along to.
+- They arrive. The TV is on. Other MCA people are there — officials, coaches, a few players not in the auction who want to watch. The room is small, crowded, the TV is too small for the number of people.
+- The auction broadcast begins. The auctioneer. The paddle numbers. The franchise logos on backlit boards. The first name is called.
+- The chapter ends here. Cut to black. The auction itself is Chapter 10.
+- **Unresolved micro-element (anti-AI)**: On the drive to the MCA office, Vipin sees a street kid — maybe ten, scrawny, selling newspapers at a traffic signal. The kid locks eyes with Vipin through the car window. Vipin doesn't wave. Doesn't look away. The light changes. The car moves. He touches his pocket where the paper is. The kid is already selling to the next car.
+
+#### Chapter 9 Emotional Arc
+Anxiety → Spiral → Grounding (Rao) → Solitary reckoning → Stillness before the storm
+
+#### Hook/Cliffhanger
+The auction broadcast begins. The auctioneer's voice fills the MCA room. Names will be called. Prices will be set. Somewhere in that list, between international legends and established stars, there's a name that was engraved on a gold pendant eighteen years ago. The chapter cuts to black before we hear it.
+
+#### Thread Developments
+- **The Paper Under the Pillow**: "I want them to say my name." The most vulnerable Vipin has ever been, and he does it alone.
+- **Rao as Anchor**: The dawn at Shivaji Park. The drive. The silence that says more than advice.
+- **Ravi Friendship**: Even in his spiral, Ravi is the one who checks in. Natural, not forced.
+- **The Street Kid at the Signal**: Mirror image. Where Vipin was. The life that cricket pulled him out of. Not sentimental — factual.
+- **Temple Visit**: Vipin's complicated relationship with faith and the pandit's legacy. He can't pray, but he can sit where people do.
+
+#### Tension Level: 0.65
+High. The entire chapter is coiled energy. Nothing happens in terms of action, but everything happens internally. The reader is as anxious as Vipin.
+
+---
