@@ -177,3 +177,58 @@ Vipin has found the thing. He doesn't know what it means yet — can't see the t
 Slightly elevated — there's danger in the street life, but the chapter trends toward discovery and hope.
 
 ---
+
+### Chapter 3: The King of Nothing
+
+**Timeline**: 2000-2002 (ages 10-12)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What happens when a kid discovers he's extraordinary at something — but has no system, no coach, and no path to make it matter?
+
+#### Scene Breakdown
+
+**Scene 1: The Gully Circuit (2000-2001, age 10-11)** (~1,200 words)
+- Vipin is now the ringer. Word has spread through the gully cricket networks of their area. When money games happen — twenty rupees a side, fifty on big weekends — teams want him. He's a commodity before he understands what that means.
+- Bhai capitalizes. Arranges games against other neighborhoods, other gullies. Takes bets. Vipin doesn't see most of the money, but he eats better. Bhai's investment.
+- The games escalate: bigger kids, faster bowlers, cricket balls occasionally instead of tennis balls. Vipin adapts to each step up without coaching. His body just... adjusts. A harder ball? He watches it closer. A faster bowler? His hands move sooner.
+- He starts bowling too — quick, with a slinging action nobody taught him. The ball does things off the concrete that confuse batsmen. He's not just a bat. He's the whole team.
+- **Grounding physical detail**: The specific sound of a tennis ball on a taped bat vs. the sound of leather on willow. Vipin hears both for the first time in the same week and knows the second sound is the real one. It vibrates differently in his hands. It feels like the truth.
+
+**Scene 2: The Maidan Discovery (2001, age 11)** (~1,500 words)
+- Bhai takes Vipin to a money match at one of Mumbai's open maidans — Azad Maidan or Cross Maidan. Proper-ish cricket. Leather ball. Adults and older teenagers. Serious money. Bhai has staked a significant amount on his kid.
+- Vipin is the youngest player by five years. The opposition laughs. A kid? With those skinny arms?
+- He bats. The bowler is a local club player, mid-twenties, genuinely quick for maidan cricket. Vipin faces his first real leather ball delivery in a proper match context. The ball is harder, heavier, the bounce different. For three balls, he adjusts — plays and misses once, edges once, blocks once.
+- Fourth ball: he drives it through covers so hard the fielder doesn't move. The shot looks like it came from a different sport. The maidan goes quiet the way it did in the gully.
+- He makes sixty-something off thirty-odd balls. The adults don't laugh anymore. One of them — a man in his forties who played club cricket — watches from the boundary. He doesn't approach Vipin. He just watches. (This is NOT Coach Rao — this is a random observer. Not everyone who watches becomes important.)
+- Bhai collects the money. Gives Vipin a better share this time. Something has shifted in how Bhai sees him — not just a useful kid, but something valuable. This is the first flicker of Bhai treating Vipin as an asset rather than a person.
+- **Strange personal detail (anti-AI)**: Vipin develops a pre-batting ritual. He taps the crease three times with the bat — not for luck, not superstition. Because three is the number of steps from the pandit's cooking area to the temple door. He doesn't know why he does it. He just does.
+
+**Scene 3: The Ceiling (2002, age 12)** (~1,300 words)
+- A year later. Vipin dominates every level of informal cricket he can access. Gully games aren't competitive anymore. Maidan games are too infrequent and depend on Bhai arranging them.
+- The problem: he's hit the ceiling of what street cricket can teach him. He doesn't know the formal techniques — his grip is slightly wrong, his stance is unorthodox, his bowling action would make a coaching manual cry. But it all works because his reflexes and processing speed compensate for everything.
+- He starts watching cricket on TVs in chai stalls and electronics shops. Sachin Tendulkar on a small screen. Vipin studies the way Sachin moves — not copying, but comparing. He can see the principles even if he can't name them. Weight transfer. Bat angle. Head position. He practices alone against walls, hitting a rubber ball for hours.
+- Frustration builds. He wants more. He can feel that what he's doing in gully games is a fraction of what he could do, but he doesn't know how to access the real game. No money for clubs. No contacts. No parent to drive him to trials. Just a pendant and a bat held together with tape.
+- Bhai senses the restlessness. Offers him more work — the paying kind, the kind that doesn't involve cricket. The kind Vipin has carefully avoided asking questions about. This is the first real fork: the street pulling one way, the dream pulling another.
+- Vipin says no. Quietly. Without drama. "I want to play cricket, Bhai." Bhai looks at him for a long time. Nods. Doesn't push. But something cools between them. Bhai respects it, but he files it away.
+- **Imperfect moment (anti-AI)**: Vipin is cruel to a younger kid during a gully match. The kid drops a catch and Vipin snaps at him — a flash of the competitive monster that lives inside the humor. He sees the kid's face and feels it immediately, but doesn't apologize. Doesn't know how to.
+- **Unresolved micro-element (anti-AI)**: Vipin finds a cricket coaching flyer stuck to a lamppost. "Junior Cricket Academy — Trials Every Saturday." An address in Dadar. He folds it into his pocket. He goes to the address the next Saturday. The building is a shoe store. The academy either moved or never existed. He throws the flyer away and walks to Shivaji Park instead, just to watch.
+
+#### Chapter 3 Emotional Arc
+Confidence → Dominance → Frustration → Restlessness → Quiet determination
+
+#### Hook/Cliffhanger
+Vipin standing at the edge of Shivaji Park, watching organized cricket for the first time. Real pads. Real bats. Coaches with whistles. Kids his age who have everything he doesn't — except what he has. The chapter ends with him watching, not entering. Not yet. But the reader knows that boundary line is about to be crossed.
+
+#### Thread Developments
+- **Bhai as Asset Manager**: The relationship shifts — Bhai now sees Vipin as commodity. Seeds of future conflict.
+- **The Fork**: Vipin chooses cricket over the street economy. This choice echoes later when Bhai returns.
+- **Self-Taught Limits**: Establishes why Coach Rao's arrival matters — Vipin needs guidance, not just talent.
+- **The Ritual**: Three taps. Connects cricket to the pandit unconsciously.
+- **Shivaji Park**: The location is planted — Coach Rao's territory.
+
+#### Tension Level: 0.40
+Rising. Frustration and the ceiling create internal tension. The fork with Bhai adds stakes.
+
+---
