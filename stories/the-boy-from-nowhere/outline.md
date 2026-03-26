@@ -1675,3 +1675,70 @@ Vipin lied to the anti-corruption unit. Bhai is still out there. Rao knows. The 
 High. Institutional stakes (anti-corruption), personal stakes (Bhai), moral stakes (the lie). The highest tension in Act 2B so far.
 
 ---
+
+### Chapter 26: The Truth Costs
+
+**Timeline**: September–December 2013 (age 23)
+**POV**: Third-person limited, Vipin
+**Word Target**: 5,000 words
+
+#### Central Question (this chapter)
+What does it cost to do the right thing when the right thing requires betraying someone who saved your life?
+
+#### Scene Breakdown
+
+**Scene 1: Going Back (September 2013)** (~1,200 words)
+- Vipin goes back to the anti-corruption unit. Rao's words won out — not immediately, but after three weeks of the stone in his chest, of Rao's silence (Rao hasn't spoken to him since the walkaway), of sleepless nights.
+- He tells them about Bhai's approach. Everything. The meeting, the ask, the information request. He doesn't name Bhai by his street name — uses the real name that even Vipin barely knows. The officers take notes. Ask follow-up questions. Vipin answers all of them.
+- He does NOT tell them he lied in the first interview. He frames this as a "delayed report" — he needed time to process, wasn't sure if it qualified. The officers buy it, or choose to buy it. The distinction between a lie and an omission is the kind of grey zone Bhai would appreciate.
+- The anti-corruption unit thanks him. His file is updated: "Player reported approach. Cooperative." The stone in his chest lifts slightly. Not completely — because the lie about the first interview is still there, a smaller stone inside the larger one.
+- He calls Rao. "I did it." Rao's silence breaks: "Good." One word. But it's Rao's "good," which means everything.
+- **Grounding physical detail**: Walking out of the BCCI office after the report, the sunlight hits him and he squints. The street outside is normal Mumbai — traffic, horns, a man selling coconut water. The banality of the world after a confession. He buys a coconut water. Drinks it standing at the cart. The man doesn't know who he is. The anonymity of a Mumbai sidewalk is the kindest thing the city gives him today.
+
+**Scene 2: Bhai's Response (October 2013)** (~1,200 words)
+- Bhai finds out. Not from the anti-corruption unit directly — from his network. Someone tells someone who tells Bhai that Vipin Chaudhary reported an approach.
+- Bhai doesn't come personally this time. A phone call. Vipin picks up because the number is unknown.
+- Bhai's voice is flat. No anger. Worse than anger. "You talked." Not a question.
+- "I had to."
+- "You had to." A pause. "The temple boy became a man who bites the hand. Interesting."
+- Bhai doesn't threaten. He doesn't need to. The implication is the threat: I know your history. I know where you slept, what you carried, who you were before the cameras. The street doesn't forget.
+- "We're done, Chaudhary. Don't call me. Don't come to the old places. You chose your side."
+- The call ends. Vipin sits with the phone in his hand. The relationship that's been a thread since Chapter 2 — the morally grey older kid who fed him, protected him, claimed him — is severed. The grief is real and complicated. You can mourn the loss of someone who was bad for you. The heart doesn't do clean math.
+- **Imperfect moment (anti-AI)**: Vipin tries to explain the Bhai situation to Shraddha that night. He's never told her about Bhai — not in detail. She listens. He tells the story badly — out of order, defensive, minimizing his own role. She hears the gaps. Asks careful questions. He gets frustrated: "It's not a film plot, Shraddha. It's my life." She goes quiet. The people-pleaser absorbs the sharpness. Later, in bed, she holds his hand and says nothing. It's exactly right. He squeezes her hand and doesn't let go.
+
+**Scene 3: Cricket as Sanctuary (Nov-Dec 2013)** (~1,000 words)
+- Vipin throws himself into cricket. The off-season Ranji Trophy. He bats like a man trying to outrun something — aggressive, relentless, but controlled. Rao's technique married to the street kid's fury.
+- His best Ranji season: 634 runs in eight matches, three centuries. His bowling is consistently 140+ kph. The selectors confirm his spot in the India squad for upcoming tours.
+- The cricket is both escape and therapy. On the field, there are no grey zones. The ball comes, you play it. The batsman swings, you bowl to the plan. The simplicity is medicinal after months of moral complexity.
+- Ravi, playing alongside him for Mumbai in Ranji: "Chaudhary, you're batting like someone stole something from you." Vipin: "Someone did." Ravi doesn't push. But he bats at the other end for two of those centuries, running the twos that turn fifties into hundreds, and that partnership — silent, physical, the language of bat and ball — says what words can't.
+
+**Scene 4: Anjali's Third Visit (December 2013)** (~1,500 words)
+- Anjali Mehta requests an interview. Vipin has avoided her since the "orphan who hits sixes" article. But she's persistent, and she's now a respected cricket journalist, not just a feature writer. She wants a "where are they now" piece — Vipin at 23, established India player, in a public relationship, at the peak of his career.
+- He agrees. Not because he wants to — because Rao advises him: "Control the narrative or it controls you." Rao's one venture into media strategy.
+- The interview is at Shivaji Park. Vipin's home ground. He's comfortable here. Anjali sets up on the boundary edge — recorder, notebook, the professional apparatus.
+- They spar. She asks about cricket (he's comfortable, expansive). She asks about Shraddha (he's guarded but civil). She asks about the IPL scandal (he gives a bland "the game is bigger than individuals" answer).
+- Then she asks about the pendant. She's done her research — she knows about the temple, the pandit, the pendant. "You've never spoken about where you came from. Not really. Don't you think people deserve that story?"
+- "People don't deserve anything from me. I play cricket. That's what I give them."
+- "But the story matters. Representation matters. Boys like you, growing up—"
+- "Boys like me don't read feature articles, Anjali. Boys like me are too busy surviving to give a shit about representation." The profanity is rare from him. She sees she's hit bone.
+- The interview ends. She publishes a piece that's respectful, cricket-focused, with one paragraph at the end about the pendant that Vipin didn't authorize but can't complain about because it's accurate. The paragraph ends: "Some stories are told by the person who lived them. Others are told by the silence around them. Vipin Chaudhary's silence is the loudest thing in Indian cricket."
+- He reads it. Hates it. Respects it.
+- **Unresolved micro-element (anti-AI)**: After the interview, Anjali packs up her equipment. Pauses. Hands Vipin a card. "If you ever want to talk — not for publication. Just talk." He takes the card. Puts it in his pocket. Doesn't throw it away. Doesn't call. The card stays in his wallet for years.
+
+#### Chapter 26 Emotional Arc
+Relief (the report) → Severance (Bhai) → Grief → Cricket sanctuary → Anjali confrontation → Uneasy equilibrium
+
+#### Hook/Cliffhanger
+Bhai is gone — for now. The lie is partially resolved. Cricket is thriving. The relationship survives. But the equilibrium is fragile: Vipin is at peak career, peak relationship, and peak suppression of everything underneath. The higher the peak, the further the fall. And the next chapter begins the approach to that fall.
+
+#### Thread Developments
+- **Bhai Severed**: The street connection is cut. But "the street doesn't forget." This isn't over.
+- **The Smaller Stone**: Vipin still lied about the first interview. That secret persists.
+- **Anjali as Mirror**: She sees Vipin's silence more clearly than he sees it himself. Her card is a planted olive branch.
+- **Cricket Peak**: Best Ranji season. India regular. The career trajectory is at its highest point.
+- **Ravi Partnership**: The friendship's purest expression — two men batting together, no words needed.
+
+#### Tension Level: 0.55
+Post-crisis breather. The Bhai confrontation is tense but resolves. Cricket provides relief. The Anjali interview adds edge but not crisis. A chapter of consequences and recalibration.
+
+---
