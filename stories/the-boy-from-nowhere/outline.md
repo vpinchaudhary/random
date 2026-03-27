@@ -1065,6 +1065,53 @@ Breather chapter after the intensity of 12-13. Lower on-field tension, but Bhai'
 
 ---
 
+### Interlude C: What They See
+
+**Timeline**: Mid-2008 (between Ch 14 and Ch 15)
+**POV**: Multiple external — the world Vipin is entering and the world watching him enter it
+**Word Target**: ~3,000 words
+
+Vipin has money, a team, and a media narrative he didn't choose. This interlude shows how different corners of the cricket world process the new arrival — and not all of them are impressed.
+
+#### Scene 1: The Opposition Meeting (pre-IPL 2009 planning, late 2008)
+- A franchise's strategy room. Not MI — one of their rivals. The coach and analyst are reviewing footage of Mumbai Indians players for next season. Vipin's highlights play on a projector.
+- The coach — an experienced international, maybe a foreign import — watches the cover drive, the yorker, the running catch. Pauses the video. "The kid has everything. Speed, power, eye. What's the weakness?"
+- The analyst pulls up data. "Impatient outside off stump. First ten balls — he can't leave. Wants to dominate from ball one. Set a third man, bowl channel outside off, he'll nick one within two overs."
+- The bowling coach leans back. "So he's a genius with the maturity of a teenager."
+- "He IS a teenager."
+- They plan the field. Four slips, gully, third man, bowl 4th-5th stump. Nothing on his pads. Starve him. Make him come to you. "And whatever you do — don't sledge. The more you talk, the more he feeds. The angry ones always do."
+- The meeting moves on to the next player. Vipin's section took four minutes. In those four minutes, his entire technical weakness was laid out on a whiteboard. Nobody will tell him. He'll have to figure it out from the field.
+- **What the reader learns**: Vipin's talent has a technical gap (impatience outside off). The IPL isn't just talent — it's analysis, planning, exploitation. Foreshadows his struggles before he evolves.
+
+#### Scene 2: Anjali Mehta's Editor (Mumbai, 2008)
+- The Mumbai Herald newsroom. Late shift. Anjali Mehta, 28, sports journalist, three years at the paper, sits across from her editor, Sameer Joshi. She has a pitch. A long-form profile of Vipin Chaudhary. Not the match report, not the stats — the story. The temple. The streets. The pendant.
+- Joshi is eating a vada pav at his desk. Wrapper open, grease stain expanding on a printout of tomorrow's front page. "Mehta, nobody reads five-thousand-word profiles of uncapped players."
+- "He won't be uncapped long. And the story is—"
+- "The orphan angle. I know. Everyone's doing the orphan angle. Give me something different or give me a match preview."
+- Anjali sits with this. She knows the orphan angle isn't the real story. The real story is the silence — the pendant moment on camera, the questions he won't answer, the way the humor is both genuine and armored. The story is what's BEHIND the orphan narrative.
+- "He's never given a real interview. Not about his life. If I can get him to talk—"
+- "Can you?"
+- "I don't know." Honest. Joshi respects this. The reporters who say "absolutely" are usually wrong.
+- "Get me 2,000 words. If it's good, we'll run it long. If it's the same orphan stuff, I spike it." He crumples the vada pav wrapper. "And Mehta — don't fall for the story. Report it."
+- She leaves the newsroom at 11 PM. The local train to Andheri. Standing in the women's compartment, holding the ceiling rail, she drafts questions on her phone. Not "where are your parents?" — everyone asks that. She wants to ask: "What do you count when you can't sleep?" Because she noticed, in the press conference footage, his eyes tracking things. Water drips. Ceiling tiles. He counts. Nobody else has noticed.
+- **Sensory anchor**: The vada pav grease stain on the printout, spreading in a slow circle. The newsroom at 10 PM — half-empty, fluorescent, the smell of printer toner and old chai.
+
+#### Scene 3: The MI Dressing Room (a small moment, 2008)
+- This is life texture, not outside eye. Vipin is here but the scene belongs to Sachin Tendulkar.
+- Post-practice. Most players have left. Vipin is still in the dressing room, padding up for extra nets because he always stays longer than everyone. Sachin walks in — he'd forgotten his bag. Sees Vipin sitting alone, adjusting his pads with the wrong buckle (he still doesn't know the right way — taught himself from watching).
+- Sachin doesn't say "let me show you." He just sits down next to Vipin and starts adjusting his own pads, slowly, visibly. The correct buckle, the correct strap tension. He does it without looking at Vipin. Without a word.
+- Vipin watches. Gets it. Adjusts his own pads. Correct now.
+- Sachin picks up his bag. At the door: "Chaudhary, the nets close at 7. After that, the groundskeeper here gets grumpy." A half-smile. He leaves.
+- That's it. No motivational speech. No mentorship scene. Just a man showing a boy how to strap a pad by example, and trusting him to figure it out. This is how Sachin teaches — not by instruction, by presence. Vipin will tell this story exactly once, to Shraddha, years later. Nobody else will hear it.
+- **What the reader learns**: Sachin is real and human, not a statue. Vipin can learn from quiet people. The MI dressing room has a culture — you don't teach, you show. This contrasts with Rao's explicit coaching style.
+
+#### Interlude C Notes
+- Three different angles: tactical (the opposition), media (Anjali), personal (Sachin). Together they show the machinery around a young cricketer — people planning to exploit him, document him, and quietly guide him.
+- Tone shifts across scenes: clinical → ambitious → warm. The interlude starts cold and ends human.
+- Anjali's scene sets up her importance for Ch 26 (the Shivaji Park interview) and Ch 42 (the final interview).
+
+---
+
 ### Chapter 15: 26/11
 
 **Timeline**: July–November 2008 (age 18)
