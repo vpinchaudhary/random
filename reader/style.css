@@ -2,21 +2,21 @@
 
 /* --- Design tokens (4pt base unit, OKLCH color) --- */
 :root {
-  /* Surfaces — Google dark mode (#202124 family, cool blue-grey) */
-  --surface-0: oklch(0.18 0.006 264);    /* #202124 — Google dark bg */
-  --surface-1: oklch(0.22 0.006 264);    /* #28292c — elevated surface */
-  --surface-2: oklch(0.27 0.005 264);    /* #303134 — hover/active */
-  --surface-3: oklch(0.34 0.005 264);    /* #3c4043 — borders */
+  /* Surfaces — pure neutral grey, #1f1f1f base */
+  --surface-0: oklch(0.155 0 0);    /* #1f1f1f */
+  --surface-1: oklch(0.19 0 0);     /* #272727 */
+  --surface-2: oklch(0.23 0 0);     /* #303030 */
+  --surface-3: oklch(0.30 0 0);     /* #3d3d3d */
 
-  /* Text — Google dark mode text (#e8eaed / #9aa0a6) */
-  --text-primary: oklch(0.91 0.005 264);     /* #e8eaed — primary */
-  --text-secondary: oklch(0.65 0.008 264);   /* #9aa0a6 — secondary */
-  --text-tertiary: oklch(0.50 0.007 264);    /* #70757a — tertiary */
+  /* Text — #bfbfbf primary, scaled down for secondary/tertiary */
+  --text-primary: oklch(0.775 0 0);     /* #bfbfbf */
+  --text-secondary: oklch(0.55 0 0);    /* #777777 */
+  --text-tertiary: oklch(0.42 0 0);     /* #595959 */
 
-  /* Accent — Google blue (#8ab4f8) */
-  --accent: oklch(0.72 0.12 254);
-  --accent-dim: oklch(0.57 0.09 254);
-  --accent-surface: oklch(0.24 0.05 254);
+  /* Accent — muted blue, low saturation to match neutral palette */
+  --accent: oklch(0.68 0.09 254);
+  --accent-dim: oklch(0.52 0.07 254);
+  --accent-surface: oklch(0.22 0.04 254);
 
   /* Semantic */
   --success: oklch(0.65 0.14 155);
@@ -239,7 +239,7 @@ main {
 
 .chapter-content em {
   font-style: italic;
-  color: oklch(0.80 0.006 264); /* slightly dimmed for Hindi/italics */
+  color: oklch(0.68 0 0); /* slightly dimmed for Hindi/italics */
 }
 
 .chapter-content hr {
