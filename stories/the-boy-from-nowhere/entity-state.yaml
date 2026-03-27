@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-03"
+last_updated: "chapter-04"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,55 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-04:
+    title: "The Man at the Boundary"
+    timeline: "Early 2003 (age 13)"
+    events:
+      - "Vipin watching at Shivaji Park for months — observing coached kids, noting what they have/lack."
+      - "Recruited as emergency fielder for scratch match. Electric in the field — cover dive, flat throw."
+      - "Bats at number 11. Eight balls faced, six to the boundary. Two missed — balls he should have left."
+      - "Rao watches from boundary rope, forgets to drink chai (milk skin forms on top)."
+      - "Rao approaches: 'Who coaches you?' / 'Nobody.' First conversation."
+      - "Rao examines Vipin's hands — calluses wrong (bottom-hand dominant, street grip)."
+      - "Five-day assessment: reaction tests, target hitting, stamina run, leather ball vs. club bowler."
+      - "Factory defect joke delivered when asked about parents."
+      - "Rao offers: coaching + storage room (Keshav's) + club meals, no formal adoption."
+      - "Vipin accepts with two words: 'Okay.' No thank you."
+      - "Vipin tells Bhai. Bhai: 'Go. But remember who was here when nobody else was.' Blessing and claim."
+      - "Vipin finds the storage room: 8x10, linseed oil, 23 ceiling cracks. Best place since the temple."
+      - "Passes school on walk — hand goes to pendant unconsciously. Walks faster."
+    state_changes:
+      vipin:
+        location: "Storage room, Shivaji Park boundary (Keshav's)"
+        age: 13
+        new_development: "Enters organized cricket pipeline. First person to see him as a cricketer."
+        meals: "Cricket club — lunch and dinner, 6 days/week"
+      prakash_rao:
+        status: "Named and active. Full introduction."
+        role: "Coach. Eleven years at Shivaji Park. Former Ranji hopeful, knee injury 1987, never re-selected."
+        key_trait_confirmed: "Cold chai (forgets to drink when observing). Reading glasses on forehead."
+        relationship_vipin: "Sees something unnamed but extraordinary. Offers practical mentorship."
+      keshav_groundskeeper:
+        first_appearance: chapter-04
+        role: "Groundskeeper. Quiet, 60s. Communicates via nods. Smells of grass and patience."
+        arrangement: "Storage room given to Vipin via Rao's favor."
+      bhai:
+        parting_words: "Go. But remember who was here when nobody else was."
+        claim_status: "LOADED. Future claim on Vipin's success established explicitly."
+    threads_developed:
+      - bhai_claim (CHEKHOV'S GUN LOADED — 'remember who was here')
+      - rao_relationship (BEGINS — mentor dynamic, complicated by his failed career projection)
+      - storage_room (ESTABLISHED — 23 cracks, linseed oil, best place since temple)
+      - grip_resistance (FIRST INSTANCE — callus diagnosis, Vipin defends his grip)
+      - pendant (touched unconsciously passing school — cricket/identity connection)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Vipin counts ceiling cracks before unpacking anything — forty-seven on the building opposite, then twenty-three in storage room. Counting before settling is his version of claiming space."
+      imperfect_moment: "Vipin's grip resistance — physically pulls hand back metaphorically when Rao identifies calluses. 'My shots work.' The stubbornness that will both define and limit him."
+      unresolved_micro: "Passing the school gate — parents collecting children in frequency-of-knowing way. Hand goes to pendant. He doesn't examine this. The scene is not resolved, not given meaning. Filed."
+      grounding_physical: "Milk skin on Rao's chai — specific, sensory. Vipin uses it as data: the man was distracted by what he saw. This is how Vipin reads people."
+    beta_score: 8
     inconsistencies_detected: none
 
   chapter-03:
