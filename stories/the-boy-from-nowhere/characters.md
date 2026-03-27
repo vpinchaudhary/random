@@ -6,7 +6,7 @@
 
 ### Core Identity
 - **Full Name**: Vipin Chaudhary (his real name — engraved on a pendant left with him. Chaudhary. Jaat blood. He doesn't know his parents but he knows his caste, and it's written into his bones.)
-- **Age**: Born 1990. Story spans ages 5-25+
+- **Age**: Born ~June 15, 1990 (estimated; official date assigned by municipal office). Story spans ages 5-36 (1990-2026)
 - **Physical Description**: Jaat blood doesn't lie. Even as a malnourished kid on the streets, his frame was big — wide shoulders, thick wrists, a jaw like it was carved for taking hits. The bones were always there, the structure always promised something. He just didn't have the fuel to fill it. As a boy he looked like a big frame with not enough meat on it — all potential, joints too visible, ribs showing when he ran shirtless in gully games. But the moment organized cricket gave him regular meals, proper food, protein — his body did what Jaat genetics were always going to do. He filled out fast and hard. By 16 he looked 20. By 18 he looked like he could walk through a wall. Broad chest, thick forearms, hands like shovels — the kind of build that makes bowlers think twice about bouncing him. Fair-skinned naturally, but years of Mumbai sun have burned a permanent cricketer's tan into his arms, neck, and face — the rest of him lighter, the contrast visible when he rolls up his sleeves. Sharp features, strong brow, dark eyes that lock onto things with an unsettling focus. A thin scar on his left eyebrow from a gully cricket injury at age 9. Moves with a big man's surprising quickness — not graceful exactly, but explosive, like a truck that corners like a sports car. There's a raw, unperformed masculinity to him that fills rooms before he opens his mouth. And then he opens his mouth and makes everyone laugh, and they forget for a moment that he could probably break them in half.
 - **Personality Traits**: Effortlessly, devastatingly funny — the kind that makes rooms stop, the kind that people retell badly at parties. Street-smart to the bone. Fiercely independent. Guarded beneath the humor but the guard is so charming you don't notice the wall. Competitive in a way that borders on frightening — not loud about it, just relentless. Loyal to the death once trust is earned. Uncomfortable with vulnerability but masks it so well most people never see it. Magnetic — people orbit him without understanding why.
 
@@ -14,10 +14,11 @@
 His body is wired different. Not superhuman — but at the absolute bleeding edge of what a human can be:
 - **Hand-Eye Coordination**: Preternatural. He picks up the ball out of the bowler's hand a fraction earlier than anyone else. At 150 kph, that fraction is the difference between a dot ball and a six. Coaches test his reaction time and get confused by the numbers.
 - **Stamina**: Doesn't quit. Other players are bent double after a session; Vipin looks like he just walked in. His body processes fatigue differently — lactic acid seems to clear from his muscles faster than it should. He can bat for eight hours and field like it's the first over.
-- **Recovery**: Sleeps six hours and wakes up like he slept twelve. Minor injuries heal noticeably faster. Physios comment on it. He shrugs it off.
+- **Recovery**: Sleeps six hours and wakes up like he slept twelve. Injuries heal fully and faster than they should — physios comment on it, he shrugs it off. After his major shoulder injury (Ch 28-29), his body heals completely: pace returns to 144 kph within weeks. The post-injury evolution to craft-based bowling is a CHARACTER CHOICE, not a physical limitation. He CAN still bowl 144+ any time. He CHOOSES when to deploy raw pace like a general deploying artillery, adding cutters, slower balls, and variations. "Anyone can be fast. I want to be smart AND fast."
 - **Temporal Perception**: When a ball comes at him, time stretches. Not literally — but his processing speed is so fast that he has more time to decide than anyone else on the pitch. The ball doesn't slow down. His brain speeds up.
 - **Instinct**: His body knows things before his mind does. He's already moving to a catch position before the ball is hit. He plays shots he's never been taught, from positions that shouldn't work, and they work. Coaches try to explain it and can't.
-- **Playing Style**: He doesn't wait. He doesn't rotate strike and build an innings. He doesn't respect the bowler's spell. From ball one, he's coming at you. Front foot, full swing, the bat sounds different when he hits it — a crack that makes the crowd flinch. He's not reckless, he's aggressive with intent — every shot is a statement, every boundary is personal. The Jaat in him doesn't believe in patience at the crease. He believes in domination. He walks out to bat like he owns the ground and the bowler's just borrowing it. Coaches who try to make him "play sensibly" learn fast that his version of sensible is smashing the first ball for four and then doing it again. And it works — because his reaction time and hand-eye make shots that look insane from anyone else look inevitable from him.
+- **Playing Style (Phase 1, pre-injury)**: He doesn't wait. From ball one, he's coming at you. Full swing, the bat sounds different when he hits it. He's not reckless, he's aggressive with intent. Walks out like he owns the ground. Bowling at 140+ kph consistently, pure pace and fury.
+- **Playing Style (Phase 2, post-injury, Ch 34+)**: Still has the aggression, but now it's layered with patience and craft. Can bat for six hours. Can bowl 144 but also has cutters, slower balls, changes of length. The complete player — pace + craft + experience. Batsmen face two threats, not one. This evolution is a CHOICE, not necessity.
 - **What It's NOT**: There's no system. No awakening. No voice in his head. No supernatural element. He was born this way — it's genetic lottery, extreme-end human potential. He doesn't know WHY he's different. He just knows he is.
 - **Speech Pattern**: Mumbai street Hindi — fast, slangy, peppered with Marathi fragments and English cricket terms. Uses humor as filler, deflects with jokes. Gets quieter (not louder) when truly angry. Code-switches to cleaner Hindi in formal cricket settings but never fully loses the street rhythm.
 - **Core Motivation**: To prove he is somebody. Not for revenge, not for glory — but because the world told him he was nobody and he needs to know it was wrong.
@@ -57,19 +58,24 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - Whether this mystery gets answered is a major story thread
 
 ### Relationships
-- **Cricket** → His first love, his identity, the thing that gave him a name. Trust: 10/10
-- **Shraddha Kapoor** → Slow-building romance. Initially wary — she represents everything he never had. Trust: starts at 2, builds to 9.
-- **Coach figure (TBD)** → The first adult who believed in him. Father figure. Trust: 8/10
-- **Shakti Kapoor** → Shraddha's father. Intimidating, larger than life, initially skeptical of the boy with no family. Trust: starts at 1, builds slowly.
-- **IPL teammates** → Brotherhood he never expected. Some genuine, some transactional. Trust: varies 3-7.
+- **Cricket** → His first love, his identity, the thing that gave him a name. Post-injury (Ch 34+), cricket becomes his job, not his identity — "This was just cricket." Trust: 10/10 → transformed relationship.
+- **Shraddha Kapoor** → Slow-building romance from Ch 17. The batata vada not-date, the 1 AM calls, the fan blog photo, meeting Shakti, going public. She's the one who breaks the fatal flaw — he says "I need you" in Ch 33. They marry in Ch 38 (COVID lockdown, 50 guests). Trust: 2 → 10.
+- **Prakash Rao** → Father figure. Discovered him at Shivaji Park (Ch 4). The one constant. Walks beside him at the wedding (Ch 38) in the space where a father would be. Trust: 8/10.
+- **Kavita Rao** → Rao's wife. Sunday dinners (six chapatis). The closest thing to a mother figure, though both keep careful distance. She puts Vipin's Diwali money into a fixed deposit without telling Rao.
+- **Ravi "Bullet" Deshmukh** → Best friend from U-15 cricket (Ch 6). Gives him the "Chaudhary" nickname. The one who breaks his silences with jokes. Bats at the other end during his Ranji centuries. Trust: 9/10.
+- **Shakti Kapoor** → Shraddha's father. Interrogator in Ch 21, grudging respect by Ch 34, unconditional acceptance by Ch 38. "A man who looks for his family is a man who values family." Trust: 1 → 8.
+- **Bhai** → Morally grey street figure. Fed and protected him as a child. Returns to claim the investment (Ch 14, 20, 25). The spot-fixing approach and Vipin's report severs the relationship (Ch 26). The debt-guilt persists. Trust: complicated → severed.
+- **Sunita Devi** → Paternal grandmother, found in Ch 31 (Haryana). Writes him a letter during his crisis. The only blood family he has. Trust: grows from 0 → 8.
+- **Anjali Mehta** → Journalist. Writes the "orphan who hits sixes" article. Their dynamic is adversarial-respectful. Her card stays in his wallet for years. She gets the final interview (Ch 42). Trust: 3 → 6.
+- **Keshav (groundskeeper)** → Silent father figure. Left newspapers and Parle-G at his storage room door for years. The single knock on auction night. The purest relationship in the story — no agenda.
 
 ### Arc Progression
-- **Chapters 1-8**: Survival. Street kid. Cricket discovery. The grind.
-- **Chapters 9-16**: Rise. Age-group cricket. First real opportunities. Learning the system.
-- **Chapters 17-24**: IPL debut. Fame. Culture shock. Meeting Shraddha. The world opens.
-- **Chapters 25-32**: Complications. Pressure of performance. Romance deepening. Class friction. Setbacks.
-- **Chapters 33-38**: Crisis. What happens when the thing you built your identity on is threatened? Who is Vipin without cricket?
-- **Chapters 39-42**: Resolution. Integration. He's not nobody anymore — but he needs to learn he was always somebody.
+- **Act 1 (Ch 1-10)**: Temple stairs to IPL auction. Birth → streets → pandit's death → Bhai's world → Rao discovers him → age-group dominance → documentation crisis → IPL auction. Sold to MI for $100K.
+- **Act 2A (Ch 11-18)**: The Rise. MI dressing room → IPL debut alongside Sachin → breakout innings → media discovers the orphan narrative → 26/11 → foreign tours → meets Shraddha (batata vada at Aram Vada Pav).
+- **Act 2B (Ch 19-27)**: Collision. World Cup 2011 → relationship goes public → meets Shakti → India cap → relationship tension (two worlds) → spot-fixing crisis → Bhai severed → Anjali's Shivaji Park interview → public scrutiny of the relationship.
+- **Act 3A (Ch 28-33)**: The Fall. Shoulder injury → enhanced body heals fully but cricket stalls → MI evolves past him → PI investigation (Rajveer, Kamla, Haryana) → fracture with Shraddha → rock bottom ("I need you").
+- **Act 3B (Ch 34-38)**: Rebuilding. Chooses craft over raw pace → Sunita Devi found → MI vice-captain 2018 → captain 2019 (wins IPL) → COVID lockdown → intimate wedding (50 guests, Rao walks beside him).
+- **Resolution (Ch 39-42)**: India Test captain → "This was just cricket" → son born (Arjun) → Shivaji Park retirement speech → Anjali's final interview → returns pendant to son on temple steps.
 
 ### Knowledge State (at story start)
 - **Knows**: How to survive, how to read people, how to make anyone laugh, how to bat, that he's Jaat (from the pendant — the name Chaudhary tells him that much), that someone cared enough to leave him at a temple with money and a name
@@ -78,10 +84,21 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 ### Emotional State Tracker
 - Will be updated per chapter
 
-### Inventory/Possessions
-- **The pendant**: Gold, engraved "Vipin Chaudhary." Worn under his shirt always, against his skin. The only thing from his parents. Non-negotiable — he would fight God for it.
+### The Drawer (Museum of His Life)
+Vipin keeps a drawer — first in the storage room, later in his flat — where he collects proof of his existence. Contents accumulate across the story:
+- **The pendant**: Gold, engraved "Vipin Chaudhary." Worn against skin always. Given to Shraddha for safekeeping during their relationship, returned to him during his crisis (Ch 29). Eventually passed to his son Arjun (Ch 42).
+- **Newspaper clipping** (Ch 10): Page 12, three words — "Vipin Chaudhary — MI"
+- **"I want them to say my name"** (Ch 9): Handwritten note on folded paper, from the night before the auction.
+- **Match balls**: First IPL wicket, various milestones.
+- **ATM receipt** (Ch 14): First IPL salary, thermal paper already fading.
+- **Unsigned letter** (Ch 13): "God has a plan for you." No return address.
+- **Anonymous photograph** (Ch 18): Young couple, trimmed with scissors — more was cut away. Sent to his temple address.
+- **Boarding pass** (Ch 16): First international flight.
+- **India cap photo** (Ch 22): Team photograph.
+- **Bhai's tennis ball** (Ch 25): Taped, gully-style. No note needed — the message is "remember."
+- **Anjali's card** (Ch 26): "If you ever want to talk — not for publication."
+- **Rajveer's cricket gloves** (Ch 35): From Sunita Devi. Too small for his hands now.
 - A battered cricket bat (his first real one, gifted by Coach Rao)
-- Nothing else of sentimental value — he travels light because he's always been ready to move
 
 ---
 
@@ -118,14 +135,23 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 - **Bollywood peers** → Friendly surface, competitive underneath. Few genuine friendships. Trust: 3-5.
 
 ### Arc Progression
-- **Chapters 17-20**: Introduction. Meets Vipin. First impressions.
-- **Chapters 21-28**: Getting closer. The slow burn. Learning who he really is beneath the jokes.
-- **Chapters 29-34**: The relationship tested. Class issues surface. Family pressure.
-- **Chapters 35-42**: Choosing each other — not because it's easy, but because the alternative is worse.
+- **Ch 17-18**: Meets Vipin at a charity event (introduced by Ravi). Batata vada at Aram Vada Pav. 1 AM phone calls. Not-dates.
+- **Ch 19-20**: World Cup 2011 — she comes to Wankhede. The "look" — not a kiss, just a look. Fan blog photo spotted.
+- **Ch 21**: Photo goes public. "I'm telling you, not asking permission" — to Shakti. Brings Vipin to the Kapoor house. The spine she didn't know she had.
+- **Ch 23-24**: Two worlds collide. Learns about Vipin's streets. The comparison wound ("your worst day was a bad audition"). Real tension.
+- **Ch 27**: Public scrutiny — "The Orphan and the Princess." Tabloid pressure. Bhai-sourced whispers.
+- **Ch 28-29**: Vipin's injury. She keeps the pendant while he recovers. Watches him withdraw. The people-pleaser in her absorbs the rejection.
+- **Ch 32**: The fracture. Vipin pushes her away. She doesn't fight it — the fatal flaw (people-pleasing) lets her absorb too much.
+- **Ch 33-34**: He calls — "I need you." She says: "I'm already in the car." The rebuild begins. They cook together. She's terrible at dal. The armor comes off both sides.
+- **Ch 35**: Goes to Haryana with Vipin. Meets Sunita. Blushes when Sunita says "he married well."
+- **Ch 38**: COVID lockdown — the haircut disaster, Instagram post (200K likes), quarantine domesticity. Wedding: 50 guests, intimate, her choice.
+- **Ch 39-40**: Pregnant (doesn't tell him until after his captaincy innings). Son: Arjun.
+- **Ch 41-42**: Present at his retirement. The family that was built from nothing.
 
 ### Knowledge State (at introduction)
-- **Knows**: Bollywood, Mumbai's elite world, the performance of public life, how to navigate cameras
-- **Doesn't Know**: What real struggle looks like (she learns through Vipin), how to stop performing for others
+- **Knows**: Bollywood, Mumbai's elite world, the performance of public life, how to navigate cameras, that her name opens doors she didn't build
+- **Doesn't Know**: What real struggle looks like (she learns through Vipin), how to stop performing for others, how to assert her needs before they calcify into resentment
+- **Learns**: To stand up (Ch 21, to Shakti). To wait without absorbing (Ch 32-33). To show up without fixing (Ch 33 — "I'm already in the car" is presence, not a solution).
 
 ---
 
@@ -175,24 +201,132 @@ His body is wired different. Not superhuman — but at the absolute bleeding edg
 
 ---
 
-## Secondary Characters (brief profiles, expanded as needed)
+## The Pandit — First Father Figure (deceased)
 
-### Ravi "Bullet" Deshmukh — Best Friend / IPL Teammate
-- Fellow Mumbai player, similar age, middle-class background
-- Vipin's closest friend in cricket — the one who treats him normally
-- Funny in a different way (self-deprecating vs. Vipin's sharp wit)
-- Grounds Vipin when fame goes to his head
+### Core Identity
+- **Name**: Never named. Always "the pandit."
+- **Age**: Old when Vipin was left at the temple (1990). Dies when Vipin is ~7-8 (1997-1998).
+- **Physical**: Dry, warm hands. Trembling in his last year. Small frame. Temple clothes.
+- **Personality**: Kind without performance. Taught Vipin discipline, basic reading (chalk on stone), and a sense of order. Talked to the temple cat in full philosophical conversations. Didn't preach vegetarianism as religion — lived it as fact.
+- **Key legacy**: The counting habit (Vipin learned to count in the temple). The vegetarianism. The pendant's safekeeping. The soap smell (cheap pink institutional soap — triggers Vipin in five-star hotel bathrooms decades later). The habit of washing dishes without being asked. The sense that someone once cared.
+- **Death**: Quiet. Illness, age. The kind of death that doesn't make the news. Vipin's first and defining loss. He doesn't fully cry about it until Ch 29 — twenty years later.
+- **What he represents**: Proof that unconditional kindness exists. The standard against which every subsequent relationship is measured.
+- Canon vs. Original: ORIGINAL
+
+---
+
+## Secondary Characters
+
+### Ravi "Bullet" Deshmukh — Best Friend
+- **Age**: Born 1990, same as Vipin
+- **Background**: Middle-class Marathi family. Father Dinesh is an LIC agent, mother Sunanda cooks puran poli. Two-bedroom flat in Dadar. Commerce degree alongside cricket.
+- **Personality**: Loud, social, self-deprecating humor (vs. Vipin's sharp wit). The bridge between Vipin and normal life. Names Vipin "Chaudhary" as a title in Ch 7. Protective — snaps at his father for calling Vipin "the orphan boy."
+- **Cricket**: Solid Mumbai age-group player, lower-tier IPL contract. Not Vipin's level, knows it, doesn't resent it. Bats at the other end during Vipin's Ranji centuries — silent partnership.
+- **Key moments**: 1 AM bathroom call after auction (Ch 10/Interlude B), empty chair at his wedding (Interlude F), "Chaudhary, bat se problem kya hai?" breaking tension (Ch 7).
+- **Wife**: Priya Deshmukh (married January 2017). Roasted his haircut within five minutes of meeting. Insightful — "He sounds like someone who doesn't know how to need people."
+- **Speech**: Fast Marathi-Hindi, cricket slang, nicknames for everyone. Says "bhai" constantly (not to be confused with Bhai the street figure).
+- **Composure break**: Gets louder and more jokey when worried. The jokes get worse in proportion to his concern.
 - Canon vs. Original: ORIGINAL
 
 ### Anjali Mehta — Sports Journalist
-- Covers cricket for a major outlet
-- Intelligent, persistent, professionally ambitious
-- Sees a great story in Vipin — the orphan who made it
-- Their dynamic: she wants the real story, he wants to control the narrative
+- **Age**: Born ~1980. Late 20s when she first covers Vipin.
+- **Background**: Mumbai Herald sports beat, three years at the paper when she writes the "orphan who hits sixes" article (Ch 13). Climbs to respected cricket journalist by Ch 26.
+- **Personality**: Persistent, professionally ambitious, honest. Not a vulture — a professional who sees a story and wants to tell it right. She notices what others miss (Vipin counting things at press conferences).
+- **Dynamic with Vipin**: Adversarial-respectful. She wants the real story, he wants to control the narrative. She pushes ("Don't you think people deserve that story?"), he pushes back ("Boys like me don't read feature articles"). Her card stays in his wallet for years. She gets the final interview (Ch 42).
+- **Editor**: Sameer Joshi — eats vada pav at his desk, tells her "don't fall for the story, report it."
+- **Key writing**: The "orphan who hits sixes" article (Ch 13), the Shivaji Park interview (Ch 26, "his silence is the loudest thing in Indian cricket"), the final piece (Ch 42).
+- **Speech**: Professional Hindi-English, journalist's precision. Asks questions that land like slow yorkers — you don't see the danger until it's too late.
 - Canon vs. Original: ORIGINAL
 
-### "Bhai" — Street Figure from Vipin's Past
-- The older kid who ran the gully cricket games in Vipin's neighborhood
-- Not a villain — more of a morally grey figure who helped Vipin survive but also represents the world Vipin left behind
-- Resurfaces when Vipin gets famous, creating tension about where he came from
+### "Bhai" — Street Figure
+- **Real name**: Rarely used (Vipin barely knows it). Known by the street title.
+- **Age**: ~5 years older than Vipin.
+- **Background**: Runs a small-time operation in Dongri — not a don, not a thug, a survivor-entrepreneur in the grey zone. Fed Vipin, gave him work, protected him on the streets after the pandit died.
+- **Personality**: Flat-eyed, calculating, patient. Operates on value, not sentiment. "Some things you don't use up. You invest." Smokes Gold Flake. Speaks in short sentences. Never raises his voice — the quiet is the threat.
+- **Arc**: Protector (Ch 2-3) → investor ("He's worth more than collections," Interlude A) → claimant (Ch 14, resurfaces after IPL success) → spot-fixing approach (Ch 25, asks Vipin to pass information) → severed (Ch 26, "We're done, Chaudhary") → recalibrating (Interlude E, at a worse chai stall, filing Vipin's history as leverage) → tabloid leaks (Ch 27, Bhai-sourced whispers about Vipin's past).
+- **Key line**: "Remember who was here when nobody else was." (Ch 4, repeated Ch 14)
+- **Composure break**: Doesn't have one. That's what makes him dangerous.
 - Canon vs. Original: ORIGINAL
+
+### Kavita Rao — Coach's Wife
+- **Age**: Born ~1955. Municipal school teacher in Dadar, 23+ years.
+- **Physical**: Quiet, practical. Chalk dust on her school bag. Buys vegetables at the market — bhindi, tomatoes, mental budget running automatically.
+- **Personality**: Observant, patient, understated warmth. Married to Rao for 31 years. Watched him pour himself into other people's children. Loved Vipin from a careful distance "because getting too close to something temporary is how you break."
+- **Key moments**: "Bring him for dinner on Sunday. I'll make extra" (Ch 4 context). Sunday dinners — Vipin eats six chapatis. "He moves when they bat — his whole body." Puts Vipin's Diwali money into a fixed deposit without telling Rao. Buying bhindi at the market, stopping at Vipin's poster in a shop window (Interlude E).
+- **The marriage**: Thirty-one years of pouring out cold chai. They decided not to have children (a private grief). Vipin is the closest thing to a son — both know it, neither names it.
+- **Speech**: Quiet Marathi. Speaks in practical sentences. "Tell him to eat properly" (every video call).
+- Canon vs. Original: ORIGINAL
+
+### Keshav — Shivaji Park Groundskeeper
+- **Age**: ~58 when Vipin moves into the storage room (2003). Has maintained these pitches since before Tendulkar practiced here.
+- **Physical**: Weathered, quiet, institutional. Lungi and vest. Hands of a man who's rolled pitches for 20+ years.
+- **Personality**: Silent. Never asks questions. Never treats Vipin differently — before or after fame. The purest relationship in the story: no agenda, no claim.
+- **Key actions**: Leaves newspapers (Mumbai Mirror, two copies), Parle-G, bananas at the storage room door for four years. Once left a blanket during a cold January. The single congratulatory knock on auction night (Interlude B). Refuses Vipin's money at first — "Tu kuch bana, woh kaafi hai" (Ch 14). Coaxed into wearing a kurta for the wedding (Ch 38).
+- **Wife**: Died three years before the auction. Eats dinner alone — rice and dal, All India Radio.
+- Canon vs. Original: ORIGINAL
+
+### Sunita Devi — Paternal Grandmother
+- **Age**: Born ~1943. Lives in a village in Haryana.
+- **Background**: Vipin's paternal grandmother. Her son Rajveer and his wife Kamla left for Mumbai in ~1989, had Vipin, and disappeared. She didn't know Vipin existed until a PI contacted her (Ch 30-31).
+- **Physical**: 74 when they meet. Shaky hands (arthritis). Same jaw as Vipin. She holds his face in her hands and knows — the bone structure, the eyes.
+- **Personality**: Sharp, warm, direct. "He would have been proud of you beyond what words can hold." Criticizes everything in Mumbai during the wedding (her coping mechanism for being overwhelmed). Calls Shraddha beautiful and announces they're married before they are.
+- **Key moments**: First meeting — holds his face, cries quietly (Ch 31). Gives him Rajveer's old cricket gloves (Ch 35). Writes a letter during his crisis: "I will cook for you" (Interlude F). At the wedding — first time in Mumbai (Ch 38).
+- **What she represents**: Partial answers. Not the parents, not the full story, but proof that Vipin comes from somewhere. Proof someone was looking for him too.
+- Canon vs. Original: ORIGINAL
+
+### Rajveer & Kamla Chaudhary — Vipin's Parents (absent)
+- **Rajveer**: Vipin's father. Jaat. Big-framed, stubborn, funny — "He looked like you. Exactly like you." Played gully cricket in Haryana. Left for Mumbai ~1989 with Kamla.
+- **Kamla**: Vipin's mother. Small, sharp-featured, kind eyes. "She sang. Always singing."
+- **Status**: Disappeared after leaving Vipin at the temple in 1990. PI investigation (Ch 30) traces them to a Mumbai address, then nothing. No death certificates, no police reports. They either died, or started over under different names. The mystery is never fully resolved.
+- **Artifacts**: Gold pendant engraved "Vipin Chaudhary." Anonymous photograph of a young couple (trimmed with scissors — someone cut away more of the image). Rajveer's old cricket gloves (from Sunita).
+- Canon vs. Original: ORIGINAL
+
+### Shivangi Kolhapure — Shraddha's Mother
+- **Personality**: Quiet, strong, the parent Shraddha goes to for real advice. Practical — "Tell Shakti before he reads it in a newspaper."
+- **Role**: Counterbalance to Shakti's drama. Watches from doorways. Asks three careful questions about Vipin: "How long? Is he kind? Does your father know?"
+- Canon vs. Original: AU-MODIFIED
+
+### Dilip Narayan — MCA Scorer
+- **Age**: 59-62 across his appearances. Scoring Mumbai age-group cricket for 28-31 years.
+- **Physical**: Old man. Takes the 7:40 local from Churchgate to Borivali. Knees won't let him sit on the low seats. Faded blue checked lungi at home.
+- **Role**: The analog witness. Handwritten ledger with blue fountain-pen ink. Compared Vipin's U-15 numbers to Tendulkar's. Files the name "Chaudhary" years before anyone else notices — and doesn't remember doing it (Interlude A).
+- **Wife**: Suman. Watches Kyunki Saas Bhi Kabhi Bahu Thi. Has heard "I saw something today" before, about a dozen boys who became nothing.
+- Canon vs. Original: ORIGINAL
+
+---
+
+## Real Cricket Players (fictionalized interactions)
+
+These are real people who appear in the story. Their actions in matches must be historically accurate. Their personal interactions with Vipin are fictional but must respect their known personalities.
+
+### Sachin Tendulkar
+- **Role**: Icon player at MI. Vipin's childhood idol (watched him on footpath TVs). Never gives a speech — teaches by example (Interlude C: silently shows Vipin how to strap pads). His presence is gravitational.
+- **Chapters**: Ch 11-14 (MI dressing room), Interlude C (pad scene), referenced throughout.
+
+### Rohit Sharma
+- **Role**: MI captain from 2013. Vipin transitions from peer to vice-captain under Rohit (2018), then replaces him as MI captain (2019) with Rohit's public endorsement.
+- **Chapters**: Ch 29 (MI evolution), Ch 36 (captaincy transition).
+
+### Virat Kohli
+- **Role**: Contemporary. India teammate. Intensity and competitiveness mirror Vipin's but through a different personality (controlled fury vs. humor-armored fury). Vegetarian solidarity.
+- **Chapters**: Ch 22 (India debut), referenced in team contexts.
+
+### MS Dhoni
+- **Role**: India captain when Vipin debuts. Calm vs. Vipin's intensity. The 2011 World Cup final six is the backdrop to Vipin and Shraddha's "look" (Ch 19-20).
+- **Chapters**: Ch 19-20 (WC Final), Ch 22 (India setup).
+
+### Jasprit Bumrah
+- **Role**: The next generation at MI. Fills Vipin's bowling space during injury (Interlude F). Inherits Vipin's core workout routine without knowing its origin. Represents the machine moving on.
+- **Chapters**: Ch 29 (MI evolution), Interlude F.
+
+### Hardik & Krunal Pandya
+- **Role**: MI's new generation alongside Bumrah. Part of the squad evolution that makes Vipin's comeback harder.
+- **Chapters**: Ch 29, Ch 36.
+
+### Zaheer Khan
+- **Role**: Senior MI and India fast bowler. Vipin's bowling mentor in early MI days.
+- **Chapters**: Ch 22 (India debut context).
+
+### Sreesanth
+- **Role**: Named in the 2013 IPL spot-fixing scandal. His arrest is the real-world context for the spot-fixing chapter (Ch 25). Vipin watches a colleague fall — the system's rot becomes personal.
+- **Chapters**: Ch 25 (referenced).
