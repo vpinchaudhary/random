@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-02"
+last_updated: "chapter-03"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,46 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-03:
+    title: "The King of Nothing"
+    timeline: "October 2000 – November 2002 (ages 10-12)"
+    events:
+      - "Vipin becomes 'the temple kid' — established ringer in Dongri gully circuit."
+      - "Bhai capitalizes: inter-gully money matches, 60/40 split (Vipin gets 40)."
+      - "Vipin starts bowling: self-taught slinging action, 17 named delivery variations. 12-pace run-up calculated and memorized."
+      - "Bowls out circuit's best bat: 'Tu kahan se seekha?' / 'Nahi seekha.'"
+      - "Hears leather-on-willow for first time at Dadar nets — identifies it as the real sound."
+      - "April 2001, age 11: Azad Maidan money match. Bhai bets heavy. Vipin makes 63 vs. adult club cricketers. Maidan goes quiet."
+      - "Post-maidan: Bhai gives larger share. Relationship shifts — Vipin now an asset, not just a person."
+      - "THREE TAPS ritual established: pre-batting, origin unknown. 3 = steps from pandit's cooking area to temple door."
+      - "Starts watching cricket on chai stall TVs. Studies Sachin Tendulkar. Names principles he's been finding alone."
+      - "Wall practice: rubber ball, chalk target, daily score card kept on cardboard."
+      - "2002, age 12: Ceiling reached — gully games no longer competitive. Maidan depends on Bhai."
+      - "Snaps at Prakash (age 9) for dropping catch. Doesn't apologize. Notes it as 'cost of the thing inside you.'"
+      - "November 2002: Bhai offers real criminal work. Vipin declines: 'I want to play cricket, Bhai.'"
+      - "Bhai accepts. Something cools. Both file it away."
+      - "Coaching flyer (Junior Cricket Academy, Dadar) leads to shoe store — academy moved 2 years ago."
+      - "FIRST VISIT TO SHIVAJI PARK: watches full session. Observes man with glasses on forehead (Prakash Rao — NOT identified by name or role). Rao notices Vipin, assesses, moves on. Drinks cold chai."
+    state_changes:
+      vipin:
+        location: "Streets, Dongri → now ranging to Dadar, Shivaji Park area"
+        age: 12
+        known_as: "'The temple kid' in gully circuit"
+        new_habits: ["three taps pre-batting", "daily wall practice with scorecard", "watches cricket on TV"]
+        relationship_with_bhai: "Cooling. Vipin chose cricket over work. Bhai filed it."
+      bhai:
+        relationship_with_vipin: "Shifted: sees Vipin as asset/investment. Accepted 'no' but stored it."
+      prakash_rao:
+        first_appearance: chapter-03
+        note: "Appears at Shivaji Park — not named, not identified. Observes Vipin for 3 seconds, moves on. Cold chai."
+    threads_developed:
+      - three_taps_ritual (introduced — pandit connection unknown to Vipin)
+      - bhai_investment_framing (deepened — asset vs. person gap visible)
+      - the_fork (Vipin chooses cricket — echoes in Ch 26 when Bhai returns)
+      - shivaji_park_planted (location introduced — Rao present but unrecognized)
+      - leather_willow_sound (sensory benchmark established)
     inconsistencies_detected: none
 
 ---
