@@ -2473,6 +2473,61 @@ Who walks the boy from nowhere down the aisle — and what does it mean when the
 
 ---
 
+### Interlude G: Lockdown
+
+**Timeline**: April–August 2020 (during COVID lockdown, between Ch 38's wedding planning and the IPL)
+**POV**: Life texture — Vipin and Shraddha's domestic world + one external POV
+**Word Target**: ~3,500 words
+
+The world stopped. For the first time since the pandit's death, Vipin has nowhere to be. This interlude is pure slice-of-life — no plot, no crisis, just two people in a flat during a pandemic learning what it's like to just *be*.
+
+#### Scene 1: The Haircut
+- April 2020. Week three of lockdown. Shraddha has decided to cut her own hair. Not because she needs to — because she's bored and her Instagram feed is full of women doing it (the "quarantine haircut" trend). She has kitchen scissors and a YouTube tutorial.
+- Vipin watches from the sofa with the specific fascination of a man who has never cared about hair in his life. "You're going to ruin it." "I am not going to ruin it. I've watched four videos."
+- She ruins it. The left side is an inch shorter than the right. The layers — the video promised "easy layers" — are not layers. They're ledges. She stares in the mirror. Vipin counts to three, waiting for the reaction.
+- She laughs. Not politely — cackling. The kind of laugh that comes from deep exhaustion and genuine surprise at your own incompetence. "I look like I fought a hedge trimmer."
+- Vipin, extremely carefully: "It's... textured."
+- She takes a selfie. Posts it on Instagram. Caption: "When your stylist is yourself and you're terrible at your job." It gets 200,000 likes. The comments are supportive and hilarious. Shraddha reads them out loud to Vipin, who is now trying to fix the left side with the kitchen scissors. He makes it worse.
+- They end up sitting on the bathroom floor, hair clippings everywhere, laughing at nothing. Vipin picks up a piece of her hair from the tile. Holds it between his fingers. "This is worth more than my IPL contract." "The hair?" "The laughing."
+- She cuts his hair the next day. Gives him a buzz cut because anything more complex is beyond her skills. He looks like a soldier. She takes a photo of him looking annoyed. It becomes her phone wallpaper for the next six months.
+- **Sensory anchor**: Hair clippings on white bathroom tile — the specific pattern of black strands on ceramic, and the feeling of cut hair between your fingers, dry and light and slightly electric.
+
+#### Scene 2: The Cooking Wars
+- May 2020. They've established a lockdown routine. Vipin cooks dinner (he's good now — dal, sabzi, occasional biryani attempts). Shraddha is in charge of breakfast (limited to toast, eggs, and a smoothie she puts too much banana in).
+- One evening Shraddha decides to make dal. "I can make dal. How hard is dal?" Vipin, who has made approximately 400 dals in two years of practice: "It's not hard." He leaves her to it. Goes to the other room. Practices batting shadow drills — the muscle memory must continue even without a ball.
+- Twenty minutes later: the smoke alarm goes off. The dal has welded itself to the bottom of the pressure cooker. The kitchen smells like carbon and cumin. Shraddha is fanning the smoke detector with a dishcloth. Vipin walks in, takes one look, and reaches for his phone.
+- "If you photograph this, I will end you."
+- He photographs it. She chases him through the flat. He's faster (obviously — he's a professional athlete). She throws a dishcloth at him. It misses. They end up ordering from the Swiggy app and eating butter chicken (him: paneer version) on the kitchen floor because the dining table has become Shraddha's work-from-home desk, covered in scripts.
+- The pressure cooker takes three days of soaking to recover. Vipin adds "dal incident" to an imaginary scoreboard he keeps on the fridge whiteboard: VIPIN 47, SHRADDHA 3. She contests the scoring. He tells her she can appeal to the third umpire.
+- **Period marker**: 2020 — Swiggy delivery as lockdown lifeline, work-from-home culture, the specific claustrophobia of two people who love each other discovering each other's worst habits.
+
+#### Scene 3: Vipin Discovers Online Shopping
+- June 2020. Vipin has been introduced to Amazon. This is a problem.
+- It starts with rubber balls. He orders six. Different colors. Then he orders eight more. Then a set of fourteen — one for each IPL match in a season, color-coded by opponent. Shraddha finds a courier package at the door every three days.
+- "You have thirty-eight rubber balls." "Thirty-nine. I ordered another one last night." "Why?" "The green one was the wrong shade of green."
+- It escalates: a training resistance band set, a book on cricket statistics from the 1970s that costs more than it should, three different types of kitchen knives (for more efficient vegetable cutting — Vipin treats cooking like training, efficiency metrics and all), and a telescope. A telescope. When asked why, he says: "I want to count the stars." Shraddha: "You can't count all the stars." "I can count the ones I can see."
+- The telescope goes on the balcony. On clear Mumbai nights (rare during monsoon, glorious during winter), they look at the sky. Vipin doesn't know any constellations. He makes up names. "That's the Cover Drive. That bright one is the Yorker." Shraddha names one "the Haircut" — the wonky, asymmetrical one near the horizon.
+- **Sensory anchor**: The click of the Amazon app on Vipin's phone — the specific, almost Pavlovian scroll-and-add rhythm of a man who spent the first decade of his life owning nothing and is still, somewhere inside, amazed that you can press a button and things arrive at your door.
+
+#### Scene 4: Rao on Video Call (External POV)
+- Rao, 67, in his Dadar flat with Kavita. The lockdown has grounded him — no Shivaji Park, no coaching sessions, no morning walks to the ground. For a man whose life IS the cricket field, this is a particular kind of exile.
+- Kavita has set up a tablet for video calls. Rao hates technology. He holds the tablet too close to his face, so whoever's on the other end gets a close-up of his nose and reading glasses.
+- Vipin calls twice a week. The calls follow a pattern: five minutes of cricket talk (Rao analyzes IPL footage with Vipin even though neither is playing), two minutes of Rao asking about his diet (still vegetarian, still eating enough), and a silence at the end that both of them need but neither would admit to.
+- Today's call is different. Vipin is showing Rao the telescope. Tilting the phone toward the sky. "Can you see, uncle?" Rao squints at the screen. "I see... nothing. Your camera is terrible."
+- Kavita, from the kitchen: "Tell him to eat properly. He's lost weight." She says this every call. She's been saying it since 2003.
+- Rao ends the call. Puts the tablet down. Kavita brings chai. He holds the cup and doesn't drink — the old habit. Kavita watches him.
+- "He's happy," she says. It's not a question. She can hear it in Vipin's voice — a different register from the driven, joke-armored athlete she's known for seventeen years. Marriage did something. The lockdown did something. Vipin sounds like someone who has enough.
+- "He's happy," Rao agrees. Takes a sip of chai. It's cold. As always. He drinks it anyway. Kavita takes the cup, pours it out, makes a fresh one. Thirty-one years of this. Thirty-one years of pouring out cold chai.
+- **What the reader learns**: The lockdown — which is devastating for the world — is actually giving Vipin and Shraddha something he's never had: unstructured time with someone who loves him. Rao and Kavita, watching from their Dadar flat, recognize it. The man who counted tiles in an empty flat during his crisis is now counting rubber balls with his wife. The counting hasn't stopped. What he counts has changed.
+
+#### Interlude G Notes
+- This is the lightest interlude in the story. No tension. No threat. Just people being people during a pandemic.
+- The haircut, the dal, the online shopping — these are the moments the user specifically asked for. They're not plot. They're life.
+- The Rao scene grounds the comedy with something quieter: two old people watching two young people be happy, from a small flat in Dadar, through a screen held too close to a face.
+- This interlude earns the wedding chapter that precedes it and the captaincy chapter that follows. Without this breathing room, the story would feel like a sequence of events. With it, the story feels like a life.
+
+---
+
 ### Chapter 39: India Captain
 
 **Timeline**: 2021-2022 (age 31-32)
