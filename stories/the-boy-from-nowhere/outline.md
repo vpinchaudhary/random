@@ -2310,6 +2310,57 @@ What's at the bottom — and is there something beneath the bottom?
 
 ---
 
+### Interlude F: While He Was Gone
+
+**Timeline**: Late 2016 – early 2017 (during Vipin's absence from cricket and life)
+**POV**: Multiple external — the world doesn't stop for one man's crisis
+**Word Target**: ~3,000 words
+
+Vipin is in his flat, cooking dal and counting tiles. Meanwhile:
+
+#### Scene 1: The Young Fast Bowler
+- Jasprit Bumrah, 23, is in the MI nets. Early 2017. He's been the team's lead fast bowler since Vipin's injury. Nobody talks about it openly, but Bumrah occupies the space Vipin left. The bowling coach — Mahela Jayawardene era — is working with Bumrah on his yorker variations.
+- A young net bowler — 18, from Saurashtra, hoping to catch someone's eye — asks the bowling coach: "What was Chaudhary like to bowl with?"
+- The coach pauses. "Fast. Angry. Like bowling with a thunderstorm." He picks up a ball. "Bumrah here is different. Precision. You can set your watch to his yorker."
+- The net bowler: "So who's better?"
+- The coach doesn't answer. Tosses the ball to Bumrah, who runs in and bowls a yorker that hits the base of off stump. The net bowler doesn't ask again.
+- Later, in the gym, Bumrah is doing his core routine — the same routine Vipin designed with the MI trainer years ago, passed down through the squad without attribution. Bumrah doesn't know its origin. He just knows it works.
+- The team doesn't discuss Vipin's absence out of malice. They don't discuss it because professional sport moves forward. An injured player is a problem to solve, not a story to mourn. This isn't coldness — it's survival. The same survival instinct Vipin would understand better than anyone.
+- **What the reader learns**: The MI machine has evolved past Vipin. Coming back isn't returning to a saved spot — it's competing for space that's been filled by someone genuinely world-class. The comeback will be harder than the injury.
+
+#### Scene 2: Ravi at His Own Wedding (January 2017)
+- Ravi "Bullet" Deshmukh gets married. A Marathi wedding in Pune — his wife Priya is from a family his parents chose, but Ravi liked her immediately (she roasted his haircut within five minutes of meeting, and Ravi respects anyone who insults him well).
+- The wedding is large — 400 guests, a band, too much food. Ravi's cricket friends are there — domestic circuit guys, a few IPL players. MI sent a gift (a silver plate with the team logo, standard franchise PR).
+- Vipin was invited. Vipin isn't here.
+- Ravi told everyone "he's recovering, can't travel." But Ravi knows the truth — he called Vipin three times, and Vipin answered twice but said he wasn't coming. The third time, the phone rang out.
+- During the pheras — the ceremonial walk around the fire — Ravi looks at the empty chair in the front row. He put it there specifically. Reserved for "Chaudhary." Nobody's sitting in it.
+- His mother, Sunanda, notices. Touches his arm during a break in the ceremony. "He'll be okay. Boys like that — they always come back." Ravi nods. But "boys like that" — what does that mean? Boys who were abandoned? Boys who are extraordinary? Boys who push everyone away when they're hurting? All of it.
+- Later, Ravi and Priya in the hotel room after the reception. She's removing forty-seven hairpins (Ravi counts them, a habit he picked up from Vipin and will never admit). He tells her about Vipin. Not the media version — the real version. The streets, the pendant, the injury, the withdrawal.
+- Priya listens. "He sounds like someone who doesn't know how to need people."
+- "He's getting better at it. Or he was."
+- "Then he will again. Give him time."
+- Ravi falls asleep in the hotel room, married, thirty years old, his best friend somewhere in Mumbai counting things in an empty flat. The empty chair at the wedding is the thing that stays with him longer than the pheras.
+- **Sensory anchor**: The forty-seven hairpins — thin, bobby pins and decorative ones mixed together, dropping one by one into the hotel room's ceramic dish. The tiny metallic *tink* of each one landing.
+
+#### Scene 3: Sunita Devi's Letter (Haryana, 2017)
+- Sunita Devi, Vipin's grandmother in the Haryana village, doesn't have a phone number for him. The PI who visited gave her Vipin's Mumbai address — written on a piece of paper she keeps in her prayer book.
+- She writes him a letter. In Hindi. Her handwriting is shaky — arthritis in both hands, 74 years old. She writes on lined paper torn from a school notebook (her neighbor's grandchild's unused notebook, given to her because the child switched schools).
+- The letter is short:
+  - "Beta, I don't know if this will reach you. I saw your name in the newspaper — the neighbor's son showed me on his phone. It said you are injured. I pray for you every morning. Your father Rajveer used to hurt his knee playing cricket in the gully here. He would limp for two days and play again on the third. You are like him."
+  - "I don't know what happened to your parents after they left. I have looked in my own way. Nobody knows. But I am here. If you want to come again, I will cook for you. The food is simple but it is mine."
+  - "Your grandmother, Sunita."
+- She folds the letter. Puts it in an envelope. Walks to the post office — three kilometers from her house, the same road she's walked for fifty years. The postmaster weighs the letter. Stamps it. She pays seven rupees.
+- The letter arrives at Vipin's Mumbai flat six days later. He's not checking mail — a pile is building by the door. The letter sits in the pile for two weeks. When he finally opens it (after Ch 33's "I need you" moment, after Shraddha comes), the first thing he reads is "I will cook for you" and the second thing he does is book a flight to Delhi.
+- **What the reader learns**: There is family waiting. Not the parents he'll never find — but a grandmother with shaky handwriting who walked three kilometers to a post office. The letter is the bridge to Ch 35 (the Haryana return with Shraddha).
+
+#### Interlude F Notes
+- The interlude's emotional argument: when you withdraw from the world, the world keeps going — but it keeps a chair for you. Ravi's empty chair, Sunita's letter, Bumrah filling a space but not replacing a person.
+- No scene features Vipin directly. He's the absence around which these three scenes shape themselves.
+- Ravi's wedding is the warmest scene. Bumrah's is the most pragmatic. Sunita's is the most heartbreaking.
+- The letter scene connects directly to Ch 35's Haryana return — a cause-and-effect that the reader won't see until later.
+
+---
+
 ### Chapter 34: Rebuilding
 
 **Timeline**: Mid-2017 (age 27)
