@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-16"
+last_updated: "chapter-17"
 
 chapter_log:
   chapter-01:
@@ -155,6 +155,88 @@ chapter_log:
       imperfect_moment: "Snapped at hotel staff after Bhai walk. Awkward apology made it worse. Carries it for days."
       unresolved_micro: "R.S. 1987. No resolution. No meaning assigned. Just: someone was here."
       grounding_physical: "Wallet dimensions (14cm x 9cm, capacity 8 cards, currently 2). ATM receipt thermal paper already fading. 23 ceiling cracks in storage room, same as always."
+    inconsistencies_detected: none
+
+  chapter-17:
+    title: "The Girl in the Third Row"
+    timeline: "Early-mid 2010 (age 20) — India debut, IPL S3, first meeting with Shraddha"
+    events:
+      - "India debut: T20I, Wankhede, February 2010. 28 off 19 balls (3 fours, 1 six). 1-31 off 3 overs. First over went for 12 (no-ball, full toss, short ball punished, then wicket on 4th delivery). Described by coaching staff as 'controlled.' Vipin says 'learning.'"
+      - "Pendant touched in dressing room before walking out. Invisible under blue jersey."
+      - "India cap weight: 'almost nothing.' Holds it for a moment. Mirror joke: 'Not bad for a guy with no birth certificate.' Mirror doesn't laugh."
+      - "Groundskeeper watched with Rao at Shivaji Park — carried TV or adjusted position to get the channel. When Vipin's wicket fell, groundskeeper knocked once on chair arm. Rao looked at him. Groundskeeper shrugged. They continued watching."
+      - "Rao morning after: 'Bowling was functional.' Length errors noted. 'The batting was good.' Cold chai forgotten = thinking = highest Rao compliment. Vipin went to get kit instead of saying 'I know' third time."
+      - "IPL Season 3 sponsor party: Colaba five-star. Vipin in first-ever suit (navy blue, Hill Road tailor, too tight in shoulders for Jaat frame). Orbits edges. Counts: 19 tables × 9 + 23 standing ≈ 194 people."
+      - "First sight of Shraddha Kapoor at party. Far window. Jeans, good top, earrings. The laugh: loud, catches herself, laughs again. Room-scanning habit noticed by Vipin — she reads rooms too. He's never seen anyone else do it. Loses her in 40 seconds of conversation he wasn't paying attention to."
+      - "Charity dinner in Bandra (weeks later). Vipin tells training story at his table. Adjacent table laughs. Eyes meet with Shraddha."
+      - "Ravi makes introduction: 'Shraddha Kapoor. Don't make a Gogo joke.' Vipin: 'I was going to make a Gogo *reference*. There's a difference.' Shraddha's laugh: genuine, surprised."
+      - "First real conversation: 15 minutes. She knows about Malinga slower ball from a Cape Town interview. He asks about her film, she deflects, he: 'You were the only person in it who looked like a real human. That's not nothing.' She recalibrates — the honest compliment lands differently than expected."
+      - "Batata vada conversation: oil temperature, water pressure theory. Paneer in five countries (India, SA, UAE, England). 'The English paneer was a mistake. I think they boiled it first. And then apologized.' Shraddha's full laugh, twice."
+      - "VISIBLE HITCH: Shraddha talks about her mother teaching her batata vada (thumb motion). Vipin thinks about his mother — unknown, maybe that kind of woman or not. Half-second visible on his face. Shraddha notices. Doesn't push. Changes subject."
+      - "Shraddha writes number on back of place card. 'Next time.' Vipin: 'Tell me more about the water pressure theory.' She leaves saying 'Next time.'"
+      - "Ravi text: number, 'Don't be weird about it.' Vipin: 'I'm not weird.' Ravi: 'Your last four apologies all came out wrong. You ARE weird.'"
+      - "Three days: doesn't call. Catastrophizing: Juhu bungalow vs. temple stairs pendant. 'No evidence for this belief and no intention of testing it.'"
+      - "Shraddha texts first: Versova batata vada link. 'Owner is rude but food is genuine.' Vipin: 'Rude and genuine sounds like my career.' Laughing emojis exchanged. First emojis he's ever sent."
+      - "Goes to drawer after text. Looks at photograph. Woman in photo is half-turned, laughing at something. Vipin notes: 'mid-motion, not posed... expression of someone surprised into amusement.' Puts it back. Doesn't know what the two things have to do with each other."
+    state_changes:
+      vipin:
+        location: "Dadar flat, Mumbai"
+        age: 20
+        india_status: "INDIA DEBUT COMPLETE. T20I. Pendant under blue jersey. Cap weighs almost nothing."
+        shraddha_status: "MET — first conversation at charity dinner. Phone number. Text thread open. Laughing emoji sent (first ever)."
+        emotional_state: "Armor cracked once: 'That's not nothing.' Said it without the joke first. Filed this without knowing what to do with it."
+        catastrophizing_note: "Class distance catastrophizing: pendant vs. Juhu bungalow. 'No evidence for this belief and no intention of testing it.' Managed but present."
+      new_character_shraddha:
+        name: "Shraddha Kapoor"
+        age: 23
+        father: "Shakti Kapoor"
+        mother: "Kolhapuri family (vegetarian)"
+        debut_film: "Teen Patti (2010)"
+        status: "INTRODUCED — first appearance Ch17"
+        vipin_relationship:
+          trust: 3
+          bond: "First meeting. Mutual recognition of room-reading habit. Genuine connection in 15 minutes."
+          shared_knowledge: "Both vegetarian. Both read rooms. Both perform comfort they don't always feel."
+          vipin_sees: "The armor she wears. The laugh she can't control. Honesty she wasn't expecting from him."
+          shraddha_sees: "The visible hitch when mother comparison arose. The honest compliment. The joke that's not quite a wall."
+        text_history:
+          - "She texted first: Versova batata vada recommendation"
+          - "He texted: 'Rude and genuine sounds like my career'"
+          - "Laughing emojis exchanged (his first ever)"
+      rao:
+        last_interaction: "Post-debut Shivaji Park. Cold chai forgotten = was thinking. 'The batting was good.'"
+      groundskeeper:
+        notable_action: "Watched India debut on TV with Rao. Knocked on chair arm when Vipin got out. Shrug."
+    objects:
+      india_cap:
+        description: "BCCI T20I cap. Blue. Weighs almost nothing."
+        holder: "vipin"
+        location: "bag initially, then presumably put away"
+        chekhov: false
+        note: "Milestone object. 'Not bad for a guy with no birth certificate.'"
+      place_card_number:
+        description: "Back of charity dinner place card with Shraddha's number written on it"
+        holder: "vipin — not in drawer"
+        status: "active — text thread opened"
+        chekhov: false
+    timeline_update:
+      chapter: 17
+      time: "February–mid 2010"
+      events:
+        - "India debut February 2010."
+        - "First meeting with Shraddha Kapoor."
+        - "Text thread opens."
+    threads_developed:
+      - india_cap (ACHIEVED — milestone handled without ceremony. Next: Test debut arc.)
+      - shraddha_introduction (OPENED — text thread active, mutual recognition, first crack in armor)
+      - photograph_mystery (CONNECTED — Vipin looks at photo after receiving Shraddha's first text. Woman in photo laughing = Shraddha laughing. He doesn't know what the two things have to do with each other. Reader might.)
+      - class_distance (PLANTED — pendant vs. Juhu bungalow. Will drive Act 2B conflict.)
+      - armor_crack (FIRST — 'That's not nothing.' Said without joke. Filed.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "MasterChef Australia oil temperature critique during the 2 days of not calling Shraddha."
+      imperfect_moment: "Visible hitch when mother-teaching-batata-vada comparison surfaces. Shraddha noticed. He couldn't manage it."
+      unresolved_micro: "Goes to drawer after first text. Looks at photograph. Woman in photo laughing. Doesn't understand the connection. Reader might."
+      grounding_physical: "India cap weight: 'almost nothing.' Suit too tight in shoulders (Jaat frame). Party headcount: 19 tables × 9 + 23 standing ≈ 194."
     inconsistencies_detected: none
 
   chapter-16:
