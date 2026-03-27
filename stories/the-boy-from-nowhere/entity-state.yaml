@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-01"
+last_updated: "chapter-02"
 
 chapter_log:
   chapter-01:
@@ -30,6 +30,47 @@ chapter_log:
       - humor_as_armor
       - pink_soap_trigger
       - vegetarianism_origin
+    inconsistencies_detected: none
+
+  chapter-02:
+    title: "The Education of Nowhere"
+    timeline: "February 1998 – June 2000 (ages 8-10)"
+    events:
+      - "Vipin has built survival system: Crawford Market porter, Suresh's dhaba dish-washer, shopkeeper messaging."
+      - "Sleeps at abandoned construction site, 2nd floor corner. Cardboard system — 3 folds."
+      - "Counting habit intensifies: coins, license plates (20/day from memory), ceiling cracks (17 at construction site)."
+      - "Humor confirmed as currency — extra roti from Suresh after mustache joke."
+      - "Carries suspicious bag for woman at Crawford Market — chooses not to know contents. Moral compromise noted."
+      - "July 1998: Enters Bhai's orbit in Dongri. Bhai (17, lean, territorial fixer) observes Vipin's value."
+      - "Bhai tests Vipin, then gives him better work: packages, lookout, charm jobs."
+      - "Bhai teaches: spotting lies, when to run, reading rooms. Not a father figure — a boss."
+      - "Bhai learns Vipin's name without being told — signals investment."
+      - "March 1999, age 9: Gully fight. Stone to left eyebrow. Vipin doesn't cry, moves toward threat. Bhai nods. Scar permanent."
+      - "Vipin steals a Kesar mango from a cart. Feels nothing. Notes the absence of feeling as troubling."
+      - "June 2000, age 10: THE gully game. Sunil bowls, Vipin hits everything. Temporal perception first manifests — sees ball early. Team stops bowling to him."
+      - "Old woman on 2nd floor balcony claps once, goes inside. Never seen again."
+      - "Bhai watches from rooftop. Begins moving Vipin into better/higher-stakes games."
+      - "Vipin walks home: compares to first night under chai stall. Recognizes this feeling is different from survival-happiness."
+      - "First night not counting cracks to sleep — replaying shots instead. Cricket is now his."
+    state_changes:
+      vipin:
+        location: "Streets, Dongri (Bhai territory) + construction site overhang"
+        age: 10
+        scar: "LEFT EYEBROW — acquired March 1999, age 9 (permanent)"
+        gift_first_manifests: "June 2000 — temporal perception, sees ball early"
+        new_skills: ["spotting lies", "reading rooms", "when to run", "not knowing as protection"]
+        moral_note: "Carries packages without checking. Steals mango without guilt."
+      bhai:
+        status: alive
+        role: "Boss/older-brother figure. Vipin in his orbit."
+        first_appearance: chapter-02
+        investment_noted: "Learns Vipin's name independently — calculating value"
+    threads_developed:
+      - counting_habit (intensified — license plates, coins, ceiling cracks)
+      - humor_as_currency (deepened — explicit survival tool)
+      - bhai_relationship (introduced — morally grey, investment framing)
+      - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
+      - pendant (touched unconsciously post-game — cricket connection established)
     inconsistencies_detected: none
 
 ---
