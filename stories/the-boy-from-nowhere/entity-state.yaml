@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-18"
+last_updated: "chapter-20"
 
 chapter_log:
   chapter-01:
@@ -266,6 +266,95 @@ chapter_log:
       imperfect_moment: "Hand not taken in Bandra. His catastrophizing vs. a centimeter gap. The moment registered, created, and named."
       unresolved_micro: "Anjali article: Shraddha knows. He doesn't know she knows. The asymmetry sits unacknowledged."
       grounding_physical: "Scar on his left thumb, small pale line. Bitten nails (would deny). Chai set down too hard — one thud. Key in car on first try. Odometer 47,000."
+    inconsistencies_detected: none
+
+  chapter-20:
+    title: "Wankhede"
+    timeline: "April 2, 2011 (age 20-21) — World Cup Final, Wankhede, India wins"
+    events:
+      - "World Cup Final, April 2, 2011. Wankhede Stadium. Shraddha invited Vipin — her car, Govind driving."
+      - "India jersey exchange ('It's called fashion, Chaudhary') / 'attractive' observation."
+      - "Sri Lanka bat first. Jayawardene 103* — Vipin analyses front-foot width flaw, correct (Jayawardene dismissed on on-side). Sehwag 0, Sachin out 18 — crowd silence."
+      - "Gambhir 97. Dhoni promotes himself above Yuvraj — Vipin reads it instantly ('He's going to win this. The way he's walking.')."
+      - "The hand: at 190/3, Shraddha's hand over Vipin's on the armrest. He doesn't move. She doesn't move. Neither acknowledges it. Both count this as happening."
+      - "India wins. Dhoni six. Vipin makes undignified shriek-bark sound — immediate internal wince. Tears on his face — no warning."
+      - "Counted 23 crying people in his section before stopping."
+      - "Drive home: 'You should have been out there.' / 'Hurts less than I thought. That's its own kind of information.' / 'Cricket was the thing. Now it's my job. The identity is bigger than the game (not yet — but seeds planted).'"
+      - "'Anytime, Kapoor.' — from car window. She heard it. Gate closed."
+      - "Midnight: drawer opened. Photograph examined — Vipin sees father's big hands match his own. 'I want them to say my name' paper re-read."
+      - "BLOG PHOTO PLANTED: Fan photograph of Vipin + Shraddha at Wankhede, hand moment visible, posted 11:47 PM April 2. 47 comments by morning → 412 by next day → 11 outlets by end of week. Caption: 'Chaudhary and Bollywood actress Shraddha Kapoor.' Neither knows yet."
+    state_changes:
+      vipin:
+        location: "Wankhede Stadium → Dadar flat"
+        emotional_state: "World Cup attended as spectator not player. Identity shift seed planted: 'cricket is my job, not my entire self.' Drawer examined at midnight — photograph no longer wounds the same way."
+        shraddha_relationship_update:
+          trust: 5
+          bond: "Hand moment. Shared tears. 'Anytime, Kapoor' — first time he's said her name like that. Most intimate moment so far without words."
+          unspoken: "Hand on armrest never acknowledged by either. Both registered it."
+        world_cup_status: "SPECTATOR — not playing. Processed with less pain than anticipated. Catalytic shift: the exclusion is real but not definitive."
+        photograph_note: "Sees father's hands match his own for first time consciously."
+      shraddha:
+        location: "Wankhede Stadium → Juhu house"
+        emotional_state: "Cried when India won. Hand over his on armrest — deliberate choice, not accident."
+        relationship_state: "Actively choosing intimacy. 'I've been waiting for you to ask for three years' is still five years away but the trajectory is clear."
+    objects:
+      blog_photograph:
+        description: "Blurred fan photo from two rows back. Vipin (no jersey, crying) + Shraddha (India jersey). Hand over hand on armrest visible."
+        created: "April 2, 2011 — posted 11:47 PM"
+        status: "PUBLIC — spreading. Neither subject knows yet."
+        chekhov: true
+        note: "Ticking clock for Chapter 21. Will detonate when Shraddha sees it."
+    timeline_update:
+      chapter: 20
+      time: "April 2, 2011"
+      events:
+        - "India wins ICC World Cup 2011 at Wankhede. Vipin attends as spectator with Shraddha."
+        - "The hand moment. The look. 'Anytime, Kapoor.'"
+        - "Blog photo planted — Chapter 21 trigger."
+    threads_developed:
+      - shraddha_arc (ESCALATING — hand moment. Most physical intimacy to date. Still unacknowledged but both registered it.)
+      - world_cup_arc (CLOSING — excluded but processed. Identity shift beginning. Cricket is job, self is larger.)
+      - blog_photo (NEW — ticking clock. Chapter 21 detonation point.)
+      - pendant_mystery (SMALL ADVANCE — father's hands match Vipin's. Photograph as mirror rather than wound.)
+      - the_collection (STABLE — drawer opened but nothing added. Photograph re-examined.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Counted 23 crying people in section before stopping. Also counted orange (Sri Lanka) jerseys throughout match — reached 9 before play began, 11 in adjacent section."
+      imperfect_moment: "Undignified half-shriek, half-bark when India won. Internal wince immediately. The body betrayed him."
+      unresolved_micro: "The hand on the armrest is never discussed. Not in the car. Not at the gate. Not at midnight. It just happened."
+      grounding_physical: "Plastic stadium seat edge digging into back of right thigh throughout match. No comfortable position found."
+    inconsistencies_detected: none
+
+  chapter-19:
+    title: "What the Crowd Doesn't See"
+    timeline: "March–April 2011 (age 20-21) — World Cup season, Vipin watching from outside"
+    events:
+      - "World Cup begins March 19. Vipin on standby — not called up. Trains alone at Shivaji Park while India plays at venues across subcontinent."
+      - "Stump dents tracked: replaces practice stump weekly. Rao watches without comment."
+      - "Shraddha visits Shivaji Park nets (not the storage room — nets section). Observes his bowling tell: right shoulder drops 3mm before cutters, 6mm before the 143 ball."
+      - "Market scene: Colaba or Crawford area. Her dupatta caught on hawker's cart nail. He unhooks it without being asked — one motion, no comment. She notices the precision."
+      - "Paparazzi on the street. Photographer says 'street-kid makes good.' Composure slip: Vipin's face does something. Not anger — the specific expression of a man who has calculated what would happen if he responded. Doesn't respond. But Shraddha sees the face."
+      - "1 AM phone call: Vipin calls her. 'The 1 AM phone call happened on a Wednesday, a week after the market.' Opening with 3-4 minutes of mundane — 'Rao story: he scolded a seagull for landing in the crease.' Laugh. Then quiet. She waited. Vipin asked about her audition (real question, not deflection). She answered. Then: 'I don't know if I'm scared because I can lose or because I want it so much.' Silence 11 seconds. Vipin: 'Both. That means it's real.' She absorbed this. He said 'I'll let you sleep' — she said 'I'm not tired.'"
+      - "Shivaji Park dawn ritual: linseed oil + floor cleaner smell → pandit mopping temple floors Saturday mornings (age 4-5). Vipin taps crease three times before first ball each session — childhood superstition never examined. Rao sees it. Has never commented."
+      - "World Cup Final invite: Shraddha calls with tickets to Wankhede. 'My father has a box but I'm going in the stands like a real person, na. Are you coming?' Pause. 'Yeah.'"
+    state_changes:
+      vipin:
+        location: "Shivaji Park nets, Mumbai; Colaba market; Dadar flat"
+        emotional_state: "World Cup exclusion processed through training obsession. Paparazzi moment: composure held but Shraddha saw the crack. 1 AM call: first genuine vulnerability exchange."
+        shraddha_relationship_update:
+          trust: 5
+          bond: "Market moment (precision, no performance). Paparazzi (she saw his real face). 1 AM call (first real vulnerability on both sides). Trajectory accelerating."
+      shraddha:
+        emotional_state: "Actively building trust with Vipin. Chose to call with WC Final tickets — 'in the stands, not the box' signals she wants to be with him specifically."
+    threads_developed:
+      - shoulder_arc (SHOULDER SOUND ABSENT — Vipin is bowling full speed and the sound hasn't recurred. This is the calm before.)
+      - paparazzi_pattern (INTRODUCED — 'street-kid' taunt. He held composure. She saw the break. This will recur.)
+      - dawn_ritual (DEEPENED — three taps. Linseed oil memory. Pandit's Saturday mornings. The ritual is pre-conscious now.)
+      - vulnerability_arc (OPENING — 1 AM call. 'I don't know if I'm scared because I can lose or because I want it so much.' First real exchange.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Counted ceiling fan blade rotations during a quiet part of the 1 AM call — reached 47 before stopping. Said nothing about it."
+      imperfect_moment: "Paparazzi 'street-kid' moment — Vipin's face did something real before he controlled it. Shraddha saw it."
+      unresolved_micro: "The three taps at the crease — Rao sees it every session, has never asked about it. Vipin has never examined it."
+      grounding_physical: "Practice stump dents — weekly replacement. The specific soft wood of a practice stump after repeated hits at the base of off-stump."
     inconsistencies_detected: none
 
   chapter-17:
