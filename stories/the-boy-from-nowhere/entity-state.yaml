@@ -2,6 +2,37 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
+last_updated: "chapter-01"
+
+chapter_log:
+  chapter-01:
+    title: "Temple Stairs"
+    timeline: "June 1990 – late 1997/early 1998"
+    events:
+      - "Vipin left on temple stairs by unknown woman, June 1990, pre-dawn. Gold pendant 'Vipin Chaudhary' placed on him."
+      - "Pandit Govind Shastri (63) finds him, raises him in Matunga temple."
+      - "1992-1996: Vipin develops counting habit (tiles, cracks, steps). Learns Hindi reading from pandit. First joke age 6 — establishes humor as tool."
+      - "Pandit talks to temple cat Shankara — Vipin absorbs habit, redirects to pigeons."
+      - "Pink institutional soap established as sensory memory anchor."
+      - "October 1997, age 7: Chai on temple steps. Pandit tells Vipin someone saw something in him before birth. Vipin bratty about evening prayers — lifelong guilt."
+      - "Pandit's tremor first observed — Vipin catalogues it."
+      - "Pandit drops cup; Vipin helps without comment. Final advice: 'Eat properly.'"
+      - "November 1997: Pandit dies on a Thursday. Vipin not present."
+      - "New pujari arrives with family. Vipin gradually becomes invisible."
+      - "Vipin walks out at dawn — takes only pendant."
+      - "First night under chai stall overhang near Matunga station. Counts 14 stars. Stray dog follows 3 blocks, sits, leaves without looking back."
+    state_changes:
+      vipin: "Location moves from temple → Mumbai streets. Age 7-8. Homeless, alone."
+      pandit: "STATUS CHANGE: deceased (November 1997)"
+    threads_introduced:
+      - pendant_mystery
+      - counting_habit
+      - humor_as_armor
+      - pink_soap_trigger
+      - vegetarianism_origin
+    inconsistencies_detected: none
+
+---
 characters:
   vipin_chaudhary:
     status: alive
@@ -149,9 +180,13 @@ characters:
       - {event: "Cries at wedding", chapter: 38}
 
   the_pandit:
-    status: "deceased (1997-98)"
+    full_name: "Govind Shastri"
+    status: "deceased — Thursday, November 1997"
+    age_at_death: "~70"
     role: "First father figure. Raised Vipin in temple."
-    legacy: "Vegetarianism. Counting habit. Discipline. The cat conversations. The smell of pink soap."
+    last_appearance: "chapter-01"
+    legacy: "Vegetarianism. Counting habit. Discipline. The cat conversations (Shankara). The smell of pink soap. 'Eat properly.'"
+    known_to_vipin: "Name not stated in chapter — Vipin knows him only as 'the pandit'"
 
   rajveer_chaudhary:
     status: "unknown (presumed dead or disappeared)"
