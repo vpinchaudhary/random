@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-10"
+last_updated: "chapter-11"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,51 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-11:
+    title: "The Dressing Room"
+    timeline: "Early March 2008 — MI pre-season camp, Taj Hotel"
+    events:
+      - "Taj Hotel: wrong shower knob → cold blast → slides into glass door → laughs alone. First real laugh in the hotel."
+      - "Room inventory: 32-button TV remote (uses 4), safe set to code 23 (River crack), minibar closed (juice = 400 rupees). Hotel soap: odorless, white. Registers pink temple soap absence."
+      - "Team meeting: Sachin (shorter than expected, just sitting), Harbhajan (louder/warmer than TV), Malinga (quiet, focused stillness), Pollock (still taking notes at 34), Suresh from Karnataka (also new, over-friendly)."
+      - "Sachin nods at Vipin. Two seconds of paralysis. World resumes."
+      - "Ice-breaker: 'I'm vegetarian so your chicken is safe.' Harbhajan laughs loudest. Malinga's mouth corner. Sachin's mouth corner. Filed."
+      - "Reads nutrition document under table during budget presentation."
+      - "Nets: 134→137→139 kph bowling. Dalvi (bowling coach) makes notes without speaking. Throwdown at 144-148 kph: 8 consecutive drives to same spot. Net has a dent. Dalvi makes more notes."
+      - "Sachin watches last 3 balls from adjacent net. 'Good hands, young man.' Four words. Keeps walking."
+      - "Lunch: MI practice ball rolls by, pockets it. Into kit bag when nobody looking."
+      - "Team dinner: vegetarian buffet, loads two plates by instinct, catches himself at second plate, eats slowly, leaves rice deliberately. Nobody notices."
+      - "Fenugreek in saag → pandit's cooking. Sets observation aside."
+      - "Calls Rao: 'Sachin said I have good hands.' Rao: 'He's right. You do.' Then: 'Good.' The weight in that word."
+      - "Pendant: thinks about whether she (biological mother) might know. Files in unactionable."
+      - "Sleeps on top of covers, fully dressed. Room too much. Notes 48 ceiling tiles."
+      - "Plans to ask for 150 from Jadhav tomorrow."
+    state_changes:
+      vipin:
+        location: "Taj Hotel, Marine Drive — MI pre-season camp"
+        new_relationships:
+          sachin: "Acknowledged with nod. 'Good hands, young man.' Distant mentor potential."
+          harbhajan: "Laughed at his joke. Filed as potential ally."
+          malinga: "Mouth corner moved. Filed."
+          dalvi: "Bowling coach — noted Vipin's pace. Communication through notes, not words."
+          suresh: "Karnataka bowler — also new. Protocol-information source."
+          chetan: "UP domestic player, adjacent seat. Structural ally."
+        objects_added: "MI practice ball (pocketed from nets) → kit bag → eventually drawer"
+        safe_code: 23
+      rao:
+        emotional_state: "Broke slightly on 'Good.' Four years in one word."
+    threads_developed:
+      - sachin_thread (PLANTED — 'Good hands.' Four words. Planted as distant mentor, not given freely.)
+      - food_instinct (INTRODUCED — plate-loading habit, first clash with new world. Will recur.)
+      - the_collection (GROWING — MI practice ball added. Proof accumulates.)
+      - footwork_gap (PLANTED — Vipin identifies his self-taught ceiling. Will need coaching to breakthrough at highest pace.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Room safe code = 23 (River crack branches). Used for nothing. 'Seemed right.'"
+      imperfect_moment: "Second plate loaded by muscle memory. Caught himself. Ate slowly. Left rice deliberately. Deliberate practice of not-hoarding."
+      unresolved_micro: "Minibar stays untouched. Housekeeping will note this as unusual. Planted for future reference."
+      grounding_physical: "Rain shower cold blast, glass door slide, bathroom floor. The shower was, with correct settings, the best thing in years — stood in it 15 minutes."
     inconsistencies_detected: none
 
   chapter-10:
