@@ -321,6 +321,23 @@ What does it look like when someone sees you — really sees what you are — fo
 - Rao doesn't push. He understands more from the joke than he would from the answer.
 - **Imperfect moment (anti-AI)**: Rao's coaching instinct makes him correct Vipin's grip immediately. Vipin resists — physically pulls his hand away. "My grip works." It does. But it's also limiting him, and he can't see that yet. The stubbornness that makes him great also makes him unteachable in this first moment.
 
+**Life Texture: EXTERNAL POV — Rao at Home (~400 words)**
+- That night. Rao's one-room flat in Dadar. His wife, Kavita — a quiet woman who teaches at a municipal school — is cooking dinner. Rao sits at the small table with a cup of chai he's not drinking (pattern established: Rao forgets chai when he's thinking).
+- "I found a boy," Rao says. He doesn't say it dramatically. He says it the way he says everything: measured, flat, the emotion underneath pressed down so hard you'd need a pickaxe.
+- Kavita doesn't look up from the stove. "You find boys every week."
+- "Not like this." A pause. "Kavita, his reaction time. I threw a ball at his face from ten feet. He caught it. One-handed. Without blinking."
+- Now she looks up. Rao doesn't exaggerate. In thirty years of marriage she's learned that when Rao says something unusual, it's because the usual words weren't enough.
+- "Where is he from?"
+- "The streets. No parents. He was wearing bathroom chappals and a shirt three sizes too big and he drove the ball like... like I've never been able to. And I was state level."
+- Kavita turns off the gas. Sits down. "What are you going to do?"
+- "I don't know yet. He needs food. He needs coaching. He needs a place to sleep that isn't a construction site."
+- "We can't take him in. This room is—"
+- "I know. I'll figure something out."
+- She watches him. Sees the thing she's seen twice before in their marriage — the first time when he decided to quit playing and start coaching (age 28, bad knee, worse politics), and the second time when he decided not to have children (a private grief neither of them discusses). The look means: this will consume him. She can't stop it. She's not sure she wants to.
+- "Bring him for dinner on Sunday. I'll make extra."
+- Rao looks at her. The reading glasses are on his forehead. He reaches across the table and squeezes her hand once. That's as romantic as Prakash Rao gets. It's enough.
+- **Sensory anchor**: The Rao flat. A single tube light with a pull string. A cricket poster on the wall — Sunil Gavaskar's famous 221 against England, 1979. Yellowed. The flat smells of mustard oil and chalk dust from Kavita's school bag.
+
 **Scene 4: The Offer (end of the week)** (~1,000 words)
 - Rao makes his pitch. Not a grand speech — Rao doesn't do grand speeches. Practical. He runs a coaching setup at Shivaji Park. He can get Vipin into the under-age cricket pipeline. District trials are in three months. But Vipin needs daily training, proper nutrition, and a place that isn't a construction site.
 - The catch: Rao can offer coaching and access, but he can't adopt him. He lives in a one-room flat with his wife. He can arrange meals through the cricket club — lunch and dinner, six days a week. Sleeping... Rao hesitates. He knows a groundskeeper at Shivaji Park who has a storage room.
