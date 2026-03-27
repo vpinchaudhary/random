@@ -1,22 +1,22 @@
-/* Story Reader — Dark mode default, Impeccable design principles */
+/* Story Reader — Dark mode default, reader-optimised */
 
 /* --- Design tokens (4pt base unit, OKLCH color) --- */
 :root {
-  /* Surfaces — dark, subtly warm-tinted (never pure black) */
-  --surface-0: oklch(0.13 0.008 250);    /* deepest bg */
-  --surface-1: oklch(0.17 0.008 250);    /* card/elevated */
-  --surface-2: oklch(0.22 0.008 250);    /* hover/active */
-  --surface-3: oklch(0.28 0.006 250);    /* borders */
+  /* Surfaces — warm dark amber (Kindle night mode, not terminal black) */
+  --surface-0: oklch(0.14 0.018 55);    /* deepest bg — dark warm brown */
+  --surface-1: oklch(0.19 0.016 55);    /* card/elevated */
+  --surface-2: oklch(0.25 0.014 55);    /* hover/active */
+  --surface-3: oklch(0.33 0.012 55);    /* borders */
 
-  /* Text — slightly desaturated warm tones */
-  --text-primary: oklch(0.93 0.01 80);
-  --text-secondary: oklch(0.65 0.01 80);
-  --text-tertiary: oklch(0.48 0.008 80);
+  /* Text — warm cream, never pure white */
+  --text-primary: oklch(0.87 0.028 65);    /* aged paper warm cream */
+  --text-secondary: oklch(0.67 0.022 65);
+  --text-tertiary: oklch(0.50 0.016 65);
 
-  /* Accent — muted amber, not neon */
-  --accent: oklch(0.72 0.12 70);
-  --accent-dim: oklch(0.55 0.08 70);
-  --accent-surface: oklch(0.22 0.04 70);
+  /* Accent — warm amber, matches the reading mood */
+  --accent: oklch(0.74 0.13 65);
+  --accent-dim: oklch(0.58 0.09 65);
+  --accent-surface: oklch(0.24 0.05 65);
 
   /* Semantic */
   --success: oklch(0.65 0.14 155);
@@ -69,6 +69,7 @@ body {
   font-size: var(--text-base);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 #app {
@@ -191,10 +192,12 @@ main {
 
 /* --- Chapter reading view --- */
 .chapter-content {
-  font-family: 'Literata', Georgia, 'Times New Roman', serif;
-  font-size: var(--text-base);
-  line-height: var(--lh-base);
-  max-width: 65ch;
+  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.92;
+  max-width: 66ch;
+  letter-spacing: 0.01em;
 }
 
 .chapter-content h1 {
@@ -230,8 +233,13 @@ main {
 }
 
 .chapter-content p {
-  margin-bottom: var(--sp-4);
+  margin-bottom: 1.4em;
   color: var(--text-primary);
+}
+
+.chapter-content em {
+  font-style: italic;
+  color: oklch(0.82 0.025 65); /* slightly warmer for italics — Hindi words */
 }
 
 .chapter-content hr {
@@ -265,10 +273,6 @@ main {
 .chapter-content strong {
   font-weight: 600;
   color: var(--text-primary);
-}
-
-.chapter-content em {
-  font-style: italic;
 }
 
 .chapter-content a {
