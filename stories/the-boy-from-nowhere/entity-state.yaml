@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-04"
+last_updated: "chapter-05"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,52 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-05:
+    title: "Leather and Willow"
+    timeline: "March 2003 – December 2003/early 2004 (age 13-14)"
+    events:
+      - "Storage room established as home. 23 ceiling cracks named (River, Sisters, Argument, etc.)."
+      - "Morning routine installed: 5:30 run, 6:30 nets, 8:30 breakfast. First structure since pandit."
+      - "Rao begins grip remodel — bottom-hand dominant habit vs. proper top-hand guidance."
+      - "'Uncle, I was better when I was bad.' — Vipin resists the change."
+      - "One-hand top-grip drill. Week of torment. Real improvement begins in October."
+      - "Stance remodel: open stance closed over six weeks of daily adjustment."
+      - "Leaving drill: cones at off stump. First day 3/10. Eventually 8/10 (drops when tired/anxious)."
+      - "Vipin quits for one day (February). Stays at room, doesn't come to session. Returns next day. Rao says nothing. They resume."
+      - "Body transformation: June–December 2003. Two inches. Shoulders, forearms, hands. Becomes recognizably different."
+      - "Rao clocks Vipin at 125 kph with radar gun in October. Fourteen years old. Other coaches start watching."
+      - "Coach Pathak asks Rao about Vipin's documentation after watching the session."
+      - "Rubber ball habit established September 2003 — hand fidget, thinking tool. Signature behavior begins."
+      - "SG bat gifted by Rao on Sunday in December. 17 grain count. Vipin's armor briefly drops."
+      - "Keshav begins leaving newspaper at door — unasked, unacknowledged. Vipin reads everything."
+      - "Rao tells Vipin about paperwork problem: district trials require documentation Vipin doesn't have. Rao will sign as guardian."
+    state_changes:
+      vipin:
+        location: "Storage room, Shivaji Park (confirmed home)"
+        age: 14
+        bowling_speed: "125 kph (October 2003)"
+        grip: "Remodeled — top-hand guidance now functional (October 2003)"
+        new_habits: ["rubber ball in pocket always", "newspaper reading every morning", "23 ceiling cracks named"]
+        bat: "SG bat, 17 grains — first proper bat of his own"
+      prakash_rao:
+        relationship_vipin: "Guardian signature commitment made. Boundary crossed from coach to something more."
+      keshav_groundskeeper:
+        habit_established: "Leaves newspaper at Vipin's door most mornings. Never mentioned."
+    threads_developed:
+      - paperwork_problem (INTRODUCED — MCA documentation required, Rao begins jugaad navigation)
+      - rubber_ball_habit (ESTABLISHED — signature Vipin behavior begins)
+      - rao_projection (VISIBLE — his intensity about Vipin's technique is personal, not just professional)
+      - grip_resistance_resolved (PARTIALLY — new grip working by October. Body transformation enables it.)
+      - keshav_newspapers (PLANTED — unresolved. Why does he do this? Never explained.)
+      - batting_transformation (DOCUMENTED — from street grip to technical base)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Rubber ball habit — not a training tool, a fidget. Began in September, now squeezes it constantly. Will become his career signature sound."
+      imperfect_moment: "The one day he doesn't come to the nets — lies in the room, refuses to get up. Returns next day without explanation. Rao doesn't ask. Nothing is resolved about the bowling action."
+      unresolved_micro: "Bowling action argument — Rao said it needs remodeling. Vipin quit over it. The conversation is 'in the file — open, unresolved.' Never revisited explicitly in this chapter."
+      grounding_physical: "17 grain count on the SG bat. Specific, tactile, tells us who Vipin is (he counts everything) and what the bat is (honest workmanlike, not prestige)."
+    beta_score: 8
     inconsistencies_detected: none
 
   chapter-04:
