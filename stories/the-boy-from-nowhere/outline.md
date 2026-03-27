@@ -1567,6 +1567,52 @@ High. Meeting the father is a crisis point. The public exposure adds external pr
 
 ---
 
+### Interlude D: Other People's Vipin
+
+**Timeline**: Mid-2011 (between Ch 21 and Ch 22)
+**POV**: Multiple external — how Vipin exists in lives he doesn't know about
+**Word Target**: ~3,500 words
+
+The relationship is public. Vipin met Shakti. The media has the story. This interlude shows the concentric circles of reaction — from Shraddha's inner world to strangers who will never meet him.
+
+#### Scene 1: Shraddha's Friends (Juhu, 2011)
+- A Sunday afternoon. Shraddha's flat. Three of her college friends are over — Meghna (aspiring filmmaker), Tanvi (fashion stylist), and Deepika (works in her father's business, doesn't need to work). They're drinking wine and pretending not to be there specifically to interrogate Shraddha about the cricketer.
+- Meghna pulls up Google Images on her MacBook. "He's fit." Clinical assessment. "Where did he go to school?" Shraddha hesitates. "He didn't, really. Not properly." The room absorbs this differently than Shraddha expected. Meghna: "That's... kind of amazing, actually?" Tanvi, scrolling Instagram: "He doesn't have an Instagram?" "He doesn't know what Instagram is. It launched like two months ago." Deepika: "That's either very cool or very concerning."
+- They find Anjali Mehta's article. Read it out loud. The temple, the streets, the pendant. Tanvi tears up. Deepika is skeptical: "This reads like a film script. Is it all true?" Shraddha: "It's all true. He doesn't talk about it. He makes jokes instead."
+- Meghna, the filmmaker, says the thing nobody else says: "Shraddha, you know what people will say, right? That you're with him for the story. The Bollywood girl and the orphan — it's too cinematic. People won't believe it's real."
+- Shraddha puts down her glass. "I don't care what people believe." But her face says she's already thought about this. The performative nature of their relationship in public — the way everything they do will be narrated by someone else — is something she's processing in real time.
+- The conversation drifts to other things. Tanvi's job. Deepika's wedding planning. But before they leave, Meghna says: "He sounds like someone worth knowing. Bring him next time." Shraddha smiles. She won't bring him. Vipin in a room with wine-drinking Juhu socialites would be a cultural car crash that nobody needs.
+- **Sensory anchor**: The wine — a cheap Sula Chenin Blanc, because they're 24 and pretend they can't tell the difference. The afternoon sun through Shraddha's curtains turning the wine a pale gold.
+
+#### Scene 2: Shakti Alone (Kapoor house, evening after the meeting)
+- After Vipin leaves. Shivangi is cleaning up. Shakti is in his study — a room full of scripts, film posters, awards, and a desk that's perpetually buried under paper. He's sitting in his chair, not reading anything.
+- He picks up his phone. Calls his brother. "I met the boy. Shraddha's... friend." His brother, who lives in Delhi, asks the questions Shakti already asked. "Family?" "None." "Caste?" "Unknown. The surname is Chaudhary — could be Jaat. Could be anything." "Money?" "He's doing well. IPL money. Endorsements." "But who IS he?" "That's the problem. Nobody knows. Including him."
+- They talk for twenty minutes. His brother advises caution. Shakti doesn't need the advice — he's already cautious. But something is bothering him that he can't articulate.
+- After the call, he goes to the living room. Looks at the photo on the side table — his father, the Connaught Place clothes seller. The man who sent his son to acting classes on a shopkeeper's salary. Who watched Bollywood call his son a "character actor" — code for "not leading man material" — and never once said he was proud out loud, because that's not how that generation worked.
+- Shakti sits in the chair and thinks about a boy who has no father at all. No silent pride. No withheld approval. Just a pendant and a blank certificate. And despite everything — the missing pedigree, the unknown background, the orphan story that makes him nervous — the boy looked him in the eye and told the truth. Shakti's own industry runs on lies. The truth is harder than it looks.
+- He doesn't change his position. The conditional approval stands. But something in the way he thinks about "the cricketer" shifts, imperceptibly, from "threat" to "question."
+- **What the reader learns**: Shakti's resistance isn't cruelty — it's a father's fear of the unknown. And his own background is closer to Vipin's than he'd ever admit publicly. The class anxiety is projection.
+
+#### Scene 3: A BCCI Selector's Living Room (Delhi, 2011)
+- Brief scene. Two national selectors — Arvind Patil and KS Raghunath — are watching highlights from the recent ODI series. Vipin's name comes up for full India squad discussion.
+- "He's ready technically. 63 not out in the last ODI. Bowling at 140."
+- "He's twenty-one. Give him another year in domestics."
+- "Tendulkar debuted at sixteen."
+- "Tendulkar had a normal childhood."
+- Silence. Raghunath pours chai. "What does that mean, KS?"
+- "It means the boy has baggage. The media circus. The orphan narrative. Captains don't want distractions. Dhoni doesn't want a player whose press conference is bigger than his innings."
+- "So we punish him for being interesting?"
+- "We don't punish him. We protect the dressing room." Beat. "For now. He'll get there. Let the noise settle."
+- The chai goes cold. They move to the next name. Vipin's selection is deferred — not because of talent, but because of narrative. He'll never know this conversation happened. The system has opinions about him that have nothing to do with cricket.
+- **What the reader learns**: The gap between talent and selection isn't just performance — it's politics, optics, and the comfort level of the captain. This explains any delays in Vipin's India career and humanizes the selectors (they're not villains, they're cautious men managing a complex system).
+
+#### Interlude D Notes
+- The three scenes radiate outward: personal (Shraddha's friends), familial (Shakti alone), institutional (BCCI). Each circle processes Vipin through a different lens — romance, class, utility.
+- Shraddha's friends scene is the lightest. Shakti's is the most emotionally complex. The selectors' is the most pragmatic.
+- No scene resolves anything. The interlude is a snapshot of how the world holds Vipin when he's not looking.
+
+---
+
 ### Chapter 22: The Blue Jersey
 
 **Timeline**: Late 2011 – early 2012 (age 21-22)
