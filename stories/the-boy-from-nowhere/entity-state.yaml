@@ -1,0 +1,271 @@
+# Entity State Tracker: The Boy From Nowhere
+# Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
+
+---
+characters:
+  vipin_chaudhary:
+    status: alive
+    age_range: "0-36 (1990-2026)"
+    location_history:
+      - {place: "Temple, Mumbai", period: "1990-1997", chapters: "1"}
+      - {place: "Streets, Dongri/various", period: "1997-2003", chapters: "2-3"}
+      - {place: "Storage room, Shivaji Park", period: "2003-2008", chapters: "4-10"}
+      - {place: "MI team hotels/Mumbai flat", period: "2008-2026", chapters: "11-42"}
+    physical_state:
+      build: "Jaat frame — malnourished until 13, then rapid transformation with regular meals"
+      scar: "Left eyebrow, from gully fight age 9 (Ch 2)"
+      injury: "Rotator cuff tear, shoulder (Ch 28, early 2015). Fully healed by Ch 30 (2016). Pace returns 142+ kph."
+      bowling_speed: "130 kph at 15 → 136 at 16 → 140+ at 18 → 143+ peak → 144 post-injury (chooses when to deploy)"
+    emotional_state_by_act:
+      act1: "Survival → guarded hope → proving himself"
+      act2a: "Excitement → fame discomfort → falling in love"
+      act2b: "Collision of worlds → moral crisis (Bhai) → peak + suppression"
+      act3a: "Injury → identity crisis → withdrawal → rock bottom → 'I need you'"
+      act3b: "Rebuilding → patience → captain → married → at peace"
+      resolution: "Father → 'This was just cricket' → retirement → passing the pendant"
+    key_possessions:
+      - {item: "Gold pendant", status: "worn always", notes: "Given to Shraddha Ch 28, returned Ch 29. Passed to Arjun Ch 42."}
+      - {item: "The drawer/museum", status: "accumulates across story", notes: "See characters.md for full inventory"}
+      - {item: "Rubber ball", status: "pocket always", notes: "Squeezes when anxious. Counting habit."}
+    relationships: &vipin_relationships
+      rao: {type: mentor, trust: 8, status: constant}
+      shraddha: {type: romantic, trust: "2→10", status: "married (Ch 38)"}
+      ravi: {type: best_friend, trust: 9, status: constant}
+      bhai: {type: "complicated→severed", trust: "5→0", status: "severed (Ch 26)"}
+      sunita: {type: grandmother, trust: 8, status: "found (Ch 31)"}
+      kavita_rao: {type: surrogate_mother, trust: 7, status: constant}
+      keshav: {type: silent_protector, trust: 7, status: constant}
+      shakti: {type: father_in_law, trust: "1→8", status: "accepted (Ch 34+)"}
+      anjali: {type: adversarial_respectful, trust: "3→6", status: active}
+
+  shraddha_kapoor:
+    status: alive
+    age_range: "24-39 (story appearance Ch 17-42)"
+    location: "Juhu, Mumbai (Kapoor family home → own flat → Vipin's flat → married home)"
+    key_events:
+      - {event: "Meets Vipin", chapter: 17, year: 2010}
+      - {event: "Batata vada not-date", chapter: 18, year: "early 2011"}
+      - {event: "The Look at Wankhede", chapter: 20, year: "Apr 2011"}
+      - {event: "'I'm telling you, not asking' to Shakti", chapter: 21, year: "Jun 2011"}
+      - {event: "Discovers the drawer", chapter: 22, year: 2012}
+      - {event: "Holds pendant during Vipin's injury", chapter: 28, year: 2015}
+      - {event: "The fracture / separation", chapter: 32, year: "late 2016"}
+      - {event: "'I'm already in the car'", chapter: 33, year: "early 2017"}
+      - {event: "COVID haircut disaster", interlude: G, year: 2020}
+      - {event: "Wedding (50 guests)", chapter: 38, year: "late 2020"}
+      - {event: "Pregnant (doesn't tell Vipin until after captaincy innings)", chapter: 39, year: 2022}
+      - {event: "Son Arjun born", chapter: 40, year: 2023}
+
+  prakash_rao:
+    status: alive
+    age_range: "48-71 (story appearance Ch 4-42)"
+    location: "One-room flat, Dadar, Mumbai"
+    wife: kavita_rao
+    key_trait: "Reading glasses on forehead. Cold chai. Walks away mid-conversation when composure breaks."
+    key_events:
+      - {event: "Discovers Vipin at Shivaji Park", chapter: 4, year: 2003}
+      - {event: "Navigates paperwork/birth certificate", chapters: "6-8", year: "2005-2006"}
+      - {event: "Walks away after Bhai lie", chapter: 25, year: 2013}
+      - {event: "Rebuilds Vipin's game post-injury", chapter: 34, year: 2017}
+      - {event: "Walks beside Vipin at wedding", chapter: 38, year: 2020}
+
+  kavita_rao:
+    status: alive
+    age_range: "~48-71"
+    location: "Dadar flat with Rao"
+    occupation: "Municipal school teacher, 23+ years"
+    key_events:
+      - {event: "'Bring him for dinner on Sunday'", chapter: "4 context"}
+      - {event: "Sunday dinners — Vipin eats six chapatis", chapter: 5}
+      - {event: "Puts Vipin's Diwali money in FD without telling Rao", chapter: "post-14"}
+      - {event: "Buying bhindi, sees Vipin's poster in shop window", interlude: E}
+      - {event: "Video call during COVID — 'Tell him to eat properly'", interlude: G}
+
+  bhai:
+    status: alive
+    location: "Dongri → diminished territory (post-spot-fixing crackdown)"
+    arc: "protector → investor → claimant → severed → menacing absence"
+    key_events:
+      - {event: "Takes Vipin in after pandit dies", chapter: 2, year: 1998}
+      - {event: "'Some things you don't use up. You invest.'", interlude: A, year: 2001}
+      - {event: "Resurfaces after IPL success", chapter: 14, year: 2008}
+      - {event: "Spot-fixing approach", chapter: 25, year: 2013}
+      - {event: "'We're done, Chaudhary'", chapter: 26, year: 2013}
+      - {event: "Recalibrates at worse chai stall", interlude: E, year: "late 2013"}
+      - {event: "Tabloid leaks about Vipin's past", chapter: 27, year: 2014}
+
+  keshav_groundskeeper:
+    status: alive
+    age_range: "~58-73 across story"
+    location: "Chawl behind Shivaji Park"
+    wife: "Deceased (3 years before auction)"
+    key_trait: "Silent. Never asks questions. Leaves things at the storage room door."
+    key_events:
+      - {event: "Leaves newspapers and Parle-G at door for 4 years", chapters: "5-10"}
+      - {event: "Single congratulatory knock on auction night", interlude: B}
+      - {event: "Refuses Vipin's money, then accepts", chapter: 14}
+      - {event: "Wears kurta to wedding", chapter: 38}
+
+  sunita_devi:
+    status: alive
+    age_range: "~74-83 (appearances Ch 31-42)"
+    location: "Village in Haryana"
+    relationship: "Vipin's paternal grandmother"
+    key_events:
+      - {event: "Filed missing person report for Rajveer (1991)", pre_story: true}
+      - {event: "First meeting with Vipin — holds his face, same jaw", chapter: 31}
+      - {event: "Writes letter: 'I will cook for you'", interlude: F}
+      - {event: "Gives Rajveer's cricket gloves", chapter: 35}
+      - {event: "First time in Mumbai — wedding, criticizes everything", chapter: 38}
+
+  ravi_deshmukh:
+    status: alive
+    age_range: "15-36 (appearances Ch 6-42)"
+    location: "Dadar → various (cricket travel)"
+    wife: "Priya (married Jan 2017)"
+    key_events:
+      - {event: "Introduced at U-15 trials", chapter: 6}
+      - {event: "Names Vipin 'Chaudhary'", chapter: 7}
+      - {event: "1 AM bathroom call after auction", interlude: B}
+      - {event: "Wedding — empty chair for Vipin", interlude: F}
+      - {event: "Bats at other end during Ranji centuries", chapter: 26}
+
+  anjali_mehta:
+    status: alive
+    age_range: "~28-46"
+    occupation: "Sports journalist, Mumbai Herald → respected cricket journalist"
+    key_events:
+      - {event: "Pitches profile to editor Sameer Joshi", interlude: C}
+      - {event: "'Orphan who hits sixes' article", chapter: 13}
+      - {event: "Shivaji Park interview — 'his silence is the loudest thing'", chapter: 26}
+      - {event: "Final interview", chapter: 42}
+
+  shakti_kapoor:
+    status: alive
+    trust_toward_vipin: "1 → 8"
+    key_events:
+      - {event: "Interrogates Vipin at Kapoor house", chapter: 21}
+      - {event: "'A man who looks for his family is a man who values family'", chapter: 34}
+      - {event: "Cries at wedding", chapter: 38}
+
+  the_pandit:
+    status: "deceased (1997-98)"
+    role: "First father figure. Raised Vipin in temple."
+    legacy: "Vegetarianism. Counting habit. Discipline. The cat conversations. The smell of pink soap."
+
+  rajveer_chaudhary:
+    status: "unknown (presumed dead or disappeared)"
+    notes: "Vipin's father. Jaat. Big-framed, played gully cricket. Left for Mumbai ~1989. Disappeared after leaving Vipin at temple (1990)."
+
+  kamla_chaudhary:
+    status: "unknown (presumed dead or disappeared)"
+    notes: "Vipin's mother. Small, sharp-featured. 'She sang. Always singing.' Disappeared with Rajveer."
+
+  arjun_chaudhary:
+    status: alive
+    born: 2023
+    notes: "Vipin and Shraddha's son. Named in Ch 40. Receives the pendant in Ch 42."
+
+---
+locations:
+  temple_mumbai:
+    type: sacred
+    chapters: [1, 9, 33]
+    notes: "Where Vipin was left. Where pandit raised him. Returns before auction (Ch 9) and at rock bottom (Ch 33). Different pujari, different cat, same steps."
+
+  shivaji_park:
+    type: home_ground
+    chapters: [4, 5, 6, 7, 8, 9, 10, 14, 26, 34, 41, 42]
+    notes: "Rao's territory. Storage room (Vipin's home 2003-2008). Returns for rebuilding (Ch 34). Retirement speech (Ch 41). Coaching kids (Ch 42)."
+
+  storage_room:
+    type: residence
+    chapters: [4, 5, 6, 7, 8, 9, 10, 14]
+    notes: "Inside Shivaji Park grounds. Keshav's domain. Vipin's home for 5 years. 23 ceiling cracks (he counted). R.S. 1987 scratched on wall."
+
+  rao_flat_dadar:
+    type: residence
+    chapters: [4, 5, "Int. B", "Int. E", "Int. G"]
+    notes: "One-room flat. Gavaskar poster. Pull-string tube light. Sunday dinners."
+
+  kapoor_house_juhu:
+    type: residence
+    chapters: [21, 34, 37, 38]
+    notes: "Bungalow. Film memorabilia. 11 photos on entrance wall. 8 pairs of shoes. Where Vipin meets Shakti."
+
+  wankhede_stadium:
+    type: cricket_ground
+    chapters: [20, 41]
+    notes: "2011 WC Final (The Look). Vipin's final innings (47, retirement, Ch 41)."
+
+  haryana_village:
+    type: ancestral
+    chapters: [31, 35]
+    notes: "Sunita Devi's home. 3-hour drive from Delhi (~1,500 km from Mumbai). Rajveer's origin."
+
+  dongri:
+    type: street
+    chapters: [2, 3, "Int. A", "Int. E"]
+    notes: "Bhai's territory. Gully cricket. Dhaba economy."
+
+---
+objects:
+  pendant:
+    type: artifact
+    owner_history: ["unknown parents → pandit → Vipin → Shraddha (Ch 28-29) → Vipin → Arjun (Ch 42)"]
+    description: "Gold, engraved 'Vipin Chaudhary'. Chain around neck."
+    chapters_significant: [1, 9, 10, 18, 20, 28, 29, 33, 36, 38, 42]
+
+  rubber_ball:
+    type: habit_object
+    owner: vipin
+    notes: "Always in pocket. Squeezes when anxious. Multiple colors acquired via Amazon during COVID (39 total, Interlude G)."
+
+  the_drawer:
+    type: collection
+    location: "Storage room → Mumbai flat"
+    contents:
+      - "Newspaper clipping: 'Vipin Chaudhary — MI' (Ch 10)"
+      - "'I want them to say my name' note (Ch 9)"
+      - "Match balls (various)"
+      - "ATM receipt, first salary (Ch 14)"
+      - "Unsigned letter: 'God has a plan for you' (Ch 13)"
+      - "Anonymous photograph of young couple, trimmed (Ch 18)"
+      - "Boarding pass, first international flight (Ch 16)"
+      - "India cap photo (Ch 22)"
+      - "Bhai's taped tennis ball (Ch 25)"
+      - "Anjali's card (Ch 26)"
+      - "Rajveer's cricket gloves (Ch 35)"
+
+  anonymous_photograph:
+    type: mystery_object
+    description: "Photo of a young couple. Trimmed with scissors — more was cut away. Sent to Vipin's temple address."
+    introduced: Ch 18
+    significance: "Likely Rajveer and Kamla. Someone chose what to show and what to keep."
+    resolved: "Partially — PI traces to Rajveer/Kamla but parents never found."
+
+  birth_certificate:
+    type: document
+    issued: "2006 (Ch 8)"
+    details: "Father: Unknown. Mother: Unknown. DOB: June 15, 1990 (estimated). Pale green government paper."
+
+---
+knowledge_graph:
+  vipin_knows:
+    - {fact: "He was left on temple stairs with pendant and money", since: "always"}
+    - {fact: "Pandit raised him, died when he was ~7", since: "Ch 1"}
+    - {fact: "His name is engraved on the pendant — Chaudhary means Jaat", since: "always"}
+    - {fact: "Bhai protected/used him on the streets", since: "Ch 2"}
+    - {fact: "He lied to anti-corruption (first interview)", since: "Ch 25", known_by: ["Vipin", "Rao"]}
+    - {fact: "Parents were Rajveer and Kamla, from Haryana", since: "Ch 30-31"}
+    - {fact: "Grandmother Sunita exists in Haryana village", since: "Ch 31"}
+    - {fact: "Parents disappeared — may be dead, may have started over", since: "Ch 33"}
+
+  reader_knows_but_vipin_doesnt:
+    - {fact: "Bhai calculated Vipin's value early ('invest, not use')", source: "Interlude A"}
+    - {fact: "BCCI deferred his selection due to 'narrative' concerns", source: "Interlude D"}
+    - {fact: "Anti-corruption officer flagged the 4-month reporting delay", source: "Interlude E"}
+    - {fact: "Bumrah inherited his workout routine without knowing its origin", source: "Interlude F"}
+    - {fact: "Sunita walked 3km to post a letter he didn't open for 2 weeks", source: "Interlude F"}
+    - {fact: "Ravi left an empty chair for him at his wedding", source: "Interlude F"}
+    - {fact: "Kavita Rao sees his poster and feels something she can't name", source: "Interlude E"}
