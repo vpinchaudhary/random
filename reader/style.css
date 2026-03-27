@@ -1,22 +1,22 @@
-/* Story Reader — Dark mode default, reader-optimised */
+/* Story Reader — Zinc dark, reader-optimised */
 
 /* --- Design tokens (4pt base unit, OKLCH color) --- */
 :root {
-  /* Surfaces — warm dark amber (Kindle night mode, not terminal black) */
-  --surface-0: oklch(0.14 0.018 55);    /* deepest bg — dark warm brown */
-  --surface-1: oklch(0.19 0.016 55);    /* card/elevated */
-  --surface-2: oklch(0.25 0.014 55);    /* hover/active */
-  --surface-3: oklch(0.33 0.012 55);    /* borders */
+  /* Surfaces — shadcn zinc dark (neutral grey, no hue bias) */
+  --surface-0: oklch(0.12 0.004 270);    /* zinc-950 equivalent */
+  --surface-1: oklch(0.17 0.004 270);    /* zinc-900 */
+  --surface-2: oklch(0.23 0.004 270);    /* zinc-800 */
+  --surface-3: oklch(0.30 0.003 270);    /* zinc-700 border */
 
-  /* Text — warm cream, never pure white */
-  --text-primary: oklch(0.87 0.028 65);    /* aged paper warm cream */
-  --text-secondary: oklch(0.67 0.022 65);
-  --text-tertiary: oklch(0.50 0.016 65);
+  /* Text — soft zinc white, not pure white (easier on eyes) */
+  --text-primary: oklch(0.88 0.004 270);     /* zinc-100 dimmed */
+  --text-secondary: oklch(0.63 0.004 270);   /* zinc-400 */
+  --text-tertiary: oklch(0.46 0.003 270);    /* zinc-500 */
 
-  /* Accent — warm amber, matches the reading mood */
-  --accent: oklch(0.74 0.13 65);
-  --accent-dim: oklch(0.58 0.09 65);
-  --accent-surface: oklch(0.24 0.05 65);
+  /* Accent — subtle violet (shadcn default) */
+  --accent: oklch(0.70 0.10 280);
+  --accent-dim: oklch(0.54 0.07 280);
+  --accent-surface: oklch(0.22 0.04 280);
 
   /* Semantic */
   --success: oklch(0.65 0.14 155);
@@ -193,11 +193,11 @@ main {
 /* --- Chapter reading view --- */
 .chapter-content {
   font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-weight: 300;
-  line-height: 1.92;
-  max-width: 66ch;
-  letter-spacing: 0.01em;
+  line-height: 1.95;
+  max-width: 64ch;
+  letter-spacing: 0.012em;
 }
 
 .chapter-content h1 {
@@ -239,7 +239,7 @@ main {
 
 .chapter-content em {
   font-style: italic;
-  color: oklch(0.82 0.025 65); /* slightly warmer for italics — Hindi words */
+  color: oklch(0.78 0.006 270); /* slightly dimmed for Hindi/italics */
 }
 
 .chapter-content hr {
