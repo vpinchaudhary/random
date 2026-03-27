@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-06"
+last_updated: "chapter-07"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,59 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-07:
+    title: "Built Different"
+    timeline: "2005-2006 (ages 15-16)"
+    events:
+      - "U-15 tournament: 487 runs (avg 81.1), 22 wickets. Tournament scorebook-keeper Gaitonde tells Rao: 'Better than Tendulkar's numbers at this age.'"
+      - "MCA selectors want to fast-track. Patwardhan (rival coach, academy) dissents on documentation. Political threat confirmed."
+      - "Vipin enters U-17 setup. Room goes quiet — scale, not intimidation. First reputation outside gully."
+      - "Ravi names Vipin 'Chaudhary' in the dressing room: 'Bhai nahi, Chaudhary hai yeh.' Sticks immediately. Nobody uses 'Vipin' anymore."
+      - "Nutritionist Bhatt notes: unusual protein conversion. Nobody follows up."
+      - "Vegetarianism mocked at lunch. Vipin: 'You eat chicken and can't run two. I eat paneer and I can run twenty. Maybe the chicken is the problem.' Mocking stops."
+      - "Calorie-counting habit established — reads nutritional info on all food packaging. Knows Parle-G is 449 cal/100g. Impresses nobody."
+      - "Ravi-Vipin dynamic defined: Ravi names things aloud, Vipin responds with precision. Efficient system."
+      - "Formal MCA inquiry. Committee review. Rao fights with paperwork, precedent, performance record."
+      - "Official asks: 'Where are your parents, son?' — four-second silence. Then: 'If you find them, tell them I'm playing cricket.' Devastating and funny."
+      - "Committee rules: can play, needs birth certificate within 6 months, formal guardianship."
+      - "U-17 tournament. 84 off 52, five sixes — three off Patwardhan's bowler (targeted/not targeted)."
+      - "Bowling at 133 kph. Opener retires hurt. Vipin doesn't apologize, doesn't celebrate."
+      - "Second match: makes 12, rash slash shot, throws bat in dressing room. Ravi: 'Bat se problem kya hai?' Tension breaks with laughter."
+      - "Tournament: 398 runs, 18 wickets, MVP. Patwardhan's political allies now lobbying for Vipin's selection."
+      - "Mysterious well-dressed man in stands watching Vipin specifically. Leaves before presentations. Not a selector, coach, or parent. Filed: unresolved."
+      - "Birth certificate application signed. DOB: June 15, 1990 (estimated). Father: Unknown. Mother: Unknown."
+      - "Birth certificate arrives August 2006. Pale green paper. Vipin: 'At least they spelled Chaudhary right.' Flat voice."
+      - "That night: pendant in hand, briefcase gone. Gap between gold pendant and green paper is the shape of a question."
+    state_changes:
+      vipin:
+        age: 16
+        bowling_speed: "133 kph (U-17 tournament, 2006)"
+        team: "Mumbai U-17 (selected)"
+        birth_certificate: "ISSUED August 2006 — pale green, Father: Unknown, Mother: Unknown, DOB: June 15 1990"
+        known_as: "'Chaudhary' — surname as title. Used by entire team. Origin: Ravi Deshmukh."
+        new_habits: ["reads nutritional info on all food packaging", "knows calorie counts without looking"]
+        anger_note: "Plays best angry. Rao sees this and is worried — unsustainable resource."
+        drawer_contents: "Birth certificate given to Rao for safekeeping"
+      ravi_deshmukh:
+        relationship_vipin: "Cemented as closest friend. Names things Vipin won't. Can break Vipin's silences."
+        nickname_given: "'Chaudhary' — coined by Ravi, chapter 7. Permanent from this point."
+      unknown_man_in_stands:
+        description: "Well-dressed, ~180cm, late forties, dark jacket. East terrace, final match. Not cricket-affiliated. Left before presentations."
+        status: "UNRESOLVED. Pendant mystery connection possible. Ambiguous deliberately."
+    threads_developed:
+      - chaudhary_title (ESTABLISHED — permanent identifier from this chapter forward)
+      - anger_as_fuel (ESTABLISHED — Rao sees it as dangerous. Documented in his notebook.)
+      - birth_certificate (RESOLVED — pale green paper, June 15 1990, Father/Mother Unknown)
+      - unknown_man_pendant_mystery (PLANTED — ambiguous, filed as unresolved)
+      - rao_projection (DEEPENED — thinks of own knee injury and anger when watching Vipin)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Reads calorie counts off food packaging. Knows Parle-G 449 cal/100g. Does it because numbers are there, not health. Impresses nobody."
+      imperfect_moment: "Four-second silence in the committee room. Humor machine fails to load. Rao has to step in. 'If you find them, tell them I'm playing cricket' — both funny and the only thing he could manage."
+      unresolved_micro: "The well-dressed man in the stands. Who is he? Filed under unresolved. Never answered in this chapter."
+      grounding_physical: "The birth certificate: government-issue pale green paper, ink slightly smudged, registrar's signature, stamp, smell of dust and indifference. Smaller than expected."
+    beta_score: 8
     inconsistencies_detected: none
 
   chapter-06:
