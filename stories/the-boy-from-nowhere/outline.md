@@ -389,6 +389,17 @@ What does it cost to submit to a system when you've survived by trusting only yo
 - But: the moments when it clicks. When the new grip produces a cover drive that Vipin feels in his whole body — cleaner, truer, the ball racing off the bat with a sound he's never produced before. Those moments keep him coming back.
 - **Imperfect moment (anti-AI)**: Vipin quits. For one day. After a particularly frustrating session where Rao tells him his bowling action will need to be remodeled if he ever wants to play representative cricket, Vipin walks out. Doesn't come to the next morning session. Sits in his storage room and stares at the wall. Returns the following day without explanation. Rao says nothing. They resume.
 
+**Life Texture: Sunday Dinner at Rao's (~400 words)**
+- Kavita's kitchen. The one-room flat. Vipin sits cross-legged on the floor (the table is too small for three, and he insists on the floor — the temple muscle memory). Kavita has cooked aloo gobi, dal, chapatis, and rice. More food than Vipin has seen on a single table outside of a restaurant.
+- He eats four chapatis. Kavita makes a fifth. He eats that too. She makes a sixth. Rao watches this exchange with an expression Vipin doesn't recognize — not pity (Rao doesn't do pity), something closer to quiet fury at a world that let a 13-year-old be this hungry.
+- Kavita asks Vipin about school (the fiction one). He lies smoothly — a skill from Bhai's streets — about subjects and teachers. She's a teacher; she knows he's lying. She lets it go. Some fictions are necessary.
+- They watch India play on Rao's small TV. India vs. New Zealand. Vipin sits three feet from the screen and his eyes track the ball from the bowler's hand to the bat. Kavita watches Vipin watch. She sees his hands twitch on certain deliveries — as if he's playing the shot alongside the batsman.
+- "He moves when they bat," she tells Rao later, after Vipin has left. "His whole body. He's not watching — he's playing."
+- "I know," Rao says. He's not drinking his chai again.
+- The evening ends with Vipin helping wash dishes — insisting on it, the way the pandit taught. Kavita dries. They work in silence. The domesticity of it — a woman drying dishes beside a boy who sleeps in a storage room — is both ordinary and heartbreaking. Neither of them names it.
+- **Sensory anchor**: Kavita's kitchen soap — Vim bar, green, the smell of lemon and chemical. Different from the pink temple soap. Different from the construction-site smell. This soap smells like someone's home.
+- **Period marker**: 2003. The TV plays highlights of Sourav Ganguly's India — the team that played with their shirts off at Lord's. Vipin doesn't know the context but he likes the aggression. "That captain looks angry." Rao: "He IS angry. That's why he's good."
+
 **Scene 3: The Transformation (2004, age 14)** (~1,300 words)
 - Six months of regular meals. The Jaat genetics ignite. This isn't a subtle change — Vipin's body transforms visibly. His frame fills out, shoulders widen, forearms thicken. The club players who saw him at thirteen and see him at fourteen do double-takes.
 - His power multiplies. Shots that used to reach the boundary now clear it. His bowling, with the remodeled action, gains genuine pace. Rao clocks him at 125 kph in the nets — absurd for a 14-year-old. The other coaches at Shivaji Park start watching.
