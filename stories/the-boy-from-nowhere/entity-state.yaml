@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-05"
+last_updated: "chapter-06"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,58 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-06:
+    title: "The Boy with No File"
+    timeline: "2004-2005 (ages 14-15)"
+    events:
+      - "MCA office visit with Rao — Vipin counts 231-235 files while Rao navigates paperwork."
+      - "Statutory declaration processed. Father: Unknown. Mother: Unknown. DOB estimated June 15 1990."
+      - "St. Xavier's principal Nair backdates enrollment. Club address listed as residential."
+      - "Rao signs as guardian without discussion. Neither of them names what this means."
+      - "Vipin understands the grey track: systems run on gaps, gaps are where people like him live."
+      - "District trials at Matunga ground. 60 boys, all with academy logos. Vipin arrives with plain shirt."
+      - "Ravi Deshmukh introduced — quick face, first meeting. 'Nice pads. Do they come in men's size?' Kid laughs despite himself."
+      - "Batting assessment: blocks first two (discipline visible), then dispatches six consecutive at 125 kph. Selector puts down chai."
+      - "Bowling assessment: 128 kph. Speed gun operator looks twice. One delivery kicks off length, another comes back in — wicket."
+      - "Fielding: untouchable. Left-handed catch mid-stride. Ravi watches, shakes head."
+      - "Trial match: Vipin bats at 5, team 45/4. Scores 67 off 41 balls. Straight six stops adjacent trial."
+      - "Lunch confrontation: selector asks about academy. Vipin's humor doesn't load. Four-second silence. Man blinks first. Rao: 'Don't make enemies of people who sign the team sheet.'"
+      - "Selected for Mumbai U-15. Letter addressed to St. Xavier's."
+      - "Vipin reads own name on official document: VIPIN CHAUDHARY. Touches pendant."
+      - "MCA registration number memorized: MCA/U15/2005/0387. Filed as proof of existence. Will remember for life."
+      - "First match in whites, Pune. 43 runs, rash pull shot, punches pad walking off. 3 wickets including instinctive yorker (stumps cartwheel)."
+      - "Post-match snacks — first real team experience. Deflects all personal questions with humor. Works perfectly."
+      - "Ravi sits next to him. Talks about cricket, not family. They discuss pull shots and cut shots and seam position. An hour passes without threat assessment."
+      - "Opposition coach approaches Rao after match — gestures at Vipin, shakes head (recalibration, not disapproval). Rao goes flat. Neither discusses it."
+    state_changes:
+      vipin:
+        location: "Shivaji Park storage room. First match travel: Pune."
+        age: 15
+        registration: "MCA/U15/2005/0387 — memorized permanently"
+        team: "Mumbai U-15 (selected)"
+        bowling_speed: "128 kph at trials"
+        relationship_ravi: "First meeting. Instant rapport via cricket language. No personal information exchanged."
+        drawer_contents: "Adds team selection letter"
+      ravi_deshmukh:
+        first_appearance: chapter-06
+        note: "Quick face, processes fast, doesn't ask about school or family. Talks cricket. The right frequency."
+        nickname_not_yet: "Will give Vipin the 'Chaudhary' title — not yet."
+      prakash_rao:
+        guardian_status: "Signed as guardian on documentation. Acknowledged by action, never by words."
+    threads_developed:
+      - ravi_friendship (PLANTED — first meeting, natural fit, cricket as common language)
+      - registration_number (ESTABLISHED — Vipin memorizes 0387, proof of existence)
+      - paperwork_vulnerability (ONGOING — jugaad house of cards. Selector asked about documentation.)
+      - the_armor_works (DEMONSTRATED — humor deflects entire team. Nobody knows anything real.)
+      - opposition_coach_mystery (PLANTED — what did he say to Rao? Never revealed. Both file it.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Memorizes MCA registration number 0387. Not needed. Just proof he exists in the system. Will recite it twenty years later unprompted."
+      imperfect_moment: "Lunch confrontation — silence instead of humor when selector says 'self-taught.' Four seconds. Body fails the armor for a moment. Rao has to extract him."
+      unresolved_micro: "The opposition coach gesturing at Vipin and shaking his head. Rao goes flat. Never discussed. Vipin files the man's face. Never followed up."
+      grounding_physical: "MCA office ceiling fan wobbling on loose bolts. Files tied with string on every surface. The smell of old paper. Vipin counts 231 files."
+    beta_score: 8
     inconsistencies_detected: none
 
   chapter-05:
