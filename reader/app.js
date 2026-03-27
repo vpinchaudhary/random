@@ -1,7 +1,9 @@
 // Story Reader App
-// Reads from stories/ directory via a small local server
+// Works in two modes:
+// 1. Static (GitHub Pages): reads stories.json manifest + raw .md files
+// 2. Local server: reads from /api/ endpoints
 
-const API = '';
+const isStatic = !window.location.port || window.location.protocol === 'file:';
 let state = {
   view: 'stories', // stories | chapters | reading
   story: null,
@@ -65,7 +67,9 @@ async function renderStories() {
   document.getElementById('nav-footer').classList.add('hidden');
 
   try {
-    const stories = await fetchJSON(`${API}/api/stories`);
+    const stories = isStatic
+      ? await fetchJSON('stories.json')
+      : await fetchJSON('/api/stories');
     state.stories = stories;
 
     if (stories.length === 0) {
@@ -110,7 +114,8 @@ async function openStory(name) {
   document.getElementById('nav-footer').classList.add('hidden');
 
   try {
-    const story = state.stories.find(s => s.name === name) || await fetchJSON(`${API}/api/stories/${name}`);
+    const story = state.stories.find(s => s.name === name) ||
+      (isStatic ? null : await fetchJSON(`/api/stories/${name}`));
     // Show chapters first, then other files
     const progress = getProgress(name);
     const chapters = story.chapters;
@@ -182,7 +187,17 @@ async function openChapter(storyName, chapterFile) {
   updateNavButtons();
 
   try {
-    const text = await fetchText(`${API}/api/stories/${storyName}/${chapterFile}`);
+    // In static mode, try chapters/ subdir first, then root
+    let text;
+    if (isStatic) {
+      try {
+        text = await fetchText(`stories/${storyName}/chapters/${chapterFile}`);
+      } catch {
+        text = await fetchText(`stories/${storyName}/${chapterFile}`);
+      }
+    } else {
+      text = await fetchText(`/api/stories/${storyName}/${chapterFile}`);
+    }
     const html = marked.parse(text);
     document.getElementById('content').innerHTML = `<div class="chapter-content">${html}</div>`;
     window.scrollTo(0, 0);
