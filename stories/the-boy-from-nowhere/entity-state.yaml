@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-11"
+last_updated: "chapter-12"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,87 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-12:
+    title: "First Blood"
+    timeline: "April 2008 (age 18) — IPL Season 1, DY Patil Stadium, Navi Mumbai"
+    events:
+      - "Night before debut: jersey #47 hung on wardrobe door. Arithmetic — 4+7=11, eleven players in a cricket team. Decides this is not significant. Ceiling tiles: 48 (counted again, unchanged). Still sleeping on top of covers."
+      - "Rao phone call at 9 PM: 'I'm in the playing XI. Tomorrow.' / 'Which ground?' / 'DY Patil.' / Rao gives pitch analysis (cricket as congratulations). 'Leather ball still comes out of the bowler's hand. Same as it always has.' Vipin hangs up steadiest in three weeks."
+      - "DY Patil warmup: 9 advertising boards counted at boundary section (4 empty, peeling paint corner on one). Three clean catches taken."
+      - "MI won toss, batted. Vipin batting at 7 — did not bat. Sachin made 62. MI posted 183/5."
+      - "First fielding touch: third man, 3rd ball of 1st over. Mis-hit rolling to boundary. Vipin moves early, scoops clean, flat hard throw direct to keeper's gloves over stumps. Batsmen run 3, saved 1. Keeper nods. Filed under: baseline."
+      - "12th over: captain gives ball. 'Two overs. Bowl your lengths.' 22-meter run-up, recalibrated over 3 weeks in nets."
+      - "Ball 1: 138 kph, outside off. Batsman (Kenyan-born Zimbabwean international, 80 ODIs) plays and misses. Late swing. Dot."
+      - "Ball 2: 140 kph, outside edge. Regulation slip catch, chest height. Slip (senior fielder, international experience) drops it. Vipin: face neutral. 'Control what you control.' The next ball is a decision."
+      - "Ball 3: Batsman emboldened by dropped chance, shuffles forward. Vipin reads the shuffle pre-delivery — weight going to drive. Unplanned: bowls bouncer. 143 kph, fastest ball of match. Batsman's weight committed forward, bat windmills. Top edge. Steep angle, low trajectory, traveling toward mid-on. Vipin already running in follow-through. Four-meter dive. Left hand adjusted inward in final quarter-second. Fingers close around ball 2cm from ground. Held."
+      - "Umpire's finger. Crowd erupts. Harbhajan lifts Vipin off the ground (bear hug). First time off ground since age 4. Alarming, then not. Harbhajan laughing loud enough to cut through crowd roar. Group pile-in. Sachin at edge — grips Vipin's forearm once, keeps going."
+      - "Catastrophizing flash during celebration: part of him that has run calculations since age 7 assigns the happiness an expiration date. He doesn't argue. Doesn't look at it."
+      - "Rest of over: adrenaline full toss (hip-high), batsman hits for four. First IPL boundary conceded. Filed: correctable. Over figures: 1-12."
+      - "16th over (second over): 0-8. Dot, single, dot, dot, two, dot. 3 beaten bats. Rhythm after adrenaline metabolised. Final: 2-0-20-1."
+      - "MI win by 31 runs."
+      - "Dressing room: antiseptic soap smell from physio's kit — flat chemical-pink, same as every institutional space since age 6. Doesn't look. Sits in corner with match ball."
+      - "Match ball saved by keeper, pressed into Vipin's hands. First-wicket ball."
+      - "Captain post-match: 'Good team effort. Young Chaudhary, solid first outing.' Twelve words. Different currency in that room."
+      - "Sachin: hand on shoulder, brief, keeps going."
+      - "Team dinner: slip fielder tries to apologize for dropped catch. Vipin moves first, picks up water glass, keeps voice easy. 'Slip saab, don't worry. Your hands are older than my entire career. You've held twice as many as you've dropped. One for me.' Table laughs. Moment defused. Filed: humor working two jobs — armor + team currency."
+      - "Hotel corridor: hospitality suite TV showing highlight package. Watches own body from outside — bouncer, top edge, dive, catch. On television it looks deliberate. Both versions are true."
+      - "Returns to room. Match ball in kit bag. Lies on bed. Pulls duvet over himself. Under the covers — FIRST TIME since moving into the hotel."
+      - "'Tomorrow the cricket internet would discover his name. He didn't know this yet.' Asleep before eleven."
+    state_changes:
+      vipin:
+        location: "DY Patil Stadium → hotel, Navi Mumbai (post-match)"
+        age: "18 (birthday approximately 2 weeks prior — nobody noted it, he didn't tell anyone)"
+        ipl_debut: "COMPLETED — 2-0-20-1. One wicket: caught-and-bowled off own bouncer."
+        emotional_state: "Earned/steady. First IPL wicket secured. Catastrophizing flash acknowledged and set aside."
+        sleep_habit: "FIRST UNDER COVERS — physical marker of beginning to belong"
+        objects_added: "First-wicket match ball (in kit bag)"
+        objects_in_kit: ["rubber ball", "MI practice ball (pocketed from nets Ch11)", "match ball (first wicket, April 2008)", "U-19 cap", "the paper ('I want them to say my name')"]
+        knowledge_gained: "Slip catch exists and can be dropped. Process remains. Captain's 12 words = currency in new room."
+      rao:
+        last_contact: "Phone call night before debut. Gave cricket information as congratulations."
+        knowledge_state: "Knows Vipin is in playing XI. Has not yet seen debut result."
+      sachin:
+        interactions_with_vipin:
+          - "chapter-11: nod at team meeting"
+          - "chapter-11: 'Good hands, young man.' — 4 words"
+          - "chapter-12: grips forearm once at edge of celebration group"
+          - "chapter-12: hand on shoulder passing to showers"
+        trust: 3
+        dynamic: "Sparse acknowledgment; each gesture carefully metered. Distant mentor forming."
+      harbhajan:
+        last_interaction: "Bear hug at wicket celebration — off ground, laughing"
+        trust: 5
+        dynamic: "Warm, physical ally. Vipin filed as 'potential ally' in Ch11; now confirmed."
+    objects:
+      first_wicket_ball:
+        description: "Scuffed, grass-stained, one side losing sheen. April 2008 IPL match ball."
+        holder: "vipin"
+        location: "kit bag"
+        status: "intact"
+        chekhov: true
+        note: "First wicket object — keeper saved it deliberately. Joins the collection."
+    timeline_update:
+      chapter: 12
+      time: "April 2008 — IPL Season 1 opener"
+      events:
+        - "Vipin Chaudhary IPL debut: 2-0-20-1. MI win by 31 runs."
+        - "First-wicket ball saved. Under the covers first time."
+        - "Cricket internet about to discover the orphan with the surname."
+    threads_developed:
+      - ipl_debut (RESOLVED — debut complete. Caught-and-bowled off own bouncer. 2-0-20-1.)
+      - sachin_thread (DEVELOPING — second acknowledgment. Forearm grip at celebration. Building slowly.)
+      - harbhajan_alliance (CONFIRMED — bear hug. Filed as warm ally.)
+      - sleep_habit (MILESTONE — under covers first time. Belonging beginning.)
+      - the_collection (GROWING — match ball added to kit. Now: rubber ball + practice ball + match ball.)
+      - internet_discovery (PLANTED — 'tomorrow the cricket internet would discover his name.' Act 2A acceleration begins.)
+      - catastrophizing_distortion (FIRST ACKNOWLEDGED — assigns expiration date to happiness. Doesn't argue. Functional armor.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "9 advertising boards counted during warmup: 4 empty, 3 mobile phones, 1 insurance, 1 paint (peeling at corner). Between second and third catch. Nobody sees this."
+      imperfect_moment: "Adrenaline full toss (hip-high) on 5th ball of first over. Batsman hits four. Filed under: correctable. First IPL boundary conceded after first IPL wicket — same over."
+      unresolved_micro: "The slip fielder apologized anyway, after. Vipin's line defused the moment. But the senior player's private accounting — gratitude, embarrassment — never resolved. Filed."
+      grounding_physical: "DY Patil outfield: specific shade of prepared grass, soft under spikes. Floodlights make MI blue more intense and the red ball more vivid. Physical specificity of the delivered wicket — 2cm from ground, fingers close."
     inconsistencies_detected: none
 
   chapter-11:
