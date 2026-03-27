@@ -86,6 +86,18 @@ What does it mean to be left — not abandoned, but *placed* — by someone who 
 - **Strange personal detail (anti-AI)**: The pandit has a habit of talking to the temple's resident cat — full conversations, one-sided, about philosophy. Vipin picks this up. Years later, he'll talk to animals when no one's watching.
 - **Grounding physical detail**: The specific pink soap in the temple bathroom — institutional, cheap, the smell that will haunt him in five-star hotel rooms decades later.
 
+**Life Texture: The Festival Day (1995, age 5)** (~400 words)
+- Ganesh Chaturthi. The temple is packed — more people than Vipin has ever seen in one place. The pandit is busy with rituals, so Vipin is left to his own devices. He sits behind the donation box and counts the coins people drop in. Not stealing — counting. He develops a system: he can tell the denomination by the sound it makes hitting the pile. A one-rupee coin is a flat *tak*. A two-rupee coin rings slightly. A five-rupee coin is heavier, a dull *thud*. He gets so good at it he starts predicting amounts before looking: "Seven rupees." He's right. "Twelve." Right again. The pandit finds him there three hours later, surrounded by nothing, having counted over four hundred coins by sound alone.
+- A woman gives Vipin a laddu — festival sweet, too big for his hands. He eats half, saves half for the pandit. The saving is instinct. When you have one person, you share. The pandit eats his half that night and says nothing, but his hand rests on Vipin's head for a moment longer than usual during evening prayers.
+- **Sensory anchor**: The smell of dissolving Ganesh idols in the gutter outside — plaster, paint, and river water mixed into something that smells like faith decomposing. Vipin thinks it smells like wet chalk.
+
+**Life Texture: EXTERNAL POV — The Pandit's Confession (~300 words)**
+- Late at night, the pandit sits alone in the temple after Vipin sleeps. He talks to the cat (his usual confidant). But tonight he talks about the boy.
+- "He's not mine. You know that. I know that. But who else will take him? The system? The orphanage in Andheri with forty boys and three rooms?" The cat blinks. "He catches things before they fall. Did you see today? The brass diya — he was across the room. He moved like — I don't know. Like he knew it would fall before it fell."
+- The pandit looks toward the sleeping boy. "Someone left gold around his neck. Gold, not brass. That means something. Someone loved him and couldn't keep him. That's the worst kind of love — the kind that lets go."
+- He feeds the cat a piece of roti. "I won't be here forever. My chest hurts when I climb the stairs now. Don't tell him." The cat eats the roti. Doesn't tell.
+- **Period marker**: The pandit's small transistor radio plays All India Radio's late-night bulletin in the background — 1995, so the news mentions the Bombay Stock Exchange, maybe a cricket score from a Ranji match. The world hums outside while a dying man worries about a boy who isn't his.
+
 **Scene 3: The Last Good Day (1997, age 7)** (~1,200 words)
 - A specific day. Maybe monsoon. The pandit is slower now — Vipin notices but doesn't understand.
 - They share a meal. The pandit tells him something — not a grand speech, something small and specific that Vipin will carry forever. Maybe about the pendant. Maybe about his name. Maybe just about how to make proper chai.
