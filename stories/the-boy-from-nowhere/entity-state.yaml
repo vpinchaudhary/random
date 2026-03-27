@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-13"
+last_updated: "chapter-14"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,90 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-14:
+    title: "New Money"
+    timeline: "May–June 2008 (age 18) — post-IPL Season 1"
+    events:
+      - "IPL Season 1 ends. Rajasthan Royals win (Shane Warne). MI don't make final. Vipin final stats: 8 matches, 234 runs at SR 148, 9 wickets at economy 7.2. Top-5 combined debutant."
+      - "First bank statement arrives. Paper form. Number larger than pandit's lifetime earnings, Bhai's best month, groundskeeper's decade pay. Hand in 'precursor to trembling.' Catastrophizing: 'filed under: temporary. Not a permanent condition.' Doesn't engage."
+      - "Vipin buys Rao a top-of-the-line SG bat in cloth case. Carries it on the bus. Gives it at Shivaji Park: 'For the nets.' Rao runs thumb along shoulder, glasses slip, doesn't fix them. 'Good willow.' Walks back to nets. Both walk away before moment gets bigger."
+      - "Bhai appears outside MI hotel. Same Bhai — older, heavier, flat eyes, clean kurta (dressed for this). They walk on neutral streets. Bhai congratulates him on season, article. Then: 'opportunity' — a club in South Mumbai, music venue, needs investor and face. Nothing illegal technically."
+      - "Vipin's two-part internal conflict: street kid (owes Bhai, fed and protected him) vs. cricketer (sees the trap — one piece of paper leads to another). Lets Bhai finish. 'I can't, Bhai. Quiet. No joke.'"
+      - "Bhai: 'I'm not asking for much. Just your name.' Pause (smokes). 'On a piece of paper. You don't need to do anything.' Vipin: 'I know what it means to put my name on something now. That's why I can't.'"
+      - "Bhai: 'Remember, Chaudhary. I knew you before anyone knew your name. Don't forget the people who were there before the money.' SECOND ASSERTION OF CLAIM (Ch4 = first). Vipin: 'I remember. I don't forget.' Walks back to hotel."
+      - "Hotel lobby: staff asks if he needs anything. Vipin snaps ('No' — too sharp). Walks three steps. Returns. Awkward apology: 'Sorry. That was — sorry. I had a hard afternoon. Not your fault.' Staff: 'No problem, sir.' Polite professional equanimity. Moment worse than if he hadn't apologized. Carries it for days."
+      - "Endorsement meetings: 5 sessions in BKC. Signs 2 deals (sports drink, clothing). Declines protein supplement (won't say he uses it — doesn't) and insurance company (resilience-narrative framing)."
+      - "Ad shoot in Andheri studio: told to look 'fierce but approachable.' Counts 32 light bulbs in makeup room. Photographer spends hour trying to get natural smile. Final photo acceptable, eyes flat."
+      - "Deepak the lighting assistant: same age, working-class Mumbai. Praises IPL innings, shows YouTube grip modification for off-spin. Vipin analyzes it technically ('you'd lose carry — ball would skid through'). Gets Deepak's number from production coordinator. Never calls it. Remembers the name: Deepak."
+      - "Returns to Shivaji Park end of month. Bus (14 stops). Storage room: cot, linseed oil, 23 cracks in ceiling. Unchanged."
+      - "Puts money envelope on groundskeeper's table. Groundskeeper shakes head, pushes it back. 'Tere paisa nahi chahiye. Tu kuch bana, woh kaafi hai.' Vipin: 'Please, uncle.' Groundskeeper takes it, doesn't count, pockets it, buttons pocket, pats it once. Goes back to pitch. 'Khana khaya?' / 'Haan, uncle.' / 'Good.' Sits in storage room an hour."
+      - "Discovers R.S. 1987 scratched in concrete behind cot headboard. Old letters, faded. Traces them with fingertip. Hopes R.S. made it. No way to know."
+      - "ATM receipt from hotel lobby machine added to wallet. To be placed in drawer. Collection now 6 items: newspaper clipping, 'I want them to say my name' paper, MI practice ball, first-wicket match ball, anonymous letter, ATM receipt."
+    state_changes:
+      vipin:
+        location: "Mumbai (post-IPL, between seasons)"
+        financial_status: "First IPL payment received. First bank account. First wallet."
+        objects_acquired: ["leather wallet (brown, 14cm x 9cm)", "ATM receipt (to drawer)"]
+        objects_given: ["SG bat in cloth case → Rao (gift, no ceremony)"]
+        ipl_final_stats: "8 matches, 234 runs SR 148, 9 wickets economy 7.2"
+        endorsements_signed: ["sports drink", "clothing brand"]
+        endorsements_declined: ["protein supplement (won't lie about use)", "insurance (resilience-narrative framing)"]
+        bhai_status: "Said no to Bhai's first direct ask. Bhai accepted but asserted claim again. Vipin knows it's not over."
+        emotional_state: "Uncomfortable with money's weight. Clear on Bhai. Carries hotel-staff moment for days."
+        catastrophizing_note: "Bank statement → 'filed under: temporary. Not a permanent condition.' Distortion present but managed."
+      rao:
+        last_interaction: "Received SG bat. 'Good willow.' Walked back to nets."
+        object_received: "Top-of-the-line SG bat in cloth case — first gift of this kind from Vipin"
+        emotional_state: "Glasses slipped off forehead and weren't fixed. His equivalent of tears."
+      bhai:
+        last_interaction: "Asked for Vipin's name on a club investment. Refused. Reasserted claim. Accepted refusal without pushing — for now."
+        claim_status: "SECOND ASSERTION — 'I knew you before anyone knew your name.' Ch4 = first. This was expected. A third will come."
+        plan: "Patient. Bhai always waits."
+        trust_with_vipin: 3
+      keshav_groundskeeper:
+        last_interaction: "Received money envelope (didn't count, pocketed). 'Khana khaya?' First-ever domestic question to Vipin."
+        emotional_state: "Unchanged externally. 'Khana khaya?' is the most he has ever opened."
+    objects:
+      atm_receipt:
+        description: "Thermal paper, fading. First bank statement from first IPL payment."
+        holder: "vipin — wallet, to be moved to drawer"
+        status: "folded"
+        chekhov: false
+        note: "Joins the collection. Museum of his own life."
+      rao_sg_bat:
+        description: "Top-of-the-line SG bat in cloth case. Vipin's first purchase for someone else."
+        holder: "rao"
+        location: "Shivaji Park, equipment shelf along boundary wall"
+        status: "intact"
+        chekhov: false
+      rs_1987_inscription:
+        description: "Letters scratched in concrete behind storage room cot headboard. 'R.S. 1987.' Previous occupant, ~21 years earlier."
+        location: "Storage room, Shivaji Park"
+        holder: "n/a — fixed to wall"
+        status: "faded but legible"
+        chekhov: true
+        note: "Someone was here before. Planted for thematic resonance — the cycle of boys who needed this room. Will echo when Vipin eventually gives a boy the same chance."
+    timeline_update:
+      chapter: 14
+      time: "May–June 2008 — post-IPL Season 1"
+      events:
+        - "First money. First gift (Rao's bat). Bhai's first direct ask (refused). Endorsements begin."
+        - "Storage room visited. R.S. 1987 discovered. Groundskeeper accepts money."
+    threads_developed:
+      - bhai_claim (ESCALATING — second assertion. 'I knew you before anyone knew your name.' Next escalation: Ch20/25 — spot-fixing approach.)
+      - money_identity (INTRODUCED — Vipin's relationship with money: generous, uncomfortable, keeps receipts in drawer)
+      - the_collection (COMPLETE for Act 2A — 6 items in drawer now. Museum of his own life.)
+      - rs_1987 (PLANTED — thematic Chekhov. Cycle of boys in the room. Payoff when Vipin helps someone.)
+      - groundskeeper_mini_arc (CONTINUING — money accepted, 'Khana khaya?' is new territory for him. Still pure.)
+      - sponsor_world (INTRODUCED — machinery of fame. Vipin doesn't fit naturally. Eyes flat in the photo.)
+      - deepak_memory (PLANTED — minor. Gets number, never calls, remembers name. Pattern: he remembers everyone from 'before'.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Deepak the lighting assistant. Got his number from the production coordinator. Never called it. Remembered the name."
+      imperfect_moment: "Snapped at hotel staff after Bhai walk. Awkward apology made it worse. Carries it for days."
+      unresolved_micro: "R.S. 1987. No resolution. No meaning assigned. Just: someone was here."
+      grounding_physical: "Wallet dimensions (14cm x 9cm, capacity 8 cards, currently 2). ATM receipt thermal paper already fading. 23 ceiling cracks in storage room, same as always."
     inconsistencies_detected: none
 
   chapter-13:
