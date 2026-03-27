@@ -234,6 +234,59 @@ Rising. Frustration and the ceiling create internal tension. The fork with Bhai 
 
 ---
 
+### Interlude A: The Ripple
+
+**Timeline**: 2001-2002 (between Ch 3 and Ch 4)
+**POV**: Multiple external — Vipin is the subject but never present
+**Word Target**: ~3,000 words
+
+This interlude sits at the boundary between Vipin's street world and the cricket world he's about to enter. It shows how his existence registers — or doesn't — in the lives of people around him before anyone important notices.
+
+#### Scene 1: Bhai's Rooftop (2001, evening)
+- Bhai sits on his usual rooftop in Dongri, smoking a Gold Flake, watching the gully below. Two of his boys — older teenagers, his lieutenants — are talking about a delivery route to Andheri. Something Vipin doesn't need to know about.
+- One of them asks: "That temple kid — he's getting big. Twelve now? Put him on collections?"
+- Bhai doesn't answer immediately. Takes a drag. Below, in the gully, Vipin is playing cricket against a wall by himself. Hitting the same spot, over and over. The ball comes back off the wall and Vipin catches it without looking — muscle memory, something mechanical and beautiful.
+- "No," Bhai says. "Not that one."
+- "Why? He's smart. Doesn't ask questions."
+- "Exactly why not. He's worth more than collections." Bhai stubs the cigarette on the parapet wall. "Some things you don't use up. You invest."
+- This isn't kindness. Bhai doesn't operate on kindness. He operates on value. He's seen enough of Mumbai to know that what Vipin does with a cricket ball isn't normal. Doesn't know what to do with this information yet. Files it the way he files everything — as leverage, for later.
+- The Kargil War is on the radio downstairs — updates between Bollywood songs. Bhai's boys have opinions about Pakistan. Bhai has opinions about nothing that doesn't affect his postal code.
+- **What the reader learns**: Bhai is strategic, not sentimental. His "protection" of Vipin is investment, not love. This reframes every kind thing Bhai has done and poisons every kind thing he'll do.
+
+#### Scene 2: The Dhaba (2002, evening)
+- Munna bhaiya's roadside dhaba where Vipin washes dishes for food. A specific evening. Vipin sits on an upturned bucket behind the kitchen, eating leftover dal-chawal, plate balanced on his knees.
+- A customer's kid — clean clothes, school bag, maybe eight — is eating at the front with his parents. Complaining. Doesn't want roti, wants pizza. Mother coaxing. Father ignoring. The kid pushes his plate away. Half a roti, untouched dal.
+- Vipin watches from behind the partition. Doesn't feel sorry for himself — not how his brain works. Feels *confused*. The math doesn't add up. That kid has food he doesn't want. Vipin wants food he doesn't have. Obvious equation, nobody solving it.
+- Munna bhaiya sees him staring: "Duniya aise hi chalti hai, chhotu." (The world just works like that, kid.) Not wisdom — resignation. Vipin hears the difference but doesn't have the words for it yet.
+- This isn't a life-changing moment. This is a Tuesday. But it's the texture of Vipin's daily existence before cricket pulls him out — the economy of hunger and the arithmetic of unfairness.
+- **Sensory anchor**: Mustard oil hitting a hot tawa, mixed with dishwater soap and the kerosene lamp that lights the kitchen during the nightly power cut (7-8 PM, reliable as prayer).
+
+#### Scene 3: The Maidan Bowler Goes Home (2002, night)
+- The club cricketer who bowled to Vipin at the money match goes home. Flat in Goregaon. His wife Anita asks how the match went.
+- "Some kid showed up. Maybe twelve. Street kid, taped-up bat."
+- "And?"
+- "He hit me for sixty-three in eight overs."
+- Anita laughs. "You got hit by a child?"
+- He doesn't laugh. Sits with his chai. He's been playing club cricket for fifteen years. Bowled to Ranji players in nets. Knows what talent looks like. Never seen what he saw today. The kid didn't have a stance. Didn't have technique. Had a bat held together with electrical tape. And played a cover drive the bowler will think about for the rest of his life.
+- He doesn't do anything with this information. Doesn't call a coach. Doesn't tell anyone important. He's not a discoverer or a mentor. Just a man who bowled to something extraordinary and went home to his chai. Some people witness greatness and it changes them. Some people just witness it.
+- His three-year-old daughter is asleep on the sofa. He carries her to bed. Thinks about nothing except that his shoulder hurts from bowling and he has work at the bank tomorrow. The cover drive fades into the background of a regular life.
+- **Sensory anchor**: The callus on his middle finger where the seam grip sits, throbbing. His proof he's a real cricketer. The kid who hit him for sixty-three didn't have calluses. His hands were just fast.
+
+#### Scene 4: The Scorer's Ledger (2002)
+- A brief scene. An MCA age-group tournament. Vipin isn't in it — he's not in the system yet. But the scorer, Dilip Narayan, 59, has been recording Mumbai cricket for twenty-eight years. A colleague mentions a street kid destroying maidan cricketers in money matches.
+- "Chaudhary something. Hits sixes for twenty-rupee bets."
+- Dilip doesn't write it down. Not his jurisdiction. But he files the name the way he files every cricket name that passes through Mumbai's ecosystem. Most are forgotten. Some aren't.
+- He goes home on the 7:40 local from Churchgate to Borivali. Stands the whole way. His wife Suman is watching Kyunki Saas Bhi Kabhi Bahu Thi. He changes into his lungi. During the ad break he starts to say something, then doesn't. The name will come back to him three years later when a boy named Chaudhary walks into a U-15 tournament and breaks every record Dilip has in his ledger. By then, Dilip won't remember this evening at all. That's how talent works in Mumbai — it arrives before anyone notices, and nobody believes they missed it.
+- **What the reader learns**: The system exists alongside Vipin for years without absorbing him. He's not invisible — he's just in the wrong part of the city, playing the wrong kind of cricket, for the wrong kind of people.
+
+#### Interlude A Notes
+- No Vipin POV. He's the gravitational center but never the narrator.
+- Tone: quiet, observational, slightly melancholic. The world processes him without processing him.
+- These scenes don't advance the plot. They show the ecosystem Vipin exists in — a city full of people who see fragments of something without understanding the whole.
+- The interlude ends. Chapter 4 begins. Rao walks into the picture. Everything changes.
+
+---
+
 ### Chapter 4: The Man at the Boundary
 
 **Timeline**: 2003 (age 13)
