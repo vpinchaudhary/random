@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-14"
+last_updated: "chapter-15"
 
 chapter_log:
   chapter-01:
@@ -155,6 +155,77 @@ chapter_log:
       imperfect_moment: "Snapped at hotel staff after Bhai walk. Awkward apology made it worse. Carries it for days."
       unresolved_micro: "R.S. 1987. No resolution. No meaning assigned. Just: someone was here."
       grounding_physical: "Wallet dimensions (14cm x 9cm, capacity 8 cards, currently 2). ATM receipt thermal paper already fading. 23 ceiling cracks in storage room, same as always."
+    inconsistencies_detected: none
+
+  chapter-15:
+    title: "26/11"
+    timeline: "July–November 2008 (age 18) — off-season, Ranji Trophy, Mumbai attacks"
+    events:
+      - "Vipin moves into first personal flat: Dadar, 11-bedroom, ~400 sq ft furnished. Never cooked. Fills four hundred of eleven hundred square feet. Counted ceiling tiles: 47."
+      - "Off-season: Ranji Trophy regular squad. Bats at 6, bowls first change. Conversion problem: gets to 38-41 but can't convert to 50. Rao diagnosis: 'Your impatience is faster than the ball.'"
+      - "India selection drumbeat: name in cricket columns as 'fringe player who could force his way in.' BCCI medical team contacted twice. Doesn't say India aloud — afraid of claiming it."
+      - "Strange personal detail: watches MasterChef Australia on Tuesday and Thursday evenings. Never cooks. Finds precision of measurements calming. Has opinions about vegetarian options in cooking competitions that he never shares."
+      - "November 26, 2008: Ravi calls from Bangalore. 'Turn on. The news.' Mumbai attacks begin. CST, Taj, Leopold, Nariman House, Oberoi, Cama Hospital. Vipin watches through the night alone."
+      - "Memory trigger: CST wide shot on TV → sleeping on Platform 2 at age 11, chai stall owner who gave free chai without asking why."
+      - "Counting during crisis: tracks news ticker items obsessively. 8 items per cycle, then 6, then 9 (confirmed vs. unconfirmed). Counted 11 cycles before noticing. Stopped. Started again without deciding to."
+      - "Called Rao (safe). Called groundskeeper — 12 rings, no answer, called every 20 mins for 2 hours. Groundskeeper was asleep. Safe but unreachable. Vipin panics privately."
+      - "Thought about calling Bhai. Did not call. Bhai's territory far from attacks. No useful call to be made. Filed without acting."
+      - "Pendant: gripped until chain dug into neck. Pendant edge cut thin line across palm. Not deep. Noticed it at some point."
+      - "Unsent text to teammate: 'Don't pray. Show up.' Typed it. Looked at it 4 seconds. Deleted. Sent: 'Thanks, bhai.' Rage at performance of grief — contained."
+      - "Three-day vigil: TV in dark flat. Ate once on 26th, not at all 27th. Ravi called twice a day, both saying approximately nothing but staying on line."
+      - "Rao second-day call: 'They were guests. The city let them in.' / 'Make it a fortress. It stops being Mumbai.' (Left unfinished.) Vipin: 'It was always going to happen. The city is open because it has to be.' Cricket talk for 40 minutes afterward — using the language they had."
+      - "November 29: attacks end. 166 dead. Vipin slept 12 hours."
+      - "Shivaji Park aftermath: Rao at nets. India announcement = January. 'Your grip. Change it.' / 'I will.' Rao's cold chai forgotten during Vipin watching — equivalent of a compliment."
+      - "Reporter quote request: 'Mumbai's cricketers react to 26/11.' Vipin: 'Mumbai is strong. We'll get through this.' Published, forgotten in a week."
+      - "What he didn't say: the 'spirit of Mumbai' critique — continuation vs. resilience. The difference between resilience (choice implied) and not-dying (no choice). Didn't say it because context requires the orphan narrative. Keeps it private."
+      - "Anonymous donation to 26/11 victims fund: significant amount (large portion of IPL earnings). Name field: Shastri Venkataraman (the pandit's full name). No trace back to Vipin. Pandit's values enacted through cricket money."
+      - "Ravi call: IPL Season 2 moving to South Africa. April. Neither has been outside India. 'Should be interesting.'"
+      - "Final exchange: Vipin almost says something real to Ravi about belonging to the city now. Says 'Nothing' instead. Ravi says 'Yeah.' They talk about cricket for 40 minutes."
+    state_changes:
+      vipin:
+        location: "Dadar flat (personal, first owned space)"
+        age: 18
+        new_living_situation: "First personal flat. 1100 sq ft, furnishing minimal. 47 ceiling tiles."
+        ranji_status: "Regular squad member. Conversion problem at 38-41 being worked on with Rao."
+        india_selection: "On radar. January squad announcement coming. Won't say it aloud."
+        emotional_state: "26/11 processed in solitude. Catastrophizing absorbed into facts. City-belonging deepened."
+        pendant_note: "Cut palm during vigil. Chain in neck. The pendant left its mark on him — noted."
+        pandit_connection: "Donation in pandit's name: Shastri Venkataraman. Most temple-kid thing since leaving temple."
+        donation: "Anonymous. Significant. IPL earnings. Won't be known."
+        knowledge_gained: "Now knows difference between surviving a city and belonging to it."
+      rao:
+        last_interaction: "Shivaji Park aftermath. India announcement January. 'Your grip. Change it.' The functional conversation is also the emotional one."
+        cold_chai_moment: "Forgot chai again during Vipin practice. His equivalent of 'I'm proud of you.'"
+      groundskeeper:
+        last_interaction: "26/11 vigil: called 12 times over 2 hours. Safe. Was asleep. Vipin realizes: doesn't have his address."
+        knowledge_gap: "Vipin still doesn't know where the groundskeeper lives. 12 years of knowing someone, no address."
+      bhai:
+        26_11_note: "Crossed Vipin's mind during attacks. Not called. Territory far from attack zones."
+    objects:
+      pandit_donation:
+        description: "Anonymous bank transfer to 26/11 victims fund. Name: Shastri Venkataraman. Large amount."
+        holder: "n/a — transferred"
+        chekhov: true
+        note: "Planted for future revelation when someone finds the donation record. The pandit's name will surface at an unexpected moment."
+    timeline_update:
+      chapter: 15
+      time: "July–November 2008"
+      events:
+        - "Dadar flat. Off-season Ranji. India selection building."
+        - "26/11 attacks. Three-day vigil alone. 166 dead."
+        - "IPL Season 2 to South Africa confirmed."
+    threads_developed:
+      - india_selection (ESCALATING — January announcement. Won't claim it aloud.)
+      - ranji_conversion (INTRODUCED — 38-41 problem. Rao: impatience, not pace)
+      - south_africa (PLANTED — Ch16 setup. First time outside India.)
+      - pandit_legacy (DEEPENED — donation in pandit's name. Temple-kid values survive IPL money.)
+      - city_belonging (TURNED — not just 'survived Mumbai.' Belongs to it now. 26/11 is the turning.)
+      - groundskeeper_connection (DEEPENED — Vipin doesn't have his address. Limitation of the relationship noted.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "MasterChef Australia on Tuesday/Thursday evenings. Never cooks. Has opinions about vegetarian options in cooking competitions."
+      imperfect_moment: "Unsent text 'Don't pray. Show up.' Deleted. Sent 'Thanks, bhai.' Contained rage he's not sure is fair."
+      unresolved_micro: "Anonymous donation in pandit's name. Planted as future Chekhov — the name will surface."
+      grounding_physical: "Pendant chain dug into neck. Thin line cut across palm. TV glow in dark flat. Ceiling tiles: 47."
     inconsistencies_detected: none
 
   chapter-13:
