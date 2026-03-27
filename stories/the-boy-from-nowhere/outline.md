@@ -570,6 +570,18 @@ The birth certificate clock is ticking. Vipin needs to become real on paper. And
 - **Chaudhary (the name as title)**: His surname becomes his identifier in cricket circles. Identity forming through sport.
 - **Vegetarian Identity**: Settled as character texture, not plot point. It's just who he is.
 
+#### Life Texture Moments
+
+**Life Texture 1: The MP3 Player** (between Scene 1 and Scene 2)
+- Tournament over for the day. Ravi and Vipin share a room at the MCA hostel. Ravi has acquired a Chinese-knockoff MP3 player — silver, rectangular, the screen shows green text on a black background. Holds maybe sixty songs. Ravi is trying to explain the concept of a playlist to Vipin. Vipin doesn't understand why you'd organize songs. "Just press play." Ravi is offended by this. He has curated a sequence: Eminem first (because aggression before a match), then Atif Aslam (for when they win), then Himesh Reshammiya (ironically, Ravi insists, though he knows every word). Vipin puts in one earbud. Listens. His foot taps — just the left one, always the left. "This is the angry American?" "That's Eminem, Chaudhary. Show some respect." Vipin counts the songs on the screen. Sixty-three. He'll remember this number for no reason. They fall asleep with the hostel fan clicking on every third rotation and the MP3 player still glowing between their pillows.
+- **Sensory anchor**: The click of the hostel ceiling fan — a rhythmic skip on every third rotation, like a metronome with a limp.
+- **Period marker**: 2005 — knockoff MP3 players flooding Mumbai markets, Himesh Reshammiya's nasal singing inescapable on every radio, Eminem's Encore era.
+
+**Life Texture 2: The Scorer Goes Home** (External POV, after Scene 4)
+- Dilip Narayan, 62, has been scoring Mumbai age-group cricket for thirty-one years. He takes the 7:40 PM local from Churchgate to Borivali, standing the whole way because his knees won't let him sit on the low seats anymore. His wife, Suman, is watching Kyunki Saas Bhi Kabhi Bahu Thi when he gets home. He changes into his night clothes — the same faded blue checked lungi he's worn for a decade — and sits beside her. During the ad break, he says: "I saw something today." Suman doesn't look away from the screen. "Hmm?" "A boy. Fifteen years old. Scored 84 off 52 and bowled 133." Suman says nothing. She's heard him say this before — about Tendulkar, about Kambli, about a dozen boys who became nothing. "This one's different," Dilip says. He opens his scoring ledger on the dining table — the pages smell like old paper and the blue ink he insists on using, even though the MCA switched to digital scoring for Ranji last year. He's filled three pages just with this boy's statistics across two tournaments. Runs his finger down the columns. The ad break ends. Suman turns back to her show. Dilip sits with his ledger for another twenty minutes, adding up numbers that don't need adding. He already knows the totals. He just likes looking at them.
+- **Sensory anchor**: The smell of old ledger paper and blue fountain-pen ink — an analog record of something digital systems will never quite capture.
+- **Period marker**: 2006 — Kyunki Saas Bhi Kabhi Bahu Thi still dominating Indian television, MCA transitioning to digital scoring but old-timers resisting.
+
 #### Tension Level: 0.55
 Elevated. The inquiry is real institutional danger. The anger on the pitch raises behavioral stakes. The unfamiliar man adds mystery tension.
 
