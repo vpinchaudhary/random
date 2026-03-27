@@ -24,7 +24,7 @@
 | 2006 | 16 | U-17 dominance. MCA inquiry about registration. Body fully filled out. | Ch 7 |
 | late 2006 | 16 | Birth certificate issued. Father: Unknown. Mother: Unknown. | Ch 8 |
 | 2007 | 17 | U-19 cricket. India wins T20 World Cup. IPL announced. Scouts arrive. | Ch 8-9 |
-| Jan 24, 2008 | 17 | IPL Player Auction. Sold to Mumbai Indians for $100,000. | Ch 10 |
+| Feb 20, 2008 | 17 | IPL Player Auction. Sold to Mumbai Indians for $100,000. | Ch 10 |
 
 ## Act 2A: The Rise (Chapters 11-18)
 | Year | Age | Event | Chapter |
@@ -34,7 +34,7 @@
 | May 2008 | 18 | Breakout innings (78* off 48). Anjali Mehta's article. Media discovers his story. | Ch 13 |
 | Jun 2008 | 18 | First paycheck. Bhai resurfaces. Sponsor circuit. Returns to groundskeeper. | Ch 14 |
 | Nov 26, 2008 | 18 | Mumbai terrorist attacks (26/11). City wounded. Anonymous donation. | Ch 15 |
-| Apr-May 2009 | 19 | IPL Season 2 in South Africa. International anonymity. India cap conversation. | Ch 16 |
+| Apr-May 2009 | 19 | IPL Season 2 in South Africa (elections + Lahore attack security). MI finishes 7th. Deccan Chargers win. Vipin's personal stats strong despite team struggles. India cap conversation. | Ch 16 |
 | early 2010 | 20 | India T20I debut. India cap. | Ch 17 |
 | mid 2010 | 20 | IPL sponsor event. Sees Shraddha Kapoor for the first time. | Ch 17 |
 | late 2010 | 20 | Charity dinner. Ravi introduces them. First conversation. First texts. | Ch 17-18 |
@@ -44,7 +44,7 @@
 ## Act 2B: The Collision (Chapters 19-28)
 | Year | Age | Event | Chapter |
 |------|-----|-------|---------|
-| Mar 2011 | 21 | World Cup campaign. Vipin watches from Mumbai, texts with Shraddha. | Ch 19 |
+| Feb-Mar 2011 | 21 | World Cup campaign. India ties with England (338 each, Bengaluru). Vipin watches from Mumbai, texts with Shraddha. | Ch 19 |
 | Apr 2, 2011 | 21 | World Cup Final at Wankhede. India wins. Vipin and Shraddha in the stands. The Look. | Ch 20 |
 | May 2011 | 21 | Fan blog photo surfaces. Relationship goes public. | Ch 21 |
 | Jun 2011 | 21 | Shraddha tells Shakti. Shakti's conditional approval. | Ch 21 |
@@ -55,7 +55,7 @@
 | 2012 | 22 | Bollywood party, class asymmetry exposed. Anjali's second article. First real fight. | Ch 23 |
 | Apr 2013 | 23 | Aashiqui 2 releases. Shraddha becomes a star. Power dynamics shift. | Ch 24 |
 | late 2013 | 23 | Shakti warms — the mithai moment. | Ch 24 |
-| May 2013 | 23 | IPL spot-fixing scandal breaks. Bhai approaches Vipin. Vipin refuses. | Ch 25 |
+| May 16, 2013 | 23 | IPL spot-fixing scandal breaks (Sreesanth, Chandila, Chavan arrested). MI wins first title under Rohit Sharma. Bhai approaches Vipin. Vipin refuses. | Ch 25 |
 | Jul 2013 | 23 | Anti-corruption interview. Vipin lies (omits Bhai). Reports Bhai later. | Ch 25-26 |
 | Oct 2013 | 23 | Bhai severs contact. "We're done, Chaudhary." | Ch 26 |
 | Dec 2013 | 23 | Anjali's interview at Shivaji Park. "Vipin's silence is the loudest thing." | Ch 26 |
@@ -68,24 +68,41 @@
 |------|-----|-------|---------|
 | 2015 | 25 | Post-surgery recovery. Identity crisis. Withdrawal from everyone. The crying. | Ch 29 |
 | late 2015 | 25 | Hires PI. Begins search for parents. | Ch 30 |
-| early 2016 | 26 | Cricket comeback. Reduced pace (132-134 kph). IPL Season 9. | Ch 30 |
-| mid 2016 | 26 | Drives to Haryana. Meets Sunita Devi — his grandmother. Rajveer and Kamla named. | Ch 31 |
+| early 2016 | 26 | Cricket comeback. Enhanced body heals fully — pace returns (142+ kph). Vipin CHOOSES to add craft to raw pace. IPL Season 9. | Ch 30 |
+| mid 2016 | 26 | Flies to Delhi, drives to Haryana (~1,500 km from Mumbai). Meets Sunita Devi — his grandmother. Rajveer and Kamla named. | Ch 31 |
 | late 2016 | 26 | Relationship fractures. Shraddha confronts the pattern. Separation. Form dips. | Ch 32 |
 | early 2017 | 27 | Dropped from India squad. PI's dead-end report. Temple visit. Rock bottom. | Ch 33 |
 | early 2017 | 27 | "I need you." Shraddha comes. Fatal flaw breaks. | Ch 33 |
 | mid 2017 | 27 | Rebuilding. Tells Shraddha everything. Cricket rebuilt with Rao. 167 in Ranji. | Ch 34 |
 | late 2017 | 27 | Returns to Haryana with Shraddha. Sunita meets Shraddha. Father's cricket gloves. | Ch 35 |
-| 2018 | 28 | MI captain. India recall. IPL final at Wankhede — MI wins. Trophy. | Ch 36 |
+| 2018 | 28 | MI vice-captain under Rohit. India recall. Rohit endorses Vipin for MI leadership. | Ch 36 |
+| 2019 | 29 | MI captain for IPL 2019. Wins title (MI's 4th, beats CSK). Victory at Hyderabad. Trophy. | Ch 36 |
 
 ## Resolution (Chapters 37-42)
 | Year | Age | Event | Chapter |
 |------|-----|-------|---------|
-| 2019 | 29 | Proposes to Shraddha in the kitchen. Shakti's embrace. | Ch 37 |
-| 2020 | 30 | Wedding. Rao walks beside him. Sunita in Mumbai. | Ch 38 |
+| late 2019 | 29 | Proposes to Shraddha in the kitchen. Shakti's embrace. | Ch 37 |
+| early 2020 | 30 | COVID-19 pandemic hits. Lockdowns. IPL postponed then held in UAE (Sept-Nov). MI wins 5th title. | Ch 38 |
+| late 2020 | 30 | Intimate COVID-era wedding (50 guests, not 500). Rao walks beside him. Sunita in Mumbai. | Ch 38 |
+| 2021 | 31 | IPL 2021 starts in India, suspended May (COVID surge), resumes in UAE. Bio-bubble cricket. | Ch 39 |
 | 2021-2022 | 31-32 | Named India Test captain. Captaincy innings at crisis point. "This was just cricket." Shraddha pregnant. | Ch 39 |
 | 2023 | 33 | Son born. Rajveer and Kamla's photo on the bedside table. The cycle breaks. | Ch 40 |
 | 2025 | 35 | Retirement from international cricket. Final innings at Wankhede (47). Shivaji Park evening. | Ch 41 |
 | 2026 | 36 | Coaching street kids at Shivaji Park. Anjali's final interview. "Nowhere is just where you start." Son at the park. Pendant catches the light. | Ch 42 |
+
+---
+
+## Real-World Reference: MI IPL Results
+| Year | Result | Captain | Notes |
+|------|--------|---------|-------|
+| 2008 | League stage | | Vipin's debut season |
+| 2009 | 7th of 8 | | South Africa. Vipin's personal stats strong |
+| 2010 | Runners-up | | Lost final to CSK |
+| 2013 | **WON** | Rohit Sharma | Beat CSK. Rohit becomes captain mid-season. Spot-fixing scandal. |
+| 2015 | **WON** | Rohit Sharma | Beat CSK. Vipin recovering from injury, not in squad. Bumrah emerges. |
+| 2017 | **WON** | Rohit Sharma | Beat Rising Pune Supergiant |
+| 2019 | **WON** | Vipin Chaudhary | Beat CSK. Vipin's first title as captain (Rohit transitions to India focus). |
+| 2020 | **WON** | Vipin Chaudhary | UAE. Beat Delhi Capitals. COVID-era, empty stadiums. |
 
 ---
 *Complete timeline: 1990-2026. 36 years. 42 chapters. One pendant.*

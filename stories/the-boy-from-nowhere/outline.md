@@ -68,7 +68,7 @@ What does it mean to be left — not abandoned, but *placed* — by someone who 
 #### Scene Breakdown
 
 **Scene 1: The Leaving (1990)** (~800 words)
-- Cold open. A woman's hands (we never see her face) wrapping a gold pendant around a newborn's neck on the stone steps of a modest Mumbai temple. Pre-dawn. Monsoon season — rain is ending, the air smells of wet stone and jasmine.
+- Cold open. A woman's hands (we never see her face) wrapping a gold pendant around a newborn's neck on the stone steps of a modest Mumbai temple. Pre-dawn. Early monsoon — the rains have just arrived, the air is thick and humid, smelling of wet stone and jasmine. June in Mumbai: the sky opens and the city drinks.
 - She leaves money beside him. Not a desperate amount — a deliberate amount. She's thought about this.
 - The pendant catches the first light. Engraved: "Vipin Chaudhary."
 - She doesn't look back. Or maybe she does — we don't know. The narration stays with the baby.
@@ -537,7 +537,7 @@ What happens when talent earns you a seat at the table — but the table was bui
 Resolution (birth certificate) → Proving ground → Confrontation → Maturation → Anticipation
 
 #### Hook/Cliffhanger
-The IPL auction is announced. January 2008. Vipin's name will be in a pool of players that billionaires bid on. The boy who didn't have a birth certificate two years ago is about to get a price tag. The reader turns the page because the trajectory is clear and the destination is electric.
+The IPL auction is announced. February 2008. Vipin's name will be in a pool of players that billionaires bid on. The boy who didn't have a birth certificate two years ago is about to get a price tag. The reader turns the page because the trajectory is clear and the destination is electric.
 
 #### Thread Developments
 - **Birth Certificate**: Resolved — but the "Unknown/Unknown" on the document becomes its own wound.
@@ -554,7 +554,7 @@ Moderate but building. The chapter resolves old tensions (birth certificate) whi
 
 ### Chapter 9: The Price of a Name
 
-**Timeline**: Late 2007 – January 23, 2008 (age 17, turning 18)
+**Timeline**: Late 2007 – February 19, 2008 (age 17, turning 18)
 **POV**: Third-person limited, Vipin
 **Word Target**: 5,000 words
 
@@ -580,8 +580,8 @@ What does it feel like to go from being worth nothing — not even a birth certi
 - Rao sees the spiral. Takes Vipin to Shivaji Park at dawn — not to train. To sit. To watch the park come alive: the morning walkers, the dogs, the kids starting early cricket sessions on the outer pitches. Rao doesn't give advice. Just says: "The game doesn't know about auctions. The game just knows what you do with the ball." It's the most Rao thing Rao has ever said, and it works — for about six hours.
 - **Imperfect moment (anti-AI)**: Vipin goes to the temple. Not his old temple — a different one, nearby. He hasn't been to a temple in years. He doesn't pray. Doesn't light incense. Just sits in the back and watches other people pray. An old woman is chanting, and for a moment the cadence sounds like the pandit's voice, and his hands start shaking. He leaves without touching the pendant. He doesn't go back.
 
-**Scene 3: The Night Before (January 23, 2008)** (~1,500 words)
-- The auction is tomorrow. January 24, 2008. A hotel ballroom in Mumbai. Franchise owners, team management, BCCI officials, media — the biggest cricket event that isn't a cricket match.
+**Scene 3: The Night Before (February 19, 2008)** (~1,500 words)
+- The auction is tomorrow. February 20, 2008. A hotel ballroom in Mumbai. Franchise owners, team management, BCCI officials, media — the biggest cricket event that isn't a cricket match.
 - Vipin is not in the room. The auction is for the owners and bidders. Players watch from elsewhere — hotels, homes, TV screens. Rao has arranged for them to watch at the MCA office on a small TV.
 - The night before. Vipin sits in his storage room. The bat across his lap. The pendant against his chest. The rubber ball in his hand. He counts things because counting is the only thing that's always worked.
 - He thinks about the pandit. About Bhai. About the gully game where the ball left the bowler's hand and time stretched. About the first time he wore whites. About the birth certificate with "Unknown" twice.
@@ -590,7 +590,7 @@ What does it feel like to go from being worth nothing — not even a birth certi
 - He doesn't sleep. But for the first time, the counting stops. He's just waiting.
 - **Strange personal detail (anti-AI)**: At 2 AM, unable to sleep, Vipin steps outside the storage room. The Shivaji Park grounds are empty, moonlit, the pitch covers ghostly in the blue light. He walks to the center pitch. Stands at the crease — the specific spot where he first batted for Rao years ago. Taps three times with an imaginary bat. Plays an imaginary shot. Watches an imaginary ball sail into an imaginary crowd. Then walks back to bed. No one sees this. He never tells anyone.
 
-**Scene 4: Morning (January 24, 2008, 8 AM)** (~800 words)
+**Scene 4: Morning (February 20, 2008, 8 AM)** (~800 words)
 - Vipin wakes. Actually, he didn't sleep, but he opens his eyes. The piece of paper under his pillow. He reads it. Folds it again. Puts it in his pocket.
 - He does his morning routine: runs two laps of the park, even though today isn't a training day. Showers with the groundskeeper's hose (the storage room has no bathroom — he uses the park facilities). Puts on his cleanest clothes. Not cricket whites — a shirt and trousers. He looks at himself in the small mirror on the wall.
 - Rao picks him up. They drive to the MCA office in Rao's old Maruti. The car smells like the chai Rao spilled last week. Neither of them talks. The radio plays a Hindi film song — something from the nineties, something Vipin doesn't recognize but Rao hums along to.
@@ -619,7 +619,7 @@ High. The entire chapter is coiled energy. Nothing happens in terms of action, b
 
 ### Chapter 10: Sold
 
-**Timeline**: January 24, 2008 (age 17)
+**Timeline**: February 20, 2008 (age 17)
 **POV**: Third-person limited, Vipin — watching the auction from the MCA office
 **Word Target**: 5,000 words
 
@@ -1039,7 +1039,7 @@ Who are you when nobody knows your story — when the orphan narrative doesn't t
 #### Scene Breakdown
 
 **Scene 1: South Africa (April 2009)** (~1,200 words)
-- IPL Season 2 is held in South Africa due to Indian general election security conflicts and the shadow of 26/11. The entire league displaced — fourteen thousand kilometers from Mumbai. Vipin has never left India. He doesn't have a passport until MI management fast-tracks one.
+- IPL Season 2 is held in South Africa — displaced due to the 2009 Indian general elections and security concerns after the Lahore attack on Sri Lanka's cricket team in March. The entire league relocated eight thousand kilometers from Mumbai to Johannesburg, Cape Town, and Durban. Vipin has never left India. He doesn't have a passport until MI management fast-tracks one.
 - First international flight. Vipin sits in business class (MI's travel policy) and the irony is so thick he can almost count it. Twelve hours in the air. A window seat. He watches India disappear below the clouds and doesn't know what to feel. The pendant is there. The rubber ball is there. The bat is in the hold.
 - Johannesburg. The air is different — thinner, drier, colder at night. The hotel is international-chain identical to the Mumbai ones, which is both comforting and disorienting. The cricket grounds are different: bouncier pitches, faster outfields, the Highveld altitude making the ball carry further.
 - Vipin's first experience of being anonymous. In South Africa, nobody knows the orphan story. Nobody's read Anjali Mehta's article. He's just a player in a team — No. 47, MI squad. The relief is physical. His shoulders drop. The humor comes naturally, not defensively.
@@ -1061,7 +1061,7 @@ Who are you when nobody knows your story — when the orphan narrative doesn't t
 - He doesn't tell anyone. Not Ravi, not his teammates. He files it in the place where he keeps things too precious to speak aloud, next to "I want them to say my name."
 
 **Scene 4: The Return (late May 2009)** (~1,500 words)
-- IPL Season 2 ends. MI has a better run this year — semi-finals. Vipin's season: 11 matches, 312 runs, 14 wickets. He's in the top 10 for both batting and bowling in the tournament stats. Nineteen years old.
+- IPL Season 2 ends. MI has a disappointing campaign — finishing seventh of eight teams, winning only five of fourteen matches. But Vipin's personal stats tell a different story: 11 matches, 312 runs, 14 wickets. He's a bright spot on a struggling side, which in some ways is better for his development — he carries weight, faces pressure, learns that teams lose even when individuals perform. The Deccan Chargers, led by Adam Gilchrist, win the title. Nineteen years old.
 - The flight home. Business class again. The same window seat. India appears below the clouds — and this time Vipin feels something when he sees the coastline. Not patriotism, exactly. Not nostalgia. Recognition. The shape of the land is the shape of the only place he's ever understood.
 - Back in Mumbai. His flat in Dadar. The city has moved on from 26/11 — construction, traffic, noise. The scars are there if you know where to look (the Taj is still being restored), but Mumbai has done what Mumbai does.
 - He goes to Shivaji Park. Rao is there. The groundskeeper is there. The storage room is still there — someone else's cot now, but the same room. Twenty-three cracks in the ceiling.
@@ -1228,7 +1228,7 @@ Can you be present for someone when your own life is pulling you in a different 
 #### Scene Breakdown
 
 **Scene 1: The World Cup from the Outside (March 2011)** (~1,200 words)
-- India's 2011 World Cup campaign builds momentum. Vipin watches from Mumbai — on TV, at Shivaji Park with Rao, sometimes at bars with Ravi (who's also not in the squad). India beats England. Beats Australia. The country is electric.
+- India's 2011 World Cup campaign builds momentum. Vipin watches from Mumbai — on TV, at Shivaji Park with Rao, sometimes at bars with Ravi (who's also not in the squad). India ties with England in a thriller in Bengaluru (both teams scoring 338 — Tendulkar's 120 matched by Strauss's 158, only the fourth tie in World Cup history). Beats Australia. The country is electric.
 - Vipin is simultaneously proud and bitter. He should be there. He knows it. Rao knows it. The bowling attack struggles in the group stage and Vipin watches seamers who are slower than him get hammered, and the unfairness of his exclusion grinds like sand in a joint.
 - But he doesn't let it consume him. IPL Season 4 is approaching. India selection for future tours is based on IPL and domestic performance. He trains harder than he's ever trained — Rao's sessions plus solo work, bowling at stumps until his shoulder aches, batting drills until his hands blister.
 - Shraddha texts him during India matches. Running commentary. She knows very little about cricket tactics but her observations are sharp in unexpected ways: "Why does the bowler look so angry? His face will freeze like that." "That batsman's feet are all wrong — even I can tell and I know nothing." Vipin finds himself laughing at his phone during India's matches and realizes he's smiling more at her texts than at India's boundaries.
@@ -1440,7 +1440,7 @@ What does it feel like to finally belong to the thing you've wanted most — and
 **Scene 2: The Debut (International ODI)** (~1,500 words)
 - Vipin's ODI debut. Not at Wankhede (that would be too perfect). A ground in a different Indian city — maybe Mohali or Bangalore. A formidable opposition.
 - He bats at 7 in his debut. India is in a decent position. He walks out to scattered applause — nobody in the crowd knows him beyond the IPL. He's a debutant. One of dozens who come and go.
-- He scores 41 off 33 balls. Clean hitting, good running between wickets, one six over long-off that brings the crowd to its feet. Not a fairytale fifty — but a real contribution. He's bowled in the death overs, tight: 1-42 off 8 overs. The wicket is a good batsman, caught at third man off a slower ball — Malinga's lesson, executed in India colors.
+- He scores 41 off 33 balls. Clean hitting, good running between wickets, one six over long-off that brings the crowd to its feet. Not a fairytale fifty — but a real contribution. He shares the field with Kohli (already electric, already hungry), Dhoni (captain, calm, the man whose World Cup six still echoes), and Zaheer Khan (the senior fast bowler who nods at Vipin's pace with the respect of one quick to another). He's bowled in the death overs, tight: 1-42 off 8 overs. The wicket is a good batsman, caught at third man off a slower ball — Malinga's lesson, executed in India colors.
 - Post-match, the captain shakes his hand. "You'll play the next one." Not a compliment — a statement of intent. Vipin is in.
 - Over the series: three ODIs, scores of 41, 17, and 63*. Bowling figures consistent — economy under 6. By the end of the series, he's not a debutant. He's a squad member. The trajectory Rao mapped — Shivaji Park to India — is complete.
 - But: the satisfaction is stranger than he expected. He thought the India cap would fill the void. It doesn't. It's another thing — another beautiful, earned thing — that sits alongside the void without touching it. The pendant is still there. The parents are still unknown. The drawer is still full of artifacts.
@@ -1617,8 +1617,9 @@ When the system you've built your life inside reveals its rot — how do you sta
 #### Scene Breakdown
 
 **Scene 1: The Scandal Breaks (May 2013)** (~1,200 words)
-- The IPL spot-fixing scandal. Real history: in May 2013, Delhi Police arrested three Rajasthan Royals players for spot-fixing. The investigation spiraled — franchise owners implicated, BCCI officials questioned, the entire legitimacy of the IPL under threat.
-- Vipin learns about it like everyone: news alerts, team group chats exploding, MI management calling emergency meetings. The names arrested are known to him — not friends, but he's played against them. They shared dressing rooms. They shook hands at toss ceremonies.
+- The IPL spot-fixing scandal. Real history: on May 16, 2013, Delhi Police arrest S. Sreesanth, Ajit Chandila, and Ankit Chavan — three Rajasthan Royals players — for spot-fixing. The investigation spirals: franchise owner connections to bookies surface, Gurunath Meiyappan (BCCI president's son-in-law) arrested, the IPL chairman resigns. The entire legitimacy of the league — the league that gave Vipin his life — is under threat.
+- This is also the season MI wins its first IPL title under new captain Rohit Sharma, beating CSK in the final. Vipin is a key player in the squad — but the title celebration is shadowed by the scandal. You can't pop champagne when the building might be on fire.
+- Vipin learns about the arrests like everyone: news alerts, team group chats exploding, MI management calling emergency meetings. The names arrested are known to him — not friends, but he's played against them. He's bowled to Sreesanth in the nets. They shook hands at toss ceremonies.
 - The feeling: betrayal, but not surprise. Vipin grew up in Bhai's world. He knows what match-fixing looks like in gully cricket — money riding on games, results negotiated before the first ball. He always assumed the IPL was different. The money was too big, the stakes too high. He was wrong. The money being bigger just means the fixing is bigger.
 - MI is not directly implicated in fixing — but the shadow touches everyone. The BCCI launches investigations across all franchises. Players are questioned. Phone records checked. Financial histories scrutinized.
 - Vipin's phone records are clean. His finances are clean. His bank account shows IPL salary, endorsements, and an anonymous donation to a 26/11 fund. Nothing suspicious. But the scrutiny itself is invasive — men in suits asking where his money goes, who he talks to, whether anyone has ever approached him about "arrangements."
@@ -1813,7 +1814,7 @@ High and building. Multiple threat vectors — media, Bhai, lies, relationship s
 **Word Target**: 5,000 words
 
 #### Central Question (this chapter)
-Who are you when the one thing that's never failed you — your body — breaks?
+Who are you when the one thing that's never failed you — your body — stumbles, even if only briefly?
 
 #### Scene Breakdown
 
@@ -1827,10 +1828,10 @@ Who are you when the one thing that's never failed you — your body — breaks?
 **Scene 2: The Snap (early 2015)** (~1,800 words)
 - An India ODI. A match that matters — series decider. Vipin is bowling the death overs. India defending a modest total. The opposition needs 30 off 18 balls. Two set batsmen.
 - He runs in. First ball: 139 kph, good length, defended. Second ball: he tries a bouncer. The arm goes up, the shoulder SCREAMS, and the ball comes out at 128 kph — 15 kph slower than his normal bouncer. The batsman, expecting the usual pace, is early on the pull and gets a top edge. Lucky wicket. But Vipin knows. The arm is done.
-- He bowls four more balls. Each one slower than the last. The variation he's learned masks some of it — slower balls, cutters — but the express pace is gone. A ball that should be 142 comes out at 131. The batsman hits it for four. The commentators mention "reduced pace."
+- He bowls four more balls. Each one a negotiation with pain. The variation he's learned masks some of it — slower balls, cutters — but a delivery he wants at 142 comes out at 131 because the shoulder won't allow the full rotation. The batsman hits it for four. The commentators mention "reduced pace." Vipin knows the pace will return — his body always rebuilds. But right now, in this moment, the machine is broken and he's bowling on memory and guts.
 - Over finished: 1-11. Respectable on paper. The death of something on the inside.
 - After the match (India wins, barely), the team physio examines him. MRI ordered. The results: a significant rotator cuff tear. Not career-ending — but season-ending. Surgery required. Rehabilitation: six to nine months.
-- The doctor delivers this in a hospital room that smells of antiseptic and processed air. Vipin listens. The doctor uses words like "partial thickness," "surgical repair," "graduated return to bowling." Vipin hears: "The body that never failed you has failed you."
+- The doctor delivers this in a hospital room that smells of antiseptic and processed air. Vipin listens. The doctor uses words like "partial thickness," "surgical repair," "graduated return to bowling." The doctor also says: "For most players, this injury means reduced pace permanently. Maybe 90% recovery if you're lucky." Vipin hears the timeline — six to nine months — and the rest is noise. His body has always been different. It will heal. It always heals. But the fact that it broke at all — that's the earthquake.
 - He doesn't react. The face is empty. The silence that precedes his worst moments. The doctor finishes. Vipin thanks him (politely, distantly) and sits alone in the hospital room.
 - He counts the ceiling tiles. Twelve. He counts the holes in each tile. Too many. He loses count. For the first time, the counting doesn't work.
 - **Imperfect moment (anti-AI)**: Vipin punches the hospital bed's side rail. Once. Not hard enough to break anything but hard enough to hurt his left hand. A stupid, impotent gesture that changes nothing. He looks at his knuckles — the same knuckles that held the bat, that caught the ball, that gripped the pendant — and feels like a child who's broken his own toy.
@@ -1841,13 +1842,13 @@ Who are you when the one thing that's never failed you — your body — breaks?
 - "I need to be angry for a while."
 - "Okay. Be angry. I'll be here when you're done."
 - Telling Ravi: by phone. Ravi's silence is the longest Vipin has heard from him. Then: "Chaudhary. Tu wapas aayega. Tere jaise log ruk nahi sakte." (You'll come back. People like you don't stop.) It's not comfort — it's certainty, and from Ravi, it's worth more than comfort.
-- Telling the media: MI's press office releases a statement. "Vipin Chaudhary to undergo shoulder surgery. Expected to miss 6-9 months." The cricket world reacts. Condolences, analysis, speculation about his career trajectory. The word "if" starts appearing: "If he returns to full pace."
+- Telling the media: MI's press office releases a statement. "Vipin Chaudhary to undergo shoulder surgery. Expected to miss 6-9 months." The cricket world reacts. Condolences, analysis, speculation about his career trajectory. The word "if" starts appearing in columns and tweets: "If he returns to full pace." (He will. The pundits don't know about the enhanced recovery. But Vipin doesn't read the columns — not because he's above it, but because "if" is a word that feeds the catastrophizing, and the catastrophizing doesn't need food.)
 
 **Scene 4: The Night Before Surgery (early 2015)** (~1,200 words)
 - Hospital room. Night before the operation. Shraddha is there — she came after her shoot, still in partial makeup, sat down and hasn't left.
 - They're quiet. The TV is on, muted — a cricket match he'd normally be playing in. He watches his replacement bowl: slower, less accurate, but there. The cricket continues without him. The game doesn't miss anyone for long.
 - Shraddha falls asleep in the chair. He watches her sleep and the catastrophizing runs: what if the surgery fails? What if the pace doesn't come back? What if he's a batsman only — still good, but not what he was? What if the thing that made him special — the bowling, the all-rounder completeness — is gone?
-- Who is Vipin Chaudhary without the pace? A batsman. A good one. But the boy who was "built different" was built for everything — bat, ball, field. The wholeness of his cricket was a mirror of his need for wholeness in life. If the cricket breaks in half, what happens to the man?
+- The fear isn't physical — deep down, he knows his body will recover. It always has. The enhanced recovery, the freakish healing. But for the first time, the body sent a signal: you are not invincible. And the real question isn't about the shoulder. It's about what the injury exposed — that he's been running on the body his whole life, using raw physical gifts as a substitute for everything else. Who is Vipin Chaudhary if he has to think about cricket instead of just unleashing it?
 - He reaches for the pendant. Holds it. The gold is warm from his skin. "Vipin Chaudhary." The name is still there. The pendant doesn't know about rotator cuffs.
 - He closes his eyes. Doesn't count. Doesn't pray. Just holds the pendant and waits for morning.
 - **Unresolved micro-element (anti-AI)**: Before surgery, Vipin takes off the pendant and gives it to Shraddha. "Keep this." She holds it and the weight surprises her — it's heavier than it looks. "You've never taken this off." "I know." The pendant in her hands. The most trust he's shown anyone. She puts the chain around her own neck, under her shirt, against her chest. He nods. Closes his eyes. They wheel him in.
@@ -1859,10 +1860,10 @@ Denial → Failure → Diagnosis → Controlled anger → Vulnerability → Entr
 Vipin is under anesthesia and the pendant is around Shraddha's neck. The body that defined him is on an operating table. Act 2B ends with the most powerful man in the story at his most powerless. Act 3 — the crisis — begins with recovery, doubt, and the question that has been building for 28 chapters: who is Vipin Chaudhary when he's not extraordinary?
 
 #### Thread Developments
-- **The Body's Limit**: The enhanced attributes have a cost. The body isn't superhuman — it's at the edge, and edges break.
+- **The Body's Warning**: The enhanced body heals — but the fact that it CAN break changes Vipin's relationship with his own gifts. The invincibility myth is punctured.
 - **The Pendant Transfer**: The most significant relationship gesture in the story. Shraddha holds the only thing from his parents.
-- **"If he returns to full pace"**: The uncertainty that will define Act 3.
-- **Act 2B Complete**: Career peak, relationship tested, Bhai's shadow, and now injury. Everything at maximum altitude before the fall.
+- **The Real Question**: Not whether the pace comes back (it will — his body is enhanced). But whether he'll keep bowling the same way, or whether the injury teaches him something raw pace never could.
+- **Act 2B Complete**: Career peak, relationship tested, Bhai's shadow, and now injury. Everything at maximum altitude before the reckoning.
 
 #### Tension Level: 0.75
 Act 2B climax. The injury is the structural break. The pendant transfer is the emotional peak. High tension resolving into surgical vulnerability.
@@ -1883,13 +1884,13 @@ What fills the space when the thing that defined you is taken away — and is th
 **Scene 1: Post-Surgery (early 2015)** (~1,200 words)
 - Vipin wakes from surgery. The shoulder is rebuilt — titanium anchors, reattached tendon, a sling, painkillers. Shraddha is there. The pendant is still around her neck. He sees it and the first thing he says, groggy: "Suits you." She laughs and cries simultaneously.
 - Recovery begins. The physio's program: four weeks of immobilization, then gentle range-of-motion exercises, then strength work, then — months away — bowling again. The timeline feels geological. Each day is a week.
-- Vipin's body, which has always healed fast, does heal fast — the physios are again surprised by his recovery speed. But "fast" for a rotator cuff repair is still slow for someone used to operating at the speed of instinct. He can't bat. Can't bowl. Can't throw. He can walk, do lower-body gym work, and stare at walls.
+- Vipin's body, which has always healed fast, does heal fast — the physios are stunned by his recovery speed. Milestones that should take weeks take days. Range of motion ahead of schedule. Muscle atrophy minimal. The doctors exchange looks. "His biology is... unusual." But "fast" for a rotator cuff repair is still slow for someone used to operating at the speed of instinct. He can't bat. Can't bowl. Can't throw. He can walk, do lower-body gym work, and stare at walls. The body is healing. The mind is not.
 - The walls stare back.
 - Without cricket, Vipin's days are shapeless. He's never not had cricket — since age 10, the game structured everything. Wake up, train, play, sleep, repeat. Now: wake up, physio, ice, nothing, nothing, nothing, sleep.
 - The humor thins. Not gone — Vipin without humor is Vipin dead — but the edges are harder, the laughs shorter. He makes jokes about the sling ("fashion statement"), about the physio ("he enjoys hurting me, I respect that"), about the painkillers ("best sleep I've had since the storage room"). But the jokes are armored differently now — not hiding vulnerability but hiding emptiness.
 
 **Scene 2: Watching the World Move (March–May 2015)** (~1,200 words)
-- IPL Season 8 happens without him. MI retains his contract but he's not in the squad. He watches from his flat. His replacement bats well, bowls adequately. The team functions.
+- IPL Season 8 (2015) happens without him. MI retains his contract but he's not in the squad. He watches from his flat as Rohit Sharma leads the team to their second title — MI beats CSK again in the final. A young fast bowler named Jasprit Bumrah is emerging, along with the Pandya brothers. The squad is evolving. His replacement bats well, bowls adequately. The team functions.
 - This is the cruelest part: the game continues. Nobody stops because Vipin Chaudhary is injured. The machine produces new talent — younger, hungrier, uninjured. A 19-year-old fast bowler debuts for a rival franchise and bowls 145 kph. The commentators call him "the next big thing." Vipin watches and feels something corrode.
 - He goes to Shivaji Park. Can't play — just watches. Rao's sessions with new kids, the same drills, the same patience. The park doesn't know he's injured. The cricket doesn't care. It's the same lesson the game has always taught: you're replaceable. Everyone is replaceable.
 - Ravi visits. Brings food and bad jokes. Vipin is grateful but can't show it fully — the gratitude gets tangled with the envy (Ravi is playing, Vipin isn't) and the result is a friendship strained by circumstance.
@@ -1951,12 +1952,12 @@ Is it braver to search for the truth about where you came from, or to accept tha
 
 **Scene 2: The Comeback (early 2016)** (~1,500 words)
 - The shoulder is healed. Eight months of rehabilitation. The physios clear him for full activity. He walks into the MI nets for pre-season and picks up a cricket ball for the first time in nine months.
-- He bowls. First ball: 126 kph. Slow. Painfully slow by his standards. The arm works. The action is sound. But the pace — the thing that made him special, the 140+ kph thunder — is gone.
-- He bowls fifty more balls. The fastest: 133 kph. Still fast by most standards. Not fast by Vipin Chaudhary standards.
-- The bowling coach is honest: "The pace may come back. It may not. Your shoulder is rebuilt but the explosiveness — that's neural, muscular, something we can't engineer. You're still quick. You're not as quick."
-- Vipin absorbs this. The temporal perception is intact — he still sees the ball early as a batsman. The batting power is undiminished. The fielding is still electric. But the bowling — the bowling that made him an all-rounder, that made him India's dual threat — is diminished. Not destroyed. Reduced.
-- He faces a choice: fight for every kph back (risking re-injury) or accept the new ceiling and adapt. Rao's counsel: adapt. Bowl slower, smarter. Use cutters, slower balls, changes of pace. Become a different bowler. "You were a fast bowler. Become a quick bowler. There's a difference."
-- **Imperfect moment (anti-AI)**: In the nets, Vipin's competitive fury drives him to bowl a bouncer at full effort. 137 kph — the fastest he's bowled since surgery. His shoulder screams. He hides the wince but the physio sees it. "Again?" Vipin: "No. I'm done." Walking away from the challenge. For a man who's never backed down from a ball, the walking away is its own kind of courage.
+- He bowls. First ball: 126 kph. Slow. Painfully slow by his standards. The arm works. The action is sound. But the pace — the thing that made him special — is buried under months of caution.
+- He bowls fifty more balls. Each one faster. By the end of the session: 138. The next day: 141. Within two weeks, the physios stare at the speed gun: 144 kph. The enhanced body has done what it always does — rebuilt itself fully, completely, in defiance of medical expectation. The bowling coach calls the lead physio: "His pace is back. All of it. Maybe more."
+- But something has shifted inside Vipin. Not in his shoulder — in his head. He COULD bowl 144 every ball. He could go back to being the raw-pace terrorizer, the kid who ran in and hurled thunderbolts. The body allows it. The body invites it. But the injury did something medicine can't measure: it made him think. For the first time in his career, he's not just reacting — he's choosing.
+- He faces a choice that nobody expects: not fight-for-pace-vs-accept-limitation, but raw-power-vs-evolution. His body can do everything it did before. But he's seen the ceiling. He's seen what relying purely on the body costs — not physically (the body healed), but psychologically. He was defined by his pace the way he was defined by his orphan story. Neither captures who he really is.
+- He chooses evolution. Not because he can't — because he's more. Rao watches him in the nets, deploying cutters, slower balls, changes of pace alongside the 142 kph thunderbolts, and sees something he's never seen: Vipin thinking two deliveries ahead. "You could just bowl fast," Rao says. "I could," Vipin replies. "But anyone can be fast. I want to be smart AND fast." Rao's reading glasses slip off his forehead. He doesn't fix them.
+- **Imperfect moment (anti-AI)**: In a match, the opposition's best batsman hooks Vipin for six. The old Vipin would have responded with a 145 kph bouncer at his throat. The new Vipin has the pace — the body is there, the shoulder is sound. His run-up lengthens. The crowd senses it. The batsman braces. And Vipin... bowls a slower ball. 118 kph off-cutter. The batsman, expecting thunder, is through his shot too early. Bowled. Stumps everywhere. Vipin doesn't celebrate with aggression. He smiles. A small, knowing smile. The bowling coach turns to Rao: "He just chose craft over ego with 145 in the tank." Rao nods: "That's not a bowler. That's a cricketer."
 
 **Scene 3: The PI's First Report (early 2016)** (~1,000 words)
 - The investigator reports. Progress, but incomplete. The temple records from 1990 are patchy — the old pujari (the pandit) is dead, the new pujari remembers nothing useful. The municipal birth records show nothing helpful. Police records from 1990 for abandoned children in that area: three cases, none matching exactly.
@@ -1967,8 +1968,8 @@ Is it braver to search for the truth about where you came from, or to accept tha
 
 **Scene 4: Return to Competition (early 2016)** (~1,500 words)
 - IPL Season 9. Vipin returns. The announcement is a story in itself: "Chaudhary Returns After Injury." The narrative machine fires up — comeback kid, the orphan who won't stop, the body that rebuilds.
-- First match back: he bats well (44 off 30 balls, the batting undiminished). He bowls two overs — 0-19, no wickets, pace 130-134 kph. Serviceable. Not devastating. The commentators are kind: "Good to see him back." But the subtext is clear: the express pace isn't there.
-- He fields magnificently — a diving catch that would have been his highlight in any other year. The body, aside from the shoulder's reduced bowling capacity, is still extraordinary. The reflexes, the temporal perception, the stamina — all intact. The injury narrowed him, it didn't break him.
+- First match back: he bats well (44 off 30 balls, the batting undiminished). He bowls two overs — 1-16, mixing pace (a 142 kph thunderbolt that swings late, followed by a 125 kph cutter that dips and grips). The commentators notice: "He's not just fast anymore — he's unpredictable. You don't know which Chaudhary you're facing: the express train or the chess player." The combination is more dangerous than either alone.
+- He fields magnificently — a diving catch that defies physics. The body is fully back. The reflexes, the temporal perception, the stamina — all intact. But the cricketer who walks off the field is not the one who walked on eight months ago. That cricketer was a weapon. This one is a strategist who happens to also be a weapon.
 - Post-match, alone in the dressing room, he sits with the match ball. Doesn't put it in the drawer. There's nothing to prove anymore. The drawer is a museum of a man who needed evidence of his own existence. Maybe it's time to stop collecting.
 - He texts Shraddha: "I played. It was different. I was different. But I played."
 - She texts back: "Different isn't less."
@@ -1982,10 +1983,10 @@ A woman named Sunita Devi in Haryana may know who Vipin Chaudhary is. The invest
 
 #### Thread Developments
 - **Pendant Mystery Active**: Rajveer Chaudhary and Sunita Devi. First real names. First real lead.
-- **The New Vipin**: A batsman who bowls, not an all-rounder who bats. The identity adjustment.
-- **"Different isn't less"**: Shraddha's line. Thematic resonance — being changed doesn't mean being diminished.
+- **The New Vipin**: Not diminished — evolved. He has the pace but CHOOSES to deploy it strategically instead of exclusively. The identity adjustment isn't about losing something — it's about becoming more than one thing.
+- **"Different isn't less"**: Shraddha's line. Thematic resonance — choosing evolution over repetition.
 - **The Drawer Closes**: Vipin doesn't add the match ball. A shift away from needing proof.
-- **Rao's Advice**: "Become a different bowler." The mentor adapting to the new reality.
+- **Rao's Observation**: "That's not a bowler. That's a cricketer." The mentor recognizing growth beyond his coaching.
 
 #### Tension Level: 0.70
 Dual tension: comeback anxiety (will the body hold?) and investigation tension (what will the PI find?). Both threads pulling simultaneously.
@@ -2002,7 +2003,7 @@ Dual tension: comeback anxiety (will the body hold?) and investigation tension (
 What happens when the orphan meets the village — and the village tells a story the orphan didn't expect?
 
 #### Key Events
-- Vipin drives to Haryana alone. Doesn't tell Shraddha, Rao, or Ravi. This is private. The drive is six hours from Mumbai — he's never been to North India outside of cricket tours. The landscape changes: Mumbai's chaos gives way to highways, then Haryana's flat, agricultural expanse. Jaat country. His country, maybe.
+- Vipin drives to Haryana alone. Doesn't tell Shraddha, Rao, or Ravi. This is private. He flies Mumbai to Delhi (two hours in the air — his first flight that isn't for cricket feels wrong, like wearing someone else's shoes) and then drives three hours from Delhi into Haryana. He's never been to North India outside of cricket tours. The landscape changes: Delhi's sprawl gives way to highways, then Haryana's flat, agricultural expanse. Jaat country. His country, maybe. The total distance from Mumbai — nearly 1,500 kilometers — is the furthest he's ever traveled for something that isn't the game.
 - He finds the village. Small, rural, Jaat dominated. The Chaudhary name is everywhere — it's the most common surname. His pendant means less here than he imagined. Every other house is Chaudhary.
 - He finds Sunita Devi's house. An old woman, weathered, direct. He doesn't announce himself as a cricketer. Just says: "I'm looking for information about Rajveer Chaudhary."
 - Her face changes. Rajveer was her son. Her only son. He left for Mumbai in 1989 — young, ambitious, wanted to make money in the city. He married a girl from a neighboring village before he left — a love marriage, which caused family friction. They went to Mumbai together. Sunita heard from them sporadically — letters, then nothing. In 1991, she filed the missing person report. It went nowhere.
@@ -2080,10 +2081,10 @@ What does it look like to rebuild — not from the rubble of failure, but from t
 - Shraddha and Vipin together. Not the pre-fracture version — a different version. She stays at his flat. They cook together (she's terrible at it; he's patient). The domesticity is new and tentative, like walking on a healed bone.
 - He tells her everything. Not in one conversation — over days. Haryana. Sunita. The photograph. The PI's dead end. Bhai. The lie to anti-corruption. Everything he's withheld. The armor comes off piece by piece and what's underneath is a man, not a myth.
 - She tells him things too. Her own fears — the mind-reading distortion, the people-pleasing, the fear that she's loved for her last name not herself. They're not comparing wounds anymore (the Ch 19 mistake). They're building something from mutual exposure.
-- Cricket: Vipin goes back to Shivaji Park. To basics. Rao's domain. They strip his game back to fundamentals — like 2003 again, like the first sessions. The batting is rebuilt with patience (the thing he finally has). The bowling is remodeled: medium-fast, not fast, with movement, cutters, and craft replacing raw pace. He'll never bowl 142 again. He can bowl 132 with the intelligence of a man who's watched 10,000 deliveries.
+- Cricket: Vipin goes back to Shivaji Park. To basics. Rao's domain. They strip his game back to fundamentals — like 2003 again, like the first sessions. The batting is rebuilt with patience (the thing he finally has). The bowling is expanded: the pace is back (he hits 143 in a net session; the body has healed completely, as it always does), but now it's layered with craft — cutters, slower balls, changes of length. He CAN bowl 143 any time he wants. He CHOOSES when to deploy it, like a general deploying artillery instead of a kid throwing rocks. The result is a bowler more dangerous than the pure speedster he was — because now the batsman faces two threats, not one.
 - A Ranji match. His first competitive cricket in months. He bats for six hours. Scores 167. The most patient innings of his career. Rao watches from the boundary and says nothing. But the reading glasses are on his forehead and his chai is cold again.
 - Shakti Kapoor, learning through Shraddha that Vipin searched for his parents, invites him to dinner. The meal is quiet, warm, different from the interrogation of Ch 21. Shakti says: "A man who looks for his family is a man who values family. I misjudged you." The approval that was conditional is becoming unconditional.
-- **Thread**: Rebuilt relationship, rebuilt cricket, Shakti's acceptance, the new Vipin (patient, open, adapted)
+- **Thread**: Rebuilt relationship, evolved cricket (pace + craft = complete), Shakti's acceptance, the new Vipin (patient, open, choosing wisdom over raw power)
 - **Emotional Arc**: Tentative → Exposure → Vulnerability shared → Cricket rebuilt → Shakti's acceptance
 - **Tension Level**: 0.65 — still elevated (recovery is fragile) but trending positive. The first sustained upward movement since Ch 27.
 
@@ -2113,7 +2114,7 @@ Can you build a family from fragments — from a grandmother you just met, a coa
 
 ### Chapter 36: The Captain's Armband
 
-**Timeline**: 2018 (age 28)
+**Timeline**: 2019 (age 29)
 **POV**: Third-person limited, Vipin
 **Word Target**: 5,000 words
 
@@ -2121,14 +2122,14 @@ Can you build a family from fragments — from a grandmother you just met, a coa
 Can a man who rebuilt himself lead others — and what kind of leader is forged from everything Vipin has survived?
 
 #### Key Events
-- Cricket redemption. Vipin's adapted game — the patient batting, the crafty bowling — earns him recall to the India squad. The selectors see what Rao always saw: the talent was never the whole story. The mind, the adaptability, the refusal to quit — these are what make a cricketer valuable at 28.
-- MI makes Vipin captain. Not India captain (not yet) — IPL captain. The franchise that bought him at auction for $100K now trusts him to lead. The boy whose name was called in a hotel ballroom now calls the shots from mid-pitch.
+- Cricket redemption. Vipin's evolved game — the patient batting, the bowling that now combines express pace with craft and intelligence — earns him recall to the India squad. The selectors see what Rao always saw: the talent was never the whole story. The mind, the adaptability, the refusal to quit — these are what make a cricketer valuable at 29.
+- MI's leadership transition. Rohit Sharma has been MI captain since 2013, leading them to titles in 2013, 2015, and 2017. But Rohit is increasingly focused on India captaincy duties and workload management. MI elevates Vipin to co-leadership — vice-captain in 2018, then captain for IPL 2019. The transition is organic: Rohit endorses it publicly ("Chaudhary reads the game better than anyone I've played with"), and the squad respects Vipin's tactical brain and his ability to manage egos with humor.
 - The captaincy changes him subtly. He's always read people — from Bhai's streets to Rao's nets to hotel lobbies. Now he reads them as a leader: who's confident, who's faking, who needs a word, who needs silence. The humor becomes a tool of leadership — loosening dressing rooms before big matches, defusing ego clashes with a well-placed joke.
-- MI's season is strong. Vipin leads from the front — 450 runs, 12 wickets (at reduced pace but increased cunning). MI reaches the final.
-- The IPL final. Wankhede. The same stadium where he watched the World Cup with Shraddha. Now he walks out as captain, the crowd chanting "Chaudhary, Chaudhary." Full circle.
-- MI wins. Vipin lifts the trophy. The crowd is deafening. He searches the stands — finds Shraddha, Shakti, Shivangi, Rao, Ravi. The people he has. The family he built. He points to them with the bat and the gesture is private in the middle of public celebration.
+- MI's 2019 season is strong. Vipin leads from the front — 450 runs, 12 wickets (mixing express pace with craft — a 143 kph bouncer one ball, a 120 kph off-cutter the next, keeping batsmen guessing). MI reaches the final against CSK — the rivalry that has defined the IPL.
+- The IPL final. Hyderabad (the 2019 final venue). The crowd is split between blue and yellow. Vipin walks out as captain. A tight match — CSK push MI all the way. MI wins by one run in the last over. The margins are thin and the trophy is heavy.
+- Vipin lifts the trophy. The crowd is deafening. He searches the stands — finds Shraddha, Shakti, Shivangi, Rao, Ravi. The people he has. The family he built. He points to them with the bat and the gesture is private in the middle of public celebration.
 - Post-match, alone for a moment: he touches the pendant. "Rajveer. Kamla. Your son won something tonight." He says it aloud to nobody. Maybe to somebody.
-- **Thread**: Cricket arc peaks (differently than before — wisdom over power). Leadership as identity. Family assembled. Act 3 resolves — the crisis has been survived.
+- **Thread**: Cricket arc peaks (differently than before — wisdom over power). Leadership as identity. Rohit's endorsement. Family assembled. Act 3 resolves — the crisis has been survived. MI's fourth title — but Vipin's first as captain.
 - **Emotional Arc**: Rebuild → Captaincy → Leading → Victory → Gratitude → Speaking to the dead
 - **Tension Level**: 0.90 — climactic. The IPL final is the structural climax of Act 3. But the emotional climax is the pendant moment, quiet inside the roar.
 
@@ -2136,7 +2137,7 @@ Can a man who rebuilt himself lead others — and what kind of leader is forged 
 
 ### Chapter 37: The Question
 
-**Timeline**: 2019 (age 29)
+**Timeline**: Late 2019 (age 29)
 **POV**: Third-person limited, Vipin
 **Word Target**: 5,000 words
 
@@ -2158,22 +2159,24 @@ What does it mean to build a future when you've finally stopped running from the
 
 ### Chapter 38: The Wedding
 
-**Timeline**: 2020 (age 30)
+**Timeline**: Late 2020 (age 30)
 **POV**: Alternating Vipin/Shraddha
 **Word Target**: 5,000 words
 
 #### Central Question
-Who walks the boy from nowhere down the aisle?
+Who walks the boy from nowhere down the aisle — and what does it mean when the world itself pauses around you?
 
 #### Key Events
-- The wedding planning. Bollywood-cricket crossover event — guest lists from both worlds. Shraddha manages it with competence (she is her father's daughter, event management is genetic). Vipin manages it by agreeing to whatever she decides and handling the catering (vegetarian, obviously).
+- COVID-19 rewrites everything. The pandemic hits in early 2020 — lockdowns, the IPL postponed, cricket suspended. Vipin and Shraddha are together in Mumbai through the lockdown months. The forced stillness is strange for a man built on motion — no cricket, no travel, no crowds. But the domesticity deepens them: cooking together (he's better at it now; she's still terrible), watching films, video-calling Sunita in Haryana (the village has patchy signal; she holds the phone like it's a small animal).
+- IPL 2020 happens in the UAE (September-November), played in empty stadiums behind biosecure bubbles. MI wins again — their fifth title — but Vipin watches this one from a Dubai hotel room with hand sanitizer and daily COVID tests. The celebration is muted. You can't lift a trophy with the same joy when the world is grieving.
+- The wedding planning, originally imagined as a Bollywood-cricket crossover mega-event, is scaled down by the pandemic. And both Vipin and Shraddha discover they prefer it this way. Intimate. Fifty people, not five hundred. The guest list becomes a distillation of who actually matters.
 - The question of the "groom's side." In Indian weddings, the groom's family sits on one side. Vipin has: Rao, the groundskeeper (who is coaxed into wearing a kurta), Ravi, MI teammates, Sunita (who travels from Haryana — her first time in Mumbai, she's overwhelmed and handles it by criticizing everything). The "family" table is a patchwork — a coach, a groundskeeper, a friend, teammates, a grandmother he met two years ago. It's mismatched and complete.
 - Rao walks beside Vipin during the baraat. Not as a father — but in the space where a father would be. Neither of them acknowledges what this means in words. Vipin taps the ground three times before he mounts the horse. The ritual.
 - The ceremony: Hindu wedding, traditional. Shraddha is luminous. Vipin is steady. The saat phere — seven rounds of the fire. During the fourth phera (happiness and family), Vipin looks at Shraddha and his eyes are wet. She squeezes his hand and her eyes are wet too. Shakti is crying openly. Shivangi is crying. Ravi is crying and pretending not to.
 - Post-ceremony: Vipin finds a quiet corner. Touches the pendant — worn over his wedding sherwani. "Rajveer. Kamla. I got married today." The same address to the dead from Ch 36. But this time it's lighter. Not grieving for what's absent — acknowledging it while celebrating what's present.
-- **Thread**: Marriage. The family of choice assembled. Sunita and Rao in the same room. The pendant-whisper tradition.
-- **Emotional Arc**: Logistical humor → The groom's side question → Rao walking beside him → The ceremony → Speaking to the dead
-- **Tension Level**: 0.30 — the lowest tension in the story. Earned peace. Celebration.
+- **Thread**: Marriage. COVID as backdrop (the world paused, but love doesn't). The family of choice assembled. Sunita and Rao in the same room. The pendant-whisper tradition.
+- **Emotional Arc**: Pandemic stillness → Intimate planning → The groom's side question → Rao walking beside him → The ceremony → Speaking to the dead
+- **Tension Level**: 0.30 — the lowest tension in the story. Earned peace. Celebration. The pandemic gives the intimacy weight — this small wedding is a choice, not a compromise.
 
 ---
 
@@ -2187,6 +2190,7 @@ Who walks the boy from nowhere down the aisle?
 What kind of captain is made from the streets, the temple, the injury, the search, and the love?
 
 #### Key Events
+- Cricket in the COVID era. 2021 is the year of bio-bubbles — hotel rooms that become prisons, daily testing, empty stadiums where your own footsteps echo. IPL 2021 starts in India, gets suspended in May when COVID breaches the bio-bubbles (India is recording 350,000 daily cases), resumes months later in the UAE. Vipin navigates this world of quarantines and isolation with the composure of a man who once lived in a storage room: "You're telling me I have to stay in a room by myself? I've been training for this since I was thirteen."
 - Vipin is named India captain for a Test series. The pinnacle. Not T20, not ODI — Test cricket. The purest form. The format that rewards patience, stamina, and the ability to hold when everything asks you to break. Vipin was built for this — not the young Vipin who swung at everything, but the 31-year-old who learned patience from Rao, from injury, from Shraddha, from the PI's dead-end report.
 - His captaincy style: unconventional. He reads players the way he read people on the streets — instinct, observation, the ability to see what someone needs before they ask. He's funny in team meetings (loosens tension). He's brutal in tactical sessions (expects preparation). He's quiet during matches (the silence means he's thinking, and by now everyone knows that).
 - A Test match in India. An important one — series decider. India batting, chasing a target. Vipin comes in at a crisis point (top order collapsed, again — some things don't change). He bats with the number 11. Last wicket partnership. The kind of situation that destroys lesser players.
@@ -2194,9 +2198,9 @@ What kind of captain is made from the streets, the temple, the injury, the searc
 - Post-match interview. The journalist asks: "Captain, how did you stay so calm?" Vipin smiles — the real one, not the media one. "I've been in worse situations. This was just cricket."
 - The line becomes famous. "This was just cricket." From the man for whom cricket was everything — the statement is both a joke and the most profound thing he's ever said publicly. Cricket was his identity. Now it's his job. The identity is bigger than the game.
 - Shraddha watches from the stands. She's pregnant — first child. She hasn't told him yet (waiting for the right moment, which is very Shraddha). She touches her belly when he hits the winning runs. The future is literally inside her.
-- **Thread**: Captaincy achieved. The ultimate cricket milestone. "This was just cricket" — the thematic resolution of cricket vs. identity. Shraddha's pregnancy planted.
-- **Emotional Arc**: Leadership → Crisis performance → Calm mastery → "This was just cricket" → Future
-- **Tension Level**: 0.70 — match tension is real. The captaincy innings is Act 3's structural echo done right. But the emotional register is confident, not desperate.
+- **Thread**: Captaincy achieved during COVID-era cricket — bio-bubbles, empty stadiums, the game stripped to its essentials. The ultimate cricket milestone. "This was just cricket" — the thematic resolution of cricket vs. identity. Shraddha's pregnancy planted.
+- **Emotional Arc**: Bio-bubble isolation → Leadership → Crisis performance → Calm mastery → "This was just cricket" → Future
+- **Tension Level**: 0.70 — match tension is real. The pandemic backdrop adds texture. The captaincy innings is Act 3's structural echo done right. But the emotional register is confident, not desperate.
 
 ---
 
@@ -2232,7 +2236,7 @@ What does it mean to bring a child into the world when you were brought into it 
 How do you say goodbye to the thing that saved your life — and how do you know when it's time?
 
 #### Key Events
-- Vipin announces his retirement from international cricket. Thirty-five years old. The body is still functional — the batting eye undiminished, the adapted bowling still effective — but the recovery between matches takes longer, the flights are harder, the time away from his son weighs more. He retires on his terms. Not pushed out. Choosing.
+- Vipin announces his retirement from international cricket. Thirty-five years old. The body is still extraordinary — the batting eye undiminished, the bowling still capable of 140+ when he wants it — but the recovery between matches takes longer, the flights are harder, the time away from his son weighs more. He retires on his terms. Not pushed out. Choosing. The same way he chose to evolve after the injury — he chooses when to stop.
 - The retirement match: a Test at Wankhede. Mumbai. Home. The same ground where he watched the World Cup final, captained MI to a title, and heard fifty thousand people chant his name.
 - He bats one last time. Scores 47 — not a fairy tale hundred, a real innings. Edges one to slip and walks off. The crowd stands. Vipin doesn't wave. Doesn't make a speech. Taps the crease three times, looks up at the stands (finds Shraddha, his son, Shakti, Sunita, Rao), and walks back to the pavilion. The walk takes forty-five seconds. The loudest forty-five seconds of his life.
 - Rao is in the dressing room. Old now — seventy, the limp worse, the reading glasses finally in the right place (on his face). Vipin sits next to him. Neither speaks. They've said everything in cricket that needed saying. Rao pats the bat in Vipin's hands. The same hands he tested at Shivaji Park twenty-two years ago.
@@ -2272,7 +2276,7 @@ The answer: you were always somebody. The world just took time to notice.
 - **The Pendant Mystery**: Not fully solved. His parents are gone. Sunita is his connection. The question "why did they leave me?" remains unanswered. And that's okay. Some questions are lived with, not answered. The pendant becomes legacy, not wound.
 - **The Fatal Flaw**: Broken in Ch 33 ("I need you"), integrated in the marriage and fatherhood. Vipin can ask for help now. Not easily. But he can.
 - **The Theme Question**: "Can you become somebody when the world never gave you anyone?" Answered not with a declaration but with a life: a wife, a son, a grandmother, a coach, a friend, a park, a city. Family is what you build.
-- **Cricket**: Not his identity. His first love. He'll always bat. He'll always bowl (in the nets, at reduced pace, for the joy of it). But he is more than the game now. He's Vipin.
+- **Cricket**: Not his identity. His first love. He'll always bat. He'll always bowl (in the nets, still capable of pace that makes young players flinch, for the joy of it). But he is more than the game now. He's Vipin.
 - **The Drawer**: Open. The contents are on shelves, on tables, in frames. The museum is no longer secret. The evidence of his life is displayed because he no longer needs to prove he existed. He knows he does.
 
 #### Emotional Arc
