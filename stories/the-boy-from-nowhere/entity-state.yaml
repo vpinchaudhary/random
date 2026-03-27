@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-09"
+last_updated: "chapter-10"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,56 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-10:
+    title: "The Last Room"
+    timeline: "February 21 – early March 2008 (age 17-18)"
+    events:
+      - "Morning after auction: same storage room smell, River crack unchanged. Vipin registers the smell consciously for first time."
+      - "Ravi calls 8:15 AM. Vada pav stall near east gate. Seven rupees each. 20 minutes of nothing important. First normal time in 3 months."
+      - "Ravi: KKR/Kolkata. Shah Rukh Khan's team. Vipin: 'Ask me in a month' about what it means."
+      - "5 days after auction: Vipin goes to Matunga. Stands outside the pandit's temple. Counts steps (9). Does not go in. Brownish marigold at day three. Looks at old restaurant through window. Takes local back."
+      - "On train back: sees his own name in newspaper MI pre-season coverage. Last time he's anonymous on a Mumbai local."
+      - "Wednesday: Bhai's man appears at park gate. Wants Vipin's new number. Vipin: 'I'll call him when I have one.' Bhai's message: 'remember who was here.' Vipin says he remembers. Does not call."
+      - "Saturday: Rao with chai and notebook. Camp March 3rd. Hotel: Taj, Marine Drive. Media strategy: 'Don't let them write your story for you.' 'What about the storage room?' — Rao: 'Wait.'"
+      - "Vipin asks Rao to give something to pandit's temple anonymously. Rao agrees."
+      - "Cleaning the storage room week before camp. Drawer inventory: 7L/6R mismatched gloves, newspaper clipping, birth certificate, 'I want them to say my name' paper, split leather ball, U-19 spare cap."
+      - "Five people in 17 years vs incoming tens of thousands. Processes this without conclusion."
+      - "Last night: clean awake, cataloguing sounds (groundskeeper cough 43s/61s/irregular = asleep). Thinks about first night in room. No sadness — just: accurate."
+      - "Final morning: Keshav at entrance with bucket (theater). Vipin thanks him for newspapers and biscuits. Offers ticket to first match. Keshav: 'The River crack — I painted over it twice. Came back both times.' Vipin laughs — real laugh. Keshav's mouth corner moves. First time."
+      - "Vipin walks through park, past cot bench, past center pitch, past boundary rope observation point from age 13. Through gate."
+      - "Bus 37 Limited to Marine Drive. Sees Arabian Sea through buildings. Arrives at Taj. This time: lets bellboy take his bag."
+      - "Lobby chandelier. Act 1 over."
+    state_changes:
+      vipin:
+        location: "Storage room → Taj Hotel, Marine Drive (MI pre-season camp)"
+        age: "17 (turns 18 in June 2008)"
+        emotional_state: "Accurate. Not sad. Ready in a way that doesn't announce itself."
+        drawer_contents: "Left gloves in drawer. Took: kit bag, bat, pendant, rubber ball, U-19 cap, the paper."
+        bhai_status: "Activated. Knows. Has sent for Vipin's number. Vipin has not called."
+        temple_anonymous_gift: "Arranged through Rao. No name attached."
+      keshav:
+        status: "Alive. Offered one ticket to first MI match. Accepted."
+        revelation: "Painted over River crack twice. It came back both times."
+        emotional_state: "Mouth corner moved at Vipin's laugh. First time in 4 years."
+      bhai:
+        status: "Activated. Sent man on Wednesday. Has heard of auction from newspaper 3 days later."
+        calculation: "8-year ROI on 'investment' now visible. Wants contact number. Patient but not indefinitely."
+      ravi:
+        location: "Kolkata — KKR camp"
+        status: "Own IPL contract. Shah Rukh Khan's team."
+    threads_developed:
+      - bhai_claim (ACTIVE — invoice presented through messenger. Vipin not ignoring but delaying. Seeds Ch 14/Ch 25.)
+      - temple_gift (PLANTED — anonymous donation through Rao. Never revealed. Vipin's private accounting.)
+      - keshav_bond (RESOLVED — 4 years of silence culminates in one real laugh and one ticket offer. Act 1 payoff complete.)
+      - act_1_closed (COMPLETE — from temple stairs to Taj chandelier. The origin story is done.)
+      - act_2_opening (PLANTED — "This time, let bellboy take bag." First accommodation to the new world.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "42 squeezes of rubber ball after Bhai's man leaves — one per chapter remaining, arrived at without knowing why."
+      imperfect_moment: "Outside pandit's temple: stands there, counts 9 steps, looks through restaurant window, does not go in. Calculating his own reaction and not having it. Leaves."
+      unresolved_micro: "The restaurant with the possibly-same-orange institutional tablecloths. Looked through window. Didn't go in. Never mentioned again."
+      grounding_physical: "Bus 37 Limited taken twice in wrong direction before. Now correct route. Marine Drive: same sea, different eye level."
     inconsistencies_detected: none
 
   chapter-09:
