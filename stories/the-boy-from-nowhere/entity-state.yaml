@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-08"
+last_updated: "chapter-09"
 
 chapter_log:
   chapter-01:
@@ -72,6 +72,57 @@ chapter_log:
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
     inconsistencies_detected: none
+
+  chapter-09:
+    title: "The Price of a Name"
+    timeline: "Late November 2007 – February 20, 2008 (age 17)"
+    events:
+      - "IPL registration officially confirmed. Vipin Chaudhary in player pool. Base price: $30,000. Ravi calls with news — Vipin responds with flat 'Haan'. Ravi teases him about it."
+      - "Registration form: passport photo taken at Dadar studio, 45 rupees. Borrowed collared shirt. Jaw set. Emergency contact: Rao's name and number. 'Next of Kin: Blank.'"
+      - "Waiting period: longest weeks of his life. Time was never abstract before — always event-based. Now: one fixed date, nothing actionable between now and then."
+      - "Catastrophizing begins: what if nobody bids, what if 'Father Unknown, Mother Unknown' triggers committee risk calculations."
+      - "Trains obsessively. Two and a half hours at MCA bowling machine alone in December. Operator asks him to leave at close."
+      - "Hasn't returned to Dongri since October. Thinks about Bhai's parting claim — 'remember who was here' — as ticking debt."
+      - "Late January: stops sleeping properly. Waking 3-4 AM. Counting sounds — groundskeeper's cough (irregular), distant trains (~12 min gaps)."
+      - "Rao takes him to Shivaji Park dawn bench. No training. Chai. Watching park wake up. 'The game doesn't know about auctions. The game just knows what you do with the ball.' Works for six hours."
+      - "Temple visit: different temple, not the Matunga one. Old woman chanting — cadence identical to pandit's dawn chanting. Vipin's hands tremble. Marigold placed at shrine edge. Walks out without touching pendant. Does not return."
+      - "Considered returning two Sundays later. Got on a bus. Got off two stops early. Walked to Shivaji Park instead along the bakery road. Unresolved."
+      - "Night before (Feb 19): writes one sentence on torn scorebook paper: 'I want them to say my name.' Folds under pillow."
+      - "2:30 AM: walks to Shivaji Park pitch. Taps three times at crease. Plays imaginary cover drive. Returns to storage room. Counting stops. Just waits."
+      - "Feb 20 morning: reads sentence, folds it into shirt pocket. White shirt — Rao's tournament gift. Cleaned carefully each time."
+      - "Morning drive: Maruti smells of spilled chai. Rao hums to old radio song without noticing. Signal on Senapati Bapat Marg — street kid selling newspapers. Eye contact through glass. Signal changes. Kid turns away. Vipin touches the folded paper."
+      - "MCA office: green-tinted TV, 6 people, cold samosas nobody ate. Counted ceiling tiles: 34 (same room as registration challenge — same count as before)."
+      - "Ravi sold during afternoon session. Vipin happy for him. Knot tightens."
+      - "Auction call: Lot 47, Vipin Chaudhary, $30,000 base. Mumbai Indians bid first. Rajasthan enters. Delhi Daredevils enters. MI jump bid $100,000. Delhi drops. Rajasthan drops. SOLD to Mumbai Indians at $100,000."
+      - "Ten seconds of complete stillness. No tears. No joke. First time rubber ball not squeezed in six hours."
+      - "Aftermath: Rao parks at Shivaji Park. 'I don't know what to do now.' / 'Training camp starts in three weeks. You play cricket. That's all it's been.'"
+      - "Page 12 of evening newspaper: 'Vipin Chaudhary — MI.' Cut out. Folded inside the 'I want them to say my name' paper. Both in the drawer."
+      - "Groundskeeper's radio: auction roundup mentions Vipin. Groundskeeper turns it off. One knock on Vipin's wall. Vipin knocks back. Nothing else said."
+      - "Sleeps. First real sleep in weeks."
+    state_changes:
+      vipin:
+        age: 17
+        ipl_status: "SOLD — Mumbai Indians, $100,000 USD (~38.2 lakh rupees)"
+        emotional_state: "Shock/stillness → quiet reckoning → first real sleep"
+        objects_updated: "Paper ('I want them to say my name') now in drawer with newspaper clipping"
+        sleep: "Resumes after auction sold call. Counted 5 people in 17 years: pandit, bhai, rao, keshav, ravi."
+      ravi:
+        ipl_status: "SOLD — team not specified, modest bid. Ecstatic."
+      rao:
+        action: "Arranged dawn bench session. Drove Vipin to MCA. Parked at Shivaji Park after. 'Training camp. Play cricket.' — most essential Rao distillation."
+    threads_developed:
+      - the_paper (PLANTED — 'I want them to say my name'. In drawer Ch 10. Deepest vulnerability in Act 1.)
+      - bhai_claim (ACTIVE — Vipin hasn't told Bhai. Debt ticking. IPL contract makes it larger.)
+      - mystery_woman (DORMANT — not referenced this chapter)
+      - ipl_incoming (RESOLVED — Sold. Mumbai Indians. $100,000. Act 1 climax delivered.)
+      - groundskeeper_bond (PAYOFF MOMENT — one knock through wall. The silent man's most articulate gesture.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "2:30 AM walk to Shivaji Park. Imaginary cover drive at the crease in the dark. Plays the shot to an imaginary crowd. Returns to bed. Nobody sees it."
+      imperfect_moment: "Temple visit — hands shake when old woman's chanting cadence matches pandit's. Leaves without praying, without touching pendant. Gets on bus to return two weeks later, gets off early, doesn't go back. Unresolved."
+      unresolved_micro: "Street kid selling newspapers at signal. Eye contact through Maruti window. Signal changes. Kid turns to next car. Vipin touches folded paper. Nothing more."
+      grounding_physical: "Dal skin forming — seven ripples counted. Registration photo: borrowed shirt, 45-rupee studio, man with world-weariness, 'theek hai, done.'"
+    inconsistencies_detected:
+      - "Outline said base price $30,000 but also mentioned $60,000 recommendation from scout Prashant in Ch08. Resolved: scout recommended $60,000 to MI so they'd have bidding room; auction base price set at $30,000 (minimum tier). Consistent."
 
   chapter-08:
     title: "The Wrong Side of the Rope"
