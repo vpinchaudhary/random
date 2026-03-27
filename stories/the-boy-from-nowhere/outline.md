@@ -473,6 +473,19 @@ Can talent override bureaucracy — and what happens when the system designed to
 - He touches the pendant.
 - **Strange personal detail (anti-AI)**: Vipin memorizes his MCA registration number. Not because he needs to — nobody memorizes their registration number. But it's the first number the system has assigned to him. It's proof he exists. He can recite it instantly for the rest of his career. Long after he doesn't need to, he still knows it.
 
+**Life Texture: The School Fiction (~350 words)**
+- The school. Vipin actually goes sometimes — has to, to maintain the fiction. A municipal school in Dadar, overflowed classrooms, forty-five students per bench. He's the oldest-looking kid in his class by two years (the backdated enrollment put him where the paperwork needed him, not where his age belonged).
+- He sits in the back row. Doesn't disrupt — Bhai taught him that drawing attention is for amateurs. He reads whatever's in front of him. He's already literate (the pandit's chalk lessons), and the street math is sharper than what the teacher writes on the board. Long division? He's been splitting Bhai's payments between three boys since age nine.
+- A classmate — a girl named Priya who sits next to him and smells like Nycil powder — passes him notes during history class. Not romantic notes. Quiz questions. "Capital of France?" "Paris." "Currency of Japan?" "Don't know." "Yen. You owe me a Frooti." He never pays. She never stops asking. It's the closest thing to a normal friendship he's had since the pandit.
+- He goes to school maybe twice a week. The teacher marks him present daily — Rao's arrangement. Vipin knows this and it makes him uncomfortable in a way he can't articulate. Someone is lying so he can play cricket. The pandit never lied about anything. But the pandit is dead and Rao's world runs on different rules.
+- **Sensory anchor**: Municipal school chalk — not the pandit's hand-drawn letters on stone, but machine-pressed white chalk on a blackboard that's actually green. The sound of it scraping makes his teeth clench. Forty-three scrapes per math equation (he counts).
+
+**Life Texture: EXTERNAL POV — The Rival Academy Coach (~250 words)**
+- A coaching academy in Andheri. The head coach — a former first-class cricketer, now running a fee-paying academy for middle-class boys — watches the U-15 trial results come through. His three best students placed. But the top performer — by a margin that embarrasses his coaching — is some kid named Chaudhary. No academy. Coach: P. Rao (Shivaji Park independent).
+- He pulls up the registration. Statutory declaration instead of birth certificate. School enrollment that looks recent. Club address as residential address. Guardian: P. Rao (same person as coach).
+- "This is irregular," he mutters. His assistant, who was at the trials, says: "But he was the best player there. By far."
+- "Being the best player and having the right paperwork are two different things." He circles the registration number in red pen and puts the file aside. Not acting on it yet. But noting it. In Mumbai cricket, you don't need enemies to have opponents. You just need someone with a clipboard and a grudge.
+
 **Scene 4: First Match in Whites (2005)** (~1,500 words)
 - Mumbai U-15 vs. another district. A proper cricket ground. Vipin wears whites for the first time — actual cricket whites, creased, official. They're slightly too short in the arms because his frame is already bigger than a typical 15-year-old's. He looks at himself in the dressing room mirror and doesn't make a joke. Not this time.
 - The match itself: Vipin bats at 4 (promotion from trial position — Rao lobbied). Makes 43 before getting out to a rash shot — a pull at a ball he should have left. Old habits. He punches his pad walking off. Angry not at the bowler but at himself for proving the doubters right ("street cricket shot, no discipline").
