@@ -192,7 +192,7 @@ main {
 
 /* --- Chapter reading view --- */
 .chapter-content {
-  font-family: 'DM Sans', system-ui, -apple-system, sans-serif;
+  font-family: 'Nunito', system-ui, -apple-system, sans-serif;
   font-size: 1.2rem;
   font-weight: 300;
   line-height: 1.95;
