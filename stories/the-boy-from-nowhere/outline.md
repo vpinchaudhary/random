@@ -242,6 +242,23 @@ What happens when a kid discovers he's extraordinary at something — but has no
 - Bhai senses the restlessness. Offers him more work — the paying kind, the kind that doesn't involve cricket. The kind Vipin has carefully avoided asking questions about. This is the first real fork: the street pulling one way, the dream pulling another.
 - Vipin says no. Quietly. Without drama. "I want to play cricket, Bhai." Bhai looks at him for a long time. Nods. Doesn't push. But something cools between them. Bhai respects it, but he files it away.
 - **Imperfect moment (anti-AI)**: Vipin is cruel to a younger kid during a gully match. The kid drops a catch and Vipin snaps at him — a flash of the competitive monster that lives inside the humor. He sees the kid's face and feels it immediately, but doesn't apologize. Doesn't know how to.
+
+**Life Texture: Sachin's Innings (2001, age 11)** (~350 words)
+- A specific evening. Vipin is watching India vs. Australia on a TV mounted on the wall of an electronics shop on the footpath. Fifteen people are crowded around — autorickshaw drivers, shopkeepers, chai sellers, street kids. Sachin Tendulkar is batting. It's the famous 2001 series — Sachin against the Australians.
+- Sachin plays a straight drive and the entire footpath gasps in unison. Vipin is pressed against the glass, nose almost touching it. He watches Sachin's feet. The way the front foot goes exactly to the pitch of the ball — not before, not after. Vipin's feet have never done that. His feet do what the street taught them: react and smash.
+- An autorickshaw driver behind him says: "Sachin is God." Vipin, without turning around: "God doesn't have that bat speed. Sachin is faster." The driver laughs. The chai seller laughs. A kid next to Vipin — some other street kid he doesn't know — looks at him with surprise. Nobody talks about Sachin's bat speed. They talk about his genius, his shots, his records. Vipin talked about the thing he actually saw: the speed of the hands.
+- When Sachin gets out, the footpath deflates. People drift away. Vipin stays until the shop owner shuts the TV off. Then he goes to a wall and practices the straight drive in the dark. Gets it wrong forty times. Gets it slightly less wrong on the forty-first.
+- **Period marker**: The TV is a boxy CRT. The commentary is in Hindi — Ravi Shastri's voice. "Sachin Tendulkar, the master!" India vs. Australia, 2001 — the series where India came back from the dead at Eden Gardens.
+
+**Life Texture: EXTERNAL POV — The Maidan Bowler (~250 words)**
+- The club cricketer who bowled to Vipin at the maidan goes home that night. His wife asks how the match went. "Some kid showed up. Maybe eleven, twelve. Street kid, Bhai's crew."
+- "And?"
+- "He hit me for sixty."
+- His wife laughs. "You got hit by a child?"
+- He doesn't laugh. He sits with his chai and stares at the wall. He's been playing club cricket for fifteen years. He's bowled to Ranji players in the nets. He knows what talent looks like — and he's never seen what he saw today. The kid didn't have a stance. Didn't have a technique. Had a bat held together with electrical tape. And he played a cover drive that the bowler will think about for the rest of his life.
+- He doesn't do anything with this information. Doesn't tell a coach, doesn't call anyone. He's not that kind of person — not a discoverer, not a mentor. Just a man who bowled to something extraordinary and went home to his chai. Some people witness greatness and it changes them. Some people just witness it.
+- **Sensory anchor**: The club bowler's specific hand — the callus on his middle finger where the seam grip sits, throbbing from the twenty overs he bowled. That callus is his proof he's a real cricketer. The kid who hit him for sixty didn't have calluses. His hands were just fast.
+
 - **Unresolved micro-element (anti-AI)**: Vipin finds a cricket coaching flyer stuck to a lamppost. "Junior Cricket Academy — Trials Every Saturday." An address in Dadar. He folds it into his pocket. He goes to the address the next Saturday. The building is a shoe store. The academy either moved or never existed. He throws the flyer away and walks to Shivaji Park instead, just to watch.
 
 #### Chapter 3 Emotional Arc
