@@ -159,6 +159,23 @@ How does a kid with no one teach himself to survive — and what does it cost hi
 - **Imperfect moment (anti-AI)**: Vipin steals. Not heroically, not out of dramatic desperation. He lifts a mango from a fruit cart because he's hungry and the vendor isn't looking. He eats it in an alley and feels nothing about it, which bothers him more when he's older than the act itself.
 - **Strange personal detail**: Vipin develops a habit of memorizing license plates of cars that pass. No reason. Just something to do. A game he plays with himself. He can rattle off twenty from any given day.
 
+**Life Texture: The Dhaba Economy (1999, age 9)** (~400 words)
+- A specific evening at the roadside dhaba where Vipin washes dishes for food. The owner — a Bihari man named Munna bhaiya (everyone is bhaiya) — lets him eat leftover dal-chawal after the dinner rush. Vipin sits on an upturned bucket behind the kitchen and eats with his hands, plate balanced on his knees.
+- A customer's kid — clean clothes, school bag, maybe eight years old — is eating at the front with his parents. He's complaining. Doesn't want roti, wants pizza. The mother is coaxing. The father is ignoring. The kid pushes his plate away. Half a roti, untouched dal, a full sabzi.
+- Vipin watches from behind the kitchen partition. He doesn't feel sorry for himself — that's not how his brain works. He feels *confused*. The math doesn't add up. That kid has food he doesn't want. Vipin wants food he doesn't have. The equation has an obvious solution but nobody's solving it. He finishes his dal, wipes the plate clean with his fingers (waste nothing — the pandit's lesson, now survival instinct), and goes back to washing dishes.
+- Munna bhaiya sees him staring and says: "Duniya aise hi chalti hai, chhotu." (The world just works like that, kid.) It's not wisdom. It's resignation. Vipin hears the difference but doesn't have the words for it yet.
+- **Sensory anchor**: The dhaba's specific smell — mustard oil hitting a hot tawa, mixed with dishwater soap and the kerosene lamp that lights the kitchen when the power cuts happen (which is every evening, 7-8 PM, reliable as prayer).
+
+**Life Texture: EXTERNAL POV — Bhai's Calculation (~300 words)**
+- Bhai sits on his usual rooftop, smoking, watching the gully below. Two of his boys are with him — older teenagers, his lieutenants. They're talking about a delivery job, something Vipin doesn't need to know about.
+- One of them asks: "That temple kid — he's getting big. Put him on the Andheri route?"
+- Bhai doesn't answer immediately. He takes a drag. Watches Vipin in the gully below, playing cricket with a taped ball against a wall by himself. Hitting the same spot, over and over. The ball comes back off the wall and Vipin catches it without looking — muscle memory, reflex, something mechanical and beautiful.
+- "No," Bhai says. "Not that one."
+- "Why? He's smart. Trustworthy. Doesn't ask questions."
+- "Exactly why not. He's worth more than the Andheri route." Bhai stubs his cigarette. "Some things you don't use up. You invest."
+- He doesn't say this out of kindness. Bhai doesn't operate on kindness. He operates on value. And he's seen enough of Mumbai to know that what Vipin does with a cricket ball is not normal. He doesn't know what to do with this information yet. But he files it the way he files everything: as leverage, for later.
+- **Period marker**: 1999. The Kargil War is on the news — the radio downstairs plays updates between Bollywood songs. Bhai's boys have opinions about Pakistan. Bhai has opinions about nothing that doesn't affect his territory.
+
 **Scene 3: The Gully Game (2000, age 10)** (~1,800 words)
 - This is the scene. The one that changes everything. But it doesn't know it yet.
 - A gully cricket match in Bhai's territory. Tennis ball on concrete. Trash can for stumps. A bat held together with electrical tape. Eight kids a side, rules negotiated loudly before and during the game.
