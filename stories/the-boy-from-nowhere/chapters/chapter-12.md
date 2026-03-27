@@ -10,7 +10,9 @@ He tried counting the ceiling tiles instead. Forty-eight. He had counted them th
 
 The jersey: Mumbai Indians blue, gold trim, CHAUDHARY in white across the back. He had held it when they gave it to him, read his own name across the fabric. He had seen his name on things before — on a registration form, on a newspaper clipping, on a birth certificate where it appeared twice in the same document in different contexts. This was different. This was his name on something that went on his body and was visible from fifty meters away. This was his name announced.
 
-He got up. Walked to the window. The city below in its nighttime configuration. He found Shivaji Park in the dark — the green patch was invisible at night, just a shape among shapes — and registered its location, south-east, twelve kilometers, the specific coordinates of the place that had made him. Then he found the direction of DY Patil Stadium, east-northeast, across the creek. Twenty-four kilometers. Tomorrow.
+He got up. Walked to the window. The city below in its nighttime configuration — Mumbai at this hour was not quiet, just differently loud, the traffic replaced by a deeper kind of ambient noise that came from the density of people even when they were asleep. He found Shivaji Park in the dark — the green patch was invisible at night, just a shape among shapes, a darkness slightly different from the surrounding darkness — and registered its location, south-east, twelve kilometers, the specific coordinates of the place that had made him. He looked at it for longer than was probably necessary. There was nothing to see and he was looking anyway. Then he found the direction of DY Patil Stadium, east-northeast, across the creek. Twenty-four kilometers. Tomorrow.
+
+He pressed his forehead briefly to the glass. The glass was cold. The city went about its nighttime business below him without any awareness that he existed, which was correct and expected and also, right now at 1:43 AM, slightly clarifying. Whatever happened tomorrow would happen. It wouldn't happen faster for being worried about.
 
 He had called Rao at nine. "I'm in the playing XI. Tomorrow."
 
@@ -30,7 +32,11 @@ He went back to the bed. Lay on top of the covers — still on top, the habit no
 
 He did not sleep much, but when he slept it was clean — not the grinding pre-auction insomnia, not the post-auction stillness. This was the sleep of someone whose body was conserving itself for something it knew was coming.
 
-At 5:15 AM his eyes opened. He was ready.
+He ate at 5:30. The hotel restaurant had a buffet that opened at six, but the night manager — a man from Kerala who had already learned that Vipin woke early — had left a tray outside his door the night before, covered in cling film. Idli. Coconut chutney. A small cup of sambhar. A glass of milk. He sat at the room's desk and ate slowly, without distractions, in the way the nutritionist had recommended and that he would have done anyway, because eating quickly had never been his way and old habits from the pandit's kitchen survived everything. One bite at a time. Food had been earned before it was plentiful and the body remembered.
+
+He packed his kit bag with the same inventory-check he'd learned from the storage room years: bat, pads, gloves, helmet, shoes, guards, rubber ball in left trouser pocket. He picked up the jersey — the #47 — and put it on over his training shirt without ceremony. Looked in the mirror once, briefly, the way you check a door is closed. Then left the room.
+
+At 5:15 AM his eyes had opened. By 6:45 he was in the team bus. He was ready.
 
 ---
 
@@ -48,17 +54,27 @@ Vipin, batting at seven, padded up and watched from the dugout.
 
 The dugout was better and worse than he'd imagined. Better because you were on the ground, inside the match, close enough to feel the vibration of the crowd when a boundary was hit. Worse because you were also not playing. You watched the match happen and your hands had nothing to do. He had the rubber ball — tucked in his trouser pocket under the pads, pressing slightly against his thigh. He squeezed it between overs when nobody was looking.
 
-The MI innings built. The top order fired. Sachin made 62 — the Wankhede crowd (or DY Patil crowd; either crowd treated a Sachin innings the same way, a kind of collective held-breath punctuated by roars at boundaries) treating each shot as an event. The run rate climbed. The target accumulated. MI posted 183/5.
+What nobody had told him about watching from the dugout was how much cricket you understood that you'd never understood from outside it. From the stands, from the nets, from every TV screen he'd studied in every chai stall — you saw the ball. You saw the bat. You saw the field. From inside the dugout, five meters from the rope, with the players moving and the crowd tracking every ball: you saw everything else. The field placements and the way they shifted after each delivery. The conversations between batsmen during the dead ball — the gestures, the two words exchanged at the non-striker's end, the communication of professionals who had done this so many times that full sentences were redundant. The captain's hands signaling from mid-on, adjustments nobody in the stands could read.
+
+Sachin batted. Vipin watched him the way he'd watched him on screens for eight years, except now there were no screens. Forty meters away. The specific way his front foot moved — weight transferring with an economy of motion that no footage had captured correctly, because footage showed you the outcome and not the decision. Vipin filed what he saw. The leaving: four balls in a row, outside off, the bat not moving, the body not committing. Then the fifth ball, fractionally fuller, and the cover drive that arrived before Vipin had processed the decision. He'd already seen it in his head. He'd seen it on every chai stall television since he was twelve. Seeing it in real time was different. Seeing it as a fact of the physical world rather than a recording of one was different.
+
+Sachin made 62. The crowd treated each shot as an event — not just the boundaries, but the defensive pushes, the leaves, the times the ball thudded into pads and the fielding side appealed and the umpire shook his head. Each moment was narrated by thirty thousand people simultaneously. The run rate climbed. The target accumulated. MI posted 183/5.
 
 Vipin did not bat. The match had not required him to bat.
 
 He had known this was possible. He had prepared for this — had told himself, on the night before, that the debut might be partial, might be one half of his skills and not the other. Cricket was not a guaranteed canvas. You showed what the match gave you room to show.
 
+He watched the innings close from the dugout with his pads still on and the rubber ball still in his hand. The not-batting was its own information. He put it somewhere useful.
+
 He went out to field.
 
 The ground under his spikes was different from any ground he'd stood on. The DY Patil outfield was manicured in a way that cricket grounds in the Shivaji Park ecosystem were not — soft, even, the grass a specific shade of prepared. Floodlights made the colours slightly different at this hour — the blue of the MI jerseys was more intense, the red of the ball more vivid. The crowd noise was a physical presence. Not just sound. Pressure.
 
-He walked to third man. His position for the first three overs. He stood at the boundary rope and looked at the twenty-something thousand faces and did not feel afraid. He felt: awake. Hyperalert. Every detail of his peripheral vision was sharp and reporting. He was operating on the frequency that only cricket activated, the one where time worked differently.
+He walked to third man. His position for the first three overs. The fielding coach had given him this position during the warmup briefing without explanation, and Vipin had understood the explanation without needing it: third man was visibility. You were at the boundary, you could see the whole ground from the angle, and in the first three overs you watched before you were required to do anything decisive. A position for a debutant that was not a charity position — he'd still have to throw, and the senior players would watch how he threw — but that gave him the geometry of the ground from the outside before putting him in the middle of anything.
+
+He stood at the boundary rope and looked at the twenty-something thousand faces and did not feel afraid. He felt: awake. Hyperalert. Every detail of his peripheral vision was sharp and reporting. He was operating on the frequency that only cricket activated, the one where time worked differently.
+
+The thing about the frequency — he had no name for it beyond the frequency, which was what he'd always called it internally — was that it didn't announce itself. It arrived. He'd been in it since the warmup, since the first high catch from the fielding launcher, and now it was fully engaged: the crowd was thirty thousand people and also a single mass of information he could read like a pitch surface. Their attention was on the striker. Their attention was on the scoreboard. Their attention, in small pockets of the stand behind his end, was on him. Not the famous ones on this team. The new one. The one they hadn't seen before.
 
 The third ball of the first over came toward him. A mis-hit off a failed swing, rolling softly to the boundary rope, a certain four unless a fielder got there. Vipin was moving before the ball completed its trajectory — anticipating the line, covering ground. He reached it two feet from the rope, scooped it clean, turned, threw. Flat. Hard. Direct to the keeper's gloves over the stumps. The keeper took it standing up.
 
@@ -78,7 +94,11 @@ Vipin took the ball. Felt the seam. The same seam that had been the organizing p
 
 He walked to the top of his mark.
 
-This was the longest run-up he'd ever used in a match. Twenty-two meters to the crease, four more than his Shivaji Park run. His body had recalibrated in the nets over three weeks — the feet knew the distance now, the acceleration was set to arrive at maximum at exactly the delivery stride. But standing at the top of the mark in an IPL match, with the opposition batsman settling at the crease and the field arranged by someone else's captain and twenty thousand people watching, he stood for one second that felt longer.
+This was the longest run-up he'd ever used in a match. Twenty-two meters to the crease, four more than his Shivaji Park run. His body had recalibrated in the nets over three weeks — the feet knew the distance now, the acceleration was set to arrive at maximum at exactly the delivery stride. He had bowled this run-up 400 times in the nets and trusted it completely.
+
+But standing at the top of the mark in an IPL match, with the opposition batsman settling at the crease and the field arranged by someone else's captain and twenty thousand people watching, he stood for one second that felt longer. Not fear. Something cleaner than fear. The specific quality of readiness that only came when the thing you had been preparing for was actually about to happen. He had felt it at Shivaji Park at age thirteen when Rao had first handed him a leather ball. He had felt it at the auction. He felt it now.
+
+He checked the field. Fine leg deep. Slip in position. Mid-off squaring up. Everything was where it should be and where he'd have put it himself. He took one step back — a habit, to reset — and began.
 
 He ran.
 
@@ -120,7 +140,11 @@ He had earned this five seconds.
 
 He finished the over. Yorker next ball — dot. Final ball: full toss, the adrenaline wobble he'd told himself he wouldn't have, the ball arriving hip-high, the batsman hitting it for four. First IPL boundary conceded. He filed this under: correctable. Walked off at 1-12 from the over.
 
-Second over, four overs later. 0-8. Dot, single, dot, dot, two, dot. He beat the bat three times. No wicket. Correct lines, correct lengths, the rhythm that comes after the adrenaline has been metabolised. Final figures: 2-0-20-1. The stat line that showed he'd been expensive in moments but disciplined overall. The bowling coach's clipboard had several lines on it.
+Second over, four overs later. Four overs of sitting on the boundary watching the match proceed without him. He had expected the second over to be difficult — the adrenaline of the wicket would have passed, the batsmen would be more cautious, and he'd have to bowl on the merit of the ball rather than the surprise of the bouncer. He had three plans for his second over. He used none of them. What he used was the rhythm: his run-up, his release point, his wrist position at the crease. The same physical facts he'd rehearsed until they were automatic. He trusted the automatic.
+
+0-8. Dot, single, dot, dot, two, dot. He beat the bat three times. No wicket. The economy was acceptable: 4 runs per over in that second over, and three dots were three balls that hadn't been scored from, which meant three balls where the batsman had failed to read what he was doing. He had bowled those three balls with the same line and different pace — 139, 136, 141 — varying without pattern, the kind of variation that looked random from outside but came from reading the batsman's feet and deciding in real time. This was not taught. This was the frequency.
+
+Final figures: 2-0-20-1. The stat line that showed he'd been expensive in moments but disciplined overall. The bowling coach's clipboard had several lines on it.
 
 MI won by 31 runs. The match was not close.
 
@@ -134,13 +158,17 @@ The keeper had saved it — pulled it from his bag in the celebrations and press
 
 The captain's post-match words: "Good team effort. Young Chaudhary, solid first outing." That was it. Twelve words. He had heard more feedback from Rao after a bad training session. But it was in the dressing room, from the captain, in front of Sachin Tendulkar and Harbhajan Singh and Lasith Malinga. Twelve words in that room were a different currency.
 
+He sat with the match ball and let the dressing room settle around him. This was what it was, then. Post-match: the tension releasing from the air in stages, the senior players in established ritual — this one's headphones on immediately, that one checking his phone, Malinga sitting very still in the way he sat very still after everything, like the effort of the match had not happened and also had permanently happened. Harbhajan was already giving a detailed breakdown of the wicket celebration to someone who wasn't listening. The bowling coach, Dalvi, walked past and looked at Vipin with something that wasn't a compliment and wasn't its absence — just: professional notation, filed, noted, will be discussed tomorrow. Vipin recognized this look from Rao. He filed it in return.
+
+He understood that he had done well today. Not spectacularly — 2-0-20-1, with the 20 coming partially from an adrenaline full toss, was an economy that told its own story. But the wicket had been real and the fielding had been competent and the dropped catch had not bent his face out of shape. He had done what the match asked. He knew, from nine years of obsessive study, that doing what the match asks is rarer than it sounds. Most cricketers — even good ones — impose themselves on the match rather than reading it. He had read it. That was the useful thing from today.
+
 Sachin walked past him on the way to the showers. Didn't stop. Put his hand on Vipin's shoulder, a brief pressure, and kept going.
 
-He ate the team dinner. Laughed at the right moments. When the subject of the dropped catch came up — the senior fielder wanting to apologize, visibly uncomfortable — Vipin saw the man's mouth open and moved before the words could start.
+He ate the team dinner. Paneer and dal and rice — the hotel had been briefed on the vegetarian requirement by the team management, which Vipin had discovered was standard practice and which meant that somebody, at some point, had thought to mention it, which was a small thing but not nothing. He ate. Laughed at the right moments. When the subject of the dropped catch came up — the senior fielder wanting to apologize, visibly uncomfortable — Vipin saw the man's mouth open and moved before the words could start.
 
 "Slip saab, don't worry." He picked up his water glass, kept his voice easy. "Your hands are older than my entire career. You've held twice as many as you've dropped. One for me." He said it with the timing of something thought about, though he hadn't thought about it — it arrived complete, the way his best deliveries did. The fielder laughed, the relief visible in the way his shoulders changed. The table moved on. The moment defused.
 
-He stored this. The humor working two jobs simultaneously — his own armor, team currency, the thing that bought him inclusion at a price he could afford.
+He stored this. The humor working two jobs simultaneously — his own armor, team currency, the thing that bought him inclusion at a price he could afford. He had learned early that the person who defuses a moment before it becomes awkward earns more goodwill than the person who pretends the moment didn't happen. The fielder who dropped the catch knew Vipin knew. What mattered was that Vipin had chosen to let it go, loudly, in a way that gave the man an exit. That choice cost Vipin nothing. The return on it would compound.
 
 He walked back to his room through the hotel corridor, and a television in a hospitality suite had the highlight package on. He stopped at the door. Watched the feed through the glass.
 
