@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Story Reader</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1 id="header-title">Story Reader</h1>
+      <nav id="breadcrumb"></nav>
+    </header>
+    <main id="content">
+      <div id="loading">Loading stories...</div>
+    </main>
+    <footer id="nav-footer" class="hidden">
+      <button id="btn-prev" onclick="navPrev()">Previous</button>
+      <button id="btn-list" onclick="navList()">Chapter List</button>
+      <button id="btn-next" onclick="navNext()">Next</button>
+    </footer>
+  </div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
