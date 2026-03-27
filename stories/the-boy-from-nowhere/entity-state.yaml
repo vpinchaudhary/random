@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-15"
+last_updated: "chapter-16"
 
 chapter_log:
   chapter-01:
@@ -155,6 +155,85 @@ chapter_log:
       imperfect_moment: "Snapped at hotel staff after Bhai walk. Awkward apology made it worse. Carries it for days."
       unresolved_micro: "R.S. 1987. No resolution. No meaning assigned. Just: someone was here."
       grounding_physical: "Wallet dimensions (14cm x 9cm, capacity 8 cards, currently 2). ATM receipt thermal paper already fading. 23 ceiling cracks in storage room, same as always."
+    inconsistencies_detected: none
+
+  chapter-16:
+    title: "Foreign Soil"
+    timeline: "April–May 2009 (age 18-19) — IPL Season 2, South Africa"
+    events:
+      - "First passport: fast-tracked by MI management. Passport office ceiling tiles: 22."
+      - "First international flight: Emirates EK512, Mumbai to Johannesburg, April 9, 2009, 03:55. Business class. Window seat. India disappears below clouds over Arabian Sea. Watched MasterChef Australia on in-flight entertainment."
+      - "Johannesburg: cold. Hotel Marriott, 14th floor. City lights too many to count (gave up). Ordered vegetarian room service. Bread 'not vetkoek but acceptable.'"
+      - "Training: Highveld altitude (1,753m), bouncier pitches, ball carries further. Adapted in 12 deliveries. Bowling coach Kulkarni notes this."
+      - "Can see cricket ball seam from top of run-up in SA light (sharper, harder shadows, deeper blue). Told Kulkarni. Kulkarni took notes secretly. '6 balls from top of run-up — 3 hit top of off stump, 2 full tosses, 1 best delivery of season (leg-cutter, bail shattered).'"
+      - "South Africa: nobody knows the orphan narrative. No Anjali article readers here. Shoulder drop noticed in training photos by Vipin. Jokes landed differently — just laughs, not laughs-plus-meaning. Filed this without analyzing it."
+      - "IPL Season 2 performance: 11 matches, 312 runs, 14 wickets. 'Three balls ahead of his plan' per SA commentator."
+      - "Braai at Sandton with team. Corné van der Berg (SA overseas player, WC pace, 148 kph domestic) — vegetarian paneer joke. Talked for 2 hours about pace and reverse swing. No orphan narrative required."
+      - "Malinga slower-ball lesson: 'Come.' Showed the grip. 40% slower (not 20 — 20% they adjust to). Shoulder tell problem fixed by Vipin in 12 balls. Used variation against Dhoni in CSK match — Dhoni missed by half a meter. Not out but first time Vipin made Dhoni miss. 'Things that require more practice.'"
+      - "Analyst (Rajesh, 23) incident: Vipin snapped at him after Delhi loss. 'I know what I did. I was there.' Rajesh retreated. Ravi called from Pune: 'Analysts se ladna band kar.' Vipin apologized to Rajesh next morning — awkward, wrong rhythm, but done. Watched the video. Analysis was correct."
+      - "Selector watched 3-22 spell vs CSK. Three questions about leg-cutter. Kulkarni said: 'Focus on the full tosses.' Rao call: 'I know. Keep doing what you're doing.' Vipin's 'What if—' cut off by Rao's repetition."
+      - "India cap NOT said aloud — the words would make it real. 'Making it real before it was real was the method he used to not have things.' Said it once on the plane home, closed the thought like a drawer."
+      - "Return flight: coastline appears. Recognition, not nostalgia. Dharavi from descent — 'he had slept in those streets.' World's size not news but evidence different."
+      - "Shivaji Park: Rao Q&A — full tosses, Delhi dismissal, pitch adjustment. 'You're always knowing things. This time, do them.' Closest Rao gets to 'welcome back.'"
+      - "Drawer update: match ball (3-22 spell), team photo (back row, tallest, not smiling), Emirates boarding pass. Museum now has international exhibits."
+      - "PHOTOGRAPH: plain envelope, no return address, handwriting unknown. Inside: black-and-white photo of young couple (20s-25s) outside institutional building. Man has broad shoulders, jaw 'carved for taking hits.' Woman half-turned, laughing. Back: NOTHING. No name, no date. Hand shook for 10 minutes (counted seconds between shakes). Didn't call Rao. Didn't call Ravi. Put in drawer on top of boarding pass."
+    state_changes:
+      vipin:
+        location: "Dadar flat, Mumbai (post-South Africa)"
+        age: "18-19 (turning 19 in June 2009)"
+        first_international_experience: "South Africa, IPL Season 2"
+        ipl_s2_stats: "11 matches, 312 runs, 14 wickets"
+        skills_learned: ["Malinga 40% slower ball variation — seam angle grip", "Seam visibility from run-up in bright light — systematic exploitation"]
+        india_selection: "Selector watched. Rao says 'keep doing what you're doing.' Not announced but real."
+        new_object_drawer: ["match ball 3-22 spell", "team photo (back row, not smiling)", "Emirates boarding pass EK512 April 9 2009"]
+        photograph_status: "RECEIVED. Unknown couple, man with his jaw. Sent by unknown. In drawer. Hand shook for 10 minutes. No one told."
+        emotional_state: "South Africa = relief from narrative. Home = recognition not relief. Photograph = unknown state (hand shook)."
+        catastrophizing_note: "India cap not said aloud. 'Making it real before it was real was the method he used to not have things.' Distortion actively managed."
+      rao:
+        last_interaction: "Selector call. 'Keep doing what you're doing.' Shivaji Park return: Q&A session, 'You're always knowing things. This time, do them.'"
+      new_character:
+        corne_van_der_berg:
+          type: "minor character"
+          description: "South African fast bowler, overseas player, Western Cape. 148 kph domestic. Talked with Vipin about pace and reverse swing for 2 hours."
+          chapters: [16]
+        rajesh_analyst:
+          type: "minor character"
+          description: "MI team analyst, 23, BCCI setup. Snapped at by Vipin after Delhi loss. Received apology next morning."
+          chapters: [16]
+        kulkarni:
+          type: "recurring minor character"
+          description: "MI bowling coach. Takes secret notes about Vipin's abilities. Told him to 'focus on the full tosses.'"
+          chapters: [12, 16]
+    objects:
+      the_photograph:
+        description: "Black-and-white photo of young couple outside institutional building. Man has jaw 'carved for taking hits' — matches Vipin's description. Woman half-turned, laughing."
+        holder: "vipin"
+        location: "drawer, Dadar flat"
+        status: "intact — faded, printed on heavy photo paper"
+        chekhov: true
+        note: "THE major pendant-mystery escalation. Sent by unknown party. No return address. Could be: his parents, someone who knew his parents, a hoax, a mistake. Hand shook for 10 minutes."
+      drawer_collection_current:
+        items: ["newspaper clipping", "'I want them to say my name' paper", "MI practice ball", "first-wicket match ball (Ch12)", "anonymous letter (Ch13)", "ATM receipt (Ch14)", "match ball 3-22 spell SA", "team photo (back row SA)", "Emirates boarding pass", "the photograph"]
+        count: 10
+        note: "Museum has international exhibits now."
+    timeline_update:
+      chapter: 16
+      time: "April–May 2009"
+      events:
+        - "First time outside India. IPL Season 2 in South Africa."
+        - "Anonymous photograph arrives. Pendant mystery escalates sharply."
+    threads_developed:
+      - pendant_mystery (MAJOR ESCALATION — photograph in mail. Man has Vipin's jaw. Unknown sender. Unknown date. Major.)
+      - india_selection (ACCELERATING — selector watched, Rao confirmed. January squad missed but now actively tracked. Next squad announcement coming.)
+      - slower_ball_variation (INTRODUCED — Malinga lesson. Will pay off in bowling evolution, Ch34+ craft-phase.)
+      - the_collection (EXPANDED — 10 items now. International artifacts.)
+      - anonymity_abroad (INTRODUCED — SA is relief from orphan narrative. Foreign cricket = clean identity. Will recur.)
+      - analyst_pattern (INTRODUCED — Vipin snaps at support staff when frustrated. Third apology scene. Pattern: snaps, then repairs. Getting faster at repair.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "MasterChef Australia on the in-flight entertainment. 'Emirates had it on the entertainment system, which he had not anticipated and accepted as evidence that the universe had a sense of humor.'"
+      imperfect_moment: "Snapped at Rajesh the analyst after Delhi loss. Ravi called. Apologized next morning — awkward, wrong rhythm."
+      unresolved_micro: "The photograph. In the drawer. No answer. Hand shook for 10 minutes."
+      grounding_physical: "Emirates boarding pass EK512, April 9, 2009, 03:55. Ceiling tiles hotel room: 16, acoustic panels, irregular spacing on left side. SA light: sharper, harder shadows, deeper blue than Mumbai."
     inconsistencies_detected: none
 
   chapter-15:
