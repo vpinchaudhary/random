@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-12"
+last_updated: "chapter-13"
 
 chapter_log:
   chapter-01:
@@ -72,6 +72,83 @@ chapter_log:
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
     inconsistencies_detected: none
+
+  chapter-13:
+    title: "The Orphan Who Hits Sixes"
+    timeline: "April–May 2008 (age 18) — IPL Season 1, breakout match + media fallout"
+    events:
+      - "Breakout match: 48/4 crisis, Vipin promoted from 7 to 6. Bats 78no off 48 balls, 6 sixes. Partnership 73 with Sawant. MI win by 2 overs."
+      - "First IPL fifty. Crowd chants 'Chau-dha-ry' — thirty thousand mouths. Hand goes to pendant during chant. Catastrophizing flash: 'thirty thousand people saying your name is thirty thousand people who can also stop.'"
+      - "Man of the Match (first). TV interview: deflects 'journey' question with traffic joke. Clip circulates."
+      - "3 days later: Anjali Mehta's article — 'The Boy From Nowhere: How an Orphan from Mumbai's Streets Became the IPL's Most Exciting Teenager' (ESPNcricinfo). Accurate, sympathetic, thorough. Birth certificate 'Father: Unknown, Mother: Unknown' cited. Goes viral by 2008 standards."
+      - "Team breakfast: teammate praises the article ('Bhai, kya story hai teri'). Vipin: 'Story nahi hai. Cricket hai.' Cold, clipped. Teammate backs off. Vipin knows he was rude. Does not apologize."
+      - "Shetty (MI commercial director) presents spreadsheet: 38K shares, brand inquiries (protein supplement, shoe company). Vipin counts spreadsheet columns (11). 'I'll let you know.' Repeated. Shetty leaves."
+      - "Vipin reads article twice more — can't find himself in the outside version. 'The article could not know it was not resolved.'"
+      - "Press conference: 9 journalists. Drips 7-11 on water bottle. Handles cricket questions well, deflects background questions with jokes. Then: 'Do you ever think about your parents?' Hand moves to pendant — stopped halfway, pulled back. Three seconds. 'Next question.' Two words. On camera. Becomes GIF. Pendant image now public."
+      - "Rao call: 'The story is bigger than the cricket now. You need to decide what you give them.' / 'I give them runs and wickets.' / 'It should be. It won't be.' Rao: 'the world will tell your story for you if you don't tell it yourself.' / 'She found everything that's visible. The rest of it — that's yours.' Vipin: 'The reduction. Eighteen years.' Does not finish."
+      - "First google of self: 47,000 results. Reads comments. Preferred: 'let's see if he can handle pressure when the pitches get flat.' Validates against sceptic rather than praise."
+      - "Verifies DY Patil capacity estimate (35,000) — had it right."
+      - "Anonymous letter: religious pamphlet + handwritten note: 'We saw your story on the news. God has a plan for you. — Blessings.' No name, no return address. Drops in bin. Retrieves while still on phone with Rao. Places in drawer under paper, next to match ball. Does not believe it's from parents. Cannot throw it away."
+    state_changes:
+      vipin:
+        location: "MI team hotel (various venues, IPL Season 1)"
+        age: 18
+        ipl_season_stats_partial: "78no off 48 (match 7-8). Running total: now firmly breakout player."
+        firsts: ["First IPL fifty", "First Man of the Match", "First google of self", "First brand inquiry presented"]
+        emotional_state: "Anger at narrative reduction (controlled). Preference for sceptic's judgment over praise. Cannot throw away anonymous letter."
+        public_moment: "Pendant hand-reach caught on camera. Now a GIF. First time the pendant quest is visible outside him."
+        knowledge_gained: "Knows the orphan narrative is now uncontainable. Knows what Anjali found vs. what she couldn't."
+        objects_in_drawer: ["'I want them to say my name' paper", "newspaper clipping (Ch10)", "MI practice ball (Ch11)", "match ball first wicket (Ch12)", "anonymous letter (Ch13)"]
+      anjali_mehta:
+        status: "INTRODUCED — full character introduction"
+        role: "Sports journalist, ESPNcricinfo. Mid-twenties, ambitious, thorough."
+        article_published: "'The Boy From Nowhere' — May 2008, ESPNcricinfo"
+        vipin_relationship: "Adversarial-respectful dynamic established. She wants the real story. He won't give it."
+        trust_with_vipin: 2
+        dynamic: "Did her job correctly. Vipin is not angry at her specifically — angry at what the job required."
+      shetty:
+        first_appearance: chapter-13
+        role: "MI commercial director. Wears MI-coloured suits. Numbers-focused, enthusiasm-as-strategy."
+        vipin_relationship: "Represents the commercial machinery that will want to monetize his narrative."
+      rao:
+        last_interaction: "Phone call — warned about narrative economy. 'Everything else is weather.'"
+        knowledge_state: "Has read the article. Aware of the media machine activating. Concerned but not panicked."
+    objects:
+      anonymous_letter:
+        description: "Religious pamphlet + handwritten note: 'God has a plan for you. — Blessings.' Unsigned, no return address."
+        holder: "vipin"
+        location: "bedside drawer, MI hotel"
+        status: "retrieved from bin, kept"
+        chekhov: true
+        note: "Not believed to be from parents. Cannot be thrown away. Will recur when pendant mystery deepens."
+      man_of_match_trophy:
+        description: "Golden trophy, heavier than it looked. First MOTM award."
+        holder: "vipin — in kit bag"
+        status: "intact"
+        chekhov: false
+    timeline_update:
+      chapter: 13
+      time: "April–May 2008 — IPL Season 1 mid-season"
+      events:
+        - "Breakout innings: 78no off 48, 6 sixes, first fifty. MI win."
+        - "Anjali Mehta article published. Orphan narrative now uncontainable."
+        - "Pendant moment on camera — now public image of Vipin Chaudhary."
+        - "Anonymous letter received and kept."
+    threads_developed:
+      - anjali_thread (ACTIVE — introduced fully. She wants the real interview. He will give it in Ch42.)
+      - orphan_narrative (ACTIVE — article published, uncontainable. Media machine running. Will define public perception of Vipin for years.)
+      - pendant_mystery (ESCALATING — pendant moment now public. Adds external attention to internal question.)
+      - anonymous_letter (PLANTED — Chekhov item. Will be referenced again when mystery deepens.)
+      - brand_story (PLANTED — Shetty's inquiry. Ch14 will cover first money + commercial world.)
+      - catastrophizing_distortion (DEEPENING — name-chant moment explicitly shows the pattern: assigns expiration date to happiness.)
+      - the_collection (GROWING — anonymous letter joins the drawer. 5 items now.)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Counted Shetty's spreadsheet columns (11) while he was presenting brand numbers. Irrelevant. Did not mention this."
+      imperfect_moment: "Cold to teammate at breakfast — 'Story nahi hai. Cricket hai.' Knew he was rude. Did not apologize. Filed it as a cost."
+      unresolved_micro: "Anonymous letter. Not from parents. Can't be thrown away. No further comment."
+      grounding_physical: "Press conference: fluorescent tube buzzing below irritating threshold. Water bottle condensation. Nine journalists. Seven drips before start. Anchor for the most exposed scene."
+    inconsistencies_detected:
+      - "FIXED IN CHAPTER: Line 229 originally referenced 'ATM receipt from yesterday' — ATM receipt scene is Ch14 (first paycheck). Corrected to 'under the folded scorebook paper... next to the scuffed match ball.'"
 
   chapter-12:
     title: "First Blood"
