@@ -747,6 +747,55 @@ Act 1 climax. The highest tension yet. But it resolves into stillness, not explo
 
 ---
 
+### Interlude B: The Night After the Auction
+
+**Timeline**: February 20-21, 2008 (the night Ch 10 ends)
+**POV**: Multiple external — the world processes what just happened to Vipin
+**Word Target**: ~3,000 words
+
+Act 1 is over. Vipin is in his storage room. But the auction doesn't end when the broadcast stops — it ripples outward through every life connected to his.
+
+#### Scene 1: Keshav the Groundskeeper
+- 10:30 PM. Keshav does his evening round: checking pitch covers, locking the equipment shed, picking up stray balls. Four red tennis balls and one leather ball with the seam half-gone. Bucket. Routine. Twenty years of this.
+- Passes the storage room. Light is on. He's heard from the other park staff — the boy got picked. Mumbai Indians. One lakh dollars, whatever that means in rupees. More than Keshav will earn in his remaining lifetime. He doesn't think about this. He thinks about whether the pitch for Friday's MCA practice match needs more rolling.
+- He leaves tomorrow's newspaper at the door. Does this every day — buys two copies of Mumbai Mirror, one for himself, one for the boy. Tonight he also leaves a packet: two bananas and a packet of Parle-G. No note. Never a note. He's been leaving things at this door for four years — newspapers, biscuits, once a blanket during an unusually cold January. The closest thing to parenting either of them will acknowledge.
+- Goes home to his one-room in the chawl behind the park. Wife died three years ago. Eats dinner alone — rice and dal — listening to All India Radio's cricket roundup. The announcer mentions Vipin's name in passing: "...and Mumbai Indians picked up a promising young all-rounder from the U-19 circuit..."
+- Keshav turns the radio off. Sits in the silence. Then walks back to the park, to the storage room door, and knocks once. Not a "be quiet" knock. A "congratulations" knock. From inside: one knock back. Neither says a word. Keshav walks home. Sleeps well for the first time in a while, for a reason he doesn't examine.
+- **Sensory anchor**: The crinkle of the Parle-G packet against the metal door — a sound Vipin has heard so many times he can identify it without looking.
+
+#### Scene 2: Rao and Kavita
+- Rao's one-room flat. Midnight. Kavita is awake, waiting. She heard from a neighbor — news travels. Rao comes in and sits at the small table. Doesn't take off his shoes. This is how she knows something enormous has happened — Prakash Rao always takes off his shoes.
+- "They bought him," Rao says. "Mumbai Indians. One hundred thousand dollars."
+- Kavita sits across from him. The Gavaskar poster on the wall. The tube light with the pull string. The chai that's gone cold.
+- "He's going to leave the storage room," she says. Not a question.
+- "Eventually. Training camp is in March. They'll put him in a hotel." Rao's voice is steady but his hands are on the table and Kavita can see the slight tremor. She's seen this twice before — when he quit playing, when they decided not to have children.
+- "You did this, Prakash." She doesn't say it with celebration. She says it with the weight of someone who watched five years of dawn sessions, enrollment fraud, committee hearings, and one-room dinners with a boy who ate six chapatis because he'd been hungry his whole life.
+- Rao takes off his reading glasses. Puts them on the table. "He did this. I just... showed up."
+- They sit in silence. Kavita reaches across and squeezes his hand. That's as romantic as this marriage gets. But tonight, Rao squeezes back. He doesn't let go for a while.
+- **What the reader learns**: The cost of Rao's investment — five years of his life, his marriage absorbing another person, the quiet toll. And the payoff isn't money. It's this moment in a one-room flat where a man who never had children sees the closest thing to a son succeed.
+
+#### Scene 3: Ravi's Midnight Call
+- Ravi Deshmukh's flat. 1 AM. He's been on the phone since the auction ended — calling everyone. His parents are asleep. He's in the bathroom with the door closed, talking to a teammate. "Bhai, MI took Chaudhary. One lakh dollar." The teammate doesn't believe it. "That street kid?" "He's not a street kid. He's—" Ravi stops. Doesn't know how to finish the sentence. Vipin is his best friend and Ravi still can't categorize him.
+- He calls Vipin. Phone rings five times. Vipin picks up. "Chaudhary, tu so raha hai kya?" (Are you sleeping?) Silence. Then Vipin's voice, quiet: "Ravi, mujhe nahi pata kya karna hai." (I don't know what to do.) It's the most honest thing Vipin has ever said to him.
+- Ravi doesn't offer advice. Doesn't say congratulations. Says: "Kal subah chal, vada pav khate hain. Tere paise se." (Tomorrow morning, let's go eat vada pav. Your treat.) Vipin laughs. Actually laughs. "Mera paisa abhi aaya nahi hai." (My money hasn't arrived yet.) "Tab tak mere paise se. Jab aaye tab lautana." (Until then, my money. Pay me back when it arrives.)
+- They hang up. Ravi sits on the bathroom floor and grins at the ceiling tiles. His own IPL contract — modest, lower tier — doesn't feel small tonight. His best friend is going to play with Sachin Tendulkar. That's enough.
+- **Sensory anchor**: The bathroom tiles — cold under Ravi's legs, the grout slightly discolored. The exhaust fan humming. The specific echo of a voice in a small bathroom at 1 AM.
+
+#### Scene 4: Bhai Hears (three days later)
+- Not immediate. Bhai doesn't watch cricket auctions. He hears through the network — the chai stall where his boys gather. Someone shows him a newspaper clipping. The small print on page 12: "Vipin Chaudhary — MI."
+- Bhai holds the clipping. His expression doesn't change. The boys around him are excited — "Bhai, humara ladka!" (Our boy!) Bhai doesn't correct the possessive pronoun, but he notes it. Everyone claims the successful.
+- He folds the clipping. Puts it in his shirt pocket. Doesn't say anything for a long time. Then: "One lakh dollar. Do you know what that is?" His lieutenant does the math on a phone. "Forty lakh rupees, roughly." Bhai nods. Lights a cigarette.
+- He's calculating. Not pride — ROI. He fed that boy, protected him, gave him space when he chose cricket over the street. And now that investment is worth forty lakh to someone else. Bhai doesn't feel cheated. He feels *patient*. The boy will remember who was there when nobody else was. And if he doesn't remember, Bhai will remind him.
+- The cigarette burns to the filter. Bhai drops it. "Good for him," he says. Flat. And then: "Get me his new number." Not a request.
+- **What the reader learns**: The Bhai thread is not over. His response to Vipin's success isn't celebration — it's activation. The reader should feel uneasy. This is the seed of Ch 14 and Ch 25.
+
+#### Interlude B Notes
+- Four perspectives on the same night (plus three days after). Each person processes Vipin's auction through the lens of their own life — a groundskeeper's routine, a coach's marriage, a friend's joy, a gangster's calculation.
+- Not every perspective is warm. Bhai's scene ends with menace.
+- This interlude is the hinge between Acts. It closes the origin story and opens the IPL world by showing the web of people Vipin is about to outgrow, leave behind, or collide with again.
+
+---
+
 ### Chapter 11: The Dressing Room
 
 **Timeline**: February–March 2008 (age 17, turning 18)
