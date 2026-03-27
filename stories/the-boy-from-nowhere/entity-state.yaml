@@ -2,7 +2,7 @@
 # Updated after each chapter. Tracks characters, locations, objects, and knowledge graph.
 
 ---
-last_updated: "chapter-07"
+last_updated: "chapter-08"
 
 chapter_log:
   chapter-01:
@@ -71,6 +71,57 @@ chapter_log:
       - bhai_relationship (introduced — morally grey, investment framing)
       - the_gift (FIRST MANIFESTATION — gully game, temporal perception)
       - pendant (touched unconsciously post-game — cricket connection established)
+    inconsistencies_detected: none
+
+  chapter-08:
+    title: "The Wrong Side of the Rope"
+    timeline: "2006-2007 (ages 16-17)"
+    events:
+      - "Ranji Trophy squad. Youngest by 3 years. Locker 17, name on tape, air-conditioned room."
+      - "Senior player watches Vipin bowl from TV — same man Vipin had observed on chai-stall screens. Now in adjacent locker."
+      - "Hierarchy explained by Shukla: don't speak in meetings, don't give advice, field sub without complaint."
+      - "Vipin must earn the right to be funny. New concept."
+      - "First net session: Gokhale watches, says 'How old?' at 136 kph. Senior batsman teaches run-up acceleration: last four strides, maximum speed at delivery."
+      - "Week two: Desai makes offhand comment — 'Rao saab ne kahin se utha ke le aaya.' Vipin's face empties."
+      - "Vipin bowls at Desai's head. 136 kph. Professional duck. Ball thuds into fence. Session stops."
+      - "Rao (not present, arrives later): 'You can't fight everyone who says something about where you come from. There aren't enough balls in the world.' Vipin: 'I only needed one.'"
+      - "Desai never makes another comment. Rao doesn't call it a win."
+      - "Substitute fielder in Ranji match — visibly bored at fine leg. Rao's coldest look. Shame immediate. Straightens up."
+      - "Kedar (40, batting specialist) takes Vipin aside. Stories about Gavaskar and Sachin. 'The anger is a hammer. Everything you hit with it doesn't need a hammer.'"
+      - "'When did you figure it out?' / 'Thirty-three. Two seasons before I retired.' Vipin has time. But not unlimited."
+      - "Extra hour in nets — bowling not-angry. 128-132 kph controlled. Harder than bowling angry. That's the point."
+      - "Mismatched gloves: collects 7 pairs of senior players' worn gloves. Left from one, right from another. Equipment manager mentions it. Vipin doesn't care."
+      - "India wins T20 World Cup September 2007. Watches at Dadar chai stall. Second chai poured free. Squeezes rubber ball until fingers hurt."
+      - "Rao calls: IPL auction announced. Mumbai Indians scout has watched footage. Three scouts total interested."
+      - "Rao: 'Are you good enough?' / 'Yes. You are.' No qualification."
+      - "U-19 match, October: mystery woman in plain cotton sari. Both days. Eye contact once — she looks away. Gone after match. Not at next match."
+      - "Mumbai Indians scout Prashant watches two sessions. Makes calls. Base price recommendation: $60,000."
+      - "Rao: 'Are you ready?' Vipin picks up bat, squeezes ball, walks to nets. That's the answer."
+    state_changes:
+      vipin:
+        age: 17
+        bowling_speed: "136 kph (Ranji squad practice). Acceleration being added."
+        new_environment: "Ranji Trophy squad — senior cricket exposure"
+        new_habit: "Mismatched gloves drawer — 7 pairs, worn leather fits better"
+        ipl_registration: "Submitted. Base price $60,000. Three franchises interested."
+        bhai_awareness: "Bhai doesn't know about IPL. The parting claim ('remember who was here') noted as ticking."
+      unknown_woman:
+        description: "Mid-fifties, plain cotton sari, no cricket-official affiliation. U-19 match, two days, October 2007. Eye contact once, looked away quickly. Gone after match."
+        status: "UNRESOLVED. Second pendant-thread sighting (after well-dressed man at U-17 final)."
+      desai:
+        note: "Made careless comment about Vipin's origins. Received 136 kph near head. Never made another comment."
+    threads_developed:
+      - khadoos_internalized (DEVELOPING — Kedar's lesson: anger is a hammer, not all problems need a hammer)
+      - ipl_incoming (PLANTED — auction imminent. Scouts watching. Number about to be attached to name.)
+      - mystery_woman (SECOND SIGHTING — pattern building with well-dressed man from Ch7)
+      - bhai_claim_awareness (NOTED — Vipin is aware the parting claim is out there. Doesn't act on it.)
+      - senior_cricket_politics (INTRODUCED — hazing, hierarchy, earning the right to be present)
+    anti_ai_markers_verified:
+      strange_personal_detail: "Seven pairs of mismatched batting gloves from senior players. Left from one player, right from another. Worn leather fits better. Equipment manager disturbed. Vipin uninterested in his displeasure."
+      imperfect_moment: "Slouching at fine leg during Ranji substitute fielding. Visibly bored. Rao's coldest look from boundary. Shame immediate, no fix possible in the moment."
+      unresolved_micro: "Mystery woman in cotton sari at U-19 match. Both days. Eye contact once. Gone. Not at next match. Not explained. Filed under unresolved."
+      grounding_physical: "Locker 17, name on new tape. Air conditioning. The specific way senior players unpacked first, occupied space with the authority of belonging. Vipin moves at the periphery."
+    beta_score: 8
     inconsistencies_detected: none
 
   chapter-07:
