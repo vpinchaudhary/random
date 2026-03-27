@@ -18,6 +18,7 @@
 | 1999 | 9 | Falls into Bhai's orbit. Gets the eyebrow scar. Street education. | Ch 2 |
 | 2000 | 10 | First gully cricket game where the gift reveals itself. | Ch 2 |
 | 2001-2002 | 11-12 | Gully cricket dominance. Maidan money matches. Reputation grows. | Ch 3 |
+| 2001-2002 | 11-12 | **[Interlude A]** Bhai's rooftop calculation. Dhaba economy. Maidan bowler goes home. Scorer files the name. | Int. A |
 | 2003 | 13 | Discovered at Shivaji Park by Coach Prakash Rao. Training begins. | Ch 4-5 |
 | 2004 | 14 | Body transformation. First proper bat. Paperwork jugaad begins. | Ch 5-6 |
 | 2005 | 15 | Mumbai U-15 district trials. Selected. First match in whites. Ravi Deshmukh introduced. | Ch 6 |
@@ -26,6 +27,8 @@
 | 2007 | 17 | U-19 cricket. India wins T20 World Cup. IPL announced. Scouts arrive. | Ch 8-9 |
 | Feb 20, 2008 | 17 | IPL Player Auction. Sold to Mumbai Indians for $100,000. | Ch 10 |
 
+| Feb 20-21, 2008 | 17 | **[Interlude B]** Auction night: groundskeeper's knock, Rao & Kavita, Ravi's 1AM call, Bhai hears (3 days later). | Int. B |
+
 ## Act 2A: The Rise (Chapters 11-18)
 | Year | Age | Event | Chapter |
 |------|-----|-------|---------|
@@ -33,6 +36,7 @@
 | Apr 2008 | 18 | IPL debut. First wicket (caught and bowled). 143 kph. | Ch 12 |
 | May 2008 | 18 | Breakout innings (78* off 48). Anjali Mehta's article. Media discovers his story. | Ch 13 |
 | Jun 2008 | 18 | First paycheck. Bhai resurfaces. Sponsor circuit. Returns to groundskeeper. | Ch 14 |
+| mid 2008 | 18 | **[Interlude C]** Opposition analysts map Vipin's off-stump weakness. Anjali pitches profile to editor. Sachin's silent pad lesson. | Int. C |
 | Nov 26, 2008 | 18 | Mumbai terrorist attacks (26/11). City wounded. Anonymous donation. | Ch 15 |
 | Apr-May 2009 | 19 | IPL Season 2 in South Africa (elections + Lahore attack security). MI finishes 7th. Deccan Chargers win. Vipin's personal stats strong despite team struggles. India cap conversation. | Ch 16 |
 | early 2010 | 20 | India T20I debut. India cap. | Ch 17 |
@@ -49,6 +53,7 @@
 | May 2011 | 21 | Fan blog photo surfaces. Relationship goes public. | Ch 21 |
 | Jun 2011 | 21 | Shraddha tells Shakti. Shakti's conditional approval. | Ch 21 |
 | Jul 2011 | 21 | Vipin meets Shakti Kapoor at the family home. "Don't make me regret this." | Ch 21 |
+| mid 2011 | 21 | **[Interlude D]** Shraddha's friends google Vipin over wine. Shakti alone in study, calls brother. BCCI selectors defer Vipin's selection. | Int. D |
 | late 2011 | 21 | India ODI debut. First cap in white-ball cricket. | Ch 22 |
 | early 2012 | 22 | ODI series. 41, 17, 63*. Established in India squad. | Ch 22 |
 | mid 2012 | 22 | Shraddha discovers the drawer. "Do you want to find out?" | Ch 22 |
@@ -59,6 +64,7 @@
 | Jul 2013 | 23 | Anti-corruption interview. Vipin lies (omits Bhai). Reports Bhai later. | Ch 25-26 |
 | Oct 2013 | 23 | Bhai severs contact. "We're done, Chaudhary." | Ch 26 |
 | Dec 2013 | 23 | Anjali's interview at Shivaji Park. "Vipin's silence is the loudest thing." | Ch 26 |
+| late 2013-early 2014 | 23-24 | **[Interlude E]** Anti-corruption officer flags delayed report. Bhai recalibrates at worse chai stall. Kavita buying bhindi, sees Vipin's poster. | Int. E |
 | 2014 | 24 | Career peak. Forbes list. Magazine cover with Shraddha. Bhai's tabloid retaliation. | Ch 27 |
 | late 2014 | 24 | Shoulder injury warning signs. Rotator cuff deterioration. | Ch 28 |
 | early 2015 | 25 | Shoulder snaps during ODI. Surgery. Pendant transferred to Shraddha. | Ch 28 |
@@ -73,6 +79,7 @@
 | late 2016 | 26 | Relationship fractures. Shraddha confronts the pattern. Separation. Form dips. | Ch 32 |
 | early 2017 | 27 | Dropped from India squad. PI's dead-end report. Temple visit. Rock bottom. | Ch 33 |
 | early 2017 | 27 | "I need you." Shraddha comes. Fatal flaw breaks. | Ch 33 |
+| late 2016-early 2017 | 26-27 | **[Interlude F]** Bumrah inherits Vipin's MI space. Ravi's wedding (empty chair). Sunita writes letter: "I will cook for you." | Int. F |
 | mid 2017 | 27 | Rebuilding. Tells Shraddha everything. Cricket rebuilt with Rao. 167 in Ranji. | Ch 34 |
 | late 2017 | 27 | Returns to Haryana with Shraddha. Sunita meets Shraddha. Father's cricket gloves. | Ch 35 |
 | 2018 | 28 | MI vice-captain under Rohit. India recall. Rohit endorses Vipin for MI leadership. | Ch 36 |
@@ -84,9 +91,10 @@
 | late 2019 | 29 | Proposes to Shraddha in the kitchen. Shakti's embrace. | Ch 37 |
 | early 2020 | 30 | COVID-19 pandemic hits. Lockdowns. IPL postponed then held in UAE (Sept-Nov). MI wins 5th title. | Ch 38 |
 | late 2020 | 30 | Intimate COVID-era wedding (50 guests, not 500). Rao walks beside him. Sunita in Mumbai. | Ch 38 |
+| Apr-Aug 2020 | 30 | **[Interlude G]** COVID lockdown: the haircut disaster, dal welded to cooker, 39 rubber balls from Amazon, Rao's video call. | Int. G |
 | 2021 | 31 | IPL 2021 starts in India, suspended May (COVID surge), resumes in UAE. Bio-bubble cricket. | Ch 39 |
 | 2021-2022 | 31-32 | Named India Test captain. Captaincy innings at crisis point. "This was just cricket." Shraddha pregnant. | Ch 39 |
-| 2023 | 33 | Son born. Rajveer and Kamla's photo on the bedside table. The cycle breaks. | Ch 40 |
+| 2023 | 33 | Son born — Arjun Chaudhary. Rajveer and Kamla's photo on the bedside table. The cycle breaks. | Ch 40 |
 | 2025 | 35 | Retirement from international cricket. Final innings at Wankhede (47). Shivaji Park evening. | Ch 41 |
 | 2026 | 36 | Coaching street kids at Shivaji Park. Anjali's final interview. "Nowhere is just where you start." Son at the park. Pendant catches the light. | Ch 42 |
 
