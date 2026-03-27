@@ -1940,6 +1940,52 @@ Post-crisis breather. The Bhai confrontation is tense but resolves. Cricket prov
 
 ---
 
+### Interlude E: Fallout
+
+**Timeline**: Late 2013 – early 2014 (between Ch 26 and Ch 27)
+**POV**: Multiple external — the aftermath of the scandal ripples through people Vipin can't see
+**Word Target**: ~3,000 words
+
+The spot-fixing crisis is over for Vipin, but it's still playing out in rooms he'll never enter. This interlude shows the debris field.
+
+#### Scene 1: The Anti-Corruption Officer's Report
+- A BCCI office in Mumbai. Ranjit Desai, 47, anti-corruption officer, is writing his annual report. He's been in the job for six years. Former police, now cricket's internal affairs. His desk is neat — ex-cop habit. One photo of his daughter, one of him shaking hands with the BCCI president.
+- He types up Vipin Chaudhary's file. "Player reported approach. Cooperative. No evidence of involvement." Standard language. Clean.
+- But Ranjit is a cop. And cops develop instincts. Something about the Chaudhary file nags him — the gap. The approach happened in May. The report came in September. Four months. When someone takes four months to report, it means they considered not reporting at all.
+- He flags it internally with a note: "Delayed reporting. May warrant follow-up if additional information surfaces." Files it. Moves to the next case. There are seventeen open files. The Chaudhary one ranks low — the boy is clean, by all visible evidence.
+- But the note is there. In the system. A small digital footprint that could surface later, or never. This is how institutions work — nothing is deleted, everything is filed, and the past waits patiently.
+- **What the reader learns**: Vipin's lie about the first interview isn't fully buried. The system noticed the gap. This thread could detonate later (or could be dormant forever — the ambiguity is the point).
+
+#### Scene 2: Bhai's New Reality
+- Dongri. Evening. Bhai is at a different chai stall now — his usual was shut down by the police three months ago, collateral damage from the broader crackdown after the spot-fixing arrests. His circle is smaller. Two lieutenants, not four.
+- He reads a newspaper. Mumbai Mirror. Sports section. Vipin Chaudhary: 156 in the Ranji Trophy. Photo of him celebrating, Mumbai teammates around him. The headline: "Chaudhary Stars in Mumbai's Semi-Final Push."
+- Bhai folds the newspaper. His lieutenant watches him. "Still thinking about that kid?"
+- "He's not a kid anymore." Bhai sips chai. The chai is worse at this stall — too sweet, cardamom overpowering. He preferred the old place. "He reported me. You know that." The lieutenant knows. Everyone in Bhai's circle knows. The street has its own intelligence network.
+- "Want me to—"
+- "No." Sharp. "Touch him and every camera in India is on us. He's too big now." A pause. "That's the problem with letting something grow. It outgrows you."
+- Bhai isn't angry. Anger is for people who don't plan. He's *recalibrating*. The Vipin asset is gone. But assets leave residue — information, history, proximity. A street kid turned cricket star is a story. Stories have details that people pay to keep quiet. Bhai doesn't act on this thought tonight. But he thinks it. Files it.
+- The chai is really terrible. He leaves three rupees on the counter and walks into the Dongri evening, smaller than he used to be, but not yet small enough to be safe.
+- **Sensory anchor**: The chai — too sweet, too much cardamom, thin milk. Bad chai at a lesser stall. The small decline of Bhai's empire measured in the quality of his evening drink.
+
+#### Scene 3: Kavita Rao Alone
+- Kavita Rao. The coach's wife. 57. She teaches at the municipal school in Dadar. Same school for twenty-three years. After school she buys vegetables at the market — bhindi, tomatoes, onions, the mental budget running automatically.
+- She's been married to Prakash Rao for thirty-one years. She's watched him pour himself into other people's children — an endless parade of boys with cricket talent and complicated lives. Most of them became nothing. Club cricketers. Office workers. One became a rickshaw driver and still touches Rao's feet when they meet.
+- Vipin was different. She knew this from the first Sunday dinner — the boy who ate six chapatis and washed the dishes without being asked. She watched her husband's face change over five years: from interest to investment to something dangerously close to love.
+- Now Vipin is on magazine covers. He calls Rao twice a week. He sent money last Diwali — too much money, which Kavita put into a fixed deposit without telling Rao because Rao would have sent it back.
+- Walking home from the market, plastic bags cutting into her hands, she passes the electronics shop where Rao bought their first TV. In the window: IPL ads. Vipin's face on a sponsor poster. She stops. Looks at the face she's fed hundreds of meals. The boy who sat on her floor. The jaw is the same. The eyes are harder.
+- She doesn't feel pride. She feels something more complicated — the specific ache of a woman who never had children, who watched her husband become a father to someone else's child, and who loved the child too but from a careful distance because getting too close to something temporary is how you break.
+- Vipin isn't temporary anymore. He stuck. And now she's 57, buying bhindi, looking at his face in a shop window, and she doesn't know what to call what she feels.
+- She walks home. Makes dinner. Rao comes in and forgets his chai, which means he's thinking about cricket. She doesn't ask. Thirty-one years.
+- **Sensory anchor**: The plastic market bags cutting into her palms — the specific red indentation marks that fade in twenty minutes. The weight of bhindi and tomatoes. The domestic arithmetic of a life lived around someone else's purpose.
+
+#### Interlude E Notes
+- Three completely different emotional registers: bureaucratic (the anti-corruption file), menacing (Bhai's recalibration), and intimate (Kavita's quiet grief).
+- Kavita's scene is the emotional center. She's been a background character — the wife who cooks. This is the first time the narrative acknowledges her interior life. She deserves it.
+- Bhai's scene plants the tabloid retaliation that comes in Ch 27.
+- The anti-corruption note is a Chekhov's gun — may fire, may not. The uncertainty is more powerful than resolution.
+
+---
+
 ### Chapter 27: The Orphan and the Princess
 
 **Timeline**: 2014 (age 24)
