@@ -646,6 +646,18 @@ The IPL auction is announced. February 2008. Vipin's name will be in a pool of p
 - **Mystery Woman**: Second ambiguous pendant-thread sighting. Pattern forming.
 - **Rao's Question**: "Are you ready?" — the mentor acknowledging the student is about to outgrow him.
 
+#### Life Texture Moments
+
+**Life Texture 1: The Birthday That Isn't** (within Scene 1)
+- June 15, 2006. The birth certificate says it's Vipin's birthday. His first official one. Rao buys a small cake from the Monginis near the ground — pineapple, because it's the cheapest one that isn't chocolate. Brings it to the storage room after evening practice. Ravi is there. Rao lights a candle — a regular household candle, not a birthday one, stuck into the cream with too much force so it leans sideways. "Make a wish." Vipin stares at the cake like it's a math problem. He's never blown out a candle on a cake. Doesn't know the protocol. Do you close your eyes? Ravi tells him to close his eyes. Vipin closes them, opens them immediately. "Done." "You didn't wish for anything." "How do you know?" He cuts the cake with his cricket box cutter because nobody brought a knife. The slices are uneven. The pineapple cream is too sweet. Ravi eats three pieces. Vipin eats one, then wraps a piece in newspaper for later — the street kid's reflex, saving food, even now. He'll find the newspaper-wrapped cake the next morning, slightly crushed in his kit bag, and eat it for breakfast before training.
+- **Sensory anchor**: The pineapple cream too sweet and slightly warm from sitting in the storage room — Monginis cake at room temperature in Mumbai June, the icing softening into something between cream and liquid.
+- **Period marker**: 2006 — Monginis (before they rebranded to Mio Amore in some regions), still the default budget cake shop in every Mumbai neighborhood.
+
+**Life Texture 2: The Senior's Wife Calls** (External POV, after Scene 2)
+- The senior player who made the "utha ke le aaya" comment — Girish Patil, 34, veteran of 87 first-class matches, domestic workhorse who never got an India cap. He's at home that evening. His wife Meera is feeding their three-year-old son. Girish is rubbing his neck where the tension settled after that ball flew past his head. Meera asks about practice. Girish tells her about the kid — "Rao ka ladka, the one without parents." He says it without malice this time. "Bowled at me today. Fastest ball I've faced in five years. Including the Ranji semi." He laughs, but it's not entirely amusement. "I made a joke about him and he tried to take my head off." Meera, not looking up from the toddler: "Did you deserve it?" Girish doesn't answer. He watches his son refuse to eat dal. Thinks about a boy who didn't have anyone to feed him dal. Goes to bed without mentioning it again, but sets his alarm fifteen minutes earlier for tomorrow's practice. Not fear. Something closer to respect, arriving late through the back door of his pride.
+- **Sensory anchor**: Girish rubbing the back of his neck — the phantom sensation of a ball he didn't see passing close enough to feel the air displacement.
+- **Period marker**: 2007 — domestic cricket's invisible middle class, men who play 80+ first-class matches and retire without a single headline.
+
 #### Tension Level: 0.50
 Moderate but building. The chapter resolves old tensions (birth certificate) while planting new ones (IPL, senior cricket politics). The trajectory is upward — this is the launchpad chapter.
 
