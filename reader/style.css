@@ -3,7 +3,7 @@
 /* --- Design tokens (4pt base unit, OKLCH color) --- */
 :root {
   /* Surfaces — pure neutral grey, #1f1f1f base */
-  --surface-0: oklch(0.155 0 0);    /* #1f1f1f */
+  --surface-0: #191919;    /* #1f1f1f */
   --surface-1: oklch(0.19 0 0);     /* #272727 */
   --surface-2: oklch(0.23 0 0);     /* #303030 */
   --surface-3: oklch(0.30 0 0);     /* #3d3d3d */
@@ -193,8 +193,8 @@ main {
 /* --- Chapter reading view --- */
 .chapter-content {
   font-family: 'Nunito', system-ui, -apple-system, sans-serif;
-  font-size: 1.2rem;
-  font-weight: 300;
+  font-size: 1.25rem;
+  font-weight: 400;
   line-height: 1.95;
   max-width: 64ch;
   letter-spacing: 0.012em;
