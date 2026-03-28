@@ -90,13 +90,13 @@ Vipin filed this. The corner of Sachin Tendulkar's mouth, moving. He was going t
 
 The nets were at the DY Patil Stadium facility — better than anything Vipin had trained in, better than the MCA facility, better than the Wankhede practice grounds. The wickets were prepared daily. The bowling machines were calibrated by an analyst who had a laptop and a specific face for when the numbers were wrong. The throwdown specialist — a compact man named Jadhav, forty, who had been doing this for fifteen years — greeted the players with the flat professionalism of someone who had seen every level of talent and had opinions about none of it.
 
-Vipin bowled first. The run-up felt different on a proper surface — not the Shivaji Park ground, not the age-group pitches, a surface with genuine pace and bounce engineered into it. He ran in and released and the ball came out at 134 kph, good length, the natural line he used when he wasn't thinking about it.
+Vipin bowled first. The run-up felt different on a proper surface — not the Shivaji Park ground, not the age-group pitches, a surface with genuine pace and bounce engineered into it. He ran in and released and the ball came out at 140 kph, good length, the natural line he used when he wasn't thinking about it.
 
 The senior batsman at the other end defended. Well. No drama.
 
-Vipin ran in again. This time he thought about the last four strides — the acceleration technique Kedar had shown him at the Ranji camp, the specific kinetic chain. 137 kph, moving in late. The batsman was beaten for pace and the ball thudded into the keeper's gloves.
+Vipin ran in again. This time he thought about the last four strides — the acceleration technique Kedar had shown him at the Ranji camp, the specific kinetic chain. 145 kph, moving in late. The batsman was beaten for pace and the ball thudded into the keeper's gloves.
 
-Third ball: he went short. 139 kph. The ball hit the surface and lifted — not sharply, it wasn't a lethal delivery, but it forced the batsman back and high and the pull was hurried, a mis-hit to fine leg. The batting coach, sitting with a clipboard, made a note.
+Third ball: he went short. 148 kph. The ball hit the surface and lifted — not sharply, it wasn't a lethal delivery, but it forced the batsman back and high and the pull was hurried, a mis-hit to fine leg. The batting coach, sitting with a clipboard, made a note.
 
 Then Jadhav set up to throw. He was loading for 145 kph — Vipin could tell from the way he was preparing his run, the angle of approach. The first ball came in at 144, full, just outside off. Vipin stepped forward and drove. The net shook.
 

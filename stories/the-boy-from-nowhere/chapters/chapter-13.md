@@ -18,7 +18,7 @@ The captain had sent him in at six — one position up from his designated seven
 
 The batsman at the other end was Arun Sawant, thirty-two, a specialist whose career was built on exactly this situation — partnership cricket, the accumulation of sensible runs, the management of a crisis. Sawant batted the way an accountant handled a difficult ledger — the numbers were the numbers, the target was the target, and there was no useful emotion between them and the answer. Vipin liked this immediately. They did not need to talk about it.
 
-He defended the next four balls of the over. Good balls — full, straight, requiring judgment and technique rather than aggression. The leaving lesson, finally lived rather than learned. He watched one ball through to the keeper that a younger version of himself might have swung at and probably hit straight to cover. He let it go. The crowd made a sound of mild disappointment. He noted this. Filed it under: irrelevant.
+He defended the next four balls of the over. Good balls — full, straight, targeting his stumps. Not patience. Calculation: these balls were worth zero runs because the field was set for the pull and the drive, and forcing either would mean giving wickets. A different bowler, worse line — that would be different. He let them go the way a man walks past food he isn't hungry for. The crowd made a sound of mild disappointment. He noted this. Filed it under: irrelevant.
 
 ---
 
@@ -38,7 +38,7 @@ Three wickets left. 22 runs needed. Eight balls remaining.
 
 He hit a six over square leg off the first ball he faced in the next over — not the planned shot, a reflex as the bouncer arrived short and he was already transferring weight, the bat coming through flat, the contact point slightly top-of-bat rather than middle, the ball clearing the rope by less than three meters. Less clean than the earlier sixes. But over the rope.
 
-50 came up off 34 balls, somewhere in the middle of this.
+50 came up off 25 balls, somewhere in the middle of this.
 
 He knew he'd reached it before he heard it — the scoreboard updated and the crowd erupted and the announcer said something — because the number had been in his head continuously since the partnership began. When the fifty-run mark hit, the crowd's cheer was different from the six-cheer. Louder, yes, but also more organized, more structured. He would understand later that this was because the chant had started. At the time it took him a few seconds to identify that the crowd was saying a word, and a few more seconds to identify the word as his name.
 

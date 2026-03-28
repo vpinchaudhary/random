@@ -102,11 +102,11 @@ He checked the field. Fine leg deep. Slip in position. Mid-off squaring up. Ever
 
 He ran.
 
-The first ball: 138 kph, good length, outside off. The batsman — a Kenyan-born Zimbabwean international who had played eighty ODIs and was not intimidated by young fast bowlers from unknown backgrounds — played and missed. The ball swung away late, an inch outside off, and the keeper took it to the right of his body.
+The first ball: 148 kph, good length, outside off. The batsman — a Kenyan-born Zimbabwean international who had played eighty ODIs and was not intimidated by young fast bowlers from unknown backgrounds — played and missed. The ball swung away late, an inch outside off, and the keeper took it to the right of his body.
 
 Dot ball. Good ball. Crowd noise, quickly subsiding.
 
-He walked back to his mark. Ran in again. 140 kph, same line, same length. The batsman pushed at it — a firm push, committing to the line — and got an outside edge. The ball flew. Fast. Regulation catch for the slip, about chest height, a ball that arrives with time to move.
+He walked back to his mark. Ran in again. 151 kph, same line, same length. The batsman pushed at it — a firm push, committing to the line — and got an outside edge. The ball flew. Fast. Regulation catch for the slip, about chest height, a ball that arrives with time to move.
 
 The slip dropped it.
 
@@ -118,7 +118,7 @@ Third ball. The batsman had survived and was emboldened by the dropped chance. H
 
 Vipin did something he hadn't been told to do. He bowled the bouncer.
 
-Not because it was in the plan — the plan was good length, outside off. Because he saw the weight going forward and his hands knew before the brain confirmed what the counter was. 143 kph. The fastest ball of the match. The ball arrived at shoulder height before the batsman's weight had shifted back, before his arms had any purchase on the pull shot. The bat came through hurried — a reflex more than a shot, the hands windmilling at a ball that was already past its ideal contact point.
+Not because it was in the plan — the plan was good length, outside off. Because he saw the weight going forward and his hands knew before the brain confirmed what the counter was. 153 kph. The fastest ball of the match. The ball arrived at shoulder height before the batsman's weight had shifted back, before his arms had any purchase on the pull shot. The bat came through hurried — a reflex more than a shot, the hands windmilling at a ball that was already past its ideal contact point.
 
 The ball hit the top edge of the bat. A thick deflection, not a clean nick — the ball traveled upward at a steep angle, less than a meter and a half off the ground, the pace killing most of the trajectory. Going forward. Toward mid-on.
 

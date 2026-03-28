@@ -33,10 +33,10 @@
 | Year | Age | Event | Chapter |
 |------|-----|-------|---------|
 | Feb-Mar 2008 | 18 | Mumbai Indians training camp. Meets Sachin. Culture shock. | Ch 11 |
-| Apr 2008 | 18 | IPL debut. First wicket (caught and bowled). 143 kph. | Ch 12 |
-| May 2008 | 18 | Breakout innings (78* off 48). Anjali Mehta's article. Media discovers his story. | Ch 13 |
+| Apr 2008 | 18 | IPL debut. First wicket (caught and bowled). 153 kph. | Ch 12 |
+| May 2008 | 18 | Breakout innings (78* off 38 balls, SR 205). Fastest IPL fifty of 2008 season (25 balls). Highest SR by any batsman with 200+ runs in Season 1: 197. Anjali Mehta's article. Media discovers his story. | Ch 13 |
 | Jun 2008 | 18 | First paycheck. Bhai resurfaces. Sponsor circuit. Returns to groundskeeper. | Ch 14 |
-| mid 2008 | 18 | **[Interlude C]** Opposition analysts map Vipin's off-stump weakness. Anjali pitches profile to editor. Sachin's silent pad lesson. | Int. C |
+| mid 2008 | 18 | **[Interlude C]** Opposition analysts try outside-off plan — it backfires. Anjali pitches profile to editor. Sachin's silent pad lesson. | Int. C |
 | Nov 26, 2008 | 18 | Mumbai terrorist attacks (26/11). City wounded. Anonymous donation. | Ch 15 |
 | Apr-May 2009 | 19 | IPL Season 2 in South Africa (elections + Lahore attack security). MI finishes 7th. Deccan Chargers win. Vipin's personal stats strong despite team struggles. India cap conversation. | Ch 16 |
 | early 2010 | 20 | India T20I debut. India cap. | Ch 17 |
@@ -74,7 +74,7 @@
 |------|-----|-------|---------|
 | 2015 | 25 | Post-surgery recovery. Identity crisis. Withdrawal from everyone. The crying. | Ch 29 |
 | late 2015 | 25 | Hires PI. Begins search for parents. | Ch 30 |
-| early 2016 | 26 | Cricket comeback. Enhanced body heals fully — pace returns (142+ kph). Vipin CHOOSES to add craft to raw pace. IPL Season 9. | Ch 30 |
+| early 2016 | 26 | Cricket comeback. Enhanced body heals fully — pace returns (152+ kph). Vipin CHOOSES to add craft to raw pace. IPL Season 9. | Ch 30 |
 | mid 2016 | 26 | Flies to Delhi, drives to Haryana (~1,500 km from Mumbai). Meets Sunita Devi — his grandmother. Rajveer and Kamla named. | Ch 31 |
 | late 2016 | 26 | Relationship fractures. Shraddha confronts the pattern. Separation. Form dips. | Ch 32 |
 | early 2017 | 27 | Dropped from India squad. PI's dead-end report. Temple visit. Rock bottom. | Ch 33 |

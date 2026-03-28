@@ -32,7 +32,7 @@
 | Ch | Title | Tension | Notes |
 |----|-------|---------|-------|
 | 11 | The Dressing Room | 0.45 | Post-climax reset. Culture shock. Sachin's nod. |
-| 12 | First Blood | 0.55 | IPL debut match. 143 kph. Performance stakes. |
+| 12 | First Blood | 0.55 | IPL debut match. 153 kph. Performance stakes. |
 | 13 | The Orphan Who Hits Sixes | 0.60 | Breakout innings. Anjali's article. Narrative takes hold. |
 | 14 | New Money | 0.40 | **Breather.** Money, Bhai returns, groundskeeper. |
 | **Int. C** | **What They See** | **0.30** | **BREATHER.** Opposition whiteboard, Anjali's pitch, Sachin's pad lesson. Mixed registers. |
